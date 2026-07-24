@@ -5825,10 +5825,14 @@
       if (cat.startsWith("Hardware")) return "Hardware";
       if (cat === "Consulting" || cat === "Infrastructure Services") return "Services";
       if (cat.startsWith("Healthcare")) return "Healthcare";
-      if (cat.startsWith("Cloud")) return "Cloud";
       return "Other";
     };
-    const CAT_GROUPS = ["Software", "Hardware", "Services", "Healthcare", "Cloud"];
+    // No "Cloud" group: the only Cloud-prefixed category in the data is
+    // "Cloud Infrastructure" (Softlayer), and the Software branch above claims it
+    // along with "Software / Hybrid Cloud". A Cloud group would always be empty —
+    // it rendered a filter button that blanked the timeline and a legend swatch
+    // with no matching segment.
+    const CAT_GROUPS = ["Software", "Hardware", "Services", "Healthcare"];
 
     // ── Era summary stats (pre-computed once) ────────────────────────────────
     const CEO_BY_ERA = {
@@ -5879,12 +5883,17 @@
 
     // ── Verdict scorecard — aggregate the per-deal alpha data into an
     // exec-level answer to "did M&A create shareholder value?" ──────────────
-    const verdictDeals = (D.maPerformance?.deals || [])
+    // Every performance row with a measurable 2-year window. The Alpha Leaderboard
+    // shows all of these; the Verdict scorecard shows the acquisition subset. Both
+    // counts are derived from this one array so the two panels can't disagree.
+    const measurablePerf = (D.maPerformance?.deals || [])
       .filter(p => p.ibmReturn != null && p.alpha != null)
       .map(p => {
         const deal = dealByNorm.get(normName(p.name));
         return { ...p, valueMillions: deal?.valueMillions || null, year: deal?.year || parseInt(p.closeDate), type: deal?.type };
-      })
+      });
+
+    const verdictDeals = measurablePerf
       // Verdict answers "did M&A create value" -- exits (spin-offs/divestitures)
       // aren't M&A spend, so they're excluded from the acquisition scorecard.
       // Requiring an exact "acquisition" match (rather than just type !== divestiture/spinoff)
@@ -6121,7 +6130,7 @@
         </div>
 
         <div class="ma-ins-panel" id="maInsAlpha" style="display:none">
-          <p class="ma-ins-desc">All deals with 2-year stock return data, ranked by alpha — IBM's total return minus the benchmark's over the two years around each deal. This is a market-relative lens on IBM's <em>own</em> stock in that window, not the acquired company's standalone performance, so deals that closed in the same window share the same figure. Positive = IBM stock beat the benchmark over that stretch; negative = it lagged. This lists all 80 windows — including the two exits (Kyndryl, Lenovo) that the Verdict scorecard excludes — which is why it shows 80 where the Verdict counts 78.</p>
+          <p class="ma-ins-desc">All deals with 2-year stock return data, ranked by alpha — IBM's total return minus the benchmark's over the two years around each deal. This is a market-relative lens on IBM's <em>own</em> stock in that window, not the acquired company's standalone performance, so deals that closed in the same window share the same figure. Positive = IBM stock beat the benchmark over that stretch; negative = it lagged. This lists all ${measurablePerf.length} windows, including the ${measurablePerf.length - verdictDeals.length} the Verdict scorecard excludes because they aren't acquisitions — the Kyndryl spin-off, the Lenovo PC divestiture, and two older divestitures (ROLM&nbsp;→&nbsp;Siemens, Information&nbsp;Products&nbsp;→&nbsp;Lexmark) that aren't in the curated deals list. That's why this shows ${measurablePerf.length} where the Verdict counts ${verdictDeals.length}.</p>
           <div class="ma-alpha-controls">
             <button class="ma-alpha-sort active" data-sort="alpha">Sort: Alpha ↓</button>
             <button class="ma-alpha-sort" data-sort="ibm">Sort: IBM Return ↓</button>
@@ -6185,6 +6194,18 @@
       return best || MA_DAILY_F[0] || null;
     };
 
+    // ── Macro backdrop — NBER recession spans (FRED USREC) that overlap an era.
+    // Context only: it states what the economy was doing during the era and makes
+    // no claim about why IBM's stock, spend or deal flow moved.
+    const RECESSIONS = (D.macro || {}).recessions || [];
+    const recessionLabel = e => {
+      const span = r => r.start === r.end ? `${r.start}` : `${r.start}–${String(r.end).slice(2)}`;
+      const hits = RECESSIONS.filter(r => r.start <= e.to && r.end >= e.from);
+      return hits.length
+        ? `${hits.map(r => `${r.name} (${span(r)})`).join(" · ")} · NBER`
+        : `No NBER recession (${e.from}–${e.to})`;
+    };
+
     function openEraDrawer(e) {
       const inEra = d => d.year >= e.from && d.year <= e.to;
       const acq  = deals.filter(d => inEra(d) && d.type === "acquisition").sort((a,b) => a.year - b.year);
@@ -6226,14 +6247,21 @@
 
         const macro      = D.macro || {};
         const useXLK      = e.from >= 1999;
-        // Prefer the dedicated dividend-adjusted XLK series when it's present;
-        // otherwise fall back to the raw year-end XLK closes in macro.techYearEnd
-        // (1999–present). That raw series is price-only — exactly parallel to the
-        // price-only S&P 500 series used for the pre-1999 eras — so the alpha is a
-        // like-for-like price-return comparison on both sides.
+        // IMPORTANT — the two benchmark eras are NOT measured on the same basis:
+        //   IBM (both eras): adjusted close, dividends reinvested (ibm_daily_prices.js)
+        //   1999+  : XLK adjclose, dividends reinvested  -> like-for-like
+        //   pre-99 : S&P 500 ^GSPC close, price only     -> NOT like-for-like
+        // The pre-1999 alpha is therefore flattering to IBM: its dividends count,
+        // the index's don't. Fixing it properly needs a total-return series back to
+        // 1983, which none of the current sources provide (^SP500TR starts 1988).
+        // Until then the drawer states the basis per era rather than implying parity.
+        // (macro.techYearEnd is a price-only fallback that never executes while
+        // xlkAdjYearEnd is present; it is left in place only as a guard.)
         const xlkAdj      = (D.maBenchmark || {}).xlkAdjYearEnd;
         const xlkSeries   = xlkAdj || macro.techYearEnd || {};
-        const benchLabel  = useXLK ? (xlkAdj ? "XLK (Tech Sector ETF, div-adjusted)" : "XLK (Tech Sector ETF)") : "S&P 500";
+        const benchLabel  = useXLK
+          ? (xlkAdj ? "XLK (Tech Sector ETF, total return)" : "XLK (Tech Sector ETF, price only)")
+          : "S&P 500 (price only)";
         const benchSeries = useXLK ? xlkSeries : (macro.sp500YearEnd || {});
         const priorYear   = e.from - 1;
         const benchStartYear = benchSeries[priorYear] != null ? priorYear : e.from;
@@ -6263,11 +6291,13 @@
           <div class="ma-drawer-stat"><div class="v" style="color:${gainColor(benchCagr)}">${sign(benchCagr)}${benchCagr.toFixed(1)}%</div><div class="l">Avg annual gain (CAGR)</div></div>
         </div>
         <p class="ma-drawer-none" style="margin-top:-4px">IBM alpha vs ${benchLabel}: <span style="color:${gainColor(alphaPp)}">${sign(alphaPp)}${alphaPp.toFixed(1)}pp CAGR</span></p>
-        <p class="ma-drawer-none" style="margin-top:6px;font-size:10px;opacity:.7">This is a whole-era figure: IBM's compound annual growth across the full era minus the benchmark's. The Deal Intelligence "Verdict" below measures a different thing — each deal's own 2-year post-close window — so its per-era alpha won't match this number.</p>`;
+        <p class="ma-drawer-none" style="margin-top:6px;font-size:10px;opacity:.7">This is a whole-era figure: IBM's compound annual growth across the full era minus the benchmark's. The Deal Intelligence "Verdict" below measures a different thing — each deal's own 2-year post-close window — so its per-era alpha won't match this number.</p>${useXLK ? "" : `
+        <p class="ma-drawer-none" style="margin-top:6px;font-size:10px;opacity:.7">Basis caveat: IBM's return above includes reinvested dividends, but this S&amp;P 500 series is price-only. That overstates IBM's alpha for this era — a like-for-like total-return comparison would be lower. Eras from 1999 on are benchmarked against a dividend-adjusted XLK series and are like-for-like. No total-return index reaching back to ${e.from} is available in the current data sources.</p>`}`;
         }
 
         stockBlock = `
         <h3>Stock performance (${startDate} – ${endDate})</h3>
+        <div style="font-size:11px;color:#8a8a9a;margin:-6px 0 12px">${recessionLabel(e)}</div>
         ${subhead("IBM (dividend- &amp; split-adjusted)")}
         <div class="ma-drawer-strip">
           <div class="ma-drawer-stat"><div class="v">$${startPrice.toFixed(2)}</div><div class="l">Price at era start</div></div>
@@ -6721,10 +6751,15 @@
         "Services":    "#3ddbd9",   // teal
         "Hardware":    "#a56eff",   // purple
         "Healthcare":  "#42be65",   // green
-        "Cloud":       "#ff832b",   // orange
         "Other":       "#8d8d8d",   // neutral grey
       };
-      const ALL_CATS = ["Software", "Services", "Hardware", "Healthcare", "Cloud", "Other"];
+      const ALL_CATS = ["Software", "Services", "Hardware", "Healthcare", "Other"];
+      // Display-only rename. The "Other" bucket isn't a category IBM assigned —
+      // it's deals the 10-K extraction never gave a category to (source:
+      // "filing-extracted", category: null). "Unclassified" says that honestly;
+      // "Other" implied they'd been classified and didn't fit. The internal key
+      // stays "Other" so catGroup() and the era-card chip filter are untouched.
+      const catLabel = c => c === "Other" ? "Unclassified" : c;
 
       // Count deals per era per category (only acquisitions with a category)
       const eraData = ERAS.map(era => {
@@ -6797,7 +6832,7 @@
 
           rect.addEventListener("mouseenter", () => {
             const pct = ((count / total) * 100).toFixed(0);
-            tip.innerHTML = `<div class="ma-tip-name">${era.label} · ${cat}</div><div class="ma-tip-val" style="color:${col}">${count} deal${count !== 1 ? "s" : ""} &nbsp;<span style="opacity:.7">${pct}% of era</span></div>`;
+            tip.innerHTML = `<div class="ma-tip-name">${era.label} · ${catLabel(cat)}</div><div class="ma-tip-val" style="color:${col}">${count} deal${count !== 1 ? "s" : ""} &nbsp;<span style="opacity:.7">${pct}% of era</span></div>`;
             tip.style.opacity = "1";
             const host = tip.offsetParent || tip.parentElement;
             const hostRect = host.getBoundingClientRect();
@@ -6856,9 +6891,9 @@
         ltxt.setAttribute("font-size", "10");
         ltxt.setAttribute("font-family", "IBM Plex Sans, sans-serif");
         ltxt.setAttribute("fill", "#a0a0b0");
-        ltxt.textContent = cat;
+        ltxt.textContent = catLabel(cat);
         svg.appendChild(ltxt);
-        lx += cat.length * 6.5 + 22;
+        lx += catLabel(cat).length * 6.5 + 22;
       });
     }
 
@@ -7317,12 +7352,9 @@
       const tbody = document.getElementById("maAlphaTbody");
       if (!tbody) return;
 
-      const perfDeals = (D.maPerformance?.deals || []).filter(p =>
-        p.ibmReturn != null && p.alpha != null
-      ).map(p => {
-        const deal = dealByNorm.get(normName(p.name));
-        return { ...p, valueMillions: deal?.valueMillions || null, year: deal?.year || parseInt(p.closeDate) };
-      });
+      // Same array the blurb above counts from, so the stated total always
+      // matches the number of rows actually rendered.
+      const perfDeals = measurablePerf;
 
       const sorted = [...perfDeals].sort((a, b) => {
         if (alphaSort === "alpha")  return b.alpha - a.alpha;
