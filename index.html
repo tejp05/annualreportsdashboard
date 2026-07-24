@@ -547,15 +547,21 @@
        the competitors code waits for Chart to become available before drawing. -->
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js" defer></script>
   <script>
-    /* Point the site at a remote agent server (for hosted deployments):
-       visit once with ?agent=https://your-host:8787 — it persists in
-       localStorage. ?agent=clear resets to the default localhost:8787.
-       Every live feature (ticker, quotes, SEC filings, chat) honors this. */
+    /* Where do live features (ticker, quotes, SEC filings, chat) call?
+       - Local dev (localhost/127.0.0.1): defaults to localhost:8787, matching
+         run.py's separate site+agent processes.
+       - Hosted anywhere else: defaults to this same origin (e.g. a Vercel
+         deploy serving /quote, /filings/*, etc. alongside the static site) —
+         works for every visitor with zero setup.
+       - Override for either case: visit once with ?agent=https://your-host —
+         persists in localStorage. ?agent=clear removes the override. */
     (function () { try {
       const p = new URLSearchParams(location.search).get("agent");
       if (p === "clear") localStorage.removeItem("CUGA_AGENT_URL");
       else if (p) localStorage.setItem("CUGA_AGENT_URL", p.replace(/\/+$/, ""));
-      const v = localStorage.getItem("CUGA_AGENT_URL");
+      const stored = localStorage.getItem("CUGA_AGENT_URL");
+      const isLocalDev = location.hostname === "localhost" || location.hostname === "127.0.0.1";
+      const v = stored || (isLocalDev ? null : location.origin);
       if (v) window.CUGA_AGENT_URL = v;
     } catch (_) {} })();
   </script>
