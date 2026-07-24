@@ -1,0 +1,21 @@
+{
+  "functions": {
+    "api/index.py": {
+      "maxDuration": 30
+    }
+  },
+  "rewrites": [
+    { "source": "/health", "destination": "/api/index" },
+    { "source": "/chat", "destination": "/api/index" },
+    { "source": "/tools", "destination": "/api/index" },
+    { "source": "/tools/:name", "destination": "/api/index" },
+    { "source": "/commands/next", "destination": "/api/index" },
+    { "source": "/commands/:id/result", "destination": "/api/index" },
+    { "source": "/quote", "destination": "/api/index" },
+    { "source": "/quotes", "destination": "/api/index" },
+    { "source": "/quote/history", "destination": "/api/index" },
+    { "source": "/quote/intraday", "destination": "/api/index" },
+    { "source": "/filings/latest", "destination": "/api/index" },
+    { "source": "/filings/xbrl", "destination": "/api/index" }
+  ]
+}

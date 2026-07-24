@@ -76,7 +76,12 @@ def _prewarm_agent():
     that tax. Warm it in a background thread so uvicorn still binds the port
     immediately - the server is reachable right away, /chat just blocks a bit
     longer than usual until the warm-up thread finishes."""
-    threading.Thread(target=warm_up, daemon=True).start()
+    def _safe_warm_up():
+        try:
+            warm_up()
+        except ModuleNotFoundError:
+            pass  # cuga not installed in this deployment — /chat stays disabled, everything else still works
+    threading.Thread(target=_safe_warm_up, daemon=True).start()
 
 
 class ChatBody(BaseModel):
@@ -96,7 +101,10 @@ def health():
 @app.post("/chat")
 def chat(body: ChatBody):
     """Ask the CUGA agent a question in natural language."""
-    return {"answer": ask_agent(body.question, body.thread_id)}
+    try:
+        return {"answer": ask_agent(body.question, body.thread_id)}
+    except ModuleNotFoundError:
+        raise HTTPException(503, "Chat is unavailable in this deployment (cuga not installed).")
 
 
 @app.get("/tools")
