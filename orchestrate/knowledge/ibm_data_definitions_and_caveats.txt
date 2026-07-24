@@ -1,0 +1,88 @@
+IBM ANNUAL REPORTS DATASET - DEFINITIONS, COVERAGE, AND ACCURACY CAVEATS
+This file explains how to correctly read every other file in this knowledge base.
+The dataset was built by parsing all 116 IBM/CTR annual reports (1912-2025 report
+years, fiscal years 1911-2025) with a validated extraction pipeline, then
+hand-verifying key figures against page images of the original filings.
+
+UNITS AND CONVENTIONS
+- All dollar amounts are US$ MILLIONS as originally reported (never inflation-adjusted,
+  never restated to later presentations unless explicitly noted).
+- A blank/null value means the original filings did not reliably state that figure.
+  Values are NEVER estimated, interpolated, or backfilled. If a value is missing,
+  the correct answer is that IBM did not reliably state it.
+- "sharesOutstandingM" is weighted-average DILUTED shares in millions.
+
+COVERAGE
+- Net income: complete every fiscal year 1911-2025 (115 years, no gaps).
+  FY1914 net income was $0.490 million - the balance was carried to surplus and no
+  dividend was paid that year.
+- Revenue: null before 1940. Pre-1923 CTR reported net profit, not revenue; a
+  consistent revenue line only exists from 1940 onward.
+- EPS (basic and diluted): continuous 1970-2025.
+- Employees, dividends, assets, equity: available for most but not all years.
+
+REPORTING-BASIS CHANGES (important when comparing across eras)
+- 1940-1945: reported net income was held to roughly $8-11 million per year by
+  WWII excess-profits taxes. The headline "net profit" lines in those wartime
+  reports are PRE-TAX and are not used; the dataset uses after-tax net income.
+- 1950-1959: figures are US-DOMESTIC gross income only.
+- 1960 onward: worldwide consolidated. There is a basis step-up at 1960 - do not
+  present a 1959->1960 change as pure organic growth.
+- 2019 onward: IBM's 10-Ks dropped the Selected Financial Data table, so EPS and
+  share counts come directly from the audited income statements.
+
+NET INCOME vs INCOME FROM CONTINUING OPERATIONS (common error source)
+IBM's income statement lists "income from continuing operations" ABOVE total
+"net income"; they differ materially in divestiture years.
+- FY2002: income from continuing operations $5,334M vs TOTAL net income $3,579M
+  (hard-disk-drive business divested).
+- FY2014: $15,751M continuing vs $12,022M total (x86 server and microelectronics exits).
+This dataset's netIncome and EPS series always use the TOTAL ("Net income" /
+"Total" EPS) line. If a user cites a different number for those years, they are
+likely quoting continuing operations.
+
+FREE CASH FLOW (FCF) DEFINITION
+- IBM's official FCF definition excludes the year-over-year change in Global
+  Financing receivables, so naive OCF minus capex is WRONG by billions in some
+  years (e.g., FY2009: $15,100M IBM-stated vs $17,026M naive; FY2003: $8,700M vs $11,215M).
+- FY2003-FY2025 freeCashFlow values are IBM's own stated figures.
+- FY1995-FY2002 are derived as operating cash flow minus net capital expenditure
+  (gross capex minus disposal proceeds) and labeled as derived - there is a
+  definitional seam at 2002/2003. Do not chart the two eras as one homogeneous series
+  without noting it.
+
+SEGMENTS (see ibm_segments_2021_2025.txt)
+- Current four-segment taxonomy (Software / Consulting / Infrastructure /
+  Financing, plus Other) exists only from FY2021 (post-Kyndryl spinoff).
+- FY2021-2023 are on the then-historical basis; in Q1 2025 IBM reclassified some
+  revenue between Software and Consulting, so FY2024-2025 are on the 2025 basis.
+  Comparing Software or Consulting across 2023 vs 2024 mixes two bases - flag it.
+- Earlier eras used different taxonomies (e.g., 2015-2020 Cognitive Solutions /
+  GBS / GTS / Systems / Global Financing) and are not in this knowledge base.
+
+SOFTWARE ARR
+- IBM-disclosed software annual recurring revenue, FY2022-2025 only. IBM broadened
+  the definition in 2025 and restated FY2024 up to $21.3 billion.
+
+MARKET CAPITALIZATION AND STOCK PRICE (see ibm_marketcap_stockprice.csv)
+- Market cap 2001-2016 is IBM's own disclosed "Market capitalization" line from the
+  reports' Financial Highlights table. 1984-2000 and 2017-2025 are EXTERNAL market
+  data (Yahoo Finance / stockanalysis.com / companiesmarketcap.com /
+  wallstreetnumbers.com year-end values), NOT from the filings. No reliable
+  standardized series exists before 1984.
+- Year-end stock price per share is IBM's own disclosed figure, 2001-2020 only
+  (IBM stopped publishing the table after 2020).
+
+M&A (see ibm_acquisitions files)
+- 78 deals (76 acquisitions, 2 divestitures) curated from report language plus
+  well-established records; disclosed dollar values exist for only 24 deals -
+  IBM historically did not disclose most deal values.
+
+LEADERSHIP, ERAS, MILESTONES (see ibm_leadership_eras_milestones.txt)
+- Cross-checked against the chairman's-letter signatures in the filings.
+
+SOURCE CORPUS
+- 116 annual report PDFs (report years 1912-2025) parsed with pymupdf4llm and
+  pdfplumber; figures cross-validated across each report's five-year tables and
+  income statements, with human visual verification of anchor values against
+  rendered page images. Highest-trust values are human-verified visual reads.

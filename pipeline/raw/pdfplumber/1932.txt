@@ -1,0 +1,214 @@
+
+
+===== PAGE 1 =====
+INTERNATIONAL
+BUSINESS MACHINES
+CORPORATION
+TWENTY-FIRST ANNUAL REPORT
+F OR T HE Y E AR E N D ED
+DECEMBER THIRTY-FIRST
+NINETEEN HUNDRED AND THIRTY TWO
+
+===== PAGE 2 =====
+
+
+===== PAGE 3 =====
+Twenty-first Annual Report
+OF THE
+International
+Business Machines
+Corporation
+m
+For the year ended
+December Thirty-First
+1932
+GENERAL OFFICES
+270 BROADWAY NEW YORK
+
+===== PAGE 4 =====
+International Business Machines Corporation
+BOARD OF DIRECTORS
+Charles L. Andrus A. Ward Ford
+William F. Battin Oscar L. Gubelman
+Willis H. Booth Samuel M. Hastings
+Otto E. Braitmayer John W. Herbert
+Drury W. Cooper Erskine Hewitt
+Edward Cornell Charles Smith
+Sherman M. Fairchild Christopher D. Smithers
+Thomas J. Watson
+EXECUTIVE AND FINANCE COMMITTEE
+Willis H. Booth John W. Herbert
+Edward Cornell Christopher D. Smithers
+Oscar L. Gubelman Thomas J. Watson
+OFFICERS
+THOMAS J. WATSON President
+OTTO E. BRAITMAYER . Vice-President
+CLEMENT EHRET Vice-President
+WILLIAM F. BATTIN Comptroller and Treasurer
+JOHN G. PHILLIPS Secretary
+TmnsjcT Agent Trustee and Registrar
+EMPIRE TRUST COMPANY GUARANTY TRUST COMPANY
+New Y'ork of New York
+
+===== PAGE 5 =====
+To THE STOCKHOLDERS:
+Your Directors submit herewith Consolidated Income and Surplus
+Account for the Year 1932, together with Consolidated Balance Sheet as
+of December 31, 1932, with the Auditors' certificate attached.
+The Net Income for the year, including Foreign Subsidiaries, before
+deducting Federal Taxes, but after providing for full Depreciation
+($2,180,125.99), Development and Patent Expenses ($809,979.20),
+Interest ($118,945.00), and losses on Foreign Exchange ($89,924.27
+actual and $51,250.47 reserved for possible additional losses), was
+$7,382,757.33, compared with $8,222,386.30 for the Year 1931, being a
+decrease of $839,628.97.
+After deducting estimated Federal Taxes, the Net Income was $9.11
+per share on 703,345 shares outstanding December 31, 1932, compared
+with $10.55 per share for the year 1931, based on a like number of shares.
+The Net Income for 1931, based on 669,852 shares outstanding at the
+end of that year, was $11.08 per share.
+Net Current Assets at the end of the year amounted to $8,299,026.61
+compared with $8,075,578.63 at the close of 1931. Cash and marketable
+securities at the end of the year totalled $5,770,868.21, compared with
+$4,885,145.48 at the dose of 1931, being an increase of $885,722.73.
+During the Year 1932 the Company retired and cancelled bonds of a
+total par value of $769,500.00, and in addition there was deposited in
+November 1932 for Sinking Fund operation January 1, 1933, sufficient
+funds for the redemption of $466,500.00 par value of bonds, leaving
+$1,488,000.00 outstanding January 2, 1933 out of an original bond issue
+of $7,000,000.00.
+Your Directors established, as of December 31, 1932, a General Com-
+pany Welfare Fund to be administered as may from time to time be
+authorized by the-Board of Directors, and the 5,600 shares of Interna-
+tional Business Machines Corporation stock held in the Treasury at that
+date were transferred to such Welfare Fund at the net cost value of
+$364,521.93.
+
+===== PAGE 6 =====
+International Business Machines Corporation
+and
+Domestic and Canadian Subsidiary Companies
+C O N S O L I D A T ED B A L A N CE S H E ET AS OF D E C E M B ER 3 1, 1 9 32
+A S S E TS L I A B I L I T IE
+CURRENT: CURRENT:
+Cash $3,720,868.21
+U. S. Treasury Notes and Certificates. . , 2,050,000.00 $5,770,868.21 Accounts Payable, Accrued Items, etc. $ 848,927.36
+Notes Receivable 73,234.90 Dividend Payable January 10, 1933 1,054,185.00
+Accounts Receivable 3,274,095.86 | ^ , ,. , ,,
+1,003,483.79
+LESS: Reserve for Doubtful Accounts.. 325,425.81 2,948,670.05 I ^ ^ (i^^stimated)
+$2,906,596.15
+Inventories (At cost or lower) 2,412,849.60
+$11,205,622.76
+SINKING FUND:
+Cash in hands of Trustees for Redemption
+of Bonds called for payment 490,737.79 BONDED INDEBTEDNESS:
+D^ERRED:_ , ^ 1 Computing - Tabulating - Recording Co.
+Commissions advanced to salesmen on n ^ , m i. o- i • t^ i -r, j
+unfilled orders, etc., less reserve 392,307.28 Collateral Trust, Smkmg I<und Bonds,
+Prepaid Insurance, Taxes, etc 237,003.01 due 1941 $7,000,000.00
+629,310.29 LESS: Redeemed and Cancelled 5.045,500.00
+GENERAL COMPANY WELFARE FUND:
+1,954,500.00
+Stock of International Business Machines
+Corporation (5,600 shares) 364,521.93
+INVESTMENTS (Cost Values):
+Securities of and advances to other com-
+panies, including Foreign Subsidiaries 5,364,721.22 RESERVES-
+ADD: Proportion Undistributed surplus
+and profit of Foreign Subsidiaries 1,422,037.55 For Foreign Exchange Losses (Estimated) 326,151.23
+6,786,758.77 Ifi
+612,987.08
+PLANTS AND EQUIPMENT: | For Contingencies
+Land and Buildings 2,807,817.28 . General Company Welfare
+364,521.93
+LESS: Reserve for Depreciation 765,571.69 J
+1,303,660.24
+2,042,245.59
+Plant Equipment and Rental Machines.. 25,880,533.02
+LESS: Reserve for Depreciation 12,962,491.66
+12,918,041.36
+14 960 286 95 DECLARED CAPITAL ($22,659,573.00) AND
+PATENTS AND GOOD-WILL 15,392,127.43 ' ' ' EARNED SURPLUS ($19,608,835.94) Decem-
+LESS: Reserve for Amortization 1,396,200.59 ber 31, 1932 represented by 703,345
+42,268,408.94
+13,995,926.84 shares of capital stock without par value.
+$48,433,165.33 $48,433,165.33
+Contingent liability $1,603,434.55, representing the Company's agreements with
+respect to loans made by banks to employees in connection with their purchase of
+stock of the company, which stock is field by the banks as collateral.
+
+===== PAGE 7 =====
+International Business Machines Corporation
+and Subsidiary Companies
+SUMMARY OF CONSOLIDATED INCOME, SURPLUS AND CAPITAL
+For the Year Ended December 31, 1932
+NET PROFIT OF SUBSIDIARY COMPANIES, including
+Foreign, after writing down inventories to cost (*)
+or market, whichever was lower, deducting main-
+tenance and repairs to plants, equipment and
+rental machines, provision for doubtful accounts,
+and expenses of International Business Machines
+Corporation $10,632,982.26
+Less:'
+Depreciation of plants, equipment and rental
+machines $2,180,125.99
+Development and patent expenses 809,979.20
+Interest on bonded indebtedness 118,945.00
+Foreign exchange losses (Actual) 89,924.27
+Foreign exchange reserve (Possible additional
+losses).- 51,250.47 3,250,224.93
+NET INCOME BEFORE FEDERAL TAXES $ 7,382,757.33
+Deduct: Federal Taxes (Estimated) 975,000.00
+NET INCOME AFTER FEDERAL TAXES $ 6,407,757.33
+Deduct: Dividends for Year 1932:
+Cash dividends 4,216,428.00
+Stock dividend—33,493 shares of a declared
+value of $1,079,037.00 . . . .
+$ 2,191,329.33
+Deduct: Amortization of Patents 71,236.54
+SURPLUS FOR YEAR 1932 $ 2,120,092.79
+Deduct: Reserve for General Company Welfare . . . : . 364,521.93
+$ 1,755,570.86
+CAPITAL AND SURPLUS JANUARY 1, 1932 40,512,838.08
+DECLARED CAPITAL ($22,659,573.00) AND EARNED
+SURPLUS ($19,608,835.94) DECEMBER 31, 1932,
+represented by 703,345 shares of capital stock
+without par value $42,268,408.94
+(*) Cost of finished and semi-finished products means
+cost to manufacturing company.
+
+===== PAGE 8 =====
+CHICAGO NEW YORK
+10S WEST ADAMS ST. 1 CEDAR STREET
+To the Stockholders of the
+INTERNATIONAL BUSINESS MACHINES CORPORATION:
+We have examined the accounts and records of the INTERNATIONAL
+BUSINESS MACHINES CORPORATION and its domestic and Canadian sub-
+sidiary companies for the year ended December 31, 1932 and accepted
+after review the annual reports of other foreign subsidiary companies.
+We hereby certify that, in our opinion, the Consolidated Balance Sheet,
+as compiled from the accounts of the corporation, correctly reflects the
+financial condition of the INTERNATIONAL BUSINESS MACHINES COR-
+PORATION AND ITS DOMESTIC AND CANADIAN SUBSIDIARY COMPANIES as
+at December 31, 1932 and that the relative Summary of Consolidated
+Income reflects the Net Profit for the year ended on that date.
+THE AUDIT COMPANY OF NEW YORK
+R. G. RANKIN,
+President.
+New York, February 28, 1933
+
+===== PAGE 9 =====
+m
+MMI
+m s r*
+f PF
+
+===== PAGE 10 =====
+ir^ .
+\ •
+/ !
+^ \
+. I
+
+===== PAGE 11 =====

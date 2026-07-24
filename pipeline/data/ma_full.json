@@ -1,0 +1,3606 @@
+{
+  "_comment": "Auto-extracted from pipeline/raw/pdfplumber/ text files. 'named_deals' = individually disclosed deals (with date or value). 'other_deals' = company names from 'Other Acquisitions' paragraphs. All dollar values in US$ millions.",
+  "summary": {
+    "namedDeals": 67,
+    "otherDeals": 43,
+    "totalDeals": 110
+  },
+  "named_deals": [
+    {
+      "reportYear": 2007,
+      "closeYear": 2005,
+      "closeDate": "2005-04-29",
+      "name": "Ascential",
+      "ticker": null,
+      "valueMillions": 1140.0,
+      "type": "acquisition",
+      "source": "named-deal"
+    },
+    {
+      "reportYear": 2010,
+      "closeYear": 2008,
+      "closeDate": "2008-01-31",
+      "name": "Cognos, Inc.",
+      "ticker": "Cognos",
+      "valueMillions": 5021.0,
+      "type": "acquisition",
+      "source": "named-deal"
+    },
+    {
+      "reportYear": 2010,
+      "closeYear": 2008,
+      "closeDate": "2008-04-03",
+      "name": "Telelogic, AB",
+      "ticker": "Telelogic",
+      "valueMillions": 885.0,
+      "type": "acquisition",
+      "source": "named-deal"
+    },
+    {
+      "reportYear": 2010,
+      "closeYear": 2009,
+      "closeDate": "2009-10-02",
+      "name": "SPSS, Inc.",
+      "ticker": "SPSS",
+      "valueMillions": 1177.0,
+      "type": "acquisition",
+      "source": "named-deal"
+    },
+    {
+      "reportYear": 2011,
+      "closeYear": 2009,
+      "closeDate": "2009-10-02",
+      "name": "Storwize, a provider of in-line data compression appliance SPSS, Inc.",
+      "ticker": "SPSS",
+      "valueMillions": 1177.0,
+      "type": "acquisition",
+      "source": "named-deal"
+    },
+    {
+      "reportYear": 2010,
+      "closeYear": 2010,
+      "closeDate": "2010-11-10",
+      "name": "If fair value cannot be reasonably Netezza Corporation",
+      "ticker": "Netezza",
+      "valueMillions": 1847.0,
+      "type": "acquisition",
+      "source": "named-deal"
+    },
+    {
+      "reportYear": 2011,
+      "closeYear": 2010,
+      "closeDate": "2010-11-10",
+      "name": "Netezza Corporation",
+      "ticker": "Netezza",
+      "valueMillions": 1847.0,
+      "type": "acquisition",
+      "source": "named-deal"
+    },
+    {
+      "reportYear": 2011,
+      "closeYear": 2010,
+      "closeDate": "2010-08-27",
+      "name": "On January 9, 2012, the company announced it had completed Sterling Commerce",
+      "ticker": null,
+      "valueMillions": 1415.0,
+      "type": "acquisition",
+      "source": "named-deal"
+    },
+    {
+      "reportYear": 2010,
+      "closeYear": 2010,
+      "closeDate": "2010-08-27",
+      "name": "Sterling Commerce",
+      "ticker": null,
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "named-deal"
+    },
+    {
+      "reportYear": 2015,
+      "closeYear": 2012,
+      "closeDate": "2012-04-17",
+      "name": "IBM and Lenovo entered into a strategic relationship which Retail Store Solutions",
+      "ticker": null,
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "named-deal"
+    },
+    {
+      "reportYear": 2012,
+      "closeYear": 2012,
+      "closeDate": "2012-12-03",
+      "name": "Kenexa Corporation",
+      "ticker": "Kenexa",
+      "valueMillions": 1351.0,
+      "type": "acquisition",
+      "source": "named-deal"
+    },
+    {
+      "reportYear": 2014,
+      "closeYear": 2012,
+      "closeDate": "2012-04-17",
+      "name": "SYNNEX would Retail Stores",
+      "ticker": null,
+      "valueMillions": 501.0,
+      "type": "acquisition",
+      "source": "named-deal"
+    },
+    {
+      "reportYear": 2013,
+      "closeYear": 2012,
+      "closeDate": "2012-04-17",
+      "name": "Technology segment, and the associated maintenance opera",
+      "ticker": null,
+      "valueMillions": 4600.0,
+      "type": "acquisition",
+      "source": "named-deal"
+    },
+    {
+      "reportYear": 2014,
+      "closeYear": 2013,
+      "closeDate": "2013-09-10",
+      "name": "Customer Care",
+      "ticker": null,
+      "valueMillions": 501.0,
+      "type": "acquisition",
+      "source": "named-deal"
+    },
+    {
+      "reportYear": 2013,
+      "closeYear": 2013,
+      "closeDate": "2013-07-03",
+      "name": "Softlayer Technologies, Inc.",
+      "ticker": "Softlayer",
+      "valueMillions": 1977.0,
+      "type": "acquisition",
+      "source": "named-deal"
+    },
+    {
+      "reportYear": 2016,
+      "closeYear": 2014,
+      "closeDate": "2014-01-23",
+      "name": "In addition, at September 30, 2014, the company Industry Standard Server",
+      "ticker": null,
+      "valueMillions": 2100.0,
+      "type": "acquisition",
+      "source": "named-deal"
+    },
+    {
+      "reportYear": 2014,
+      "closeYear": 2014,
+      "closeDate": "2014-01-23",
+      "name": "Industry Standard Server",
+      "ticker": null,
+      "valueMillions": 2100.0,
+      "type": "acquisition",
+      "source": "named-deal"
+    },
+    {
+      "reportYear": 2014,
+      "closeYear": 2014,
+      "closeDate": "2014-10-20",
+      "name": "Microelectronics",
+      "ticker": null,
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "named-deal"
+    },
+    {
+      "reportYear": 2014,
+      "closeYear": 2014,
+      "closeDate": "2014-06-30",
+      "name": "Others",
+      "ticker": null,
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "named-deal"
+    },
+    {
+      "reportYear": 2014,
+      "closeYear": 2014,
+      "closeDate": "2014-08-31",
+      "name": "Sopra Group. through the SPSS acquisition in 2009, is an enterprise-class busi",
+      "ticker": null,
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "named-deal"
+    },
+    {
+      "reportYear": 2015,
+      "closeYear": 2015,
+      "closeDate": "2015-11-06",
+      "name": "Cleversafe, Inc.",
+      "ticker": "Cleversafe",
+      "valueMillions": 1309.0,
+      "type": "acquisition",
+      "source": "named-deal"
+    },
+    {
+      "reportYear": 2015,
+      "closeYear": 2015,
+      "closeDate": "2015-10-13",
+      "name": "Merge Healthcare, Inc.",
+      "ticker": "Merge",
+      "valueMillions": 1036.0,
+      "type": "acquisition",
+      "source": "named-deal"
+    },
+    {
+      "reportYear": 2016,
+      "closeYear": 2016,
+      "closeDate": "2016-04-08",
+      "name": "In April 2015, the FASB issued guidance about whether a cloud Truven Health Analytics, Inc.",
+      "ticker": "Truven",
+      "valueMillions": 2612.0,
+      "type": "acquisition",
+      "source": "named-deal"
+    },
+    {
+      "reportYear": 2016,
+      "closeYear": 2016,
+      "closeDate": "2016-01-29",
+      "name": "The Weather Company",
+      "ticker": "TWC",
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "named-deal"
+    },
+    {
+      "reportYear": 2017,
+      "closeYear": 2016,
+      "closeDate": "2016-04-08",
+      "name": "The following table reflects the purchase price related to these Truven Health Analytics, Inc.",
+      "ticker": "Truven",
+      "valueMillions": 2612.0,
+      "type": "acquisition",
+      "source": "named-deal"
+    },
+    {
+      "reportYear": 2018,
+      "closeYear": 2016,
+      "closeDate": "2016-04-08",
+      "name": "Truven Health Analytics, Inc.",
+      "ticker": "Truven",
+      "valueMillions": 2612.0,
+      "type": "acquisition",
+      "source": "named-deal"
+    },
+    {
+      "reportYear": 2018,
+      "closeYear": 2018,
+      "closeDate": "2018-12-02",
+      "name": "For the Other Acquisitions, the overall weighted-average life Other",
+      "ticker": null,
+      "valueMillions": 119.0,
+      "type": "acquisition",
+      "source": "named-deal"
+    },
+    {
+      "reportYear": 2018,
+      "closeYear": 2018,
+      "closeDate": "2018-12-06",
+      "name": "Select IBM software products",
+      "ticker": null,
+      "valueMillions": 1775.0,
+      "type": "acquisition",
+      "source": "named-deal"
+    },
+    {
+      "reportYear": 2020,
+      "closeYear": 2019,
+      "closeQuarter": null,
+      "closeDate": null,
+      "closeDateExact": false,
+      "name": "Global",
+      "ticker": null,
+      "segment": "Technology",
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "table"
+    },
+    {
+      "reportYear": 2019,
+      "closeYear": 2019,
+      "closeQuarter": null,
+      "closeDate": null,
+      "closeDateExact": false,
+      "name": "Select IBM",
+      "ticker": null,
+      "segment": "Software",
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "table"
+    },
+    {
+      "reportYear": 2018,
+      "closeYear": 2019,
+      "closeDate": "2019-01-03",
+      "name": "Seterus",
+      "ticker": null,
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "named-deal"
+    },
+    {
+      "reportYear": 2021,
+      "closeYear": 2020,
+      "closeQuarter": "Second",
+      "closeDate": "2020-05-15",
+      "closeDateExact": false,
+      "name": "Automated Security Assurance",
+      "ticker": null,
+      "segment": "Software",
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "table"
+    },
+    {
+      "reportYear": 2020,
+      "closeYear": 2020,
+      "closeQuarter": "Second",
+      "closeDate": "2020-05-15",
+      "closeDateExact": false,
+      "name": "Automated Security Assurance Cloud & Cognitive",
+      "ticker": null,
+      "segment": "Software",
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "table"
+    },
+    {
+      "reportYear": 2021,
+      "closeYear": 2020,
+      "closeQuarter": "Fourth",
+      "closeDate": "2020-11-15",
+      "closeDateExact": false,
+      "name": "Instana",
+      "ticker": null,
+      "segment": "Software",
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "table"
+    },
+    {
+      "reportYear": 2020,
+      "closeYear": 2020,
+      "closeQuarter": "Fourth",
+      "closeDate": "2020-11-15",
+      "closeDateExact": false,
+      "name": "Instana Cloud & Cognitive",
+      "ticker": null,
+      "segment": "Software",
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "table"
+    },
+    {
+      "reportYear": 2021,
+      "closeYear": 2020,
+      "closeQuarter": "First",
+      "closeDate": "2020-02-15",
+      "closeDateExact": false,
+      "name": "Stratoss Lifecycle Manager business",
+      "ticker": null,
+      "segment": "Software",
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "table"
+    },
+    {
+      "reportYear": 2021,
+      "closeYear": 2021,
+      "closeQuarter": "Fourth",
+      "closeDate": "2021-11-15",
+      "closeDateExact": false,
+      "name": "Adobe Workfront practice from Rego",
+      "ticker": null,
+      "segment": "Consulting",
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "table"
+    },
+    {
+      "reportYear": 2021,
+      "closeYear": 2021,
+      "closeQuarter": "Third",
+      "closeDate": "2021-08-15",
+      "closeDateExact": false,
+      "name": "Bluetab Solutions Group",
+      "ticker": null,
+      "segment": "Consulting",
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "table"
+    },
+    {
+      "reportYear": 2021,
+      "closeYear": 2021,
+      "closeQuarter": "Third",
+      "closeDate": "2021-08-15",
+      "closeDateExact": false,
+      "name": "BoxBoat Technologies",
+      "ticker": null,
+      "segment": "Consulting",
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "table"
+    },
+    {
+      "reportYear": 2021,
+      "closeYear": 2021,
+      "closeQuarter": "Second",
+      "closeDate": "2021-05-15",
+      "closeDateExact": false,
+      "name": "ECX Copy Data Management business",
+      "ticker": null,
+      "segment": "Software",
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "table"
+    },
+    {
+      "reportYear": 2023,
+      "closeYear": 2021,
+      "closeQuarter": "Second",
+      "closeDate": "2021-05-15",
+      "closeDateExact": false,
+      "name": "ECX Copy Data Management business from",
+      "ticker": null,
+      "segment": "Software",
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "table"
+    },
+    {
+      "reportYear": 2021,
+      "closeYear": 2021,
+      "closeQuarter": "First",
+      "closeDate": "2021-02-15",
+      "closeDateExact": false,
+      "name": "Nordcloud",
+      "ticker": null,
+      "segment": "Consulting",
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "table"
+    },
+    {
+      "reportYear": 2021,
+      "closeYear": 2021,
+      "closeQuarter": "Fourth",
+      "closeDate": "2021-11-15",
+      "closeDateExact": false,
+      "name": "Phlyt",
+      "ticker": null,
+      "segment": "Software",
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "table"
+    },
+    {
+      "reportYear": 2021,
+      "closeYear": 2021,
+      "closeQuarter": "Fourth",
+      "closeDate": "2021-11-15",
+      "closeDateExact": false,
+      "name": "ReaQta",
+      "ticker": null,
+      "segment": "Software",
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "table"
+    },
+    {
+      "reportYear": 2021,
+      "closeYear": 2021,
+      "closeQuarter": "Fourth",
+      "closeDate": "2021-11-15",
+      "closeDateExact": false,
+      "name": "SXiQ Digital Pty Ltd",
+      "ticker": null,
+      "segment": "Consulting",
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "table"
+    },
+    {
+      "reportYear": 2021,
+      "closeYear": 2021,
+      "closeQuarter": "First",
+      "closeDate": "2021-02-15",
+      "closeDateExact": false,
+      "name": "StackRox",
+      "ticker": null,
+      "segment": "Software",
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "table"
+    },
+    {
+      "reportYear": 2021,
+      "closeYear": 2021,
+      "closeQuarter": "Third",
+      "closeDate": "2021-08-15",
+      "closeDateExact": false,
+      "name": "VEVRE Software business",
+      "ticker": null,
+      "segment": "Software",
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "table"
+    },
+    {
+      "reportYear": 2023,
+      "closeYear": 2021,
+      "closeQuarter": "Third",
+      "closeDate": "2021-08-15",
+      "closeDateExact": false,
+      "name": "VEVRE Software business from Volta, Inc.",
+      "ticker": null,
+      "segment": "Software",
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "table"
+    },
+    {
+      "reportYear": 2021,
+      "closeYear": 2021,
+      "closeQuarter": "Second",
+      "closeDate": "2021-05-15",
+      "closeDateExact": false,
+      "name": "Waeg",
+      "ticker": null,
+      "segment": "Consulting",
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "table"
+    },
+    {
+      "reportYear": 2022,
+      "closeYear": 2022,
+      "closeQuarter": "Second",
+      "closeDate": "2022-05-15",
+      "closeDateExact": false,
+      "name": "Databand.ai",
+      "ticker": null,
+      "segment": "Software",
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "table"
+    },
+    {
+      "reportYear": 2022,
+      "closeYear": 2022,
+      "closeQuarter": "Fourth",
+      "closeDate": "2022-11-15",
+      "closeDateExact": false,
+      "name": "Dialexa",
+      "ticker": null,
+      "segment": "Consulting",
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "table"
+    },
+    {
+      "reportYear": 2022,
+      "closeYear": 2022,
+      "closeQuarter": "First",
+      "closeDate": "2022-02-15",
+      "closeDateExact": false,
+      "name": "Envizi",
+      "ticker": null,
+      "segment": "Software",
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "table"
+    },
+    {
+      "reportYear": 2022,
+      "closeYear": 2022,
+      "closeQuarter": null,
+      "closeDate": null,
+      "closeDateExact": false,
+      "name": "Healthcare",
+      "ticker": null,
+      "segment": "Software",
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "table"
+    },
+    {
+      "reportYear": 2022,
+      "closeYear": 2022,
+      "closeQuarter": "First",
+      "closeDate": "2022-02-15",
+      "closeDateExact": false,
+      "name": "Neudesic",
+      "ticker": null,
+      "segment": "Consulting",
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "table"
+    },
+    {
+      "reportYear": 2022,
+      "closeYear": 2022,
+      "closeQuarter": "Fourth",
+      "closeDate": "2022-11-15",
+      "closeDateExact": false,
+      "name": "Octo",
+      "ticker": null,
+      "segment": "Consulting",
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "table"
+    },
+    {
+      "reportYear": 2022,
+      "closeYear": 2022,
+      "closeQuarter": "Third",
+      "closeDate": "2022-08-15",
+      "closeDateExact": false,
+      "name": "Omnio",
+      "ticker": null,
+      "segment": "Software",
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "table"
+    },
+    {
+      "reportYear": 2022,
+      "closeYear": 2022,
+      "closeQuarter": "Second",
+      "closeDate": "2022-05-15",
+      "closeDateExact": false,
+      "name": "Randori",
+      "ticker": null,
+      "segment": "Software",
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "table"
+    },
+    {
+      "reportYear": 2022,
+      "closeYear": 2022,
+      "closeQuarter": "First",
+      "closeDate": "2022-02-15",
+      "closeDateExact": false,
+      "name": "Sentaca",
+      "ticker": null,
+      "segment": "Consulting",
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "table"
+    },
+    {
+      "reportYear": 2023,
+      "closeYear": 2023,
+      "closeQuarter": "Second",
+      "closeDate": "2023-05-15",
+      "closeDateExact": false,
+      "name": "Agyla SAS",
+      "ticker": null,
+      "segment": "Consulting",
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "table"
+    },
+    {
+      "reportYear": 2023,
+      "closeYear": 2023,
+      "closeQuarter": "Second",
+      "closeDate": "2023-05-15",
+      "closeDateExact": false,
+      "name": "Ahana Cloud, Inc.",
+      "ticker": null,
+      "segment": "Software",
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "table"
+    },
+    {
+      "reportYear": 2023,
+      "closeYear": 2023,
+      "closeQuarter": "Third",
+      "closeDate": "2023-08-15",
+      "closeDateExact": false,
+      "name": "Apptio, Inc.",
+      "ticker": null,
+      "segment": "Software",
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "table"
+    },
+    {
+      "reportYear": 2023,
+      "closeYear": 2023,
+      "closeQuarter": "Fourth",
+      "closeDate": "2023-11-15",
+      "closeDateExact": false,
+      "name": "Equine Global",
+      "ticker": null,
+      "segment": "Consulting",
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "table"
+    },
+    {
+      "reportYear": 2023,
+      "closeYear": 2023,
+      "closeQuarter": "Fourth",
+      "closeDate": "2023-11-15",
+      "closeDateExact": false,
+      "name": "Manta Software, Inc.",
+      "ticker": null,
+      "segment": "Software",
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "table"
+    },
+    {
+      "reportYear": 2023,
+      "closeYear": 2023,
+      "closeQuarter": "First",
+      "closeDate": "2023-02-15",
+      "closeDateExact": false,
+      "name": "NS1",
+      "ticker": null,
+      "segment": "Software",
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "table"
+    },
+    {
+      "reportYear": 2023,
+      "closeYear": 2023,
+      "closeQuarter": "Second",
+      "closeDate": "2023-05-15",
+      "closeDateExact": false,
+      "name": "Polar Security",
+      "ticker": null,
+      "segment": "Software",
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "table"
+    },
+    {
+      "reportYear": 2023,
+      "closeYear": 2023,
+      "closeQuarter": "First",
+      "closeDate": "2023-02-15",
+      "closeDateExact": false,
+      "name": "StepZen, Inc.",
+      "ticker": null,
+      "segment": "Software",
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "table"
+    },
+    {
+      "reportYear": 2025,
+      "closeYear": 2025,
+      "closeQuarter": null,
+      "closeDate": null,
+      "closeDateExact": false,
+      "name": "Revenue by Classes of Similar Products or",
+      "ticker": null,
+      "segment": "Services",
+      "valueMillions": null,
+      "type": "acquisition",
+      "source": "table"
+    }
+  ],
+  "other_deals": [
+    {
+      "reportYear": 2010,
+      "name": "BLADE Network Technologies",
+      "ticker": "BLADE",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    },
+    {
+      "reportYear": 2010,
+      "name": "Clarity Systems. Global Technology Services",
+      "ticker": "GTS",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    },
+    {
+      "reportYear": 2010,
+      "name": "Global Business Services",
+      "ticker": "GBS",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    },
+    {
+      "reportYear": 2010,
+      "name": "Lombardi Software, Inc.",
+      "ticker": "Lombardi",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    },
+    {
+      "reportYear": 2010,
+      "name": "PSS Systems, OpenPages, Inc.",
+      "ticker": "OpenPages",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    },
+    {
+      "reportYear": 2010,
+      "name": "Technology",
+      "ticker": "STG",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    },
+    {
+      "reportYear": 2010,
+      "name": "Unica Corporation",
+      "ticker": "Unica",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    },
+    {
+      "reportYear": 2010,
+      "name": "Wilshire Credit Corporation",
+      "ticker": "Wilshire",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    },
+    {
+      "reportYear": 2012,
+      "name": "Butterfly Software, Ltd.",
+      "ticker": "Butterfly",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    },
+    {
+      "reportYear": 2012,
+      "name": "DemandTec, Inc.",
+      "ticker": "DemandTec",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    },
+    {
+      "reportYear": 2012,
+      "name": "Emptoris Inc.",
+      "ticker": "Emptoris",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    },
+    {
+      "reportYear": 2012,
+      "name": "Inc.",
+      "ticker": "Varicent",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    },
+    {
+      "reportYear": 2012,
+      "name": "Lombardi Software, Inc.",
+      "ticker": "Lombardi",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    },
+    {
+      "reportYear": 2012,
+      "name": "Platform Computing Corporation",
+      "ticker": "Platform Computing",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    },
+    {
+      "reportYear": 2012,
+      "name": "Tealeaf Technology Inc.",
+      "ticker": "Tealeaf",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    },
+    {
+      "reportYear": 2012,
+      "name": "Technology",
+      "ticker": "STG",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    },
+    {
+      "reportYear": 2012,
+      "name": "Texas Memory Systems",
+      "ticker": "TMS",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    },
+    {
+      "reportYear": 2012,
+      "name": "These changes",
+      "ticker": "Green Hat",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    },
+    {
+      "reportYear": 2012,
+      "name": "Vivisimo Inc.",
+      "ticker": "Vivisimo",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    },
+    {
+      "reportYear": 2012,
+      "name": "Worklight, Inc.",
+      "ticker": "Worklight",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    },
+    {
+      "reportYear": 2013,
+      "name": "CSL International",
+      "ticker": "CSL",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    },
+    {
+      "reportYear": 2013,
+      "name": "Daeja Image Systems, Ltd.",
+      "ticker": "Daeja",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    },
+    {
+      "reportYear": 2013,
+      "name": "Ltd.",
+      "ticker": "Trusteer",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    },
+    {
+      "reportYear": 2013,
+      "name": "Star Analytics, Inc.",
+      "ticker": "Star Analytics",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    },
+    {
+      "reportYear": 2013,
+      "name": "Systems and Technology",
+      "ticker": "STG",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    },
+    {
+      "reportYear": 2013,
+      "name": "UrbanCode Inc.",
+      "ticker": "UrbanCode",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    },
+    {
+      "reportYear": 2013,
+      "name": "Xtify, Inc.",
+      "ticker": "Xtify",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    },
+    {
+      "reportYear": 2015,
+      "name": "Star Analytics, Inc.",
+      "ticker": "Star Analytics",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    },
+    {
+      "reportYear": 2015,
+      "name": "StoredIQ Inc.",
+      "ticker": "StoredIQ",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    },
+    {
+      "reportYear": 2015,
+      "name": "UrbanCode Inc.",
+      "ticker": "UrbanCode",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    },
+    {
+      "reportYear": 2016,
+      "name": "AlchemyAI, Inc.",
+      "ticker": "AlchemyAI",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    },
+    {
+      "reportYear": 2016,
+      "name": "Compose, Inc.",
+      "ticker": "Compose",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    },
+    {
+      "reportYear": 2016,
+      "name": "Explorys, Inc.",
+      "ticker": "Explorys",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    },
+    {
+      "reportYear": 2016,
+      "name": "Phytel, Inc.",
+      "ticker": "Phytel",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    },
+    {
+      "reportYear": 2017,
+      "name": "AAC acquisition.",
+      "ticker": "Phytel",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    },
+    {
+      "reportYear": 2017,
+      "name": "AlchemyAI, Inc.",
+      "ticker": "AlchemyAI",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    },
+    {
+      "reportYear": 2017,
+      "name": "Blekko, Inc.",
+      "ticker": "Blekko",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    },
+    {
+      "reportYear": 2017,
+      "name": "Compose, Inc.",
+      "ticker": "Compose",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    },
+    {
+      "reportYear": 2017,
+      "name": "Explorys, Inc.",
+      "ticker": "Explorys",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    },
+    {
+      "reportYear": 2017,
+      "name": "IRIS Analytics GmbH",
+      "ticker": "IRIS Analytics",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    },
+    {
+      "reportYear": 2018,
+      "name": "Group, LLC",
+      "ticker": "Promontory",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    },
+    {
+      "reportYear": 2018,
+      "name": "Ltd.",
+      "ticker": "EZSource",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    },
+    {
+      "reportYear": 2018,
+      "name": "Resilient Systems, Inc.",
+      "ticker": "Resilient",
+      "type": "acquisition",
+      "source": "other-acq-prose"
+    }
+  ],
+  "by_year": {
+    "1999": {
+      "annualSummaries": [
+        {
+          "year": 1999,
+          "count": 17,
+          "totalMillions": null
+        }
+      ],
+      "namedDeals": [],
+      "divestitures": [
+        {
+          "reportYear": 1999,
+          "closeYear": 1999,
+          "name": "to AT&Tin 1999. In December Less",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        }
+      ]
+    },
+    "2000": {
+      "annualSummaries": [
+        {
+          "year": 2000,
+          "count": 9,
+          "totalMillions": null
+        },
+        {
+          "year": 1998,
+          "count": 9,
+          "totalMillions": null
+        },
+        {
+          "year": 1999,
+          "count": 17,
+          "totalMillions": null
+        }
+      ],
+      "namedDeals": [],
+      "divestitures": [
+        {
+          "reportYear": 2000,
+          "closeYear": 2000,
+          "name": "most of Software Artistry, represent-",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        }
+      ]
+    },
+    "2001": {
+      "annualSummaries": [
+        {
+          "year": 2000,
+          "count": 9,
+          "totalMillions": null
+        },
+        {
+          "year": 2001,
+          "count": 2,
+          "totalMillions": null
+        },
+        {
+          "year": 1999,
+          "count": 17,
+          "totalMillions": null
+        }
+      ],
+      "namedDeals": [],
+      "divestitures": []
+    },
+    "2003": {
+      "annualSummaries": [],
+      "namedDeals": [],
+      "divestitures": [
+        {
+          "reportYear": 2003,
+          "closeYear": 2003,
+          "name": "from the trust. The trust would have",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2003,
+          "closeYear": 2003,
+          "name": "business, financial condition, results of operations or cash",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        }
+      ]
+    },
+    "2004": {
+      "annualSummaries": [],
+      "namedDeals": [],
+      "divestitures": [
+        {
+          "reportYear": 2004,
+          "closeYear": 2004,
+          "name": "SECinvestigation noted",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2004,
+          "closeYear": 2004,
+          "name": "trial,which has not yet been scheduled,and granted Compuware",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2004,
+          "closeYear": 2004,
+          "name": "Korea and LGIBMemployees,were subsequently found guilty and s",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        }
+      ]
+    },
+    "2006": {
+      "annualSummaries": [
+        {
+          "year": 2006,
+          "count": 13,
+          "totalMillions": null
+        }
+      ],
+      "namedDeals": [],
+      "divestitures": []
+    },
+    "2007": {
+      "annualSummaries": [
+        {
+          "year": 2005,
+          "count": 16,
+          "totalMillions": null
+        }
+      ],
+      "namedDeals": [
+        {
+          "reportYear": 2007,
+          "closeYear": 2005,
+          "closeDate": "2005-04-29",
+          "name": "Ascential",
+          "ticker": null,
+          "valueMillions": 1140.0,
+          "type": "acquisition",
+          "source": "named-deal"
+        }
+      ],
+      "divestitures": [
+        {
+          "reportYear": 2007,
+          "closeYear": 2007,
+          "name": "and the employees are transferred. The",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2007,
+          "closeYear": 2007,
+          "name": "enterprises and commercial printers as well as solutions for",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2007,
+          "closeYear": 2007,
+          "name": "included Lenovo equity",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2007,
+          "closeYear": 2007,
+          "name": "any shares",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2007,
+          "closeYear": 2007,
+          "name": "prior to the closing date. Lenovo",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2007,
+          "closeYear": 2007,
+          "name": "contractual relation-",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2007,
+          "closeYear": 2007,
+          "name": "financing agreements",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        }
+      ]
+    },
+    "2008": {
+      "annualSummaries": [],
+      "namedDeals": [],
+      "divestitures": [
+        {
+          "reportYear": 2008,
+          "closeYear": 2008,
+          "name": "and the employees are transferred. The pre-tax",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        }
+      ]
+    },
+    "2010": {
+      "annualSummaries": [
+        {
+          "year": 2010,
+          "count": 17,
+          "totalMillions": null
+        },
+        {
+          "year": 2009,
+          "count": 6,
+          "totalMillions": null
+        },
+        {
+          "year": 2008,
+          "count": 15,
+          "totalMillions": null
+        }
+      ],
+      "namedDeals": [
+        {
+          "reportYear": 2010,
+          "closeYear": 2010,
+          "closeDate": "2010-11-10",
+          "name": "If fair value cannot be reasonably Netezza Corporation",
+          "ticker": "Netezza",
+          "valueMillions": 1847.0,
+          "type": "acquisition",
+          "source": "named-deal"
+        },
+        {
+          "reportYear": 2010,
+          "closeYear": 2010,
+          "closeDate": "2010-08-27",
+          "name": "Sterling Commerce",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "named-deal"
+        },
+        {
+          "reportYear": 2010,
+          "closeYear": 2009,
+          "closeDate": "2009-10-02",
+          "name": "SPSS, Inc.",
+          "ticker": "SPSS",
+          "valueMillions": 1177.0,
+          "type": "acquisition",
+          "source": "named-deal"
+        },
+        {
+          "reportYear": 2010,
+          "closeYear": 2008,
+          "closeDate": "2008-01-31",
+          "name": "Cognos, Inc.",
+          "ticker": "Cognos",
+          "valueMillions": 5021.0,
+          "type": "acquisition",
+          "source": "named-deal"
+        },
+        {
+          "reportYear": 2010,
+          "closeYear": 2008,
+          "closeDate": "2008-04-03",
+          "name": "Telelogic, AB",
+          "ticker": "Telelogic",
+          "valueMillions": 885.0,
+          "type": "acquisition",
+          "source": "named-deal"
+        }
+      ],
+      "divestitures": [
+        {
+          "reportYear": 2010,
+          "closeYear": 2010,
+          "name": "unit of account and valued based on their highest and",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2010,
+          "closeYear": 2010,
+          "name": "of its proceeds of",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        }
+      ]
+    },
+    "2011": {
+      "annualSummaries": [
+        {
+          "year": 2011,
+          "count": 5,
+          "totalMillions": null
+        },
+        {
+          "year": 2010,
+          "count": 17,
+          "totalMillions": null
+        },
+        {
+          "year": 2009,
+          "count": 6,
+          "totalMillions": null
+        }
+      ],
+      "namedDeals": [
+        {
+          "reportYear": 2011,
+          "closeYear": 2010,
+          "closeDate": "2010-08-27",
+          "name": "On January 9, 2012, the company announced it had completed Sterling Commerce",
+          "ticker": null,
+          "valueMillions": 1415.0,
+          "type": "acquisition",
+          "source": "named-deal"
+        },
+        {
+          "reportYear": 2011,
+          "closeYear": 2010,
+          "closeDate": "2010-11-10",
+          "name": "Netezza Corporation",
+          "ticker": "Netezza",
+          "valueMillions": 1847.0,
+          "type": "acquisition",
+          "source": "named-deal"
+        },
+        {
+          "reportYear": 2011,
+          "closeYear": 2009,
+          "closeDate": "2009-10-02",
+          "name": "Storwize, a provider of in-line data compression appliance SPSS, Inc.",
+          "ticker": "SPSS",
+          "valueMillions": 1177.0,
+          "type": "acquisition",
+          "source": "named-deal"
+        }
+      ],
+      "divestitures": [
+        {
+          "reportYear": 2011,
+          "closeYear": 2011,
+          "name": "of the iCluster business to Rocket Software. iCluster",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2011,
+          "closeYear": 2011,
+          "name": "of its proceeds of",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        }
+      ]
+    },
+    "2012": {
+      "annualSummaries": [
+        {
+          "year": 2012,
+          "count": 11,
+          "totalMillions": null
+        },
+        {
+          "year": 2011,
+          "count": 5,
+          "totalMillions": null
+        },
+        {
+          "year": 2010,
+          "count": 17,
+          "totalMillions": null
+        }
+      ],
+      "namedDeals": [
+        {
+          "reportYear": 2012,
+          "closeYear": 2012,
+          "closeDate": "2012-12-03",
+          "name": "Kenexa Corporation",
+          "ticker": "Kenexa",
+          "valueMillions": 1351.0,
+          "type": "acquisition",
+          "source": "named-deal"
+        },
+        {
+          "reportYear": 2012,
+          "closeYear": 2010,
+          "closeDate": "2010-11-10",
+          "name": "Netezza Corporation",
+          "ticker": "Netezza",
+          "valueMillions": 1847.0,
+          "type": "acquisition",
+          "source": "named-deal"
+        },
+        {
+          "reportYear": 2012,
+          "closeYear": 2010,
+          "closeDate": "2010-08-27",
+          "name": "Sterling Commerce",
+          "ticker": null,
+          "valueMillions": 1415.0,
+          "type": "acquisition",
+          "source": "named-deal"
+        }
+      ],
+      "divestitures": [
+        {
+          "reportYear": 2012,
+          "closeYear": 2012,
+          "name": "agement system. Clarity Systems delivers financial governance",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2012,
+          "closeYear": 2012,
+          "name": "of the iCluster business to Rocket Software. iCluster",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        }
+      ]
+    },
+    "2013": {
+      "annualSummaries": [
+        {
+          "year": 2013,
+          "count": 10,
+          "totalMillions": null
+        },
+        {
+          "year": 2012,
+          "count": 11,
+          "totalMillions": null
+        },
+        {
+          "year": 2011,
+          "count": 5,
+          "totalMillions": null
+        }
+      ],
+      "namedDeals": [
+        {
+          "reportYear": 2013,
+          "closeYear": 2013,
+          "closeDate": "2013-07-03",
+          "name": "Softlayer Technologies, Inc.",
+          "ticker": "Softlayer",
+          "valueMillions": 1977.0,
+          "type": "acquisition",
+          "source": "named-deal"
+        },
+        {
+          "reportYear": 2013,
+          "closeYear": 2012,
+          "closeDate": "2012-12-03",
+          "name": "Kenexa Corporation",
+          "ticker": "Kenexa",
+          "valueMillions": 1351.0,
+          "type": "acquisition",
+          "source": "named-deal"
+        },
+        {
+          "reportYear": 2013,
+          "closeYear": 2012,
+          "closeDate": "2012-04-17",
+          "name": "Technology segment, and the associated maintenance opera",
+          "ticker": null,
+          "valueMillions": 4600.0,
+          "type": "acquisition",
+          "source": "named-deal"
+        }
+      ],
+      "divestitures": [
+        {
+          "reportYear": 2013,
+          "closeYear": 2013,
+          "name": "business delivered",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2013,
+          "closeYear": 2013,
+          "name": "in 2013",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        }
+      ]
+    },
+    "2014": {
+      "annualSummaries": [
+        {
+          "year": 2014,
+          "count": 6,
+          "totalMillions": null
+        },
+        {
+          "year": 2013,
+          "count": 10,
+          "totalMillions": null
+        },
+        {
+          "year": 2012,
+          "count": 11,
+          "totalMillions": null
+        }
+      ],
+      "namedDeals": [
+        {
+          "reportYear": 2014,
+          "closeYear": 2013,
+          "closeDate": "2013-07-03",
+          "name": "SoftLayer Technologies, Inc.",
+          "ticker": "SoftLayer",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "named-deal"
+        },
+        {
+          "reportYear": 2014,
+          "closeYear": 2012,
+          "closeDate": "2012-12-03",
+          "name": "Kenexa Corporation",
+          "ticker": "Kenexa",
+          "valueMillions": 1351.0,
+          "type": "acquisition",
+          "source": "named-deal"
+        },
+        {
+          "reportYear": 2014,
+          "closeYear": 2014,
+          "closeDate": "2014-10-20",
+          "name": "Microelectronics",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "named-deal"
+        },
+        {
+          "reportYear": 2014,
+          "closeYear": 2014,
+          "closeDate": "2014-01-23",
+          "name": "Industry Standard Server",
+          "ticker": null,
+          "valueMillions": 2100.0,
+          "type": "acquisition",
+          "source": "named-deal"
+        },
+        {
+          "reportYear": 2014,
+          "closeYear": 2014,
+          "closeDate": "2014-06-30",
+          "name": "Others",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "named-deal"
+        },
+        {
+          "reportYear": 2014,
+          "closeYear": 2014,
+          "closeDate": "2014-08-31",
+          "name": "Sopra Group. through the SPSS acquisition in 2009, is an enterprise-class busi",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "named-deal"
+        },
+        {
+          "reportYear": 2014,
+          "closeYear": 2013,
+          "closeDate": "2013-09-10",
+          "name": "Customer Care",
+          "ticker": null,
+          "valueMillions": 501.0,
+          "type": "acquisition",
+          "source": "named-deal"
+        },
+        {
+          "reportYear": 2014,
+          "closeYear": 2012,
+          "closeDate": "2012-04-17",
+          "name": "SYNNEX would Retail Stores",
+          "ticker": null,
+          "valueMillions": 501.0,
+          "type": "acquisition",
+          "source": "named-deal"
+        }
+      ],
+      "divestitures": [
+        {
+          "reportYear": 2014,
+          "closeYear": 2014,
+          "name": "tangible assets and prepare such",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2014,
+          "closeYear": 2014,
+          "name": "of its Showcase Reporting product set to Help/Sys-",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2014,
+          "closeYear": 2014,
+          "name": "of ness intelligence platform that enables customers to build",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2014,
+          "closeYear": 2014,
+          "name": "resolution. For the full year of 2014, the company recorded a",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        }
+      ]
+    },
+    "2015": {
+      "annualSummaries": [
+        {
+          "year": 2015,
+          "count": 14,
+          "totalMillions": null
+        },
+        {
+          "year": 2014,
+          "count": 6,
+          "totalMillions": null
+        },
+        {
+          "year": 2013,
+          "count": 10,
+          "totalMillions": null
+        }
+      ],
+      "namedDeals": [
+        {
+          "reportYear": 2015,
+          "closeYear": 2015,
+          "closeDate": "2015-10-13",
+          "name": "Merge Healthcare, Inc.",
+          "ticker": "Merge",
+          "valueMillions": 1036.0,
+          "type": "acquisition",
+          "source": "named-deal"
+        },
+        {
+          "reportYear": 2015,
+          "closeYear": 2015,
+          "closeDate": "2015-11-06",
+          "name": "Cleversafe, Inc.",
+          "ticker": "Cleversafe",
+          "valueMillions": 1309.0,
+          "type": "acquisition",
+          "source": "named-deal"
+        },
+        {
+          "reportYear": 2015,
+          "closeYear": 2013,
+          "closeDate": "2013-07-03",
+          "name": "SoftLayer Technologies, Inc.",
+          "ticker": "SoftLayer",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "named-deal"
+        },
+        {
+          "reportYear": 2015,
+          "closeYear": 2014,
+          "closeDate": "2014-10-20",
+          "name": "Microelectronics",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "named-deal"
+        },
+        {
+          "reportYear": 2015,
+          "closeYear": 2014,
+          "closeDate": "2014-01-23",
+          "name": "Industry Standard Server",
+          "ticker": null,
+          "valueMillions": 515.0,
+          "type": "acquisition",
+          "source": "named-deal"
+        },
+        {
+          "reportYear": 2015,
+          "closeYear": 2012,
+          "closeDate": "2012-04-17",
+          "name": "IBM and Lenovo entered into a strategic relationship which Retail Store Solutions",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "named-deal"
+        },
+        {
+          "reportYear": 2015,
+          "closeYear": 2013,
+          "closeDate": "2013-09-10",
+          "name": "Customer Care",
+          "ticker": null,
+          "valueMillions": 501.0,
+          "type": "acquisition",
+          "source": "named-deal"
+        }
+      ],
+      "divestitures": [
+        {
+          "reportYear": 2015,
+          "closeYear": 2015,
+          "name": "of its Kenexa Compensation Portfolio business to",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2015,
+          "closeYear": 2015,
+          "name": "of the Rational System",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2015,
+          "closeYear": 2015,
+          "name": "of its Telecom Expense",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2015,
+          "closeYear": 2015,
+          "name": "of the Algorithmics Col-",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2015,
+          "closeYear": 2015,
+          "name": "of the Commerce ILOG Supply Chain Optimization",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2015,
+          "closeYear": 2015,
+          "name": "of its Cognos Finance product to UNICOM",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2015,
+          "closeYear": 2015,
+          "name": "of its Focal Point and PurifyPlus product",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2015,
+          "closeYear": 2015,
+          "name": "of its Showcase Reporting product set to Help/Sys-",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        }
+      ]
+    },
+    "2016": {
+      "annualSummaries": [
+        {
+          "year": 2016,
+          "count": 15,
+          "totalMillions": null
+        },
+        {
+          "year": 2015,
+          "count": 14,
+          "totalMillions": null
+        },
+        {
+          "year": 2014,
+          "count": 6,
+          "totalMillions": null
+        }
+      ],
+      "namedDeals": [
+        {
+          "reportYear": 2016,
+          "closeYear": 2016,
+          "closeDate": "2016-01-29",
+          "name": "The Weather Company",
+          "ticker": "TWC",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "named-deal"
+        },
+        {
+          "reportYear": 2016,
+          "closeYear": 2016,
+          "closeDate": "2016-04-08",
+          "name": "In April 2015, the FASB issued guidance about whether a cloud Truven Health Analytics, Inc.",
+          "ticker": "Truven",
+          "valueMillions": 2612.0,
+          "type": "acquisition",
+          "source": "named-deal"
+        },
+        {
+          "reportYear": 2016,
+          "closeYear": 2015,
+          "closeDate": "2015-10-13",
+          "name": "Merge Healthcare, Inc.",
+          "ticker": "Merge",
+          "valueMillions": 1036.0,
+          "type": "acquisition",
+          "source": "named-deal"
+        },
+        {
+          "reportYear": 2016,
+          "closeYear": 2015,
+          "closeDate": "2015-11-06",
+          "name": "Cleversafe, Inc.",
+          "ticker": "Cleversafe",
+          "valueMillions": 1309.0,
+          "type": "acquisition",
+          "source": "named-deal"
+        },
+        {
+          "reportYear": 2016,
+          "closeYear": 2014,
+          "closeDate": "2014-10-20",
+          "name": "Microelectronics",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "named-deal"
+        },
+        {
+          "reportYear": 2016,
+          "closeYear": 2014,
+          "closeDate": "2014-01-23",
+          "name": "In addition, at September 30, 2014, the company Industry Standard Server",
+          "ticker": null,
+          "valueMillions": 2100.0,
+          "type": "acquisition",
+          "source": "named-deal"
+        },
+        {
+          "reportYear": 2016,
+          "closeYear": 2013,
+          "closeDate": "2013-09-10",
+          "name": "Customer Care",
+          "ticker": null,
+          "valueMillions": 81.0,
+          "type": "acquisition",
+          "source": "named-deal"
+        }
+      ],
+      "divestitures": [
+        {
+          "reportYear": 2016,
+          "closeYear": 2016,
+          "name": "of one service-",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2016,
+          "closeYear": 2016,
+          "name": "and the divestiture of one Global Business Services",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2016,
+          "closeYear": 2016,
+          "name": "and the divestiture of",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        }
+      ]
+    },
+    "2017": {
+      "annualSummaries": [
+        {
+          "year": 2017,
+          "count": 5,
+          "totalMillions": null
+        },
+        {
+          "year": 2016,
+          "count": 15,
+          "totalMillions": null
+        },
+        {
+          "year": 2015,
+          "count": 14,
+          "totalMillions": null
+        }
+      ],
+      "namedDeals": [
+        {
+          "reportYear": 2017,
+          "closeYear": 2016,
+          "closeDate": "2016-01-29",
+          "name": "The Weather Company",
+          "ticker": "TWC",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "named-deal"
+        },
+        {
+          "reportYear": 2017,
+          "closeYear": 2016,
+          "closeDate": "2016-04-08",
+          "name": "The following table reflects the purchase price related to these Truven Health Analytics, Inc.",
+          "ticker": "Truven",
+          "valueMillions": 2612.0,
+          "type": "acquisition",
+          "source": "named-deal"
+        },
+        {
+          "reportYear": 2017,
+          "closeYear": 2015,
+          "closeDate": "2015-10-13",
+          "name": "Merge Healthcare, Inc.",
+          "ticker": "Merge",
+          "valueMillions": 1036.0,
+          "type": "acquisition",
+          "source": "named-deal"
+        },
+        {
+          "reportYear": 2017,
+          "closeYear": 2015,
+          "closeDate": "2015-11-06",
+          "name": "Cleversafe, Inc.",
+          "ticker": "Cleversafe",
+          "valueMillions": 1309.0,
+          "type": "acquisition",
+          "source": "named-deal"
+        },
+        {
+          "reportYear": 2017,
+          "closeYear": 2014,
+          "closeDate": "2014-01-23",
+          "name": "Industry Standard Server",
+          "ticker": null,
+          "valueMillions": 518.0,
+          "type": "acquisition",
+          "source": "named-deal"
+        },
+        {
+          "reportYear": 2017,
+          "closeYear": 2014,
+          "closeDate": "2014-10-20",
+          "name": "Microelectronics",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "named-deal"
+        }
+      ],
+      "divestitures": [
+        {
+          "reportYear": 2017,
+          "closeYear": 2017,
+          "name": "of one service-",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2017,
+          "closeYear": 2017,
+          "name": "Total loss from discontinued",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2017,
+          "closeYear": 2017,
+          "name": "of one GBS offering. In the fourth quarter of",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        }
+      ]
+    },
+    "2018": {
+      "annualSummaries": [
+        {
+          "year": 2018,
+          "count": 2,
+          "totalMillions": null
+        },
+        {
+          "year": 2017,
+          "count": 5,
+          "totalMillions": null
+        },
+        {
+          "year": 2016,
+          "count": 15,
+          "totalMillions": null
+        }
+      ],
+      "namedDeals": [
+        {
+          "reportYear": 2018,
+          "closeYear": 2016,
+          "closeDate": "2016-01-29",
+          "name": "The Weather Company",
+          "ticker": "TWC",
+          "valueMillions": 2278.0,
+          "type": "acquisition",
+          "source": "named-deal"
+        },
+        {
+          "reportYear": 2018,
+          "closeYear": 2016,
+          "closeDate": "2016-04-08",
+          "name": "Truven Health Analytics, Inc.",
+          "ticker": "Truven",
+          "valueMillions": 2612.0,
+          "type": "acquisition",
+          "source": "named-deal"
+        },
+        {
+          "reportYear": 2018,
+          "closeYear": 2018,
+          "closeDate": "2018-12-02",
+          "name": "For the Other Acquisitions, the overall weighted-average life Other",
+          "ticker": null,
+          "valueMillions": 119.0,
+          "type": "acquisition",
+          "source": "named-deal"
+        },
+        {
+          "reportYear": 2018,
+          "closeYear": 2018,
+          "closeDate": "2018-12-06",
+          "name": "Select IBM software products",
+          "ticker": null,
+          "valueMillions": 1775.0,
+          "type": "acquisition",
+          "source": "named-deal"
+        },
+        {
+          "reportYear": 2018,
+          "closeYear": 2019,
+          "closeDate": "2019-01-03",
+          "name": "Seterus",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "named-deal"
+        }
+      ],
+      "divestitures": [
+        {
+          "reportYear": 2018,
+          "closeYear": 2018,
+          "name": "of one service-",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        }
+      ]
+    },
+    "2019": {
+      "annualSummaries": [
+        {
+          "year": 2019,
+          "count": 1,
+          "totalMillions": null
+        },
+        {
+          "year": 2018,
+          "count": 2,
+          "totalMillions": null
+        },
+        {
+          "year": 2017,
+          "count": 5,
+          "totalMillions": null
+        }
+      ],
+      "namedDeals": [
+        {
+          "reportYear": 2019,
+          "closeYear": 2019,
+          "closeQuarter": null,
+          "closeDate": null,
+          "closeDateExact": false,
+          "name": "Select IBM",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        }
+      ],
+      "divestitures": [
+        {
+          "reportYear": 2019,
+          "closeYear": 2019,
+          "name": "businesses",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        }
+      ]
+    },
+    "2020": {
+      "annualSummaries": [
+        {
+          "year": 2020,
+          "count": 7,
+          "totalMillions": 723.0
+        },
+        {
+          "year": 2019,
+          "count": 1,
+          "totalMillions": 35000.0
+        },
+        {
+          "year": 2018,
+          "count": 2,
+          "totalMillions": null
+        }
+      ],
+      "namedDeals": [
+        {
+          "reportYear": 2020,
+          "closeYear": 2020,
+          "closeQuarter": "Second",
+          "closeDate": "2020-05-15",
+          "closeDateExact": false,
+          "name": "Automated Security Assurance Cloud & Cognitive",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2020,
+          "closeYear": 2020,
+          "closeQuarter": "Fourth",
+          "closeDate": "2020-11-15",
+          "closeDateExact": false,
+          "name": "Instana Cloud & Cognitive",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2020,
+          "closeYear": 2019,
+          "closeQuarter": null,
+          "closeDate": null,
+          "closeDateExact": false,
+          "name": "Global",
+          "ticker": null,
+          "segment": "Technology",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2020,
+          "closeYear": 2019,
+          "closeQuarter": null,
+          "closeDate": null,
+          "closeDateExact": false,
+          "name": "Select IBM",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        }
+      ],
+      "divestitures": [
+        {
+          "reportYear": 2020,
+          "closeYear": 2020,
+          "name": "businesses are reported in Other",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2020,
+          "closeYear": 2020,
+          "name": "businesses as described in note D",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2020,
+          "closeYear": 2020,
+          "name": "businesses in 2019. The financial terms related to each of th",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        }
+      ]
+    },
+    "2021": {
+      "annualSummaries": [
+        {
+          "year": 2021,
+          "count": 15,
+          "totalMillions": 3342.0
+        },
+        {
+          "year": 2020,
+          "count": 7,
+          "totalMillions": 723.0
+        },
+        {
+          "year": 2019,
+          "count": 1,
+          "totalMillions": 35000.0
+        }
+      ],
+      "namedDeals": [
+        {
+          "reportYear": 2021,
+          "closeYear": 2021,
+          "closeQuarter": "First",
+          "closeDate": "2021-02-15",
+          "closeDateExact": false,
+          "name": "Nordcloud",
+          "ticker": null,
+          "segment": "Consulting",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2021,
+          "closeYear": 2021,
+          "closeQuarter": "First",
+          "closeDate": "2021-02-15",
+          "closeDateExact": false,
+          "name": "StackRox",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2021,
+          "closeYear": 2021,
+          "closeQuarter": "Second",
+          "closeDate": "2021-05-15",
+          "closeDateExact": false,
+          "name": "ECX Copy Data Management business",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2021,
+          "closeYear": 2021,
+          "closeQuarter": "Second",
+          "closeDate": "2021-05-15",
+          "closeDateExact": false,
+          "name": "Waeg",
+          "ticker": null,
+          "segment": "Consulting",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2021,
+          "closeYear": 2021,
+          "closeQuarter": "Third",
+          "closeDate": "2021-08-15",
+          "closeDateExact": false,
+          "name": "VEVRE Software business",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2021,
+          "closeYear": 2021,
+          "closeQuarter": "Third",
+          "closeDate": "2021-08-15",
+          "closeDateExact": false,
+          "name": "BoxBoat Technologies",
+          "ticker": null,
+          "segment": "Consulting",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2021,
+          "closeYear": 2021,
+          "closeQuarter": "Third",
+          "closeDate": "2021-08-15",
+          "closeDateExact": false,
+          "name": "Bluetab Solutions Group",
+          "ticker": null,
+          "segment": "Consulting",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2021,
+          "closeYear": 2021,
+          "closeQuarter": "Fourth",
+          "closeDate": "2021-11-15",
+          "closeDateExact": false,
+          "name": "SXiQ Digital Pty Ltd",
+          "ticker": null,
+          "segment": "Consulting",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2021,
+          "closeYear": 2021,
+          "closeQuarter": "Fourth",
+          "closeDate": "2021-11-15",
+          "closeDateExact": false,
+          "name": "ReaQta",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2021,
+          "closeYear": 2021,
+          "closeQuarter": "Fourth",
+          "closeDate": "2021-11-15",
+          "closeDateExact": false,
+          "name": "Adobe Workfront practice from Rego",
+          "ticker": null,
+          "segment": "Consulting",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2021,
+          "closeYear": 2021,
+          "closeQuarter": "Fourth",
+          "closeDate": "2021-11-15",
+          "closeDateExact": false,
+          "name": "Phlyt",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2021,
+          "closeYear": 2020,
+          "closeQuarter": "First",
+          "closeDate": "2020-02-15",
+          "closeDateExact": false,
+          "name": "Stratoss Lifecycle Manager business",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2021,
+          "closeYear": 2020,
+          "closeQuarter": "Second",
+          "closeDate": "2020-05-15",
+          "closeDateExact": false,
+          "name": "Automated Security Assurance",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2021,
+          "closeYear": 2020,
+          "closeQuarter": "Fourth",
+          "closeDate": "2020-11-15",
+          "closeDateExact": false,
+          "name": "Instana",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2021,
+          "closeYear": 2019,
+          "closeQuarter": null,
+          "closeDate": null,
+          "closeDateExact": false,
+          "name": "Select IBM",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        }
+      ],
+      "divestitures": [
+        {
+          "reportYear": 2021,
+          "closeYear": 2021,
+          "name": "Kyndryl",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2021,
+          "closeYear": 2021,
+          "name": "Kyndryl. Refer to note C",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2021,
+          "closeYear": 2021,
+          "name": "reported",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2021,
+          "closeYear": 2021,
+          "name": "businesses. In the third quarter of 2021, IBM completed the s",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2021,
+          "closeYear": 2021,
+          "name": "businesses are reported in Other",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2021,
+          "closeYear": 2021,
+          "name": "businesses as described in note E",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2021,
+          "closeYear": 2021,
+          "name": "businesses in 2019. The financial terms related to each of th",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        }
+      ]
+    },
+    "2022": {
+      "annualSummaries": [
+        {
+          "year": 2022,
+          "count": 8,
+          "totalMillions": 2650.0
+        },
+        {
+          "year": 2021,
+          "count": 15,
+          "totalMillions": 3341.0
+        },
+        {
+          "year": 2020,
+          "count": 7,
+          "totalMillions": 723.0
+        }
+      ],
+      "namedDeals": [
+        {
+          "reportYear": 2022,
+          "closeYear": 2022,
+          "closeQuarter": "First",
+          "closeDate": "2022-02-15",
+          "closeDateExact": false,
+          "name": "Envizi",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2022,
+          "closeYear": 2022,
+          "closeQuarter": "First",
+          "closeDate": "2022-02-15",
+          "closeDateExact": false,
+          "name": "Sentaca",
+          "ticker": null,
+          "segment": "Consulting",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2022,
+          "closeYear": 2022,
+          "closeQuarter": "First",
+          "closeDate": "2022-02-15",
+          "closeDateExact": false,
+          "name": "Neudesic",
+          "ticker": null,
+          "segment": "Consulting",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2022,
+          "closeYear": 2022,
+          "closeQuarter": "Second",
+          "closeDate": "2022-05-15",
+          "closeDateExact": false,
+          "name": "Randori",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2022,
+          "closeYear": 2022,
+          "closeQuarter": "Second",
+          "closeDate": "2022-05-15",
+          "closeDateExact": false,
+          "name": "Databand.ai",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2022,
+          "closeYear": 2022,
+          "closeQuarter": "Third",
+          "closeDate": "2022-08-15",
+          "closeDateExact": false,
+          "name": "Omnio",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2022,
+          "closeYear": 2022,
+          "closeQuarter": "Fourth",
+          "closeDate": "2022-11-15",
+          "closeDateExact": false,
+          "name": "Dialexa",
+          "ticker": null,
+          "segment": "Consulting",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2022,
+          "closeYear": 2022,
+          "closeQuarter": "Fourth",
+          "closeDate": "2022-11-15",
+          "closeDateExact": false,
+          "name": "Octo",
+          "ticker": null,
+          "segment": "Consulting",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2022,
+          "closeYear": 2021,
+          "closeQuarter": "First",
+          "closeDate": "2021-02-15",
+          "closeDateExact": false,
+          "name": "Nordcloud",
+          "ticker": null,
+          "segment": "Consulting",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2022,
+          "closeYear": 2021,
+          "closeQuarter": "First",
+          "closeDate": "2021-02-15",
+          "closeDateExact": false,
+          "name": "StackRox",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2022,
+          "closeYear": 2021,
+          "closeQuarter": "Second",
+          "closeDate": "2021-05-15",
+          "closeDateExact": false,
+          "name": "ECX Copy Data Management business",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2022,
+          "closeYear": 2021,
+          "closeQuarter": "Second",
+          "closeDate": "2021-05-15",
+          "closeDateExact": false,
+          "name": "Waeg",
+          "ticker": null,
+          "segment": "Consulting",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2022,
+          "closeYear": 2021,
+          "closeQuarter": "Third",
+          "closeDate": "2021-08-15",
+          "closeDateExact": false,
+          "name": "VEVRE Software business",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2022,
+          "closeYear": 2021,
+          "closeQuarter": "Third",
+          "closeDate": "2021-08-15",
+          "closeDateExact": false,
+          "name": "BoxBoat Technologies",
+          "ticker": null,
+          "segment": "Consulting",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2022,
+          "closeYear": 2021,
+          "closeQuarter": "Third",
+          "closeDate": "2021-08-15",
+          "closeDateExact": false,
+          "name": "Bluetab Solutions Group",
+          "ticker": null,
+          "segment": "Consulting",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2022,
+          "closeYear": 2021,
+          "closeQuarter": "Fourth",
+          "closeDate": "2021-11-15",
+          "closeDateExact": false,
+          "name": "SXiQ Digital Pty Ltd",
+          "ticker": null,
+          "segment": "Consulting",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2022,
+          "closeYear": 2021,
+          "closeQuarter": "Fourth",
+          "closeDate": "2021-11-15",
+          "closeDateExact": false,
+          "name": "ReaQta",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2022,
+          "closeYear": 2021,
+          "closeQuarter": "Fourth",
+          "closeDate": "2021-11-15",
+          "closeDateExact": false,
+          "name": "Adobe Workfront practice from Rego",
+          "ticker": null,
+          "segment": "Consulting",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2022,
+          "closeYear": 2021,
+          "closeQuarter": "Fourth",
+          "closeDate": "2021-11-15",
+          "closeDateExact": false,
+          "name": "Phlyt",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2022,
+          "closeYear": 2020,
+          "closeQuarter": "First",
+          "closeDate": "2020-02-15",
+          "closeDateExact": false,
+          "name": "Stratoss Lifecycle Manager business",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2022,
+          "closeYear": 2020,
+          "closeQuarter": "Second",
+          "closeDate": "2020-05-15",
+          "closeDateExact": false,
+          "name": "Automated Security Assurance",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2022,
+          "closeYear": 2020,
+          "closeQuarter": "Fourth",
+          "closeDate": "2020-11-15",
+          "closeDateExact": false,
+          "name": "Instana",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2022,
+          "closeYear": 2022,
+          "closeQuarter": null,
+          "closeDate": null,
+          "closeDateExact": false,
+          "name": "Healthcare",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        }
+      ],
+      "divestitures": [
+        {
+          "reportYear": 2022,
+          "closeYear": 2022,
+          "name": "businesses for",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2022,
+          "closeYear": 2022,
+          "name": "Kyndryl. Refer to note C",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2022,
+          "closeYear": 2022,
+          "name": "Kyndryl",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2022,
+          "closeYear": 2022,
+          "name": "reported",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2022,
+          "closeYear": 2022,
+          "name": "businesses. In the third quarter of 2021, IBM completed the s",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        }
+      ]
+    },
+    "2023": {
+      "annualSummaries": [
+        {
+          "year": 2023,
+          "count": 9,
+          "totalMillions": 5197.0
+        },
+        {
+          "year": 2022,
+          "count": 8,
+          "totalMillions": 2651.0
+        },
+        {
+          "year": 2021,
+          "count": 15,
+          "totalMillions": 3341.0
+        }
+      ],
+      "namedDeals": [
+        {
+          "reportYear": 2023,
+          "closeYear": 2023,
+          "closeQuarter": "First",
+          "closeDate": "2023-02-15",
+          "closeDateExact": false,
+          "name": "StepZen, Inc.",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2023,
+          "closeYear": 2023,
+          "closeQuarter": "First",
+          "closeDate": "2023-02-15",
+          "closeDateExact": false,
+          "name": "NS1",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2023,
+          "closeYear": 2023,
+          "closeQuarter": "Second",
+          "closeDate": "2023-05-15",
+          "closeDateExact": false,
+          "name": "Ahana Cloud, Inc.",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2023,
+          "closeYear": 2023,
+          "closeQuarter": "Second",
+          "closeDate": "2023-05-15",
+          "closeDateExact": false,
+          "name": "Polar Security",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2023,
+          "closeYear": 2023,
+          "closeQuarter": "Second",
+          "closeDate": "2023-05-15",
+          "closeDateExact": false,
+          "name": "Agyla SAS",
+          "ticker": null,
+          "segment": "Consulting",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2023,
+          "closeYear": 2023,
+          "closeQuarter": "Third",
+          "closeDate": "2023-08-15",
+          "closeDateExact": false,
+          "name": "Apptio, Inc.",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2023,
+          "closeYear": 2023,
+          "closeQuarter": "Fourth",
+          "closeDate": "2023-11-15",
+          "closeDateExact": false,
+          "name": "Manta Software, Inc.",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2023,
+          "closeYear": 2023,
+          "closeQuarter": "Fourth",
+          "closeDate": "2023-11-15",
+          "closeDateExact": false,
+          "name": "Equine Global",
+          "ticker": null,
+          "segment": "Consulting",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2023,
+          "closeYear": 2022,
+          "closeQuarter": "First",
+          "closeDate": "2022-02-15",
+          "closeDateExact": false,
+          "name": "Envizi",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2023,
+          "closeYear": 2022,
+          "closeQuarter": "First",
+          "closeDate": "2022-02-15",
+          "closeDateExact": false,
+          "name": "Sentaca",
+          "ticker": null,
+          "segment": "Consulting",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2023,
+          "closeYear": 2022,
+          "closeQuarter": "First",
+          "closeDate": "2022-02-15",
+          "closeDateExact": false,
+          "name": "Neudesic",
+          "ticker": null,
+          "segment": "Consulting",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2023,
+          "closeYear": 2022,
+          "closeQuarter": "Second",
+          "closeDate": "2022-05-15",
+          "closeDateExact": false,
+          "name": "Randori",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2023,
+          "closeYear": 2022,
+          "closeQuarter": "Second",
+          "closeDate": "2022-05-15",
+          "closeDateExact": false,
+          "name": "Databand.ai",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2023,
+          "closeYear": 2022,
+          "closeQuarter": "Third",
+          "closeDate": "2022-08-15",
+          "closeDateExact": false,
+          "name": "Omnio",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2023,
+          "closeYear": 2022,
+          "closeQuarter": "Fourth",
+          "closeDate": "2022-11-15",
+          "closeDateExact": false,
+          "name": "Dialexa",
+          "ticker": null,
+          "segment": "Consulting",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2023,
+          "closeYear": 2022,
+          "closeQuarter": "Fourth",
+          "closeDate": "2022-11-15",
+          "closeDateExact": false,
+          "name": "Octo",
+          "ticker": null,
+          "segment": "Consulting",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2023,
+          "closeYear": 2021,
+          "closeQuarter": "First",
+          "closeDate": "2021-02-15",
+          "closeDateExact": false,
+          "name": "Nordcloud",
+          "ticker": null,
+          "segment": "Consulting",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2023,
+          "closeYear": 2021,
+          "closeQuarter": "First",
+          "closeDate": "2021-02-15",
+          "closeDateExact": false,
+          "name": "StackRox",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2023,
+          "closeYear": 2021,
+          "closeQuarter": "Second",
+          "closeDate": "2021-05-15",
+          "closeDateExact": false,
+          "name": "ECX Copy Data Management business from",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2023,
+          "closeYear": 2021,
+          "closeQuarter": "Second",
+          "closeDate": "2021-05-15",
+          "closeDateExact": false,
+          "name": "Waeg",
+          "ticker": null,
+          "segment": "Consulting",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2023,
+          "closeYear": 2021,
+          "closeQuarter": "Third",
+          "closeDate": "2021-08-15",
+          "closeDateExact": false,
+          "name": "VEVRE Software business from Volta, Inc.",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2023,
+          "closeYear": 2021,
+          "closeQuarter": "Third",
+          "closeDate": "2021-08-15",
+          "closeDateExact": false,
+          "name": "BoxBoat Technologies",
+          "ticker": null,
+          "segment": "Consulting",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2023,
+          "closeYear": 2021,
+          "closeQuarter": "Third",
+          "closeDate": "2021-08-15",
+          "closeDateExact": false,
+          "name": "Bluetab Solutions Group",
+          "ticker": null,
+          "segment": "Consulting",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2023,
+          "closeYear": 2021,
+          "closeQuarter": "Fourth",
+          "closeDate": "2021-11-15",
+          "closeDateExact": false,
+          "name": "SXiQ Digital Pty Ltd",
+          "ticker": null,
+          "segment": "Consulting",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2023,
+          "closeYear": 2021,
+          "closeQuarter": "Fourth",
+          "closeDate": "2021-11-15",
+          "closeDateExact": false,
+          "name": "ReaQta",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2023,
+          "closeYear": 2021,
+          "closeQuarter": "Fourth",
+          "closeDate": "2021-11-15",
+          "closeDateExact": false,
+          "name": "Adobe Workfront practice from Rego",
+          "ticker": null,
+          "segment": "Consulting",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2023,
+          "closeYear": 2021,
+          "closeQuarter": "Fourth",
+          "closeDate": "2021-11-15",
+          "closeDateExact": false,
+          "name": "Phlyt",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        },
+        {
+          "reportYear": 2023,
+          "closeYear": 2022,
+          "closeQuarter": null,
+          "closeDate": null,
+          "closeDateExact": false,
+          "name": "Healthcare",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        }
+      ],
+      "divestitures": [
+        {
+          "reportYear": 2023,
+          "closeYear": 2023,
+          "name": "businesses category",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2023,
+          "closeYear": 2023,
+          "name": "businesses for",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2023,
+          "closeYear": 2023,
+          "name": "Kyndryl",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2023,
+          "closeYear": 2023,
+          "name": "managed infrastructure services unit",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2023,
+          "closeYear": 2023,
+          "name": "to Kyndryl in the first quarter of",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2023,
+          "closeYear": 2023,
+          "name": "reported in Other",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        },
+        {
+          "reportYear": 2023,
+          "closeYear": 2023,
+          "name": "businesses. In the third quarter of 2021, IBM completed the s",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        }
+      ]
+    },
+    "2024": {
+      "annualSummaries": [
+        {
+          "year": 2024,
+          "count": 7,
+          "totalMillions": null
+        },
+        {
+          "year": 2023,
+          "count": 7,
+          "totalMillions": null
+        },
+        {
+          "year": 2022,
+          "count": 4,
+          "totalMillions": null
+        }
+      ],
+      "namedDeals": [
+        {
+          "reportYear": 2024,
+          "closeYear": 2022,
+          "closeQuarter": null,
+          "closeDate": null,
+          "closeDateExact": false,
+          "name": "Healthcare",
+          "ticker": null,
+          "segment": "Software",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        }
+      ],
+      "divestitures": [
+        {
+          "reportYear": 2024,
+          "closeYear": 2024,
+          "name": "businesses category",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        }
+      ]
+    },
+    "2025": {
+      "annualSummaries": [
+        {
+          "year": 2025,
+          "count": 6,
+          "totalMillions": null
+        },
+        {
+          "year": 2024,
+          "count": 7,
+          "totalMillions": null
+        },
+        {
+          "year": 2024,
+          "count": 7,
+          "totalMillions": null
+        },
+        {
+          "year": 2023,
+          "count": 7,
+          "totalMillions": null
+        },
+        {
+          "year": 2023,
+          "count": 7,
+          "totalMillions": null
+        }
+      ],
+      "namedDeals": [
+        {
+          "reportYear": 2025,
+          "closeYear": 2025,
+          "closeQuarter": null,
+          "closeDate": null,
+          "closeDateExact": false,
+          "name": "Revenue by Classes of Similar Products or",
+          "ticker": null,
+          "segment": "Services",
+          "valueMillions": null,
+          "type": "acquisition",
+          "source": "table"
+        }
+      ],
+      "divestitures": [
+        {
+          "reportYear": 2025,
+          "closeYear": 2025,
+          "name": "of The Weather",
+          "ticker": null,
+          "valueMillions": null,
+          "type": "divestiture",
+          "source": "divest-mention"
+        }
+      ]
+    }
+  }
+}

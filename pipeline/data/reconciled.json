@@ -1,0 +1,956 @@
+{
+ "currency": "USD_millions",
+ "note": "Canonical IBM/CTR series reconciled across all reports. null=not extracted/uncertain.",
+ "years": [
+  {
+   "year": 1957,
+   "currency": "USD_millions",
+   "revenue": null,
+   "netIncome": null,
+   "totalAssets": null,
+   "stockholdersEquity": null,
+   "rdExpense": null,
+   "epsDiluted": null,
+   "epsBasic": null,
+   "dividendsPerShare": null,
+   "employees": 60281.0,
+   "flags": []
+  },
+  {
+   "year": 1958,
+   "currency": "USD_millions",
+   "revenue": null,
+   "netIncome": null,
+   "totalAssets": null,
+   "stockholdersEquity": null,
+   "rdExpense": null,
+   "epsDiluted": null,
+   "epsBasic": null,
+   "dividendsPerShare": null,
+   "employees": 61159.0,
+   "flags": []
+  },
+  {
+   "year": 1966,
+   "currency": "USD_millions",
+   "revenue": null,
+   "netIncome": 651.0,
+   "totalAssets": null,
+   "stockholdersEquity": null,
+   "rdExpense": null,
+   "epsDiluted": null,
+   "epsBasic": null,
+   "dividendsPerShare": null,
+   "employees": null,
+   "flags": []
+  },
+  {
+   "year": 1969,
+   "currency": "USD_millions",
+   "revenue": null,
+   "netIncome": 1017.0,
+   "totalAssets": null,
+   "stockholdersEquity": null,
+   "rdExpense": null,
+   "epsDiluted": null,
+   "epsBasic": null,
+   "dividendsPerShare": null,
+   "employees": 269291.0,
+   "flags": []
+  },
+  {
+   "year": 1972,
+   "currency": "USD_millions",
+   "revenue": null,
+   "netIncome": null,
+   "totalAssets": null,
+   "stockholdersEquity": null,
+   "rdExpense": null,
+   "epsDiluted": null,
+   "epsBasic": null,
+   "dividendsPerShare": null,
+   "employees": 274108.0,
+   "flags": []
+  },
+  {
+   "year": 1973,
+   "currency": "USD_millions",
+   "revenue": null,
+   "netIncome": null,
+   "totalAssets": null,
+   "stockholdersEquity": null,
+   "rdExpense": null,
+   "epsDiluted": null,
+   "epsBasic": null,
+   "dividendsPerShare": null,
+   "employees": 292350.0,
+   "flags": []
+  },
+  {
+   "year": 1974,
+   "currency": "USD_millions",
+   "revenue": null,
+   "netIncome": null,
+   "totalAssets": null,
+   "stockholdersEquity": null,
+   "rdExpense": null,
+   "epsDiluted": null,
+   "epsBasic": null,
+   "dividendsPerShare": null,
+   "employees": 288647.0,
+   "flags": []
+  },
+  {
+   "year": 1975,
+   "currency": "USD_millions",
+   "revenue": null,
+   "netIncome": null,
+   "totalAssets": null,
+   "stockholdersEquity": null,
+   "rdExpense": null,
+   "epsDiluted": null,
+   "epsBasic": null,
+   "dividendsPerShare": null,
+   "employees": 131709.0,
+   "flags": []
+  },
+  {
+   "year": 1976,
+   "currency": "USD_millions",
+   "revenue": 20789.0,
+   "netIncome": null,
+   "totalAssets": null,
+   "stockholdersEquity": null,
+   "rdExpense": null,
+   "epsDiluted": null,
+   "epsBasic": null,
+   "dividendsPerShare": null,
+   "employees": 133597.0,
+   "flags": []
+  },
+  {
+   "year": 1977,
+   "currency": "USD_millions",
+   "revenue": null,
+   "netIncome": null,
+   "totalAssets": null,
+   "stockholdersEquity": null,
+   "rdExpense": null,
+   "epsDiluted": null,
+   "epsBasic": null,
+   "dividendsPerShare": null,
+   "employees": 133212.0,
+   "flags": []
+  },
+  {
+   "year": 1978,
+   "currency": "USD_millions",
+   "revenue": 23449.0,
+   "netIncome": 2719.0,
+   "totalAssets": 20771.0,
+   "stockholdersEquity": 12618.0,
+   "rdExpense": null,
+   "epsDiluted": null,
+   "epsBasic": null,
+   "dividendsPerShare": null,
+   "employees": null,
+   "flags": [
+    "netIncome:disagree:2719.0vs[355.0, 1612.0]"
+   ]
+  },
+  {
+   "year": 1979,
+   "currency": "USD_millions",
+   "revenue": 30403.0,
+   "netIncome": 301.0,
+   "totalAssets": 24530.0,
+   "stockholdersEquity": 14961.0,
+   "rdExpense": null,
+   "epsDiluted": null,
+   "epsBasic": null,
+   "dividendsPerShare": null,
+   "employees": null,
+   "flags": [
+    "revenue:disagree:30403.0vs[26213.0]",
+    "netIncome:disagree:301.0vs[3562.0, 172.5]",
+    "stockholdersEquity:disagree:14961.0vs[13494.0, 16453.0]"
+   ]
+  },
+  {
+   "year": 1980,
+   "currency": "USD_millions",
+   "revenue": 33043.0,
+   "netIncome": 3397.0,
+   "totalAssets": 26831.0,
+   "stockholdersEquity": 16578.0,
+   "rdExpense": null,
+   "epsDiluted": null,
+   "epsBasic": null,
+   "dividendsPerShare": 4.0,
+   "employees": 146.973,
+   "flags": [
+    "revenue:disagree:33043.0vs[31694.0, 13787.0, 29070.0]",
+    "netIncome:disagree:3397.0vs[3562.0, 3688.0, 3308.0]",
+    "totalAssets:disagree:26831.0vs[2683.0]"
+   ]
+  },
+  {
+   "year": 1981,
+   "currency": "USD_millions",
+   "revenue": 13982.0,
+   "netIncome": 1541.0,
+   "totalAssets": 29107.0,
+   "stockholdersEquity": 17676.0,
+   "rdExpense": null,
+   "epsDiluted": null,
+   "epsBasic": null,
+   "dividendsPerShare": 4.0,
+   "employees": 149.794,
+   "flags": [
+    "revenue:disagree:13982.0vs[34384.0, 33199.0]",
+    "netIncome:disagree:1541.0vs[9867.0, 3861.0]",
+    "stockholdersEquity:disagree:17676.0vs[16453.0]",
+    "dividendsPerShare:disagree:4.0vs[3.0]"
+   ]
+  },
+  {
+   "year": 1982,
+   "currency": "USD_millions",
+   "revenue": 34364.0,
+   "netIncome": 4409.0,
+   "totalAssets": 32541.0,
+   "stockholdersEquity": 19960.0,
+   "rdExpense": null,
+   "epsDiluted": null,
+   "epsBasic": null,
+   "dividendsPerShare": 3.0,
+   "employees": 150444.0,
+   "flags": [
+    "revenue:disagree:34364.0vs[38298.0, 36979.0, 35469.0]",
+    "netIncome:disagree:4409.0vs[1649.0]"
+   ]
+  },
+  {
+   "year": 1983,
+   "currency": "USD_millions",
+   "revenue": 40180.0,
+   "netIncome": 5485.0,
+   "totalAssets": 37243.0,
+   "stockholdersEquity": 23219.0,
+   "rdExpense": null,
+   "epsDiluted": null,
+   "epsBasic": null,
+   "dividendsPerShare": 4.0,
+   "employees": 150944.0,
+   "flags": [
+    "revenue:disagree:40180.0vs[17053.0, 43385.0]",
+    "netIncome:disagree:5485.0vs[3296.0]",
+    "totalAssets:disagree:37243.0vs[37461.0, 137461.0]",
+    "dividendsPerShare:disagree:4.0vs[3.0]"
+   ]
+  },
+  {
+   "year": 1984,
+   "currency": "USD_millions",
+   "revenue": 18566.0,
+   "netIncome": 6582.0,
+   "totalAssets": 3499.0,
+   "stockholdersEquity": 26489.0,
+   "rdExpense": null,
+   "epsDiluted": null,
+   "epsBasic": null,
+   "dividendsPerShare": 4.0,
+   "employees": 156042.0,
+   "flags": [
+    "revenue:disagree:18566.0vs[45937.0, 4821.0, 47576.0]",
+    "netIncome:disagree:6582.0vs[3981.0]",
+    "totalAssets:disagree:3499.0vs[42808.0]"
+   ]
+  },
+  {
+   "year": 1985,
+   "currency": "USD_millions",
+   "revenue": 50056.0,
+   "netIncome": 6555.0,
+   "totalAssets": 52634.0,
+   "stockholdersEquity": 31990.0,
+   "rdExpense": null,
+   "epsDiluted": null,
+   "epsBasic": null,
+   "dividendsPerShare": 4.0,
+   "employees": null,
+   "flags": [
+    "netIncome:disagree:6555.0vs[3450.0]"
+   ]
+  },
+  {
+   "year": 1986,
+   "currency": "USD_millions",
+   "revenue": 51250.0,
+   "netIncome": 4789.0,
+   "totalAssets": 57814.0,
+   "stockholdersEquity": 34374.0,
+   "rdExpense": null,
+   "epsDiluted": null,
+   "epsBasic": null,
+   "dividendsPerShare": null,
+   "employees": null,
+   "flags": []
+  },
+  {
+   "year": 1987,
+   "currency": "USD_millions",
+   "revenue": 54217.0,
+   "netIncome": 5258.0,
+   "totalAssets": 63688.0,
+   "stockholdersEquity": 38263.0,
+   "rdExpense": null,
+   "epsDiluted": null,
+   "epsBasic": null,
+   "dividendsPerShare": null,
+   "employees": null,
+   "flags": [
+    "totalAssets:disagree:63688.0vs[8567.0]"
+   ]
+  },
+  {
+   "year": 1988,
+   "currency": "USD_millions",
+   "revenue": 59681.0,
+   "netIncome": 5806.0,
+   "totalAssets": 73037.0,
+   "stockholdersEquity": 39509.0,
+   "rdExpense": null,
+   "epsDiluted": null,
+   "epsBasic": null,
+   "dividendsPerShare": null,
+   "employees": 387112.0,
+   "flags": [
+    "netIncome:disagree:5806.0vs[5741.0]",
+    "totalAssets:disagree:73037.0vs[63020.0]",
+    "stockholdersEquity:disagree:39509.0vs[39293.0, 34374.0]"
+   ]
+  },
+  {
+   "year": 1989,
+   "currency": "USD_millions",
+   "revenue": 62654.0,
+   "netIncome": 3722.0,
+   "totalAssets": 77734.0,
+   "stockholdersEquity": 38263.0,
+   "rdExpense": null,
+   "epsDiluted": null,
+   "epsBasic": null,
+   "dividendsPerShare": null,
+   "employees": null,
+   "flags": [
+    "netIncome:disagree:3722.0vs[3758.0]",
+    "totalAssets:disagree:77734.0vs[70029.0]"
+   ]
+  },
+  {
+   "year": 1990,
+   "currency": "USD_millions",
+   "revenue": 69018.0,
+   "netIncome": 6020.0,
+   "totalAssets": 87568.0,
+   "stockholdersEquity": 42553.0,
+   "rdExpense": 6554.0,
+   "epsDiluted": null,
+   "epsBasic": null,
+   "dividendsPerShare": null,
+   "employees": null,
+   "flags": [
+    "netIncome:disagree:6020.0vs[5967.0, 159.0]",
+    "totalAssets:disagree:87568.0vs[73037.0]",
+    "stockholdersEquity:disagree:42553.0vs[39509.0]"
+   ]
+  },
+  {
+   "year": 1991,
+   "currency": "USD_millions",
+   "revenue": 64766.0,
+   "netIncome": -2827.0,
+   "totalAssets": 92473.0,
+   "stockholdersEquity": 36679.0,
+   "rdExpense": 6644.0,
+   "epsDiluted": null,
+   "epsBasic": null,
+   "dividendsPerShare": null,
+   "employees": 10963.0,
+   "flags": [
+    "revenue:disagree:64766.0vs[40358.0]",
+    "netIncome:disagree:-2827.0vs[-2861.0]",
+    "totalAssets:disagree:92473.0vs[20681.0]"
+   ]
+  },
+  {
+   "year": 1992,
+   "currency": "USD_millions",
+   "revenue": 64523.0,
+   "netIncome": -4965.0,
+   "totalAssets": 86705.0,
+   "stockholdersEquity": 27624.0,
+   "rdExpense": 6522.0,
+   "epsDiluted": null,
+   "epsBasic": null,
+   "dividendsPerShare": null,
+   "employees": 15776.0,
+   "flags": [
+    "revenue:disagree:64523.0vs[6111.0]"
+   ]
+  },
+  {
+   "year": 1993,
+   "currency": "USD_millions",
+   "revenue": 62716.0,
+   "netIncome": null,
+   "totalAssets": 81113.0,
+   "stockholdersEquity": 19738.0,
+   "rdExpense": 5558.0,
+   "epsDiluted": -7.11,
+   "epsBasic": null,
+   "dividendsPerShare": null,
+   "employees": null,
+   "flags": []
+  },
+  {
+   "year": 1994,
+   "currency": "USD_millions",
+   "revenue": 64052.0,
+   "netIncome": 3021.0,
+   "totalAssets": 81091.0,
+   "stockholdersEquity": 23413.0,
+   "rdExpense": 4363.0,
+   "epsDiluted": 2.48,
+   "epsBasic": null,
+   "dividendsPerShare": null,
+   "employees": null,
+   "flags": [
+    "revenue:disagree:64052.0vs[32344.0]",
+    "netIncome:disagree:3021.0vs[707.0]"
+   ]
+  },
+  {
+   "year": 1995,
+   "currency": "USD_millions",
+   "revenue": 71940.0,
+   "netIncome": 4178.0,
+   "totalAssets": 80292.0,
+   "stockholdersEquity": 22423.0,
+   "rdExpense": 4170.0,
+   "epsDiluted": 1.76,
+   "epsBasic": 1.81,
+   "dividendsPerShare": null,
+   "employees": null,
+   "flags": [
+    "revenue:disagree:71940.0vs[75947.0, 35600.0]",
+    "netIncome:disagree:4178.0vs[5429.0]",
+    "stockholdersEquity:disagree:22423.0vs[58054.0]",
+    "epsDiluted:disagree:1.76vs[3.53, 5.01]"
+   ]
+  },
+  {
+   "year": 1996,
+   "currency": "USD_millions",
+   "revenue": 75947.0,
+   "netIncome": 5429.0,
+   "totalAssets": 81132.0,
+   "stockholdersEquity": 21628.0,
+   "rdExpense": 4654.0,
+   "epsDiluted": 2.5,
+   "epsBasic": 2.56,
+   "dividendsPerShare": null,
+   "employees": null,
+   "flags": [
+    "revenue:disagree:75947.0vs[6981.0, 11426.0, 78508.0]",
+    "netIncome:disagree:5429.0vs[6093.0]",
+    "stockholdersEquity:disagree:21628.0vs[57957.0, 31793.0]",
+    "epsDiluted:disagree:2.5vs[5.12, 6.01]",
+    "epsBasic:disagree:2.56vs[5.12]"
+   ]
+  },
+  {
+   "year": 1997,
+   "currency": "USD_millions",
+   "revenue": 78508.0,
+   "netIncome": 6093.0,
+   "totalAssets": 81499.0,
+   "stockholdersEquity": 19816.0,
+   "rdExpense": 4877.0,
+   "epsDiluted": 3.0,
+   "epsBasic": 3.09,
+   "dividendsPerShare": null,
+   "employees": 269465.0,
+   "flags": [
+    "revenue:disagree:78508.0vs[36630.0]",
+    "stockholdersEquity:disagree:19816.0vs[21628.0, 35444.0]",
+    "epsDiluted:disagree:3.0vs[6.01]",
+    "epsBasic:disagree:3.09vs[6.18]"
+   ]
+  },
+  {
+   "year": 1998,
+   "currency": "USD_millions",
+   "revenue": 81667.0,
+   "netIncome": 6328.0,
+   "totalAssets": 86100.0,
+   "stockholdersEquity": 19433.0,
+   "rdExpense": 5046.0,
+   "epsDiluted": 3.29,
+   "epsBasic": 3.38,
+   "dividendsPerShare": null,
+   "employees": 291067.0,
+   "flags": [
+    "revenue:disagree:81667.0vs[77548.0, 2877.0]",
+    "totalAssets:disagree:86100.0vs[88160.0]",
+    "stockholdersEquity:disagree:19433.0vs[40109.0]",
+    "epsDiluted:disagree:3.29vs[6.57]",
+    "epsBasic:disagree:3.38vs[6.75]"
+   ]
+  },
+  {
+   "year": 1999,
+   "currency": "USD_millions",
+   "revenue": 87548.0,
+   "netIncome": 7712.0,
+   "totalAssets": 87495.0,
+   "stockholdersEquity": 20511.0,
+   "rdExpense": 5273.0,
+   "epsDiluted": 4.12,
+   "epsBasic": 4.25,
+   "dividendsPerShare": null,
+   "employees": 307401.0,
+   "flags": [
+    "revenue:disagree:87548.0vs[83334.0, 3137.0]",
+    "totalAssets:disagree:87495.0vs[89571.0]",
+    "rdExpense:disagree:5273.0vs[5505.0]"
+   ]
+  },
+  {
+   "year": 2000,
+   "currency": "USD_millions",
+   "revenue": 85089.0,
+   "netIncome": 8093.0,
+   "totalAssets": 88349.0,
+   "stockholdersEquity": 20624.0,
+   "rdExpense": 5084.0,
+   "epsDiluted": 4.44,
+   "epsBasic": 4.58,
+   "dividendsPerShare": null,
+   "employees": null,
+   "flags": [
+    "revenue:disagree:85089.0vs[3465.0, 88396.0]",
+    "totalAssets:disagree:88349.0vs[90412.0]",
+    "rdExpense:disagree:5084.0vs[5374.0]",
+    "epsDiluted:disagree:4.44vs[4.32]",
+    "epsBasic:disagree:4.58vs[4.45]"
+   ]
+  },
+  {
+   "year": 2001,
+   "currency": "USD_millions",
+   "revenue": 83067.0,
+   "netIncome": 7723.0,
+   "totalAssets": 90303.0,
+   "stockholdersEquity": 23448.0,
+   "rdExpense": 4986.0,
+   "epsDiluted": 4.59,
+   "epsBasic": 4.69,
+   "dividendsPerShare": null,
+   "employees": 319876.0,
+   "flags": [
+    "revenue:disagree:83067.0vs[85866.0]",
+    "totalAssets:disagree:90303.0vs[88313.0]",
+    "stockholdersEquity:disagree:23448.0vs[23614.0]",
+    "rdExpense:disagree:4986.0vs[5290.0]",
+    "epsDiluted:disagree:4.59vs[4.35]",
+    "epsBasic:disagree:4.69vs[4.45]"
+   ]
+  },
+  {
+   "year": 2002,
+   "currency": "USD_millions",
+   "revenue": 81186.0,
+   "netIncome": 3579.0,
+   "totalAssets": 96484.0,
+   "stockholdersEquity": 22782.0,
+   "rdExpense": 4750.0,
+   "epsDiluted": 3.07,
+   "epsBasic": 3.13,
+   "dividendsPerShare": null,
+   "employees": 315889.0,
+   "flags": [
+    "netIncome:disagree:3579.0vs[2376.0]",
+    "totalAssets:disagree:96484.0vs[97814.0]",
+    "stockholdersEquity:disagree:22782.0vs[24112.0]"
+   ]
+  },
+  {
+   "year": 2003,
+   "currency": "USD_millions",
+   "revenue": 89131.0,
+   "netIncome": 7583.0,
+   "totalAssets": 104457.0,
+   "stockholdersEquity": 27864.0,
+   "rdExpense": 5077.0,
+   "epsDiluted": 3.74,
+   "epsBasic": 4.42,
+   "dividendsPerShare": null,
+   "employees": 319273.0,
+   "flags": [
+    "netIncome:disagree:7583.0vs[6558.0]",
+    "totalAssets:disagree:104457.0vs[106021.0]",
+    "stockholdersEquity:disagree:27864.0vs[29531.0]",
+    "epsDiluted:disagree:3.74vs[4.34]",
+    "epsBasic:disagree:4.42vs[3.81]"
+   ]
+  },
+  {
+   "year": 2004,
+   "currency": "USD_millions",
+   "revenue": 3894.0,
+   "netIncome": 7479.0,
+   "totalAssets": 111003.0,
+   "stockholdersEquity": 31688.0,
+   "rdExpense": null,
+   "epsDiluted": 4.38,
+   "epsBasic": 4.46,
+   "dividendsPerShare": null,
+   "employees": null,
+   "flags": [
+    "revenue:disagree:3894.0vs[96293.0]",
+    "netIncome:disagree:7479.0vs[8430.0]",
+    "totalAssets:disagree:111003.0vs[109183.0]",
+    "stockholdersEquity:disagree:31688.0vs[29747.0]"
+   ]
+  },
+  {
+   "year": 2005,
+   "currency": "USD_millions",
+   "revenue": 91134.0,
+   "netIncome": 7934.0,
+   "totalAssets": 105748.0,
+   "stockholdersEquity": 33098.0,
+   "rdExpense": 107.0,
+   "epsDiluted": 4.89,
+   "epsBasic": 4.98,
+   "dividendsPerShare": null,
+   "employees": null,
+   "flags": [
+    "revenue:disagree:91134.0vs[3907.0]"
+   ]
+  },
+  {
+   "year": 2006,
+   "currency": "USD_millions",
+   "revenue": 91424.0,
+   "netIncome": 9492.0,
+   "totalAssets": 103234.0,
+   "stockholdersEquity": 28506.0,
+   "rdExpense": 6107.0,
+   "epsDiluted": 6.11,
+   "epsBasic": null,
+   "dividendsPerShare": null,
+   "employees": 355766.0,
+   "flags": [
+    "revenue:disagree:91424.0vs[3892.0]"
+   ]
+  },
+  {
+   "year": 2007,
+   "currency": "USD_millions",
+   "revenue": 98786.0,
+   "netIncome": 10418.0,
+   "totalAssets": 120431.0,
+   "stockholdersEquity": 28615.0,
+   "rdExpense": 6153.0,
+   "epsDiluted": 7.15,
+   "epsBasic": 7.27,
+   "dividendsPerShare": null,
+   "employees": 386558.0,
+   "flags": [
+    "stockholdersEquity:disagree:28615.0vs[28470.0]",
+    "epsDiluted:disagree:7.15vs[7.18]"
+   ]
+  },
+  {
+   "year": 2008,
+   "currency": "USD_millions",
+   "revenue": 103630.0,
+   "netIncome": 12334.0,
+   "totalAssets": 109524.0,
+   "stockholdersEquity": 13584.0,
+   "rdExpense": 6337.0,
+   "epsDiluted": 8.89,
+   "epsBasic": 9.02,
+   "dividendsPerShare": null,
+   "employees": 398455.0,
+   "flags": [
+    "stockholdersEquity:disagree:13584.0vs[13465.0]",
+    "epsDiluted:disagree:8.89vs[8.93]"
+   ]
+  },
+  {
+   "year": 2009,
+   "currency": "USD_millions",
+   "revenue": 95758.0,
+   "netIncome": 13425.0,
+   "totalAssets": 109022.0,
+   "stockholdersEquity": 22755.0,
+   "rdExpense": null,
+   "epsDiluted": 10.01,
+   "epsBasic": 10.12,
+   "dividendsPerShare": null,
+   "employees": 399409.0,
+   "flags": [
+    "revenue:disagree:95758.0vs[4076.0]"
+   ]
+  },
+  {
+   "year": 2010,
+   "currency": "USD_millions",
+   "revenue": 99870.0,
+   "netIncome": 14833.0,
+   "totalAssets": 113452.0,
+   "stockholdersEquity": 23172.0,
+   "rdExpense": null,
+   "epsDiluted": 11.52,
+   "epsBasic": 11.69,
+   "dividendsPerShare": null,
+   "employees": 426751.0,
+   "flags": [
+    "revenue:disagree:99870.0vs[98018.0]"
+   ]
+  },
+  {
+   "year": 2011,
+   "currency": "USD_millions",
+   "revenue": 106916.0,
+   "netIncome": 15855.0,
+   "totalAssets": 116433.0,
+   "stockholdersEquity": 20236.0,
+   "rdExpense": null,
+   "epsDiluted": 13.06,
+   "epsBasic": 13.25,
+   "dividendsPerShare": null,
+   "employees": 433362.0,
+   "flags": [
+    "revenue:disagree:106916.0vs[105056.0, 4195.0]"
+   ]
+  },
+  {
+   "year": 2012,
+   "currency": "USD_millions",
+   "revenue": 104507.0,
+   "netIncome": 16604.0,
+   "totalAssets": 119213.0,
+   "stockholdersEquity": 18984.0,
+   "rdExpense": 5816.0,
+   "epsDiluted": 14.37,
+   "epsBasic": 14.53,
+   "dividendsPerShare": null,
+   "employees": 434246.0,
+   "flags": [
+    "revenue:disagree:104507.0vs[102874.0, 4073.0]"
+   ]
+  },
+  {
+   "year": 2013,
+   "currency": "USD_millions",
+   "revenue": 98367.0,
+   "netIncome": 16483.0,
+   "totalAssets": 126223.0,
+   "stockholdersEquity": 22929.0,
+   "rdExpense": 5743.0,
+   "epsDiluted": 14.94,
+   "epsBasic": 15.06,
+   "dividendsPerShare": null,
+   "employees": 431212.0,
+   "flags": [
+    "revenue:disagree:98367.0vs[99751.0]",
+    "epsBasic:disagree:15.06vs[15.42]"
+   ]
+  },
+  {
+   "year": 2014,
+   "currency": "USD_millions",
+   "revenue": 92793.0,
+   "netIncome": 12022.0,
+   "totalAssets": 117532.0,
+   "stockholdersEquity": 12014.0,
+   "rdExpense": 5437.0,
+   "epsDiluted": 15.59,
+   "epsBasic": 15.68,
+   "dividendsPerShare": null,
+   "employees": null,
+   "flags": [
+    "revenue:disagree:92793.0vs[4522.0]"
+   ]
+  },
+  {
+   "year": 2015,
+   "currency": "USD_millions",
+   "revenue": 81741.0,
+   "netIncome": 13190.0,
+   "totalAssets": 110495.0,
+   "stockholdersEquity": 14424.0,
+   "rdExpense": 5247.0,
+   "epsDiluted": 13.6,
+   "epsBasic": 13.66,
+   "dividendsPerShare": null,
+   "employees": null,
+   "flags": []
+  },
+  {
+   "year": 2016,
+   "currency": "USD_millions",
+   "revenue": 79919.0,
+   "netIncome": 11872.0,
+   "totalAssets": 117470.0,
+   "stockholdersEquity": 18392.0,
+   "rdExpense": 5751.0,
+   "epsDiluted": 12.39,
+   "epsBasic": 12.44,
+   "dividendsPerShare": null,
+   "employees": null,
+   "flags": [
+    "revenue:disagree:79919.0vs[3494.0]"
+   ]
+  },
+  {
+   "year": 2017,
+   "currency": "USD_millions",
+   "revenue": 79139.0,
+   "netIncome": 5753.0,
+   "totalAssets": 125356.0,
+   "stockholdersEquity": 17725.0,
+   "rdExpense": 5590.0,
+   "epsDiluted": null,
+   "epsBasic": 6.17,
+   "dividendsPerShare": null,
+   "employees": null,
+   "flags": [
+    "revenue:disagree:79139.0vs[3168.0]",
+    "rdExpense:disagree:5590.0vs[5787.0]"
+   ]
+  },
+  {
+   "year": 2018,
+   "currency": "USD_millions",
+   "revenue": 79591.0,
+   "netIncome": 8728.0,
+   "totalAssets": 123382.0,
+   "stockholdersEquity": 16929.0,
+   "rdExpense": 5379.0,
+   "epsDiluted": null,
+   "epsBasic": 9.56,
+   "dividendsPerShare": null,
+   "employees": null,
+   "flags": []
+  },
+  {
+   "year": 2019,
+   "currency": "USD_millions",
+   "revenue": 77147.0,
+   "netIncome": 9431.0,
+   "totalAssets": 152186.0,
+   "stockholdersEquity": 20985.0,
+   "rdExpense": 5989.0,
+   "epsDiluted": 10.57,
+   "epsBasic": 10.63,
+   "dividendsPerShare": null,
+   "employees": null,
+   "flags": [
+    "revenue:disagree:77147.0vs[57714.0]"
+   ]
+  },
+  {
+   "year": 2020,
+   "currency": "USD_millions",
+   "revenue": 55179.0,
+   "netIncome": 5590.0,
+   "totalAssets": 155971.0,
+   "stockholdersEquity": 20727.0,
+   "rdExpense": null,
+   "epsDiluted": 6.13,
+   "epsBasic": 6.18,
+   "dividendsPerShare": null,
+   "employees": null,
+   "flags": [
+    "revenue:disagree:55179.0vs[73620.0]",
+    "epsBasic:disagree:6.18vs[4.42]"
+   ]
+  },
+  {
+   "year": 2021,
+   "currency": "USD_millions",
+   "revenue": 57350.0,
+   "netIncome": 5743.0,
+   "totalAssets": 132001.0,
+   "stockholdersEquity": 18996.0,
+   "rdExpense": 6488.0,
+   "epsDiluted": null,
+   "epsBasic": 5.26,
+   "dividendsPerShare": null,
+   "employees": null,
+   "flags": []
+  },
+  {
+   "year": 2022,
+   "currency": "USD_millions",
+   "revenue": 60530.0,
+   "netIncome": 1639.0,
+   "totalAssets": 127243.0,
+   "stockholdersEquity": 22021.0,
+   "rdExpense": 6567.0,
+   "epsDiluted": null,
+   "epsBasic": 1.97,
+   "dividendsPerShare": null,
+   "employees": null,
+   "flags": []
+  },
+  {
+   "year": 2023,
+   "currency": "USD_millions",
+   "revenue": 61860.0,
+   "netIncome": 7502.0,
+   "totalAssets": 135241.0,
+   "stockholdersEquity": 22613.0,
+   "rdExpense": 6775.0,
+   "epsDiluted": null,
+   "epsBasic": null,
+   "dividendsPerShare": null,
+   "employees": null,
+   "flags": []
+  },
+  {
+   "year": 2024,
+   "currency": "USD_millions",
+   "revenue": 62753.0,
+   "netIncome": 6023.0,
+   "totalAssets": 137175.0,
+   "stockholdersEquity": 27393.0,
+   "rdExpense": 7479.0,
+   "epsDiluted": null,
+   "epsBasic": null,
+   "dividendsPerShare": null,
+   "employees": null,
+   "flags": []
+  },
+  {
+   "year": 2025,
+   "currency": "USD_millions",
+   "revenue": 67535.0,
+   "netIncome": 10593.0,
+   "totalAssets": 151880.0,
+   "stockholdersEquity": 32740.0,
+   "rdExpense": null,
+   "epsDiluted": null,
+   "epsBasic": null,
+   "dividendsPerShare": null,
+   "employees": null,
+   "flags": []
+  }
+ ]
+}

@@ -1,0 +1,444 @@
+[
+ {
+  "page": 1,
+  "table_index": 0,
+  "rows": [
+   [
+    ""
+   ],
+   [
+    ""
+   ]
+  ]
+ },
+ {
+  "page": 1,
+  "table_index": 1,
+  "rows": [
+   [
+    ""
+   ],
+   [
+    ""
+   ],
+   [
+    ""
+   ],
+   [
+    ""
+   ]
+  ]
+ },
+ {
+  "page": 1,
+  "table_index": 2,
+  "rows": [
+   [
+    "",
+    ""
+   ]
+  ]
+ },
+ {
+  "page": 1,
+  "table_index": 3,
+  "rows": [
+   [
+    null,
+    "",
+    "",
+    ""
+   ],
+   [
+    null,
+    "",
+    null,
+    ""
+   ],
+   [
+    null,
+    "",
+    null,
+    ""
+   ],
+   [
+    "",
+    null,
+    null,
+    ""
+   ],
+   [
+    "",
+    null,
+    null,
+    ""
+   ]
+  ]
+ },
+ {
+  "page": 1,
+  "table_index": 4,
+  "rows": [
+   [
+    "",
+    ""
+   ]
+  ]
+ },
+ {
+  "page": 1,
+  "table_index": 5,
+  "rows": [
+   [
+    ""
+   ],
+   [
+    ""
+   ]
+  ]
+ },
+ {
+  "page": 2,
+  "table_index": 0,
+  "rows": [
+   [
+    ""
+   ],
+   [
+    ""
+   ]
+  ]
+ },
+ {
+  "page": 2,
+  "table_index": 1,
+  "rows": [
+   [
+    ""
+   ],
+   [
+    ""
+   ],
+   [
+    ""
+   ],
+   [
+    ""
+   ]
+  ]
+ },
+ {
+  "page": 2,
+  "table_index": 2,
+  "rows": [
+   [
+    "",
+    ""
+   ]
+  ]
+ },
+ {
+  "page": 2,
+  "table_index": 3,
+  "rows": [
+   [
+    null,
+    "",
+    "",
+    ""
+   ],
+   [
+    null,
+    "",
+    null,
+    ""
+   ],
+   [
+    null,
+    "",
+    null,
+    ""
+   ],
+   [
+    "",
+    null,
+    null,
+    ""
+   ],
+   [
+    "",
+    null,
+    null,
+    ""
+   ]
+  ]
+ },
+ {
+  "page": 2,
+  "table_index": 4,
+  "rows": [
+   [
+    "",
+    ""
+   ]
+  ]
+ },
+ {
+  "page": 2,
+  "table_index": 5,
+  "rows": [
+   [
+    ""
+   ],
+   [
+    ""
+   ]
+  ]
+ },
+ {
+  "page": 4,
+  "table_index": 0,
+  "rows": [
+   [
+    ""
+   ],
+   [
+    "Software"
+   ]
+  ]
+ },
+ {
+  "page": 4,
+  "table_index": 1,
+  "rows": [
+   [
+    ""
+   ],
+   [
+    "Consulting"
+   ]
+  ]
+ },
+ {
+  "page": 4,
+  "table_index": 2,
+  "rows": [
+   [
+    ""
+   ],
+   [
+    "Infrastructure"
+   ]
+  ]
+ },
+ {
+  "page": 14,
+  "table_index": 0,
+  "rows": [
+   [
+    "Software\nData and AI ● Automation ●Security ●\nTransaction Processing",
+    "Software and SaaS Partners"
+   ],
+   [
+    "AI and data platform watsonx\nwatsonx.ai ● watsonx.data● watsonx.governance",
+    null
+   ],
+   [
+    "Hybrid cloud platform Red Hat\nOpenShift ● Enterprise Linux ● Ansible Automation Platform",
+    null
+   ]
+  ]
+ },
+ {
+  "page": 73,
+  "table_index": 0,
+  "rows": [
+   [
+    "Acquisition Segment Description of Acquired Business"
+   ],
+   [
+    "First Quarter\nStepZen, Inc. Software Developer of GraphQL to help build\napplication programming interfaces (APIs)\nAsset Strategy Library (ASL) Portfolio of Software Library of industrial asset management data\nUptake Technologies\nNS1 Software Leading provider of network automation\nSaaS solutions"
+   ],
+   [
+    "Second Quarter\nAhana Cloud, Inc. Software Expert in open-source-based solutions for\ndata analytics\nPolar Security Software Innovator in technology that helps\ncompanies discover, continuously monitor\nand secure cloud and SaaS application data\nAgyla SAS Consulting Leading provider of cloud platform\nengineering services in France specializing\nin Cloud, DevOps and Security"
+   ],
+   [
+    "Third Quarter\nApptio, Inc. Software Leading provider of financial and operational\nIT management and optimization software\nwhich enables enterprise leaders to deliver\nenhanced business value across technology\ninvestments"
+   ],
+   [
+    "Fourth Quarter\nManta Software, Inc. Software World-class data lineage platform to\ncomplement capabilities within watsonx.ai,\nwatsonx.data and watsonx.governance\nEquine Global Consulting ERP specialist and cloud consulting services\nprovider"
+   ]
+  ]
+ },
+ {
+  "page": 75,
+  "table_index": 0,
+  "rows": [
+   [
+    "Acquisition Segment Description of Acquired Business"
+   ],
+   [
+    "First Quarter\nEnvizi Software Data and analytics software provider for\nenvironmental performance management\nSentaca Consulting Telco consulting services and solutions\nprovider specializing in automation, cloud\nmigration, and future networks for\ntelecommunications providers\nNeudesic Consulting Application development and cloud\ncomputing services company"
+   ],
+   [
+    "Second Quarter\nRandori Software Leading attack surface management (ASM)\nand cybersecurity provider\nDataband.ai Software Proactive data observability platform that\nisolates data errors and issues to alert\nrelevant stakeholders"
+   ],
+   [
+    "Third Quarter\nOmnio Software Developer of software connectors used in\nthe collection of raw data for various\nIndustrial Internet of Things (IoT)\napplications"
+   ],
+   [
+    "Fourth Quarter\nDialexa Consulting Digital product engineering services firm\nOcto Consulting IT modernization and digital transformation\nservices provider exclusively serving the\nU.S. federal government"
+   ]
+  ]
+ },
+ {
+  "page": 77,
+  "table_index": 0,
+  "rows": [
+   [
+    "Acquisition Segment Description of Acquired Business"
+   ],
+   [
+    "First Quarter\nNordcloud Consulting Consulting company providing services in\ncloud implementation, application\ntransformation and managed services\nTaos Mountain, LLC (Taos) Consulting Leading cloud professional and managed\nservices provider\nStackRox Software Innovator in container and Kubernetes-\nnative security"
+   ],
+   [
+    "Second Quarter\nTurbonomic, Inc. (Turbonomic) Software Application Resource Management and\nNetwork Performance Management\nsoftware provider\nECX Copy Data Management business from Software Smart data protection solution\nCatalogic Software, Inc.\nWaeg Consulting Leading Salesforce consulting partner\nmyInvenio Software Process mining software company"
+   ],
+   [
+    "Third Quarter\nVEVRE Software business from Volta, Inc. Software Cloud-native virtual routing engine\nBoxBoat Technologies Consulting Premier DevOps consultancy and enterprise\nKubernetes certified service provider\nBluetab Solutions Group Consulting Data solutions service provider"
+   ],
+   [
+    "Fourth Quarter\nSXiQ Digital Pty Ltd Consulting Digital transformation services company\nspecializing in cloud applications, cloud\nplatforms and cloud cybersecurity\nMcD Tech Labs from McDonald’s Software Asset purchase to accelerate the\ndevelopment and deployment of\nMcDonald’s Automated Order Taking (AOT)\ntechnology\nReaQta Software Provider of endpoint security solutions\ndesigned to leverage AI to automatically\nidentify and manage threats\nAdobe Workfront practice from Rego Consulting Work management software consulting for\nConsulting Corporation enterprise clients\nPhlyt Software Cloud-native development consultancy"
+   ]
+  ]
+ },
+ {
+  "page": 109,
+  "table_index": 0,
+  "rows": [
+   [
+    "Plan",
+    null,
+    "Eligibility",
+    "Funding",
+    "Benefit Calculation",
+    "Other"
+   ],
+   [
+    "U.S. Defined Benefit\n(DB) Pension Plans",
+    "Qualified Personal\nPension Plan\n(Qualified PPP) (1)",
+    "U.S. regular, full-time and\npart-time employees\nhired prior to January 1,\n2005",
+    "Company contributes to\nirrevocable trust fund, held for\nsole benefit of participants\nand beneficiaries",
+    "Vary based on the\nparticipant:\nFive-year, final pay\nformula based on salary,\nyears of service,\nmortality and other\nparticipant-specific\nfactors\nCash balance formula\nbased on percentage of\nemployees’ annual\nsalary, as well as an\ninterest crediting rate",
+    "Benefit accruals ceased\nDecember 31, 2007 (1)\nCertain defined benefit\npension obligations and\nrelated plan assets were\ntransferred in 2022, as\ndescribed below"
+   ],
+   [
+    null,
+    "Excess Personal\nPension Plan (Excess\nPPP)",
+    null,
+    "Unfunded, provides benefits in\nexcess of IRS limitations for\nqualified plans",
+    null,
+    null
+   ],
+   [
+    null,
+    "Supplemental\nExecutive Retention\nPlan (Retention Plan)",
+    "Eligible U.S. executives",
+    "Unfunded",
+    "Based on average\nearnings, years of\nservice and age at\ntermination of\nemployment",
+    null
+   ],
+   [
+    "U.S. Defined\nContribution (DC)\nPlans",
+    "401(k) Plus (1)",
+    "U.S. regular, full-time and\npart-time employees",
+    "All contributions are made in\ncash and invested in\naccordance with participants’\ninvestment elections",
+    "Dollar-for-dollar match,\ngenerally 5 or 6 percent\nof eligible compensation\nand automatic\ncontribution of 1, 2 or 4\npercent of eligible\ncompensation,\ndepending on date of\nhire",
+    "Employees generally\nreceive contributions\nafter one year of service"
+   ],
+   [
+    null,
+    "Excess 401(k) Plus (2)",
+    "U.S. employees whose\neligible compensation is\nexpected to exceed IRS\ncompensation limit for\nqualified plans",
+    "Unfunded, non-qualified\namounts deferred are record-\nkeeping (notional) accounts\nand are not held in trust for the\nparticipants, but may be\ninvested in accordance with\nparticipants’ investment\nelections (under the 401(k)\nPlus Plan options)",
+    "Company match and\nautomatic contributions\n(at the same rate under\n401(k) Plus Plan) on\neligible compensation\ndeferred and on\ncompensation earned in\nexcess of the IRC pay\nlimit. The percentage\nvaries depending on\neligibility and years of\nservice",
+    "Employees generally\nreceive contributions\nafter one year of service.\nAmounts deferred into\nthe Plan, including\ncompany contributions,\nare recorded as\nliabilities"
+   ],
+   [
+    "U.S. Nonpension\nPostretirement\nBenefit Plan",
+    "Nonpension\nPostretirement Plan",
+    "Medical and dental\nbenefits for eligible U.S.\nretirees and eligible\ndependents, as well as\nlife insurance for eligible\nU.S. retirees",
+    "Company contributes to\nirrevocable trust fund, held for\nthe sole benefit of participants\nand beneficiaries",
+    "Varies based on plan\ndesign formulas and\neligibility requirements",
+    "Since January 1, 2004,\nnew hires are not eligible\nfor these benefits"
+   ],
+   [
+    "Non-U.S. Plans",
+    "DB or DC",
+    "Eligible regular\nemployees in certain non-\nU.S. subsidiaries or\nbranches",
+    "Company deposits funds\nunder various fiduciary-type\narrangements, purchases\nannuities under group\ncontracts or provides reserves\nfor these plans",
+    "Based either on years of\nservice and the\nemployee’s\ncompensation (generally\nduring a fixed number of\nyears immediately\nbefore retirement) or on\nannual credits",
+    "In certain countries,\nbenefit accruals have\nceased and/or have\nbeen closed to new hires\nas of various dates"
+   ],
+   [
+    null,
+    "Nonpension\nPostretirement Plan",
+    "Medical and dental\nbenefits for eligible non-\nU.S. retirees and eligible\ndependents, as well as\nlife insurance for certain\neligible non-U.S. retirees",
+    "Primarily unfunded except for\na few select countries where\nthe company contributes to\nirrevocable trust funds held for\nthe sole benefit of participants\nand beneficiaries",
+    "Varies based on plan\ndesign formulas and\neligibility requirements\nby country",
+    "Most non-U.S. retirees\nare covered by local\ngovernment sponsored\nand administered\nprograms"
+   ]
+  ]
+ },
+ {
+  "page": 116,
+  "table_index": 0,
+  "rows": [
+   [
+    "Item",
+    "Description of Assumptions"
+   ],
+   [
+    "Discount Rate",
+    "Changes in discount rate assumptions impact net periodic (income)/cost and the PBO.\nFor the U.S. and certain non-U.S. countries, a portfolio of high-quality corporate bonds is used to construct\na yield curve. Cash flows from the company’s expected benefit obligation payments are matched to the\nyield curve to derive the discount rates.\nIn other non-U.S. countries where the markets for high-quality long-term bonds are not as well developed,\na portfolio of long-term government bonds is used as a base, and a credit spread is added to simulate\ncorporate bond yields at these maturities in the jurisdiction of each plan. This is the benchmark for\ndeveloping the respective discount rates."
+   ],
+   [
+    "Expected Long-\nTerm Returns on\nPlan Assets",
+    "Represents the expected long-term returns on plan assets based on the calculated market-related value of\nplan assets and considers long-term expectations for future returns and the investment policies and\nstrategies discussed on pages 114 to 115. These rates of return are developed and tested for\nreasonableness against historical returns by the company.\nThe use of expected returns may result in pension income that is greater or less than the actual return of\nthose plan assets in a given year. Over time, however, the expected long-term returns are designed to\napproximate the actual long-term returns, and therefore result in a pattern of income or loss recognition that\nmore closely matches the pattern of the services provided by the employees.\nThe difference between actual and expected returns is recognized as a component of net loss or gain in\nAOCI, which is amortized as a component of net periodic (income)/cost over the service lives or life\nexpectancy of the plan participants, depending on the plan, provided such amounts exceed certain\nthresholds provided by accounting standards. The market-related value of plan assets recognizes changes\nin the fair value of plan assets systematically over a five-year period in the expected return on plan assets\nline in net periodic (income)/cost.\nThe projected long-term rate of return on plan assets for 2024 is 5.00 percent for U.S. and 4.90 percent for\nnon-U.S. DB Plans."
+   ],
+   [
+    "Rate of\nCompensation\nIncreases and\nMortality\nAssumptions",
+    "Compensation rate increases are determined based on the company’s long-term plans for such increases.\nMortality assumptions are based on life expectancy and death rates for different types of participants and\nare periodically updated based on actual experience."
+   ],
+   [
+    "Interest Crediting\nRate",
+    "Benefits for participants in Cash Balance Plans are calculated using a cash balance formula. An assumption\nunderlying this formula is an interest crediting rate, which impacts both net periodic (income)/cost and the\nPBO. This provides the basis for projecting the expected interest rate that plan participants will earn on the\nbenefits that they are expected to receive in the following year."
+   ],
+   [
+    "Healthcare Cost\nTrend Rate",
+    "For nonpension postretirement benefit plans, the company determines healthcare cost trend rates based\non medical cost inflation expectations in each market and IBM’s plan characteristics. The healthcare cost\ntrend rate is an important consideration when setting future expectations for plan costs or benefit\nobligations, taking into account the terms of the plan which limit the company’s future obligations to the\nparticipants.\nThe company’s U.S. healthcare cost trend rate assumption for 2024 is 6.69 percent and is expected to\ndecrease to 4.50 percent over approximately 14 years."
+   ]
+  ]
+ },
+ {
+  "page": 124,
+  "table_index": 0,
+  "rows": [
+   [
+    null,
+    "",
+    ""
+   ],
+   [
+    null,
+    null,
+    ""
+   ],
+   [
+    "",
+    "",
+    ""
+   ]
+  ]
+ }
+]

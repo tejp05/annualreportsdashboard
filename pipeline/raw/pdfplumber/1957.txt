@@ -1,0 +1,857 @@
+
+
+===== PAGE 1 =====
+Annual Report
+
+===== PAGE 2 =====
+
+
+===== PAGE 3 =====
+A6
+th Annual Report
+for the year ended
+December ^ij igj-/
+International Business Machines Corporation ^90 Madison Avenue New York 22, N. Y.
+
+===== PAGE 4 =====
+Board of Directors: Willis H. Booth Grayson Kirk
+Walker G. Buckner tWilliam L. Kleitz
+t Drury W Cooper Louis H. LaMotte
+Paul L. Davies John G. Phillips
+Edward M. Douglas Gilbert H. Scribner
+Sherman M. Fairchild Jeannette K. Watson
+* John Clifford Folger Thomas J. Watson, Jr.
+Edward E. Ford Albert L. Williams
+Executive and Finance Committee: John G. Phillips, Chairman
+Willis H. Booth Louis H. LaMotte
+t Drury W Cooper Gilbert H. Scribner
+Sherman M. Fairchild Thomas J. Watson, Jr.
+Edward E. Ford Albert L. Williams
+-j- Deceased * On leave of absence while serving, as U. S. Ambassador to Belgium
+Officers: Thomas J. Watson, Jr President
+Louis H. LaMotte Executive Vice President
+Albert L. Williams Executive Vice President
+T. Vincent Learson . Vice President and Group Executive
+John J. Bricker Vice President
+John J. Kenney Vice President
+William J. Mair Vice President
+W Wallace McDowell Vice President
+John C. McPherson Vice President
+H. Wisner Miller, Jr Vice President
+Jay W Schnackel Vice President
+Charles V Boulton Treasurer
+Harry M. Sibley Controller
+Henry W Trimble, Jr Secretary
+Garland B. Briggs Assistant Treasurer
+Herbert T. Hansford Assistant Treasurer
+Bernard F. Wiegard Assistant Controller
+General Managers:
+Product Divisions: Data Processing Louis H. LaMotte
+Electric Typewriter H. Wisner Miller, Jr.
+Military Products Charles F. McElwain
+Special Engineering Products Jerrier A. Haddad
+Supplies William B. McWhirter
+Time Equipment Paul S. Wells
+Subsidiary Companies: IBM World Trade Corporation Arthur K. Watson, President
+The Service Bureau Corporation . . . Orland M. Scott, President
+Transfer Agent: Empire Trust Company, New York
+Registrar and Trustee: Guaranty Trust Company of New York
+
+===== PAGE 5 =====
+Contents:
+Page 4: Highlights of the Year
+5: President's Letter
+8; Report to Stockholders
+24: Balance Sheet
+26: Income and Retained Earnings Statement
+27: Auditor's Certificate
+28: I o-Year Statement of Operations
+31: Domestic Branch Office, Manufacturing and Laboratory Locations
+32: Foreign Branch Office, Manufacturing and Laboratory Locations
+Cover Picture: Reflection of an IBM 704 electronic computer on the
+surface of an earth satellite model in the IBM Vanguard Computing
+Center, Washington, D. C.
+
+===== PAGE 6 =====
+1957 1956
+Highlights of the year:
+Gross income from sales, service and rentals $ 1,000,431,597 ^734339780
+Net income before taxes $ 186,291,589 $ 143,784,510
+Federal taxes on income $ 97,000,000 $ 75,000,000
+Net income $ 89,291,589 $ 68,784,510
+Per share $7-73 $6.35
+Cash dividends $ 25,407,174 ^ I9,937>I58
+Per share $ 2.20 $ 1.90
+Stock dividend 2V2%
+Stock split-up 100% 25%
+Expenditures for rental machines and parts,
+factory and office equipment, and land and buildings $ 326,336,537 $ 208,443,483
+At end of year:
+Total assets 1,086,969,222 $769,049,451
+Net investment in factories, offices, rental machines and parts 671,656,529 $ 501,806,262
+Long-term indebtedness 375,000,000 $ 330,000,000
+Net current assets 294,744,740 $ 124,224,661
+Number of employees ... domestic 60,281 51,192
+Number of employees ... IBM World Trade Corporation 23,501 21,312
+Number of stockholders 57,330 31,024
+
+===== PAGE 7 =====
+To the Stockholders:
+In 1957, its most successful year to date, IBM's gross income in the U. S. exceeded
+the bilhon dollar level for the first time. Gross income amounted to $1,000,431,597,
+an increase of $266,091,817 over the previous year.
+Earnings were $89,291,589, a $20,507,079 increase over 1956.
+Cash dividends of $25,407,174 were paid during the year, an increase of
+$5,470,016 over the previous year.
+Earnings per share were $7.73, based on the 11,552,460 shares outstanding after
+both the stock split effected May 7, 1957, and the 1,050,223 shares sold through
+the rights offering which ended June 10. In 1956, earnings were $6.55 per share on
+the 10,502,237 shares outstanding December 31, 1956, as adjusted for the
+May 7, 1957 stock split.
+IBM World Trade Corporation, the wholly-owned subsidiary which handles
+IBM's business outside the U. S., also had its most successful year. The World Trade
+Corporation and its foreign subsidiaries attained gross income of $202,162,053
+for the year, a $44,491,210 increase over 1956. Earnings were $27,205,855,
+a $4,745,954 increase over the previous year. Operations outside the U. S. are not
+included with the parent company's except to the extent of cash dividends received
+from IBM World Trade Corporation which amounted to $6,000,000 in 1957,
+an increase of $2,000,000 over 1956.
+The Corporation's public offering of 1,050,223 additional shares of capital stock
+last spring was well received. As a result, over $226,000,000 was made available
+to help finance the Company's continued growth.
+In recognition of the competitive nature of our industry—and looking to IBM's
+future—the Corporation continued to expand its research and development functions.
+In addition to specific product development work, increasing emphasis was
+placed on basic research activities concerned with advanced new principles and
+materials for incorporation into business and scientific machines of the future.
+During the year the Company continued to progress in its program of
+decentralization—the placing of each IBM product family in a separate operating
+division, assisted and advised in its operations by a Corporate Staff. As a further part
+of the decentralization program, three regional headquarters were established to
+strengthen IBM sales and service operations throughout the country.
+
+===== PAGE 8 =====
+The record performance of IBM during the year was a direct result of the efforts
+of the nearly 84,000 employees who make up the IBM team in both the U. S.
+and abroad. We acknowledge with thanks their vital contributions to the continued
+progress of the Company.
+Our country's scientific leadership was challenged during 1957, vividly
+demonstrating to all Americans the critical importance of scientific progress. IBM
+plays a significant part in the world race for scientific supremacy. The Company
+supplies many of the powerful electronic computing systems and related equipment
+employed by our scientists in most every field of endeavor from basic research to
+the development of advanced military weapons systems. IBM is proud of its
+opportunity to build increasingly better machines to help U. S. scientists further
+their accomplishments.
+January 28, 1938 By order of the Board of Directors,
+President
+Right: The fiat magnetic disks xvhich make up the memory section of the IBM 303 RAMAC Accounting
+Machine are shown in special orange racks used to store disks during manufacturing process.
+
+===== PAGE 9 =====
+
+
+===== PAGE 10 =====
+Gross and Net Income:
+The gross income of the Corporation and its domestic operating subsidiary company
+for the year 1957 from sales, service and rentals in the United States amounted to
+|i,000,431,597, compared with $734,339,780 in 1956, an increase of 1266,091,817.
+Net income before taxes amounted to $186,291,589, compared with $143,784,510
+for the previous year, an increase of $42,507,079.
+U. S. Federal income taxes amounted to $97,000,000, compared with $75,000,000
+in 1956, an increase of $22,000,000.
+Net income after taxes amounted to $89,291,589, compared with $68,784,510 in
+1956, an increase of $20,507,079. Net income after taxes for the year 1957 was
+equivalent to $7.73 per share on the 11,552,460 shares outstanding after both the
+100% stock split effected May 7, 1957, and the 1,050,223 shares of additional stock
+sold through the rights offering which ended June 10, 1957. This compares with net
+income after taxes for the year 1956 of $6.55 per share on 10,502,237 shares, the
+number of shares outstanding December 31, 1956, adjusted for the 100% stock
+split-up of May 7, 1957.
+During 1956, the Corporation changed its method of computing depreciation for
+rental machines produced since January i, 1956 from the straight line to the sum of
+Grass Income from Sales, Service, Rentals in U. S.:
+1948
+1949
+1950
+1951
+1952
+1953
+1954
+1955
+1956
+1957
+In millions of dollars o 125 250 375 500 625 750 875
+
+===== PAGE 11 =====
+New IBM plant at San Jose, California, is arranged
+campus-style, including manufacturing btdldings (center),
+adjacent product development laboratory, education
+building and an advanced research laboratory.
+
+===== PAGE 12 =====
+the years-digits method. This change resulted in a reduction of net income after taxes
+amounting to $11,438,518 for the year 1957 and $4,264,688 for the year 1956.
+As stockholders were previously advised, under the consent decree entered into
+with the Department of Justice on January 25, 1956, the Corporation is required
+to offer for sale, as well as for lease, new punched card accounting and data processing
+machines. It is also required until July 1958 to permit customers to purchase punched
+card accounting and data processing machines previously under lease to them. For the
+year 1957, the net income after taxes included $3,927,000 derived from the outright
+sale to customers of machines previously under lease to them.
+Dividends:
+Cash dividends totaling $25,407,174 were paid to stockholders in 1957, compared
+with $19,937,158 in the previous year.
+In May 1957, the Corporation's capital stock was split up by issuing one additional
+share for each share held at the close of business on May 7, 1957, which resulted
+in increasing the issued and outstanding capital stock from 5,251,118 shares to
+Net Income and Income Taxes
+1948
+1949
+1950
+1951
+1952
+1953
+1954
+1955
+1956
+1957
+In millions of dollars o 25 50 75 125 150 175
+
+===== PAGE 13 =====
+10,502,237 shares. The March 1957 regular quarterly cash dividend payment was
+at the rate of $1.00 per share, and the subsequent quarterly rate of $.60 per share
+on the increased number of shares arising from the split-up represented an increase
+of 20% in the rate of cash dividends.
+The Board of Directors on October 29, 1957 declared a 2^2% stock dividend,
+payable on January 28, 1958 to stockholders of record at the close of business on
+January 6, 1958.
+The regular quarterly cash dividend payable March 10, 1958, at the rate of $.65 per
+share is the one hundred and seventy-second consecutive quarterly cash dividend paid
+by the Company.
+Data Processing Division:
+Punched card and electronic data processing machine systems are widely employed in
+business for cost accounting, production and inventory control, budgetary control,
+billing and sales analysis. There are many other applications of IBM systems in such
+major industries as banking, insurance, communications, chain stores, petroleum,
+public utilities, transportation and manufacturing.
+In local, state, and federal government operations, IBM data processing systems are
+used for such functions as census-taking, motor vehicle registration, unemployment
+compensation, conservation, police work, as well as general accounting tasks.
+In science, IBM systems are helping in the solution of a wide range of problems
+including nuclear physics, medicine, ballistic missiles, weather forecasting and aircraft
+design.
+Deliveries of the first production models of the IBM 305 RAMAC commenced in the
+latter part of the year. This machine processes business transactions as they flow through
+an office. Conventional equipment requires that records of business transactions be
+gathered up in quantity and sorted before processing. Another, more powerful RAMAC
+system—the IBM 650 RAMAC—is being put into volume production. The 650 RAMAC
+combines the vast memory capacity of RAMAC data storage units with the powerful
+calculating ability of the IBM 650 computer.
+Among the major new products introduced in 1957 is the IBM 709 Electronic
+Data Processing System. The IBM 709 is a large-scale digital computer which
+handles both business and scientific problems of greatly increased size and com-
+plexity. The versatility of this system will permit a more scientific approach by
+businessmen to problems ranging from sales forecasting to optimum production
+and shipping schedules.
+Another advanced product is the IBM 705 III Electronic Data Processing System,
+which is designed specifically to handle large quantities of business data. Applications
+include inventory control, life insurance premium recording, and freight car record
+
+===== PAGE 14 =====
+processing. Business information equivalent to the amount contained in one full
+length novel may be read in and out of the 705 III every fifteen seconds.
+The research activities of the division continue to emphasize the field of solid
+state materials, leading to the development of more compact and powerful data
+processing systems.
+The IBM program of providing leading colleges and universities with computers
+for research and training purposes was notably advanced by the establishment of a
+computer center at the Massachusetts Institute of Technology at Cambridge, Massachu-
+setts. Heart of the center is an IBM large-scale computer which is being used by students
+and faculty members of M.I.T and other New England schools. Arrangements have
+also been made for a computer center" at the University of California at Los Angeles.
+This center is also being built around an IBM large-scale computer and will serve col-
+leges and universities in eleven western States.
+Electric Typewriter Division:
+Acceptance and use of the IBM Electric Typewriter, noted for dependability and ease
+of operation, continued to grow during the year. There is a Standard model IBM
+Electric Typewriter, and an Executive model with proportional spacing that produces
+distinctive copy resembling printing.
+In addition there are special purpose IBM typewriters such as the Input-Output
+Typewriter, which automatically types results of work done by various machines and
+recording devices in plants and laboratories.
+IBM typewriter manufacturing operations were transferred to the new plant in
+Lexington, Kentucky, during the year. A modern engineering laboratory devoted
+exclusively to electric and electronic typewriter systems was also established at
+that location.
+Supplies Division:
+Materials and supplies used in the operation of various types of IBM equipment are
+handled by the Supplies Division. These supplies include primarily the punched cards
+and magnetic tapes used in conjunction with IBM data processing systems.
+The IBM punched card is involved in the everyday activities of most Americans.
+The cards are widely used for such vital documents as birth certificates, gas and
+electric bills. Government "E" bonds, postal money orders, motor vehicle registra-
+tions, and checks.
+Right: Multi-colored reels of paper stock in IBM'j Greencastle, Indiana, card plant are ready to be
+fed into card manufacturing machines (background). Finished cards are stacked in boxes and begin
+their trip on overhead conveyors (upper left) to IBM customers.
+
+===== PAGE 15 =====
+
+
+===== PAGE 16 =====
+Watch on America is kept by Air Force officers as they
+observe rnock air battle plotted by huge electronic computers
+built by IBM for the SAGE air defense system. The IBM
+computers will automatically track invading aircraft and
+direct missiles and interceptor aircraft to meet an attacker.
+
+===== PAGE 17 =====
+Magnetic tapes, which are capable of recording data at ultra high speeds, are used
+to store information for processing by IBM systems.
+Military Products Division:
+IBM continued to play an important role during the year in the production of elec-
+tronic defense equipment for the United States Government.
+Shipment of special purpose electronic computers by the Military Products Division
+for the SAGE continental air defense system of the Air Force is proceeding on schedule
+from the Kingston, New York plant.
+Another important IBM contribution to the U. S. defense establishment is the
+development and construction of the electronic bombing and navigation system
+known as BRANE for intercontinental bombers. Production of the BRANE system is
+carried on in a new plant located at Owego, New York.
+In addition to these major production contracts, the company is actively engaged
+in research and development activities in connection with the defense effort.
+Time Equipment Division:
+Products of the Time Equipment Division are performing essential time recording
+and control functions in a wide variety of locations such as offices, plants, stores,
+commercial broadcasting stations, military training centers, schools, hospitals, and
+other institutions. These products include clocks, time recorders, program signaling
+equipment, and central control systems.
+A new product introduced during the year was the IBM 8200 Time Punch, which
+punches employee payroll and other labor cost data into IBM cards at the source of the
+operation—thereby permitting subsequent recording and accounting functions to be
+performed automatically. In contrast, conventional time recorders print payroll and
+labor cost data on the cards, requiring manual computation, key punching and
+verification.
+Another new product announced during the year was the IBM 610 Auto-Point
+Computer, a desk-side computer which handles a wide variety of engineering and
+commercial problems. Examples are bridge and highway design; sales forecasting;
+stress, flutter and vibration analyses encountered in jet aircraft design; matrix arith-
+metic; actuarial computations; cam design; heat transfer calculations. An outstanding
+feature of the 610 is simplicity of operation.
+Special Engineering Products Division:
+Special machines and systems which extend the use of regular IBM products to fulfill
+special commercial and scientific requirements of customers are developed and pro-
+duced by the Special Engineering Products Division, which during 1957 had its first
+full year of operation.
+
+===== PAGE 18 =====
+The Service Bureau Corporation:
+Data processing services are furnished on a contract basis to industry, science and
+government by The Service Bureau Corporation, a wholly-owned but independently
+operated subsidiary formed on January i, 1957. These activities previously were
+furnished by the parent company. There are 82 branch office locations in principal
+U. S. cities, each operating punched card accounting machine systems. Seventeen
+of these service bureaus are also equipped with electronic data processing systems.
+This Corporation performs a variety of data processing services for its customers,
+including such applications as payroll, sales accounting, inventory control, cost dis-
+tribution, statistical analysis and scientific computing.
+Capital Expenditures:
+During the year 1957, the Corporation's increased volume of business and replace-
+ment of obsolete equipment required an investment of $326,336,537 in rental
+machines and parts, factory and office equipment, land and buildings. Rental machines
+sold, previously under lease to customers, and dismantled and obsolete equipment
+amounting to $40,038,204 were written off and charged against cost of sales or
+reserves provided out of prior and current years' earnings.
+A plant and laboratory were completed at the Corporation's military products
+facility at Owego, New York, providing 410,000 square feet of floor space and, as
+a result of additional Air Force research and development contracts, further expan-
+sion is under way which will add 158,000 square feet for engineering.and adminis-
+tration. The Owego facilities are constructed under necessity certificates granted by
+the U. S. Government.
+Construction was completed during the year at San Jose, California, of manufac-
+turing, laboratory and educational facilities comprising 456,000 square feet, utilized
+primarily for the manufacture of data processing equipment.
+A new plant comprising 568,000 square feet, which will include engineering
+and educational facilities, is nearing completion at Rochester, Minnesota, with data
+processing machines now being produced at that location.
+Also nearing completion are school buildings at Endicott and Poughkeepsie, New
+York, comprising 113,000 and 124,000 square feet respectively.
+At Sherman, Texas, a 56,000 square foot plant has been erected for the manufacture
+of supply items for our equipment. Plans were announced for construction of a similar
+plant of 125,000 square feet at Dayton, New Jersey.
+The Corporation has leased a 72,000 square foot plant near Burlington, Vermont,
+for the manufacture of data processing machine components.
+Electric typewriter manufacturing and engineering were transferred from Kingston,
+New York, to Lexington, Kentucky, and a 727,000 square foot plant and engineering
+laboratory is nearing completion at that location.
+
+===== PAGE 19 =====
+Desk-side computer is the IBM 610 Auto-Point Computer
+announced during the year by the company's Time
+Equipment Division. Instructions are fed to the computer
+on punched tape (left) and results may be written
+out on punched paper tape or an IBM Electric Typewriter.
+Operator is seated at the control console.
+
+===== PAGE 20 =====
+The Corporation has under construction an engineering laboratory with 132,000
+square feet of floor space in Kingston, New York, for work on the SAGE Air Defense
+System and other defense engineering projects.
+A research laboratory of 50,000 square feet is being completed at Yorktown, New
+York, with additional facilities scheduled to be constructed at a later date.
+As a part of the company's long-range expansion plans, land has been purchased
+near Boulder, Colorado. There are no plans at present for construction on this site.
+In order to facilitate service to customers, construction began on a Data Processing
+Division parts center near Harrisburg, Pennsylvania, to be occupied on a lease basis
+when completed.
+Long-term Indebtedness:
+The Corporation's long-term indebtedness, all of which is held by The Prudential
+Insurance Company of America, increased $45,000,000 during 1957.
+Capital Expenditures:
+1948
+1949
+1950
+1951
+1952
+1953
+1954
+1955
+1956
+1957
+In millions of dollars o 40 160 240 280 320
+
+===== PAGE 21 =====
+Above left:
+Television camera is trained on instructor at the
+company's Poughkeepsie, New York, plant tvhere
+experimental program of training customer engineers
+by television is being carried otit. Through closed-
+circuit TV, one teacher in a central location can
+instruct a large number of students in detail on the
+operation and servicing of IBM ^nachines.
+Above right:
+Control typewriter, operated by typist (background),
+sends electronic impulses to typeivriter in foreground,
+causing it to type. Up to four remote typewriters
+may be operated by master typewriter, thereby
+reducing repetitive typing operations.
+Right:,
+St. Louis Service Bureau, pictured in an evening rain,
+offers data processing services on a contract basis.
+The bureau is one of a chain of 82 offices operated
+throughout the United States by The Service Bureau
+Corporation, a wholly-otvned subsidiary of IBM.
+
+===== PAGE 22 =====
+As shown below, the Corporation's long-term indebtedness at December 31, I957
+amounted to 1375,000,000, on which the average rate of interest is 3.61%.
+Amount:
+Eighteen-year 2debentures, due February i, 1965 $ 20,000,000
+Twenty-year 3% promissory note, due July 1,1968 35,000,000
+3^/2% promissory notes, due December i, 1971 50,000,000
+3%% promissory note, due July i, 1974 30,000,000
+3%% promissory note, due July i, 1977 25,000,000
+3%% promissory notes, due January 1,2052 115,000,000
+3% % promissory notes, due May i, 2055 100,000,000
+$ 375,000,000
+After January i, i960 with respect to the $i 15,000,000 notes,and after May i, 1963
+with respect to the $100,000,000 notes, at the option of either the Corporation or
+Prudential, the notes may be converted as a whole but not in part into 2 5-year 3^/2%
+notes, with provision for equal annual prepayments, without premium, commencing
+with the sixth year after date of such conversion, to effect retirement of the notes
+by their maturity.
+The Corporation is obligated under an agreement with Prudential dated July 31,
+1956 to borrow an additional $125,000,000 against its 3%% notes which will be
+dated and issued in various amounts from time to time not later than December 31,
+1959 and will mature in the amount of $25,000,000 on July i, 1977, and $50,000,000
+on July I, 1983 and July i, 1989.
+Common Stock Offering:
+In the Corporation's first public offering of securities since 1925, 1,050,223 shares of
+capital stock were offered to shareholders at a subscription price of $220 for each
+new share, at the rate of one additional share for each ten shares held at the close of
+business May 21, 1957. The subscription offer expired on June 10, 1957, and sub-
+scriptions through the exercise of rights totaled 99.8% of the offering. The offering
+was underwritten by a group of investment firms.
+The additional equity financing, required for anticipated capital expenditures and
+as working capital, resulted in net proceeds to the Corporation of approximately
+$226,000,000 after payment of underwriting commissions and other expenses.
+Stock Option Plan:
+A Stock Option Plan was approved by stockholders at the 1956 annual meeting,
+authorizing a total of 50,000 shares as available for restricted stock options to be
+. /
+
+===== PAGE 23 =====
+granted to officers and key employees. Under provisions of the Plan, stock dividends
+and split-ups proportionately increase the number of shares subject to the Plan, and
+the 100% stock split-up effective May 7, 1957 resulted in a total of 100,000 shares
+being authorized for stock option purposes.
+Reflecting this stock split-up, shares issuable under outstanding options totale4
+60,426 at the beginning of 1957, with a balance of 39,574 unoptioned shares. During
+the year a portion of one outstanding option was cancelled to the extent of 1,107
+shares, and new options for a total of 3,507 shares were granted to four individuals.
+At December 31, 1957 options were outstanding for 62,826 shares, which had been
+granted to 41 officers and other key employees at prices ranging from $217 to I350
+per share. None of the options were exercisable at December 31, 1957 and 37,174
+shares remained available for additional options.
+Under the Plan, the option price must be 100% of market price of IBM stock on
+the New York Stock Exchange on the date of grant of the option and options are
+exercisable in eight annual installments beginning two years after their grant.
+IBM World Trade Corporation:
+All IBM business outside the United States, its territories and possessions is carried on
+by the IBM World Trade Corporation and its foreign subsidiaries. The IBM World
+Trade Corporation is a wholly-owned, independently-operated subsidiary of IBM. Sales
+and service organizations are maintained in 84 countries. Manufacturing or assembly
+plants are located in Argentina, Australia, Belgium, Brazil, Canada, France, West
+Germany, Italy, Japan, The Netherlands, Norway, Sweden, Switzerland and the
+United Kingdom. Construction began on a new plant in The Netherlands, and existing
+plants in France, West Germany and Italy were enlarged during the year.
+The Corporation's investment in and advances to IBM World Trade Corporation
+increased during the year 1957 from $27,100,625 to 127,593,181 as a result of the
+year's transactions. The total equity in IBM World Trade Corporation at December
+31, 1957, including retained earnings, aggregated $137,909,059 compared with
+$116,210,647 at December 31, 1956.
+A comparison of the results of operations of IBM World Trade Corporation and
+its foreign subsidiaries for the years ended December 31, 1957 and 1956 is as follows:
+19^ 1956
+Gross income from sales, service and
+rentals in foreign countries $ 202,162,053 $ 157,670,843
+Net income for the year 27,205,85.5 22,459,901
+Cash dividends to IBM Corporation 6,000,000 4,000,000
+Net income retained in the foreign business $ 21,205,855 $ 18,459,901
+
+===== PAGE 24 =====
+® It is with deep regret that the Directors report the deaths of Drury W. Cooper,
+who was elected to the Board of Directors in 1919, and WiUiam L. Kleitz,
+who joined the Board in January 1957. Mr. Cooper was also a member of the
+Executive and Finance Committee for many years. Both Mr. Cooper and
+Mr. Kleitz served the Corporation with distinction, and the Board is grateful for
+their contributions to the business.
+Annual Meeting of Stockholders:
+A notice, proxy statement and form of proxy for the annual meeting of stockholders
+to be held April 29, 1958, will be sent to stockholders on or about April i, 1958.
+Right: Paris reflections are cast on the window of the IBM France office. The main floor of the
+building, located on Place Vendome, is a data processing center equipped with an IBM 704
+computer. Reflections include typical Paris lampadaires and the Column Vendome.
+
+===== PAGE 25 =====
+J-
+m
+
+===== PAGE 26 =====
+International Business Machines Corporation and its Domestic Operating Subsidiary
+Consolidated Balance Sheet at December 31:
+Assets 1957 1956
+Current Assets:
+Cash $ 52,015,890 $ 38,042,825
+Marketable securities, principally U. S. Treasury . . .
+valued at cost which is less than market 118,407,496 29,646,563
+Notes and accounts receivable —less reserve: 1957,
+$1,160,237; 1956, $908,559 85,565,543 68,304,738
+Accounts receivable (1957, $33,848,463; 1956,
+$42,623,888) and unreimbursed expenditures on mili-
+tary products contracts 79,474,749 53,295,977
+Inventories... valued at lower of average cost or market 42,717,984 $ 378,181,662 34,905,671 $ 224,195,774
+Prepaid Insurance, Taxes, etc 3,004,018 2,822,381
+Watson Fund for Supplementing IBM Retirement Plan:
+Cash 95,853 48,093
+U. S. Treasury securities — at cost plus accrued interest. . 5,135,254 5,231,107 6,545,670 6,593,763
+Investments and Advances:
+Investment in and advances to IBM World Trade Corpo-
+ration, wholly owned subsidiary, operating in countries
+outside of the United States 27,593,181 27,100,625
+Other investments 1,302,724 28,895,905 1,612,395 28,713,020
+Factories, Office Buildings,Other Property inU.S...atcost:
+Land 16,413,723 12,316,826
+Buildings 155,227,407 100,727,077
+17 1,641,130 113,043,903
+Less: Reserve for depreciation and amortization 40,331,886 32,434,456
+131,309,244 80,609,447
+Factory and office equipment, rental machines and parts 1,018,783,675 791,082,569
+Less: Reserve for depreciation and amortization 478,436,390 369,885,754
+540,347,285 671,656,529 421,196,815 501,806,262
+Patents and Goodwill (less reserve for amortization of
+$6,690,597 at December 31, 1956) I 4,918,25 I
+$1,086,969,222 $ 769,049,451
+Notes: At December 31, 1957, unfunded or unprovided for past service under IBM Retirement Plan amounted to $12,409,458.
+
+===== PAGE 27 =====
+Liabilities and Capital 1957 1956
+Current Liabilities:
+U. S. Federal income taxes . . . estimated $ 77,661,228 $ 61,047,891
+Less: U. S. Treasury securities 67,000,059 19,989,063
+10,661,169 41,058,828
+Accounts payable and accruals 72,77 3,753 $ 83,436,922 58,912,285 $ 99,971,113
+Long-Term Indebtedness:
+Eighteen-year 2^8% debentures... due February i, 1965 20,000,000 20,000,000
+Twenty-year 3% promissory note ... due July i, 1968 , . . 35,000,000 35,000,000
+31/2% promissory notes ... due December i, 197 i 50,000,000 50,000,000
+3%% promissory note ... due July i, 1974 30,000,000 30,000,000
+3 % % promissory note ... due July 1,1977 25,000,000 -
+3M % promissory notes ... due January 1,2052 11 5,000,000 115,000,000
+3%% promissory notes ... due May 1,2055 100,000,000 375,000,000 80,000,000 330,000,000
+Reserves:
+Watson fund for supplementing IBM Retirement Plan 5,231,107 6,593,763
+Widows and orphans of IBM veterans who lost their lives
+in World War II and the Korean Conflict 783,650 6,014,757 822,386 7,416,149
+Capital Stock . . . Without Par Value 41 5,803,926 188,832,987
+Represented by 11,552,460 shares at December 31, 1957
+and 5,251,118 shares at December 31, 1956, issued and
+outstanding.
+Retained Earnings 206,7 13,617 622,517,543 142,829,202 331,662,189
+Subject, at December 31,1957, to a charge of $80,846,360
+in respect of stock dividend payable January 28, 1958, to
+stockholders of record January 6, 1958.
+S 1,086,969,222 $ 769,049,451
+The Corporation has entered into a license agreement obligating it to pay a fixed annual royalty of $1,250,000 on October i of each year from 1958 through 1964.
+The financial information on pages 8 to 21 is an integral part of this statement.
+
+===== PAGE 28 =====
+International Business Machines Corporation and its Domestic Operating Subsidiary
+Consolidated Statement of Income and
+Retained Earnings for the year ended Dec. 31:
+1957 195B
+Grass IncDme from Sales, Service and Rentals in U. S. S 1,000,431,597 $ 734,339,780
+Cost of sales, service and rentals, operating expenses,
+and development and engineering expense — exclusive
+of depreciation and amortization $ 666,379,610 $ 479,726,311
+Depreciation of rental machines, depreciation and amor-
+tization of plant and equipment 140,926,641 106,068,798
+Interest on long-term indebtedness 12,390,190 10,268,750
+Amortization of patents and goodwill, including write-
+off in 1957 of unamortized balance of $4,418,250 . . . 4,918,250 824,614,691 500,000 596,563,859
+175,816,906 137,775,921
+Other income 4,474,683 2,008,589
+180,291,589 139,784,510
+Dividends received from IBM World Trade Corporation 6,000,000 4,000,000
+Net income before U. S. Federal income taxes 186,291,589 143,784,510
+Provision for U. S. Federal income taxes . . . estimated . . 97,000,000 75,000,000
+Net Income for the year 89,291,589 68,784,510
+Retained Earnings, January 1 142,829,202 131,878,850
+Total 232,120,791 200,663,360
+Dividends for the year:
+Cash dividends 25,407,174 19,937,158
+Stock dividend . . . 102,424 shares, involving transfer
+from retained earnings to capital stock account of — 25,407,174 37,897,000 57,834,158
+Retained Earnings, December 31 S SOB,713,617 $142,829,202
+Notes: The foregoing income statement includes estimated provision for renegotiation of Government contracts.
+The financial information on pages 8 to 21 is an integral part of this statement.
+
+===== PAGE 29 =====
+Auditor s Certificate:
+R. G. Rankin & Co. 56
+Certified Public Accountants Pine Street, New York 5, N. Y.
+January 28,19^8
+To the Stockholders of
+International Business Machines Corporation:
+In our opinion, the accompanying statements present fairly the consolidated
+financial position of International Business Machines Corporation
+and its domestic operating subsidiary at December ^i, 1957 and the results
+of their operations for the year, in conformity with generally accepted
+accounting principles applied on a basis consistent with that of the previous
+year, and the comparative statement of operations for the past ten years
+presents fairly the financial information included therein. Our examination of
+these statements was made in accordance with generally accepted
+auditing standards, and accordingly included such tests of the accounting
+records and such other auditing procedures as we considered necessary.
+R. G. Rankin & Co.
+
+===== PAGE 30 =====
+Ten-Year Comparative Statement of Operations:
+1357 1956 1955
+Gross income from sales, service and rentals in United States . . $ 1,000,431,597 $ 734,339,780 $ 563,548,792
+Net income before U. S. Federal income and excess profits taxes $ 186,291,589 $ 143,784,510 $ 117,672,633
+U. S. Federal income and excess profits taxes $ 97,000,000 $ 75,000,000 $ 61,800,000
+Net income for the year $ 89,291,589 $ 68,784,510 $ 55,872,633
+Per share . .. outstanding at end of year ($7-73) ($ 13-10) ($ 13-63)
+Per share . .. adjusted (see note) ($7-73) ($ 6.55) (1 5-32)
+Number of shares outstanding at end of year 11,552,460 5,251,118 4,098,471
+Cash dividends $ 25,407,174 $ 19,937,158 $ 16,386,489
+Per share .. . declared in year ($ 2.80) ($ 4-00) ($ 4-oo)
+Per share ... adjusted (see note) ($ 2.20) ($ 1.90) ($ 1.56)
+Stock dividends and split-ups*:
+Per cent *ioo% 2^2% & *2 5% -
+Number of shares issued in year 5,251,119 1,152,647 -
+Shares sold 1,050,223 - -
+Net investment in factories, offices, rental machines and parts in
+United States at end of year $ 671,656,529 $ 501,806,262 $ 409,453,926
+Long-term indebtedness at end of year $ 375,000,000 $ 330,000,000 $ 295,000,000
+Net current assets at end of year $ 294,744,740 $ 124,224,661 $ 131,340,147
+Note; Shares outstanding for 1936 and prior years have been adjusted for
+all stock dividends and split-ups through the 100% split-up in May 1937;
+for 1937, shares sold have also been included.
+
+===== PAGE 31 =====
+1954 1953 1952 1951 1950 1949 1948
+$ 461,350,278 $ 409,989,104 $ 333,728,245 $ 266,798,483 $ 214,916,717 $ 183,464,706 $ 156,397,720
+$ 98,336,625 $ 92,319,210 $ 78,474,541 $ 77,292,090 $ 61,101,309 $ 53,202,332 $ 44,933,035
+$ 51,800,000 $ 58,200,000 $ 48,600,000 $ 49,400,000 $ 27,800,000 $ 19,925,000 $ 16,832,500
+$ 46,536,625 $ 34,119,210 $ 29,874,541 $ 27,892,090 $ 33,301,309 ^ 33,277,332 $ 28,100,535
+($ 11-35) ($ 10.67) ($ 9-8I) ($9.61) ($ 12.05) ($ 12.64) (1 11.21)
+($ 4-43) ($ 3-25) ($ 2.84) ($2.66) ($ 3-17) ($ 3-17) (1 2.68)
+4,098,471 3,198,868 3,046,641 2,901,652 2,763,548 2,632,007 2,506,7 12
+$ 15,558,278 $ 12,779,015 $ 12,172,832 $ 11,577,189 $ 11,044,169 $ 10,518,821 $ 10,022,778
+($4-oo) ($4-oo) ($4-oo) ($ 4-oo) ($4-00) ($ 4-oo) ($ 4-Oo)
+($ 1.48) ($ 1.22) ($ 1.16) ($ 1.10) ($ 1.05) ($ i.oo) -95)
+2^/2% & *2 5% 5% 5% 5% 5% 5% *7 5%
+152,227 144,989 138,104 125,295
+899,603 131,541 1,074,305
+$ 367,272,221 $ 314,789,286 $ 260,986,384 $ 227,632,963 $ 182,704,559 $ 156,005,004 $ 128,361,455
+$ 250,000,000 $ 215,000,000 1 175,000,000 $ 135,000,000 $ 85,000,000 $ 85,000,000 $ 85,000,000
+$ 86,802,892 $ 72,399,460 $ 66,777,269 $ 45,034,221 $ 23,707,234 $ 32,436,501 $ 40,528,513
+
+===== PAGE 32 =====
+IBM punched card unit (right foreground) controls
+every action of the jig boring machine (center) in the company's
+Endicott, New York, plant. Instructions given by the
+punched cards tell the machine which drill to select from the
+revolving counter (left center), tvhere to drill and how deep. The
+punched card unit was specially designed by IBM engineers.
+
+===== PAGE 33 =====
+Domestic Branch Office, Manufacturing and Laboratory Locations:
+Branch Offices: Rockford New Jersey: Puerto Rico: Minnesota:
+Springfield Camden San Juan Minneapolis
+Alabama: hrdiana: *East Orange Rhode Island: Rochester
+Birmingham Evansville Elizabeth Providence New York:
+Mobile Fort Wayne Jersey City Endicott
+Montgomery Hammond Newark South Carolina: Kingston
+Alaska: Indianapolis Paterson Columbia Owego
+Anchorage Lafayette Trenton Greenville Poughkeepsie
+Arizona: South Bend New Mexico: South Dakota: Texas:
+Phoenix Terre Haute Albuquerque Sioux Falls Sherman
+A rkansas: Iowa: New York: Tennessee: Vermont:
+Little Rock Cedar Rapids Albany Chattanooga BBuurrlliinnggttoonn
+Des Moines *Binghamton Kingsport
+California:
+B Fr a e k s e n r o s field Ka T ns o a p s e : ka B B r r o o o n k x lyn K M n e o m x p v h il i l s e Laboratories:
+Glendale Wichita E B l u m ff i a ra lo NNaasshhvviillllee CCaalliiffoorrnniiaa::
+Long Beach Kentucky: Endicott Texas: San Jose
+Los Angeles Lexington Garden City AAuussttiinn Kentucky:
+Oakland Louisville JJJaaammmeeessstttooowwwnnn BBeeaauummoonntt Lexington
+*Pomona CCoorrppuuss CChhrriissttii
+Louisiana: NNNeeewww YYYooorrrkkk
+Richmond DDaallllaass New York:
+Riverside Baton Rouge NNNiiiaaagggaaarrraaa FFFaaallllllsss EEll PPaassoo Endicott
+Sacramento New Orleans PPPooouuuggghhhkkkeeeeeepppsssiiieee FFoorrtt WWoorrtthh Kingston
+San Diego Shreveport QQQuuueeeeeennnsss Galveston New York
+RRRoooccchhheeesssttteeerrr
+San Francisco Maine: Houston Owego
+San Jose Portland SSSccchhheeennneeeccctttaaadddyyy Lubbock Poughkeepsie
+S S a o n u t t a h M Ga o t n e i ca Ma B ry a l l a t n im d: o re UUU SSS WW yyy ttt rrr hh iii aaa ccc ii aaa ccc tt uuu ee ssseee PP llaaiinnss T Sa y n le r A ntonio Sw Z it u ze r r i l c a h n d:
+Canal Zone: Hagerstown Waco
+North Carolina:
+Balboa Heights Massachusetts: Asheville Utah:
+Colorado: Boston Charlotte Salt Lake City ^Service Bureau
+Colorado Springs Cambridge Greensboro V ermont: Corporation
+Denver Framingham Raleigh Montpelier locations only
+Pittsfield Winston-Salem
+Connecticut: Salem Virginia:
+Bridgeport Springfield North Dakota: Norfolk
+Hartford Worcester Bismarck Richmond
+N W e a w te r H b a u v r e y n Michigan: Ohio: Roanoke
+Dearborn Akron Washington:
+Delaware: Detroit Canton Olympia
+Wilmington Flint Cincinnati Richland
+District of Grand Rapids Cleveland Seattle
+Columbia: Kalamazoo Columbus Spokane
+Washington Lansing Dayton Tacoma
+Lima
+Florida: Minnesota: Mansfield West Virginia:
+Jacksonville Duluth Toledo Charleston
+Miami Minneapolis Youngstown Huntington
+Orlando St. Paul Wheeling
+Tallahassee Oklahoma:
+Tampa Mississippi: Oklahoma City Wisconsin:
+Jackson Tulsa Green Bay
+Georgia: Madison
+Atlanta Missouri: Oregon: Milwaukee
+Savannah Jefferson City Portland
+Joplin Salem
+Hawaii: Kansas City Manufacturing:
+Honolulu St. Louis Pennsylvania:
+*Allentown
+Idaho: Montana: Bethlehem California:
+Boise Helena Chester San Jose
+Illinois: Nebraska: Erie District of
+Aurora Lincoln Harrisburg Columbia:
+Chicago Omaha Johnstown Washington
+East St. Louis Philadelphia
+Evanston Nevada: Pittsburgh Indiana:
+Moline Reno Reading Greencastle
+Peoria New Hampshire: Scranton Kentucky:
+River Forest Concord York Lexington
+
+===== PAGE 34 =====
+Foreign Branch Office, Manufacturing and Laboratory locations:
+Branch Offices: Ottawa Bielefeld Genoa Paraguay: Venezuela:
+Quebec Bonn Milan Asuncion Caracas
+Algeria: Regina Braunschweig Naples Peru: Maracaibo
+Algiers Sherbrooke Bremen Palermo Lima Valencia
+Ang L o o l b a i : to T T V o h a r n r o e c e n o t u R o v i e v r e rs C D D o a o l r r o m t g m s n t u e a n d d t R T T r u o i r m e i s n e t e Phi M lip a p n in il e a s : Y B u e g l o g s r la a v d i e a :
+Argentina: Windsor Duesseldorf Venice Portugal:
+Buenos Aires Winnipeg Duisburg Verona Lisbon Manufacturing:
+L M C a o e r n P d d l o a o b t z a a a Cey C lo o n lo : mbo E F F s r r s e a e i n b n k u f r u g r t Jam K a i i n c g a s : ton Sau D d h i ah A r r a a n b ia: Arg B e u n e ti n n o a s : Aires
+Rosario Chile: Friedrichshafen Japan: Singapore: Australia:
+Santa Fe Santiago Hamburg Fukuoka Singapore Sydney
+Tucuman Valparaiso Hannover Nagoya
+Au A M s P t e d r e r a e l t l b l h i a a o i : u d r e n e Co C B l B o o a a m r l g i r b o a i t a n a : q uilla K K K H a a a e r i s i s l s l s e b e r r l r u s o l h a n e u n t ern Jor A O T da o m s n a k : m k y a o a n Spa M S B B i e n a i a l v r : b d c il a e r l o i a l d o na B B e ra l R B g z i r i i u o l u : m s d s : e e l s J aneiro
+Sydney Medellin Kiel Kenya: Canada:
+Austria: Costa Rica: M Mu an en n s h t e e i r m Nairobi Swe E d s e k n il : stuna Toronto
+Graz San Jose Munich Lebanon: Gavle France:
+Linz Cuba: Nuernberg Beirut Goteborg Essonnes
+Vienna Havana Regensburg Libya: Karlstad Vincennes
+Bahamas: Denmark: Siegen Tripoli Malmo Germany {West):
+Nassau Aalborg U St l u m tt gart Luxembourg: S N t o o r c r k k h o o p lm in g B B o e e rl b in li n ( g W en e st)
+Bahrain: Aarhus Wiesbaden Luxembourg Sundsvall Sindelfingen
+Awali Copenhagen
+Wuppertal Madagascar:
+Barbados: Odense Wurzburg Tananarive Switzerland: Italy:
+Bridgetown Dominican Basel Milan
+Republic: Greece: Martinique: Bern Japan:
+Ciudad Trujillo Athens Fort de France Geneva Tokyo
+Leopoldville Ecuador: G uatemdla: Mauritius: Zurich Netherlands:
+Guayaquil Guatemala City Port Louis Syria: Amsterdam
+Antwerp
+Brussels Quito Haiti: Mexico: Damascus Norway:
+Charleroi Egypt: Port au Prince Guadalajara Taiwan: Oslo
+Ghent Cairo Honduras: M M o ex n i t c e o r , r e D y . F. Taipei Sweden:
+Liege El Salvador: Tegucigalpa Thailand: Vallingby
+Bermuda: San Salvador Hong Kong: Morocco: Bangkok Switzerland:
+Hamilton Finland: Hong Kong Casablanca Trinidad and Zurich
+Bolivia: Helsinki Iceland: Netherlands: United Kingdom:
+La Paz Tampere Reykjavik Amsterdam Port of Spain Greenock
+Arnhem
+Brazil: Turku India: Eindhoven Tunisia: London
+Belo Horizonte France: Bombay Groningen Tunis
+Curitiba Bordeaux Calcutta Rotterdam Laboratories:
+Fortaleza Grenoble New Delhi The Hague Turkey:
+Porto Alegre Lille Indochina: Utrecht Ankara France:
+Recife Lyon Saigon Istanbul Paris
+Rio de Janeiro Marseille Netherlands Union of
+Salvador Nancy Indonesia: Antilles: South Africa: Germany:
+Sao Paulo Nantes Djakarta Aruba Capetown Boeblingen
+Bur R m a a n : g oon R P Sa a o a r u i r s e b n r ucken Ira T n: e heran New C ura Z c e a a o la nd: D Jo u h r a b n a n n e sburg Net A h m er s la te n r d d s a : m
+Ca D m o er u o a o l n a s: S S t t . r a E s t b i o en u n rg e Iraq B : a ghdad Nic W ar e a l g l u in a: g ton P P o re r t t o E ri l a iz abeth Un L it o e n d don K ingdom:
+, Toulouse Managua United Kingdom:
+Canada: Ireland:
+Birmingham
+Calgary French Eq. Africa: Dublin Norway:
+Glasgow
+Edmonton Brazzaville Bergen
+Israel: Leeds
+Halifax Oslo
+Hamilton French W. Africa: Haifa Trondheim Liverpool
+Kingston Dakar Tel Aviv London
+Pakistan: Manchester
+Kitchener Germany (West): Italy:
+Karachi Newcastle
+London Aachen Bologna
+Moncton Augsburg Brescia Panama: Uruguay:
+Montreal Berlin (West) Florence Panama Montevideo
+TED IN. U.S..
+
+===== PAGE 35 =====
+
+
+===== PAGE 36 =====

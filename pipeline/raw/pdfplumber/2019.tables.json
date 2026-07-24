@@ -1,0 +1,153 @@
+[
+ {
+  "page": 5,
+  "table_index": 0,
+  "rows": [
+   [
+    null,
+    "",
+    null
+   ],
+   [
+    "",
+    "",
+    ""
+   ],
+   [
+    null,
+    "",
+    null
+   ]
+  ]
+ },
+ {
+  "page": 5,
+  "table_index": 1,
+  "rows": [
+   [
+    null,
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    "",
+    ""
+   ],
+   [
+    null,
+    ""
+   ]
+  ]
+ },
+ {
+  "page": 126,
+  "table_index": 0,
+  "rows": [
+   [
+    "Plan",
+    null,
+    "Eligibility",
+    "Funding",
+    "Benefit Calculation",
+    "Other"
+   ],
+   [
+    "U.S. Defined\nBenefit (DB)\nPension Plans",
+    "Qualified Personal\nPension Plan\n(PPP)",
+    "U.S. regular, full-\ntime and part-time\nemployees hired\nprior to January 1,\n2005",
+    "Company contributes\nto irrevocable trust fund,\nheld for sole benefit\nof participants and\nbeneficiaries",
+    "Vary based on the\nparticipant:\nFive-year, final pay formula\nbased on salary, years of\nservice, mortality and other\nparticipant-specific factors\nCash balance formula\nbased on percentage of\nemployees’ annual salary,\nas well as an interest\ncrediting rate",
+    "Benefit accruals\nceased December 31,\n2007"
+   ],
+   [
+    null,
+    "Excess Personal\nPension Plan\n(PPP)",
+    null,
+    "Unfunded, provides\nbenefits in excess of\nIRS limitations for\nqualified plans",
+    null,
+    null
+   ],
+   [
+    null,
+    "Supplemental\nExecutive\nRetention Plan\n(Retention Plan)",
+    "Eligible U.S.\nexecutives",
+    "Unfunded",
+    "Based on average earnings,\nyears of service and age at\ntermination of employment",
+    null
+   ],
+   [
+    "U.S. Defined\nContribution\n(DC) Plans (1)",
+    "401(k) Plus",
+    "U.S. regular,\nfull-time and part-\ntime employees",
+    "All contributions are\nmade in cash and\ninvested in accordance\nwith participants’\ninvestment elections",
+    "Dollar-for-dollar match,\ngenerally 5 or 6 percent of\neligible compensation and\nautomatic matching of 1,\n2 or 4 percent of eligible\ncompensation, depending on\ndate of hire",
+    "Employees generally\nreceive contributions\nafter one year of\nservice"
+   ],
+   [
+    null,
+    "Excess 401(k)\nPlus",
+    "U.S. employees\nwhose eligible\ncompensation is\nexpected to exceed\nIRS compensation\nlimit for qualified\nplans",
+    "Unfunded, non-\nqualified amounts\ndeferred are record-\nkeeping (notional)\naccounts and are not\nheld in trust for the\nparticipants, but may be\ninvested in accordance\nwith participants’\ninvestment elections\n(under the 401 (k)\nPlus Plan options)",
+    "Company match and\nautomatic contributions\n(at the same rate under\n401(k) Plus Plan) on eligible\ncompensation deferred and\non compensation earned\nin excess of the IRC pay\nlimit. The percentage varies\ndepending on eligibility and\nyears of service",
+    "Employees generally\nreceive contributions\nafter one year of\nservice. Amounts\ndeferred into the Plan,\nincluding company\ncontributions, are\nrecorded as liabilities"
+   ],
+   [
+    "U.S.\nNonpension\nPostretirement\nBenefit Plan",
+    "Nonpension\nPostretirement\nPlan",
+    "Medical and dental\nbenefits for eligible\nU.S. retirees and\neligible dependents,\nas well as life\ninsurance for eligible\nU.S. retirees",
+    "Company contributes\nto irrevocable trust\nfund, held for the sole\nbenefit of participants\nand beneficiaries",
+    "Varies based on plan design\nformulas and eligibility\nrequirements",
+    "Since January 1,\n2004, new hires\nare not eligible for\nthese benefits"
+   ],
+   [
+    "Non-U.S. Plans",
+    "DB or DC",
+    "Eligible regular\nemployees in certain\nnon-U.S. subsidiaries\nor branches",
+    "Company deposits\nfunds under various\nfiduciary-type\narrangements,\npurchases annuities\nunder group contracts\nor provides reserves\nfor these plans",
+    "Based either on years of\nservice and the employee’s\ncompensation (generally\nduring a fixed number of\nyears immediately before\nretirement) or on annual\ncredits",
+    "In certain countries,\nbenefit accruals\nhave ceased and/or\nhave been closed to\nnew hires as of\nvarious dates"
+   ],
+   [
+    null,
+    "Nonpension\nPostretirement\nPlan",
+    "Medical and dental\nbenefits for eligible\nnon-U.S. retirees and\neligible dependents,\nas well as life\ninsurance for certain\neligible non-U.S.\nretirees",
+    "Primarily unfunded\nexcept for a few select\ncountries where the\ncompany contributes to\nirrevocable trust funds,\nheld for the sole benefit\nof participants and\nbeneficiaries",
+    "Varies based on plan design\nformulas and eligibility\nrequirements by country",
+    "Most non-U.S.\nretirees are covered\nby local government\nsponsored and\nadministered\nprograms"
+   ]
+  ]
+ },
+ {
+  "page": 132,
+  "table_index": 0,
+  "rows": [
+   [
+    "Item",
+    "Description of Assumptions"
+   ],
+   [
+    "Discount Rate",
+    "Changes in discount rate assumptions impact net periodic (income)/cost and the PBO.\nFor the U.S. and certain non-U.S. countries, a portfolio of high-quality corporate bonds is used to\nconstruct a yield curve. Cash flows from the company’s expected benefit obligation payments are\nmatched to the yield curve to derive the discount rates.\nIn other non-U.S. countries where the markets for high-quality long-term bonds are not as well\ndeveloped, a portfolio of long-term government bonds is used as a base, and a credit spread is added to\nsimulate corporate bond yields at these maturities in the jurisdiction of each plan. This is the\nbenchmark for developing the respective discount rates."
+   ],
+   [
+    "Expected\nLong-Term\nReturns on\nPlan Assets",
+    "Represents the expected long-term returns on plan assets based on the calculated market-related value\nof plan assets and considers long-term expectations for future returns and the investment policies and\nstrategies discussed on page 132. These rates of return are developed and tested for reasonableness\nagainst historical returns by the company.\nThe use of expected returns may result in pension income that is greater or less than the actual return\nof those plan assets in a given year. Over time, however, the expected long-term returns are designed to\napproximate the actual long-term returns, and therefore result in a pattern of income or loss recognition\nthat more closely matches the pattern of the services provided by the employees.\nThe difference between actual and expected returns is recognized as a component of net loss or gain\nin AOCI, which is amortized as a component of net periodic (income)/cost over the service lives or life\nexpectancy of the plan participants, depending on the plan, provided such amounts exceed certain\nthresholds provided by accounting standards. The market-related value of plan assets recognizes\nchanges in the fair value of plan assets systematically over a five-year period in the expected return\non plan assets line in net periodic (income)/cost.\nThe projected long-term rate of return on plan assets for 2020 is 4.5% for U.S. and 3.4% for\nnon-U.S. DB Plans."
+   ],
+   [
+    "Rate of\nCompensation\nIncreases\nand Mortality\nAssumptions",
+    "Compensation rate increases are determined based on the company’s long-term plans for such increases.\nThese rate increases are not applicable to the U.S. DB pension plans as benefit accruals ceased\nDecember 31, 2007.\nMortality assumptions are based on life expectancy and death rates for different types of\nparticipants and are periodically updated based on actual experience."
+   ],
+   [
+    "Interest\nCrediting Rate",
+    "Benefits for certain participants in the PPP are calculated using a cash balance formula. An assumption\nunderlying this formula is an interest crediting rate, which impacts both net periodic (income)/cost and\nthe PBO. This provides the basis for projecting the expected interest rate that plan participants will earn\non the benefits that they are expected to receive in the following year and is based on the average from\nAugust to October of the one-year U.S. Treasury Constant Maturity yield plus one percent."
+   ],
+   [
+    "Healthcare\nCost Trend\nRate",
+    "For nonpension postretirement benefit plans, the company reviews external data and its own historical\ntrends for healthcare costs to determine the healthcare cost trend rates. The healthcare cost trend rate\nhas an insignificant effect on plan costs or the benefit obligation due to the terms of the plan which\nlimit the company’s obligation to the participants.\nThe company’s U.S. healthcare cost trend rate assumption for 2020 is 6.50 percent. The company assumes\nthat trend rate will decrease to 5.0 percent over the next six years."
+   ]
+  ]
+ }
+]

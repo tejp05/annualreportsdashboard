@@ -1,0 +1,842 @@
+
+
+===== PAGE 1 =====
+I I 11 I j I M.. I.
+H-HtH- f-iH-i-rf}-H-i-H-|-{- 4~HH
+
+===== PAGE 2 =====
+m
+
+===== PAGE 3 =====
+Annual Report
+ik
+'If
+^Jisasm
+for the year ended
+December^i, ig6o
+
+===== PAGE 4 =====
+
+
+===== PAGE 5 =====
+4 Highlights of the Year
+5 President's Letter
+8 Report to Stockholders
+Contents:
+29 Directors and Officers
+30 Balance Sheet
+32 Earnings and Retained Earnings Statement
+33 Auditor's Certificate
+34 10-Year Statement of Operations
+Cover picture: The hastily scrawled
+numbers i, 9, 6 and o as they
+appear to instruments IBM scientists
+are using in the development of
+machines that can read handwritten
+characters. Machines capable
+of unerringly recognizing numbers,
+letters and symbols written by
+the human hand would enable this
+information to be fed into
+data processing systems without first
+converting it into punched cards
+or paper tape.
+Left: A greatly magnified
+section of a computer element being
+"grown" from materials contained
+in a vapor. Microscopic layers of these
+materials are formed one atop the
+other to produce the extremely small
+parts that will be needed in
+future computers.
+
+===== PAGE 6 =====
+Highlights of the year: 1960 1959
+Gross income from sales, service and rentals 1,436,053,085 $ 1,309,788,037
+Net earnings before taxes 345,880,880 $ 300,133,212
+U. S. Federal income taxes 177,700,000 $ 154,500,000
+Net earnings 168,180,880 $ 145,633,212
+Per share I9.1S $7-97
+Cash dividends 54,852,142 S 37P73,97I
+Per share $ 3-00 $2.03
+Stock dividend 2V2%
+Stock split-up 50%
+Expenditures for rental machines and parts, factory and
+office equipment, and land and buildings $ 339>995P42 3 259,789,028
+At end of year:
+1,390,637,247
+Total assets $ i,535,3^5>9^9
+762,773,409
+Net investment in factories, offices, rental machines and parts $ 849,690,933
+425,000,000
+Long-term indebtedness $ 425,000,000
+416,305,843
+Net current assets I 434,586,637
+65,646
+Number of employees... domestic 70,050
+29,266
+Number of employees... IBM World Trade Corporation 34>I9I
+94,912
+Number of employees... total 104,241
+108,883
+Number of stockholders 127,432
+Transfer Agent: Empire Trust Company, New York.
+Registrar: Morgan Guaranty Trust Company of New York.
+
+===== PAGE 7 =====
+IBM
+To the Stockholders: During the year i960, IBM'S gross income from domestic operations amounted
+to $1,436,053,085, an increase of $126,265,048 over the previous year.
+Earnings were $168,180,880, a $22,547,668 increase over 1959.
+Earnings per share Vv^ere $9.18, based on the 18,310,954 shares outstanding at the
+end of the year. Earnings in 1959 were $7.97 per share on the 18,268,943 shares
+outstanding December 31,1959.
+Cash dividends of $54,852,142 were paid during the year, an increase of
+$17,778,171 over the previous year.
+The IBM World Trade Corporation, a wholly-owned subsidiary which carries on
+IBM's business through its subsidiaries outside the United States, had a gross
+income of $372,273,076 in i960, an increase of $75,374,575 over 1959. Earnings
+were $48,809,514, an $8,607,411 increase over 1959.
+IBM World Trade's financial results are not included with the parent company's
+except to the extent of the cash dividends and interest received. During 1960, the IBM
+Company received $14,012,083 from this source, an increase of $3,643,333 over 1959.
+The IBM Company is deeply indebted to its many employees whose efforts and
+abilities are responsible for its continuing success in the face of increasing
+world-wide competition.
+The Company has always endeavored to provide compensation and benefit programs
+that will help assure the security of these employees and their families, and during
+i960 our expenditures in this area totaled $603,074,163 within the United States.
+IBM's progress throughout i960 was highlighted by the rising flow of its new
+
+===== PAGE 8 =====
+solid-state data processing machines to customers in the United States and abroad. Right: Rows of IBM EXECUTARY
+dictation machines ready for shipment
+This equipment includes the medium-sized IBM 1401 which has very quickly
+to customers.
+become the world's most widely accepted electronic accounting system, the IBM 1620
+scientific computer, and the large-scale IBM 7070 and 7090 computer systems.
+A number of promising new products were introduced last year. These include the
+IBM 1410 computer designed for customers whose data processing requirements
+exceed the capacity of the 1401, the IBM 1418 that can optically read numbers
+printed on documents and feed the data directly into a 1401 computer for
+processing, the IBM 3000 punched card data processing system created for small
+business firms abroad, and the IBM EXECUTARY line of office dictation
+equipment.
+No aspect of IBM'S business is more important than service to its customers, and in
+i960 this too was expanded. One illustration is the IBM Systems Research
+Institute which is the first graduate school devoted to the study of the most advanced
+ways of using computers. New knowledge gained from this study is being
+made available to users of IBM data processing equipment.
+IBM's continuing success depends on the ability of its scientists and engineers to
+create the advanced systems and technologies needed to produce the
+information systems of the future. The past year produced significant progress in this
+direction.
+One area of particular importance is process control, which involves the direction
+of continuous production operations by information-processing equipment.
+IBM computers are presently controlling oil refinery operations, and still more
+advanced IBM process control equipment will soon be employed within
+other major industries.
+IBM scientists also made important technological discoveries last year. They
+developed a new optical maser, for example, that can generate beams of light
+which will be capable of carrying vast amounts of information over great
+distances. They also devised a method for producing extremely small computer
+components from materials contained in a vacuum, and developed a technique
+for automatically controlling the fabrication of a cryogenic thin film memory plane
+for possible use in advanced computer circuits.
+Information machines developed and produced by the people of IBM are helping
+mankind achieve a more abundant way of life. We take pride in this accomplishment.
+January 24, 1961 By order of the Board of Directors,
+1/ President
+
+===== PAGE 9 =====
+I
+•1%
+• :
+J
+H
+
+===== PAGE 10 =====
+Gross Income and Net Earnings:
+IBM's gross income from the sale, service and rental of its products in the United
+States amounted to $1,436,053,085 last year, an increase of $126,265,048 over the
+$1,309,788,037 reported for 1959.
+The Company's earnings before taxes totaled $345,880,880, which was $45,747,668
+more than 1959's figure of $300,133,212.
+U.S. Federal income taxes were $177,700,000 in i960, up $23,200,000 from
+$154,500,000 in 1959.
+IBM's earnings after taxes were $168,180,880, or $22,547,668 more than the
+$145,633,212 earned in 1959.
+Earnings in i960 were equivalent to $9.18 per share on the 18,310,954 shares
+of capital stock outstanding on December 31, i960. This compares with $7.97 per
+share on the 18,268,943 shares outstanding at the end of 1959.
+Dividends:
+Cash dividends totaling $54,852,142 were paid to stockholders in i960 compared
+with $37,073,971 in the previous year.
+The regular quarterly cash dividend payable March 10, 1961, at the rate of 75 cents
+per share, will be the one hundred and eighty-fourth consecutive quarterly cash
+dividend paid by the Company.
+Data Processing Division:
+IBM's punched card accounting machines, and its electronic data processing systems, are
+used by customers in nearly every area of American business life.
+This equipment is leased, sold and serviced by the Data Processing Division which
+is devoted exclusively to meeting the needs of IBM'S data processing customers.
+IBM data processing systems are increasingly being used in the solution of advanced
+problems in management. During i960, the division formed more than 1,000 of its
+systems engineers into a specialized group to assist IBM customers in this important area
+of computer application.
+The division also enlarged its library of computer programs—sets of machine instruc-
+tions—which enable IBM customers to get their computers into operation faster, and at
+less cost, than ever before.
+These computer programs are designed to handle major data processing work com-
+mon to all firms within specific industries. A public utility company, for instance,
+could use a program that would automatically instruct its IBM 7070 computer to do a
+large part of its customer billing and accounts receivable work.
+The division also improved customer service by opening the first of a series of Data-
+
+===== PAGE 11 =====
+Gross Income from Sales, Service, Rentals in U. S.:
+1951
+1952
+1953
+1954
+1955
+1956
+1957
+1958
+1959
+1960
+In millions of dollars o 175 350 525 700 875 1,050 1,225 1,400
+Net Earnings and Income Taxes
+1951
+1952
+1953
+1954
+1955
+1956
+1957
+1958
+1959
+1960
+In millions of dollkrs o 40 160 240 280 320
+
+===== PAGE 12 =====
+•
+N
+i •
+M
+
+===== PAGE 13 =====
+Left: Piping system at the new centers in Chicago, Cleveland, Los Angeles, and in the midtown and Wall Street areas
+Enrico Fermi Atomic Power Plant of New York. Datacenters contain IBM's most advanced computers which customers
+near Monroe, Michigan. The
+can rent by the hour. Customers supply their own programmers (people who develop
+final design of this intricate system was
+instructions for computers) and their own operators.
+based on an engineering report
+prepared by specialists at The Service One of the Data Processing Division's most important jobs is keeping customers in-
+Bureau Corporation, a formed about IBM's constantly growing family of data processing products. Among the
+wholly-owned, but independently
+newest of these products is IBM'S high-speed check processing system which the division
+operated subsidiary of IBM. A portion
+took on a tour of 18 major cities during the early part of the year.
+of the Service Bureau's report has been
+superimposed on the picture. This Banking Cavalcade gave several thousand bankers a firsthand opportunity to
+see how this new IBM equipment can automatically process checks by reading char-
+acters printed on them in magnetic ink. By the end of the year, a number of banks had
+started installing these systems and many more had them on order.
+IBM TELE-PROCESSING systems were also emphasized in i960. The most sophisti-
+cated example of this important new line of equipment is the IBM passenger reserva-
+tions system for commercial airlines.
+This system permits airline ticket agents in dozens of cities to key all reservation
+information directly into central computers. The computers immediately update seat-
+ing reservations on all flights, and on request, communicate this information to any
+agent in the system.
+American Airlines, Inc. will begin installing the first of these systems late this year,
+and a number of other airlines are actively examining similar systems designed to meet
+their individual reservations requirements.
+General Products Division:
+IBM's punched card accounting machines, and its small and intermediate data process-
+ing systems, are developed and produced by the General Products Division. Again in
+i960 this division added many new and improved machines to its product line.
+The most significant was the IBM 1410 computer which has more than twice the
+speed and memory capacity of the IBM 1401. The new 1410 extends the advantages
+of the 1400 series family to many additional users, and provides increased capacity
+for customers whose needs outgrow the 1401.
+The usefulness of both the IBM 1401 and the 1410 was greatly extended last year by
+the addition of the random-access capability of the IBM RAMAC system. Combining a
+1400 series computer with a RAM AC memory file produces a new system that can proc-
+ess accounting transactions in whatever order they occur, without first arranging them
+in some kind of sequence.
+General Products also announced the new IBM Optical Reader that can scan the
+
+===== PAGE 14 =====
+printed numbers on retail sales checks and other accounting documents, and feed this Right: A new solid-state IBM 7090
+data processing system in use in
+data directly into an IBM 1401 computer without first converting it into punched cards.
+a customer's New York City office.
+The division introduced a number of significant additions to IBM's growing family
+of TELE-PROCESSING products, including an addition to the IBM Data Transceiver
+that permits it to send and receive IBM punched card information over regular toll
+telephone lines or telegraph wires, and the IBM looi data transmission machine that
+can respond to a telephone call and accept messages in the form of punched cards.
+The IBM 1009 data transmission unit that enables two widely separated IBM 1401
+computers to send data back and forth between themselves over telephone lines was
+also introduced last year, along with the new badge reader that allows an employee
+to automatically include facts about himself whenever he uses an IBM 357 data
+collection system to transmit production-line information to a plant control center.
+Data Systems Division:
+IBM's large-scale electronic data processing systems are developed and manufactured
+by the Data Systems Division.
+The production of these powerful systems is now centered on the solid-state 7000
+series computers which are replacing the 700 series of vacuum-tube machines. The
+7000 series equipment—which includes the IBM 7070, 7074, 7080 and 7090—was
+developed and is being manufactured in the division's plant at Poughkeepsie, New York.
+Data Systems has also started producing the computers which will be used in IBM
+TELE-PROCESSING systems. TELE-PROCESSING is an IBM trademark that describes data
+systems designed to gather information from remote points — process and store it in a
+central computer—and make the data available to all points in the network on demand.
+Work is progressing on the production of several IBM STRETCH machines which are
+the most powerful computing systems in the world. Some of these systems are sched-
+uled for delivery to customers in 1961.
+Every IBM computer uses thousands of solid-state electronic components. The Data
+Systems Division established a component development and manufacturing depart-
+ment last year that will produce a portion of the advanced devices needed to build the
+computers of tomorrow.
+Advanced Systems Development Division:
+The systems that will pioneer IBM's entry into new commercial markets for informa-
+tion collection and processing equipment are created by the Advanced Systems Devel-
+opment Division.
+Before these forward-looking products can be marketed commercially, they must
+
+===== PAGE 15 =====
+
+
+===== PAGE 16 =====
+prove themselves in business environments. Two developments met this requirement Right: Cutting magnetic ink ribbons
+in i960. One was IBM TELE-PROCESSING equipment exemplified by IBM's passenger to size at the Supplies Division
+plant in Dayton, New Jersey. These
+reservations network for commercial airlines. The other was process control.
+ribbons are then packed in boxes
+Process control involves the direction of production operations by information-
+for delivery to users of IBM banking
+processing equipment. IBM'S first process control systems proved themselves at the equipment.
+Standard Oil Company (Indiana), and the Standard Oil Company of California, where
+they are being used in the control of oil refinery processes.
+Advanced Systems is currently investigating other new frontiers of interest to IBM.
+It is developing information storage and retrieval systems, for example, that can hold
+millions of documents and reproduce any one of them on demand. Elements of one
+such system are in operation at a U. S. Government agency.
+Another area of interest is the automatic handling of information in the form of im-
+ages and speech. The usefulness of data processing systems would be increased if they
+could be made to react to pictures, drawings, graphs, and the human voice, in the same
+manner that they react to information contained in punched cards or magnetic tape.
+Today's high-speed computers are increasingly being used to perform many different
+tasks at the same time. In doing this, they must swiftly process a stream of transactions
+which frequently have a bearing on each other. Advanced Systems' mathematicians
+are making significant progress in determining the most efficient way to handle the
+flow of these transactions, including the exact sequence in which they should be
+processed. This work is designed to produce the best possible systems to handle cus-
+tomers' increasingly complex computer requirements.
+Federal Systems Division:
+The United States Government's requirements for information-handling and control
+systems are served by the Federal Systems Division.
+The PSD Systems Center, Bethesda, Maryland, determines total solutions to infor-
+mation-handling problems in advanced space and weapons systems, and their support-
+ing systems. Development of the major elements of such systems are assigned to the
+division's technical centers, including:
+The FSD Space Guidance Center, Owego, New York, that is responsible for developing digi-
+tal guidance systems for satellites, submarines and other vehicles. An example of this activity
+is the recently accelerated development of the bombing and navigation system for the U. S. Air
+Force 2,000 mile-an-hour B-jo Valkyrie bomber.
+The FSD Command Control Center, Kingston, New York, that develops ground-based digi-
+tal systems—the nerve centers of total information systems. Examples of these systems include
+the global information and control computers being developed for the Strategic Air Command,
+
+===== PAGE 17 =====
+mmg
+im
+M i ^ S ii
+
+===== PAGE 18 =====
+and the rugged INFORMER computer for use by tactical armies as a mobile field control center. Right: Railroad yardmaster using
+reports prepared on IBM machines to
+The FSD Commtmications Center, Bethesda, Maryland, that applies advanced communica-
+make up trains of freight cars. The
+tions technologies to su.ch activities as intelligence gathering, undersea warfare, space missions,
+reports are based on information
+and military command-control systems. gathered by an IBM TELE-PROCESSING
+During the year, Federal Systems' technical centers completed shipments of the System.
+large-scale computers used in the SAGE continental air warning system. Bombing and
+navigation systems for Air Force intercontinental bombers continued to be delivered
+in i960, along with IBM 7090 computers equipped with special communications chan-
+nels which are being installed in the Ballistic Missile Early Warning System (BMEWS).
+Federal Systems has started work on a far-flung system of data processing machines
+that will be used by the Internal Revenue Service to automate the collection of Federal
+taxes. Installation of this nation-wide system will require approximately ten years.
+Electric Typewriter Division:
+IBM entered the dictation equipment field last year with a new family of office
+machines designed to help create a more effective Executive-Secretary team. The new
+machines, known as the IBM EXECUTARY line of dictating equipment, are being
+manufactured and sold by the Electric Typewriter Division.
+IBM EXECUTARY dictation machines feature a 4-inch-wide magnetic belt that
+allows an executive to review his dictation whenever he wishes, and revise it by
+simply re-recording over the unwanted material. After a secretary has transcribed the
+dictation, she can completely erase the belt so it can be used again.
+Three models of fully-transistorized IBM EXECUTARY equipment are now available,
+including a dictation unit, a transcriber, and a combination unit with both dictating
+and transcribing features. The division expects to broaden this line of machines
+eventually to include portable and remote models.
+Sales of all divisional products, including electric typewriters, electronic typing
+calculators and supplies rose to another record high last year.
+An important advance in IBM typewriter supply technology was made in i960
+with the introduction of a plastic ribbon which produces typewritten characters
+which are extremely well defined.
+IBM's electric typewriters, the new EXECUTARY line of dictation equipment, and
+the 632 typing calculator that combines electronic calculating with an IBM electric
+typewriter in a single unit, are produced at the division's manufacturing plant and
+development laboratory in Lexington, Kentucky.
+
+===== PAGE 19 =====
+-
+m
+
+===== PAGE 20 =====
+
+
+===== PAGE 21 =====
+Supplies Division:
+Left: Using a computer-controlled The Supplies Division provides the carefully designed punched cards, pretested mag-
+plotting board to simulate a low netic tapes and other materials used to get information in and out of IBM data process-
+altitude bombing flight over rugged
+ing machines.
+The division put a number of new products into production last year including bank
+checks imprinted with magnetic ink characters. This enables the checks to be read and
+sorted by IBM'S high-speed check processing machines.
+Customer service was also improved last year when the division opened a new card
+design center in Houston, and five new warehouses in Omaha, Des Moines, St. Louis,
+Syracuse and Rochester, Minnesota.
+Punched card users can now discuss their more intricate card design requirements
+with IBM experts at 19 locations throughout the country, and receive prompt deliveries
+from a nationwide network of 21 IBM card manufacturing plants and warehouses.
+The Service Bureau Carporation:
+The Service Bureau Corporation is a wholly-owned, but independently operated sub-
+sidiary of IBM that is supplying a growing list of companies with data processing serv-
+ices on a contract basis.
+SBC offices throughout the country are equipped to handle a customer's data proc-
+essing work from start to finish. At the present time, SBC serves more than 10,000
+clients ranging from neighborhood businessmen to the nation's 50 largest industrial
+corporations.
+SBC's major business is the preparation of repetitive reports such as payrolls and
+sales analyses. It is extending this service through a new series of programs that enable
+customers to utilize SBC data processing capabilities in more specialized areas of their
+operations.
+More than 20 banks, for example, are using SBC'S new demand deposit accounting
+program, and well over 300 public accountants are using a new SBC program that
+helps them by producing financial reports for their smaller clients. In i960, SBC intro-
+duced special programs for secondary schools, fire and casualty insurance agencies,
+piping engineers and automobile dealers.
+SBC is making more large-scale computer systems available to handle customers'
+data processing work, and now offers this service in New York, Boston, Dallas, Los
+Angeles and San Jose, California, SBC has also started installing the first of 25 IBM
+1401 computers in its major offices around the country. Some of these machines will
+be linked to SBC's big computer systems via IBM TELE-PROCESSING equipment.
+
+===== PAGE 22 =====
+Research:
+The advanced techniques needed to create future information systems are developed Right: Experimental model of a
+at IBM's research laboratories in the United States. digital hydraulics system that operates
+on command from a computer.
+One of the most significant discoveries announced last year was a method for gener-
+Such a system may eventually be used
+ating a continuous ray of light that could be beamed on a less than one-mile-wide to control more precisely the
+surface located 100,000 miles in space. performance of vehicles moving
+through space.
+These sharply-focused rays, which are produced by a device called a maser, will be
+capable of carrying vast amounts of information. As a result, they show promise in
+space communication and navigation, data processing, radar, the control of chemical
+reactions and many other fields.
+Solid-state computers of the future will use complex components that are much
+smaller than the transistors and other parts used in today's machines. IBM scientists
+have developed a new technique that can "grow" these minute components from a
+vapor containing the required materials. The technique may eventually be used to pro-
+duce entire computer circuits composed of several different kinds of these advanced
+components.
+IBM is developing a variety of advanced memory devices which can store great
+quantities of information and make this data available at speeds of up to billionths of
+a second. These memories consist of very high-speed magnetic cores, cryogenic planes,
+magnetic thin films, tunnel diodes, and photoscopic materials.
+During i960, for example, IBM scientists discovered a method for duplicating
+cryogenic thin film memory planes the size of postage stamps, using automatic con-
+trol techniques. These tiny circuits, which operate in liquid helium baths where the
+temperature approaches 450 degrees below zero, may someday be used in computers
+to perform unusually fast arithmetic, logic and switching functions.
+A photoscopic memory was also developed last year which can "remember" two
+million Russian words. This memory unit, which consists of a flexible film disk
+small enough to fit into a business envelope, shows promise for IBM's new solid-state
+Mark II language translating machine which can render Russian into English. Work
+is progressing on the translation of other foreign languages including French and
+Chinese.
+Other important areas of IBM research include the study of magnetics, luminescent
+materials, crystal structures, microwaves, automatic abstracting of printed articles,
+advanced machine languages used to instruct computers, the theory of machines, the
+use of machines in communication, and the relationship between machines and men.
+The spectrum of IBM research activities is being constantly expanded in order to
+provide the scientific and engineering knowledge necessary to maintain the Corpora-
+tion's technological leadership in the marketplace.
+
+===== PAGE 23 =====
+« •r-
+f
+>
+•v- 0
+-1
+-
+r :
+il
+
+===== PAGE 24 =====
+Capital Expenditures:
+The increased volume of IBM's business during i960, together with the need to replace Right: IBM 1401 data processing
+obsolete equipment, required the Corporation to invest 1339,995,042 in rental ma- systems undergoing a series of final
+tests at the plant in Endicott,
+chines and parts, factory and office equipment, land and buildings.
+New York.
+Dismantled and obsolete equipment and rental machines sold previously under
+lease to customers amounting to $102,410,392 were written off and charged against
+cost of sales or reserves provided out of prior and current years' earnings.
+IBM continued to enlarge its research, development and manufacturing facilities
+last year. Construction was completed on a 70,000 square foot card manufacturing
+plant at Campbell, California. The 460,000 square foot Yorktown Research Center
+at Yorktown, New York, was partially occupied last year and will be fully completed
+in early 1961. IBM also purchased the 108,000 square foot product development labo-
+ratory in Poughkeepsie, New York, which it had formerly leased.
+Construction was started on a 245,000 square foot materials distribution center at
+Poughkeepsie, New York, and a 180,000 square foot addition to the product develop-
+ment laboratory at Endicott, New York.
+During 1961, IBM plans to begin construction on a 155,000 square foot product
+development laboratory at Poughkeepsie, a 150,000 square foot product development
+laboratory at San Jose, California, and a 250,000 square foot headquarters office build-
+ing at Armonk, New York, for the Data Systems and General Products Divisions.
+1951
+1952
+1953
+1954
+1955
+1956
+1957
+1958
+1959
+1960
+In millions of dollars 40 160 240 280 320
+
+===== PAGE 25 =====
+
+
+===== PAGE 26 =====
+Long-Term Indebtedness:
+IBM's total amount of long-term indebtedness, all of which is held by The Pru-
+dential Life Insurance Company of America, did not change during i960. It amounted
+to $425 million and carried an average interest rate of 3.57%.
+On January 4, i960, Prudential exercised its option to convert its $115 million
+issue of 3%% notes due January i, 2052, into a 25-year note bearing a 3^2% interest
+rate. IBM will retire this note by a series of 20 equal annual payments to Prudential
+beginning in January, 1966.
+After May i, 1963, either IBM or Prudential may elect to convert a $100 million
+issue of 3%% promissory notes due May i, 2055 into new 25-year notes bearing a
+interest rate. If converted, these notes would also be retired through a series
+of 20 equal annual payments beginning six years after the conversion date.
+Stock Option Plan:
+Under the terms of the Stock Option Plan which share owners approved in 1956,
+the Corporation's officers and other key employees may be granted options to purchase
+IBM stock at 100% of the market price on the day the option is granted.
+This stock may not be purchased until two years after the option is granted, and
+purchases can only be made in installments extending over the following eight years.
+The number of shares which may be purchased is adjusted to allow for stock splits
+and dividends declared after the option is granted, in accordance with the Plan.
+During i960, options were granted for 11,629 shares, and terminated for 892
+shares. A total of 7,566 shares were purchased during the year, for which IBM received
+$1,199,026. This amount was credited to the capital stock account.
+As of December 31, i960, 76 executives held options for 114,644 shares, of which
+14,672 shares had become available for purchase. Option prices ranged from $137.70
+to I588.50 per share, adjusted for stock dividends and split-ups. A balance of 15,359
+shares remained available for future option grants.
+Stock Purchase Plan for IBM Employees:
+The IBM Employees 1958 Stock Purchase Plan, adopted by share owners on April
+29, 1958, was extended by the Board of Directors to be effective for the third plan
+year starting July i, i960.
+All regular employees who have completed one year's continuous service, and are
+not participants in the Stock Option Plan, may purchase IBM stock through payroll
+deductions not exceeding 10% of their regular rate of pay. Employees can use these
+deductions to buy IBM shares at a price 15% below the market price on the day the
+stock is purchased.
+
+===== PAGE 27 =====
+During i960, 34,445 shares were issued to employees, for which 114,183,802
+was paid to the Corporation and credited to the capital stock account. At the end of
+the year, 421,953 shares of unissued capital stock were reserved for sale under this Plan.
+IBM World Trade Carporation:
+IBM's growing business in the 91 countries it serves outside the United States is con-
+ducted by a wholly-owned subsidiary, the IBM World Trade Corporation.
+World Trade's branches and subsidiaries employ more than 34,000 people, and
+operate 18 manufacturing plants, 6 laboratories and 284 sales offices in all parts of the
+Free World.
+IBM's international operations were strengthened in many different ways last year.
+World Trade continued to consolidate the production of IBM products in its most
+suitably located European plants, for example, in order to take advantage of the
+internal tariff reductions taking place among the nations within each of Europe's two
+regional marketing areas.
+World Trade also enlarged its facilities by completing a new manufacturing plant
+in Argentina, and expanding its plants in Scotland, France and Japan. Construction
+was started on new laboratory buildings in France, Holland and Germany, and a new
+office building in West Berlin.
+During the year, in response to the growing needs of small business firms abroad,
+World Trade introduced the low-priced IBM 3000 punched card data processing sys-
+tem. Developed entirely within World Trade laboratories, it uses a card approximately
+one-half the size of a standard IBM card.
+IBM World Trade also extended its business at the other end of the data processing
+spectrum. Orders for medium and large-scale data processing systems increased at a
+substantially higher rate than in previous years. In addition. World Trade began pro-
+duction in Europe of IBM'S 140I and 7070 solid-state systems to meet growing
+demands abroad.
+IBM's investment in and advances to the IBM World Trade Corporation rose to
+$83,562,594 last year from $57,255,603 in 1959 as a result of the year's transactions,
+including an additional IBM loan of $17,500,000 to World Trade. This loan was made
+to assist in financing production required by the increased overseas demand for IBM
+products. The 20-year loan carries a 5 % interest rate.
+The Company's equity in the IBM World Trade Corporation on December 31, i960,
+including retained earnings, totaled $286,404,828, compared with $223,588,323 a
+year earlier.
+A comparison of the results of operations of IBM World Trade Corporation and its
+
+===== PAGE 28 =====
+foreign subsidiaries for the years ended December 31, i960, and December 31, 1959, Right: Brilliantly colored
+is as follows: phosphorescent materials that glow in
+the dark. These are one of
+many substances that IBM scientists are
+i960 1959 studying for possible use in
+Gross income from sales,
+information systems of the future.
+service and rentals in foreign countries $ 372,273,076 $ 296,898,501
+Net income for the year $ 48,809,514 $ 40,202,103
+Cash dividends to IBM Corporation
+(Included in IBM earnings) 12,300,000 10,200,000
+Net income retained in the foreign business
+(Not included in IBM earnings) $ 36,509,514 $ 30,002,103
+Annual Meeting of Stockholders:
+This year's stockholders meeting will be held on April 25, 1961. On or about April i,
+stockholders will receive a formal notice of the meeting, a proxy statement and a
+proxy ballot.
+
+===== PAGE 29 =====
+-
+*v ' \ •, '
+
+===== PAGE 30 =====
+- ' - ^ :: •
+.. : V -
+f
+t IS-
+V
+H
+H* • >
+. ' «
+»
+
+===== PAGE 31 =====
+Board of Directors: Bruce Bromley Partner, Cravath, Swaine & Moore, attorneys at law.
+Walker G. Buckner Partner, Buckner & Co., investment bankers.
+Paul L. Davies Chairman of the Board, Food Machinery & Chemical Corporation.
+Sherman M. Fairchild Chairman of the Board, Fairchild Camera & Instrument Corporation, and
+Fairchild Engine & Airplane Corporation.
+John Clifford Folger Chairman of the Board, Folger, Nolan, Fleming-W. B. Hihbs & Co., Inc., investment bankers.
+Edward E. Ford Retired.
+James R. Killian, Jr. Chairman, Corporation of the Massachusetts Institute of Technology.
+Grayson Kirk President, Columbia University.
+Louis H. LaMotte Chairman of the Executive and Finance Committee.
+William H. Moore Chairman of the Board, Bankers Trust Company.
+John G. Phillips Retired.
+Gilbert H. Scribner Senior Partner, Scribner & Co., real estate.
+Arthur K. Watson President, IBM World Trade Corporation.
+Thomas J. Watson, Jr President of IBM.
+Albert L. Williams Executive Vice President of IBM,
+Mrs. Thomas J. Watson Honorary Director.
+Executive and Finance Committee: Louis H. LaMotte, Chairman
+Sherman M. Fairchild Gilbert H. Scribner
+Edward E. Ford Thomas J. Watson, Jr.
+John G. Phillips Albert L. Williams
+Officers: Thomas J. Watson, Jr. President
+Albert L. Williams Executive Vice President
+T Vincent Learson Vice President and Group Executive
+McLain B. Smith Vice President and Group Executive
+Arthur K. Watson Vice President and Group Executive
+H. Wisner Miller, Jr. Vice President and General Manager, Electric Typewriter Division
+James W Birkenstock Vice President
+John J. Bricker Vice President
+John J. Kenney Vice President
+William J. Mair Vice President
+W Wallace McDowell Vice President
+Dean R. McKay Vice President
+John C. McPherson Vice President
+Emanuel R. Piore Vice President
+Charles Y Boulton Treasurer
+Harry M. Sibley Controller
+Henry W Trimble, Jr Secretary
+John J. Black Assistant Treasurer
+Herbert T. Hansford Assistant Treasurer
+Bernard F. Wiegard Assistant Controller
+Robert C. Ransom Assistant Secretary
+Division and Subsidiary Chief Executives: Charles Benton, Jr President, Federal Systems Division
+Frank T. Cary President, The Service Bureau Corporation
+Jerrier A. Haddad General Manager, Advanced Systems Development Division
+Gilbert E. Jones President, Data Processing Division
+Left: Assembling time recorders
+William B. McWhirter President, Data Systems Division
+and punched card equipment at
+H. Wisner Miller, Jr General Manager, Electric Typewriter Division
+the IBM World Trade Corporation's
+Orland M. Scott President, General Products Division
+new manufacturing plant James E. Swaine, Jr. General Manager, Supplies Division
+in Buenos Aires, Argentina. Arthur K. Watson President, IBM World Trade Corporation
+
+===== PAGE 32 =====
+International Business Machines Corporation and its Domestic Operating Subsidiary
+Consolidated Balance Sheet at December 31:
+Assets 19B0 1359
+Current Assets:
+Cash 57,153,106 $ 51,818,928
+Marketable securities, principally U. S. Treasury, valued
+at lower of cost or market 263,341,134 262,687,966
+Notes and accounts receivable ... less reserve:
+i960, $1,758,445; 1959, $1,512,631 144,191,663 130,181,748
+Accounts receivable (i960, $25,252,888;
+i9595$i9)9i6,8io) and unreimbursed expenditures on
+military products contracts 70,092,719 58,075,951
+Inventories ... valued at lower of average cost or market 37,383,464 572,162,086 35,658,561 538,423,154
+Prepaid Insurance, Taxes, etc 5,164,815 4,984,104
+Investments and Advances:
+Investment in and advances to IBM World Trade
+Corporation, wholly-owned subsidiary, operating in
+countries outside of the United States 83,562,594 57,255,603
+U. S. Treasury securities, maturing in 1965 ...
+valued at cost plus accrued discount 22,916,906 22,410,992
+Other investments 1,868,584 108,348,084 4,789,984 84,456,579
+Factories, Office Buildings, Other Property in U.S...at cost:
+Land 23,518,701 20,086,213
+Buildings 203,257,417 189,707,831
+226,776,118 209,794,044
+Less: Reserve for depreciation and amortization 74,121,706 62,423,361
+152,654,412 147,370,683
+Factory and office equipment, rental machines and parts 1,565,749,014 1,345,146,438
+Less: Reserve for depreciation and amortization 868,712,493 729,743,712
+697,036,521 849,690,933 615,402,726 762,773,409
+Patents and Goodwill
+$1,535,365,919 $1,390,637,247
+Notes: At December 31, i960, unjunded past service under IBM Retirement Plan amounted to $39,6^6,7^9.
+
+===== PAGE 33 =====
+Liabilities and Capital 196Q 1959
+Current Liabilities:
+U. S. Federal income taxes... estimated $ 109,080,727 $ 91,840,538
+Less: U.S. Treasury securities 89,096,103 75,484,357
+19,984,624 16,356,181
+Accounts payable and accruals 117,590,825 1 I37>575,449 105,761,130 $ 122,117,311
+Long-Term Indebtedness :
+2^8% debentures ... due February i, 1965 20,000,000 20,000,000
+3 Vi % promissory note ... due in annual installments,
+January i, 1966 to 1985 115,000,000 —
+3% promissory note ... due July i, 1968 35,000,000 35,000,000
+31/2% promissory notes ... due December i, 1971 50,000,000 50,000,000
+3%% promissory note ... due July i, i974 30,000,000 30,000,000
+3%% promissory notes... due July i, 1977 50,000,000 50,000,000
+3%% promissory note ... due July i, 1983 25,000,000 25,000,000
+3M % promissory notes ... due January i, 2052 - 115,000,000
+3%% promissory notes ... due May 1,2055 100,000,000 425,000,000 100,000,000 425,000,000
+Capital Stock ... Par Value $5.00 Per Share 1,019,2 635,077,576
+Authorized: 19,875,000 shares
+Issued and outstanding: 18,310,954 shares at December
+31, i960; 18,268,943 shares at December 31, 1959
+Retained Earnings 321,771,098 972,790,470 208,442,360 843,519,936
+11 11,535,365,919 a5 1,390,637,247
+The financial mjorfnation on pages 3 to 26 is an integral part of this statement.
+
+===== PAGE 34 =====
+International Business Machines Corporation and its Domestic Operating Subsidiary
+Consolidated Statement of Earnings and Retained Earnings for the year ended December 31
+196Q 1959
+Gross Income from Sales, Service and Rentals in U. S. $ 1,436,053,085 $ 1,309,788,037
+Cost of sales, service and rentals, operating
+expenses, and development and engineering expense ...
+exclusive of depreciation and amortization $ 889,255,713 $ 813,715,093
+Depreciation of rental machines, depreciation and
+amortization of plant and equipment 218,040,305 204,593,343
+Interest on long-term indebtedness 15,17 1,146 1,122,467,164 15,456,250 1,033,764,686
+313,585,921 276,023,351
+Other income 18,282,876 13,741,111
+331,868,797 289,764,462
+Dividends and interest received from IBM World Trade
+Corporation: Dividends 12,300,000 10,200,000
+Interest 1,7 12,083 14,012,083 168,750 10,368,750
+Net earnings before U. S. Federal income taxes 345,880,880 300,133,212
+Provision for U. S. Federal income taxes ... estimated 177,700,000 154,500,000
+Net Earnings for the year 168,180,880 145,633,212
+Retained Earnings, January 1 208,442,360 221,293,949
+Total 376,623,240 366,927,161
+Dividends for the year:
+Cash dividends 54,852,142 37,073,971
+Stock dividend . . . 296,124 shares, involving transfer
+from retained earnings to capital stock account of . . . 54,852,142 121,410,830 158,484,801
+Retained Earnings, December 31 $321,771,098 $208,442,360
+Notes: The foregoing income statement includes estimated provision for renegotiation of Government contracts.
+The financial information on pages ^ to 26 is an integral part of this statement.
+
+===== PAGE 35 =====
+Auditor's Certificate:
+i-S8iliiiiiilH
+7' '
+mm
+JamMry 24, 1961
+To the Stockholders of
+International Business Machines Corporation:
+In our opinion, the accompanying statements present fairly the consolidated
+financial position of International Business Machines Corporation
+and its domestic operating subsidiary at December 31,1960 and the results
+of their operations for the year, in conformity with generally accepted
+accounting principles applied on a basis consistent with that of the previous
+year, and the comparative statement of operations for the past ten years
+presents fairly the financial information included therein. Our examination of
+these statements was made in accordance with generally accepted
+auditing standards, and accordingly included such tests of the accounting
+records and such other auditing procedures as we considered necessary.
+Price Waterhouse & Co.
+56 Fine Street, New York
+
+===== PAGE 36 =====
+35' I'&M i<)6o Annual Report
+34- IBM. is>6o Annual Report
+Ten-Year Comparative Statement of Operations
+19BD 1953 1958 1957 1956 1955 1954 1953 1952 1951
+Gross income from sales, service and rentals in United States . . . $ 1,436,053,085 $ 1,309,788,037 $ 1,171,788,199 $ 1,000,431,597 $ 734,339,780 $ 563,548,792 $ 461,350,278 $ 409,989,104 $333,728,245 $ 266,798,483
+Net earnings before U. S. Federal income and excess profits taxes $ 345,880,880 $ 300,133,212 $ 256,191,858 $ 186,291,589 $ 143,784,510 $ 117,672,633 $ 98,336,625 $ 92,319,210 $ 78,474,541 $ 77,292,090
+U. S. Federal income and excess profits taxes $ 177,700,000 $ 154,500,000 $ 130,000,000 $ 97,000,000 $ 75,000,000 $ 61,800,000 $ 51,800,000 $ 58,200,000 $ 48,600,000 $ 49,400,000
+Net earnings for the year $ 168,180,880 $ 145,633,212 $ 126,191,858 $ 89,291,589 $ 68,784,510 $ 55,872,633 $ 46,536,625 $ 34,119,210 $ 29,874,541 $ 27,892,090
+Per share ... outstanding at end of year ($9.18) ($7.97) ($ 10.65) ($7-73) ($13.10) ($ 13-63) ($ 11-35) ($ 10.67) ($9.81) ($9-6I)
+Per share ... adjusted (see note) ($9-I8) (17-97) ($ 6.93) ($4-90) ($ 4-I6) ($ 3-38) ($ 2.81) ($ 2.06) ($ 1.81) ($ 1.69)
+Number of shares outstanding at end of year 18,310,954 18,268,943 11,849,023 11,552,460 5,25 1,118 4,098,471 4,098,471 3,198,868 3,046,641 2,901,652
+Cash dividends $ 54,852,142 $ 37,073,971 $ 30,764,992 $ 25,407,174 $ 19,937,158 $ 16,386,489 $ 15,558,278 $ 12,779,015 $ 12,172,832 $ 11,577,189
+Per share... declared in year ($ 3-00) ($2.25) ($2.60) ($2.80) ($4-oo) ($4-00) ($4-00) ($ 4.00) ($ 4.00) ($4-Oo)
+Per share... adjusted (see note) ($ 3-oo) ($2.03) ($ 1.69) ($ 1.40) ($ 1.20) ($ -99) ($ -94) ($ -77) ($ -74) (I -70)
+Stock dividends and split-ups*:
+Per cent - 21/2% & *5o% 21/2% *IOO% 2 ^2% & *2 5% - 21/2% & *25% 5% 144,989 5 % 138,104 5%
+Number of shares issued in year 6,374,717 288,737 5,251,119 1,152,647 899,603
+Shares sold 42,011 45,203 7,826 1,050,223 - - - - - -
+Net investment in factories, offices, rental machines and parts in
+United States at end of year $ 849,690,933 1 762,773,409 $ 734,546,380 1 671,656,529 $ 501,806,262 $ 409,453,926 $ 367,272,221 $ 314,789,286 $ 260,986,384 $ 227,632,963
+Long-term indebtedness at end of year $ 425,000,000 $ 425,000,000 $ 425,000,000 $ 375,000,000 $ 330,000,000 $ 295,000,000 $ 250,000,000 $ 215,000,000 $ 175,000,000 $ 135,000,000
+Net current assets at end of year $ 434,586,637 $ 416,305,843 $ 377,674,440 $ 294,744,740 $ 124,224,661 $ 131,340,147 $ 86,802,892 $ 72,399,460 $ 66,777,269 $ 45,034,221
+Number of stockholders at end of year 127,432 108,883 66,667 57,330 31,024 25,923 22,522 20,445 19,621 18,597
+Note: Adjusted for all stock dividends and split-ups.
+
+===== PAGE 37 =====
+V. -t
+
+===== PAGE 38 =====

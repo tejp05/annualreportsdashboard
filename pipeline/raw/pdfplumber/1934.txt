@@ -1,0 +1,232 @@
+
+
+===== PAGE 1 =====
+The sole purpose of this report is to give present stock-
+holders information about their Corporation. This report is
+not a representation, prospectus or circular in respect of
+any stock of any corporation and is not transmitted in con-
+nection with any sale or offer to sell or buy any stock or
+security now or hereafter to be issued or with any prelim-
+inary negotiation for such sale.
+
+===== PAGE 2 =====
+
+
+===== PAGE 3 =====
+Twenty-third Annual Report
+OF THE
+International
+Business Machines
+Corporation
+For the year ended
+December Thirty-First
+1934
+
+===== PAGE 4 =====
+BOARD OF DIRECTORS
+William F. Battin Oscar L. Gubelman
+Willis H. Booth Samuel M. Hastings
+Otto E. Braitmayer *John W. Herbert
+Drury W. Cooper Erskine Hewitt
+Edward Cornell Abraham L. Kellogg
+Sherman M. Fairchild Charles Smith
+A. Ward Ford Christopher D. Smithers
+Thomas J. Watson
+EXECUTIVE AND FINANCE COMMITTEE
+Willis H. Booth Erskine Hewitt
+Edward Cornell Christopher D. Smithers
+Oscar L. Gubelman Thomas J. Watson
+OFFICERS
+THOMAS J. WATSON President
+OTTO E. BRAITMAYER Vice-President
+FREDERICK W. NICHOL Vice-President
+WILLIAM F. BATTIN Treasurer
+FREDERICK C. ELSTOB Comptroller
+JOHN G. PHILLIPS Secretary
+* Deceased
+Transfer Agent Trustee and Registrar
+EMPIRE TRUST COMPANY GUARANTY TRUST COMPANY
+New York of New York
+
+===== PAGE 5 =====
+To THE STOCKHOLDERS:
+Your Directors submit for the information of Stockholders
+Consolidated Income and Surplus Account for the year
+1934, together with Consolidated Balance Sheet as of De-
+cember 31, 1934, with the Auditors' Certificate attached.
+Net Income for the year 1934, including Foreign Sub-
+sidiaries and Branches, before deducting Federal Taxes, but
+after providing for full Depreciation ($2,578,352.06), De-
+velopment and Patent Expenses ($855,804.90) and Interest
+($34,489.45) was $7,522,362.55, compared with $6,651,424.68
+for the year 1933, being an increase of $870,937.87.
+After deducting estimated Federal Taxes of $925,000.00,
+the Net Income for the year was $6,597,362.55 equal to
+$9.38 per share on 703,345 shares outstanding December 31,
+1934, compared with $5,736,424.68 equal to $8.15 per share
+for the year 1933, based on an equal number of shares,
+being an increase of $1.23 per share.
+Net Current Assets at the end of the year were $2,970,-
+761.26, compared with $3,623,918.48 at the end of 1933. The
+decrease was caused by the sale of the net current assets
+($1,931,266.68) of the Dayton Scale Division to The Hobart
+Manufacturing Company, as referred to later on in this
+report. If the transfer of this item had not taken place, the
+Net Current Assets would have shown an increase of about
+$1,278,109.46, compared with December 31, 1933.
+
+===== PAGE 6 =====
+The Balance Sheet item of $4,141,566.83 under "Invest-
+ments" includes the book value of the net current assets
+($1,931,266.68) as referred to above, plant and equip-
+ment and patents and goodwill, etc., of the Dayton Scale
+Division which were sold and transferred to The Hobart
+Manufacturing Company in exchange for 100,000 shares
+of the latter's "Class B" capital stock. The sale of the
+Dayton Scale Division assets was approved at a Special
+Meeting of the Stockholders of the Company held for the
+purpose on June 25,1934. A quarterly dividend of $25,000.00
+on the Hobart shares was received in December, 1934.
+Expenditures totalling $7,491,570.65 were made during
+the year for rental machines, plant and equipment and land
+and buildings. A total of $3,241,444.64 of dismantled and
+obsolete equipment was written off and charged against
+reserves. Plant and equipment assets of the Dayton Scale
+Division having a gross book value of $2,000,468.90 were
+sold.
+Regular quarterly cash dividends of $1,50 per share were
+paid during the year and in addition a stock dividend of
+2 percent was declared in November, payable January 10,
+1935, to stockholders of record December 22, 1934. The
+necessary additional 14,067 shares, including scrip for frac-
+tional shares, have been issued accordingly. The sum of
+$453,193.37 has been authorized by your Directors to be
+transferred from Surplus to Declared Capital to represent
+the book value of this stock dividend.
+In the latter part of the year, your Directors authorized
+the issuance of Group Life Insurance policies to employees
+of one year's service or longer, all premiums to be paid by
+
+===== PAGE 7 =====
+the Company. Our employment of factory workers re-
+mained steady throughout the year.
+During the year, the Company continued its program of
+improving existing types of equipment, and has proceeded
+with the development of new devices started prior to 1934.
+It has also commenced the development of new and addi-
+tional devices which appear to offer profitable commercial
+possibilities.
+By order of the Board of Directors,
+THOMAS J. WATSON,
+President.
+
+===== PAGE 8 =====
+International Business Machines Corporation
+and
+Domestic and Canadian Subsidiary Companies
+C O N S O L I D A T ED B A L A N CE S H E ET AS OF D E C E M B ER 31, 1 9 34
+A S S E TS L I A B I L I T I ES AND C A P I T AL
+CURRENT ASSETS: CURRENT LIABILTIES:
+Cash $1,988,750.08
+Accounts payable, and Accruals $ 855,719.28
+Notes and Accounts Receivable >,225,034.54
+Dividend Payable—January 10, 1935.. . . 1,054,431.00
+LESS: Reserve for Doubtful Accounts.. 98,796.14 2,126,238.40
+Inventories—Valued at lower of cost or Federal Taxes—Estimated 1,047,945.64 $2,958,095.92
+market 1,813,868.70 $5,928,857.18
+DEFERRED ASSETS: MORTGAGES PAYABLE:
+Commissions advanced to salesmen on un-
+filled orders — less reserve 403,154.54 On Property at 310 Fifth Avenue, New
+York, N. Y.—due July 1, 1935 187,500.00
+Prepaid insurance, taxes, etc. 266,135.07 669,289.61
+On Property at 308 Fifth Avenue, New
+York, N. Y.—due January 1, 1939. . .. 82,500.00 270,000.00
+GENERAL COMPANY WELFARE FUND:
+Stock of International Business Machines
+Corporation (3,895 shares) 253,538.01
+NOTES PAYABLE—due October 4, 1937. 3,000,000.00
+Other Securities and Cash 188,316.86 441,854.87
+INVESTMENTS AND ADVANCES: RESERVES:
+Foreign Subsidiaries and Branches, includ- 7,400,244.41
+ing Undistributed Net Surplus of For- For Foreign Exchange Losses.. 194,506.22
+eign Subsidiaries $828,157.96 (See Note)
+For General Company Welfare. 441,854.87
+The Hobart Manufacturing Co 4,141,566.83
+100,000 Shares Class "B" Stock For Contingencies 1,003,724.75 1,640,085.84
+Other Investments 90,330.00 11,632,141.24
+PLANT AND EQUIPMENT: CAPITAL STOCK—Without Par Value 22,659,573.00
+Land and Buildings 4,025,675.28
+Represented by 703,345 Shares issued and
+LESS: Reserve for Depreciation 798,707.39 3,226,967.89
+outstanding
+Plant Equipment, Rental Machines and
+Parts 30,758,193.10
+LESS: Reserve for Depreciation 12,077,112.37 18,681,080.73 21,908,048.62 EARNED SURPLUS 22,865,414.59
+Subject to a stock dividend of $453,193.37
+PATENTS AND GOODWILL: 14,447,308.94 declared by the Directors, payable Jan-
+uary 10, 1935 to stockholders of record
+LESS: Reserve for Amortization 1,634,331.11 12,812,977.83 December 22, 1934.
+$53,393,169.35 $53,393,169.35
+NOTE: Stated at approximately former gold parity of Exchanse or at quoted rates of
+Exchanse on certain net current assets, whichever was lower.
+
+===== PAGE 9 =====
+International Business Machines Corporation
+and Subsidiary Companies
+CONSOLIDATED INCOME AND SURPLUS ACCOUNT
+For the Year Ended December 31, 1934
+NET PROFIT, including undistributed earnings of
+foreign subsidiaries, before depreciation, develop-
+ment and patent expense, interest, and provision
+for Federal taxes $10,991,008.96
+Less:
+Depreciation of rental machines, plants and equip-
+ment $ 2,578,352.06
+Development and patent expense 855,804.90
+Interest 34,489.45 3,468,646.41
+NET PROFIT, BEFORE FEDERAL TAXES 7,522,362.55
+Less: Provision for Federal taxes — Estimated 925,000.00
+NET PROFIT FOR THE YEAR 6,597,362.55
+Less:
+Dividends for the Year 1934 4,217,595.00
+Amortization of patents 71,236.54 4,288,831.54
+SURPLUS FOR YEAR 1934 2,308,531.01
+SURPLUS, JANUARY 1, 1934 21,056,883.58
+TOTAL 23,365,414.59
+Less: Transfer to Reserve for Contingencies 500,000.00
+SURPLUS, DECEMBER 31, 1934 $22,865,414.59
+
+===== PAGE 10 =====
+R. G. RANKIN & CO.
+CERTIFIED PUBLIC ACCOUNTANTS
+CHICAGO. ILL. HOME OFFICE
+WASHINGTON, D. C. 1 CEDAR STREET
+NEW YORK
+To the Stockholders of the
+INTERNATIONAL BUSINESS MACHINES CORPORATION:
+We have made an examination of the accounts and records relating
+to the consolidated balance sheet of the International Business Machines
+Corporation and its Domestic and Canadian Subsidiary Companies as
+at December 31, 1934 and reviewed the consolidated income and surplus
+account for the year ended on that date, but we have not made a detailed
+audit of all transactions. In that connection, we accepted after review
+the company's own financial statements relating to foreign subsidi-
+aries and branches. The company's accounts have been consistently
+maintained in accordance with accepted accounting principles and all
+information and explanations desired were furnished.
+The accompanying consolidated balance sheet, based upon such
+examination, fairly presents, in our opinion, the financial condition of
+the International Business Machines Corporation and its Domestic
+and Canadian Subsidiary Companies as at December 31, 1934, and the
+related consolidated income and surplus account the results of opera-
+tions for the year ended on that date.
+R. G. RANKIN & CO.
+Certified Public Accountants
+
+===== PAGE 11 =====
+
+
+===== PAGE 12 =====
+
+
+===== PAGE 13 =====

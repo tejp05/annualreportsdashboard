@@ -1,0 +1,874 @@
+{
+ "1911": {
+  "netIncome": "1911:p4"
+ },
+ "1912": {
+  "netIncome": "1913:p5"
+ },
+ "1913": {
+  "netIncome": "1913:p5"
+ },
+ "1914": {
+  "netIncome": "1914:p7"
+ },
+ "1915": {
+  "netIncome": "1915:p5"
+ },
+ "1916": {
+  "netIncome": "1916:p7"
+ },
+ "1917": {
+  "netIncome": "1917:p7"
+ },
+ "1918": {
+  "netIncome": "1918:p7"
+ },
+ "1919": {
+  "netIncome": "1919:p7"
+ },
+ "1920": {
+  "netIncome": "1920:p7"
+ },
+ "1921": {
+  "netIncome": "1921:p7"
+ },
+ "1922": {
+  "netIncome": "1922:p7"
+ },
+ "1923": {
+  "netIncome": "1923:p7"
+ },
+ "1924": {
+  "netIncome": "1924:p7"
+ },
+ "1925": {
+  "netIncome": "1925:p7"
+ },
+ "1926": {
+  "netIncome": "1926:p7"
+ },
+ "1927": {
+  "netIncome": "1927:p7"
+ },
+ "1928": {
+  "netIncome": "1928:p7"
+ },
+ "1929": {
+  "netIncome": "1929:p7"
+ },
+ "1930": {
+  "netIncome": "1930:p5"
+ },
+ "1931": {
+  "netIncome": "1931:p7"
+ },
+ "1932": {
+  "netIncome": "1932:p7"
+ },
+ "1933": {
+  "netIncome": "1933:p9"
+ },
+ "1934": {
+  "netIncome": "1934:p9"
+ },
+ "1935": {
+  "netIncome": "1935:p5"
+ },
+ "1936": {
+  "netIncome": "1936:p9"
+ },
+ "1937": {
+  "netIncome": "1937:p9"
+ },
+ "1938": {
+  "netIncome": "1938:p9"
+ },
+ "1939": {
+  "netIncome": "1939:p9"
+ },
+ "1940": {
+  "revenue": "1949:p13",
+  "netIncome": "1949:p13"
+ },
+ "1941": {
+  "revenue": "1949:p13",
+  "netIncome": "1949:p13"
+ },
+ "1942": {
+  "revenue": "1949:p13",
+  "netIncome": "1949:p13"
+ },
+ "1943": {
+  "revenue": "1949:p13",
+  "netIncome": "1949:p13"
+ },
+ "1944": {
+  "revenue": "1949:p13",
+  "netIncome": "1949:p13"
+ },
+ "1945": {
+  "revenue": "1949:p13",
+  "netIncome": "1949:p13"
+ },
+ "1946": {
+  "revenue": "1949:p13",
+  "netIncome": "1949:p13"
+ },
+ "1947": {
+  "revenue": "1949:p13",
+  "netIncome": "1949:p13"
+ },
+ "1948": {
+  "revenue": "1949:p13",
+  "netIncome": "1949:p13"
+ },
+ "1949": {
+  "revenue": "1949:p13",
+  "netIncome": "1949:p13"
+ },
+ "1950": {
+  "revenue": "1959:p42",
+  "netIncome": "1959:p42"
+ },
+ "1951": {
+  "revenue": "1959:p42",
+  "netIncome": "1959:p42"
+ },
+ "1952": {
+  "revenue": "1959:p42",
+  "netIncome": "1959:p42"
+ },
+ "1953": {
+  "revenue": "1959:p42",
+  "netIncome": "1959:p42"
+ },
+ "1954": {
+  "revenue": "1959:p42",
+  "netIncome": "1959:p42"
+ },
+ "1955": {
+  "revenue": "1959:p42",
+  "netIncome": "1959:p42"
+ },
+ "1956": {
+  "revenue": "1959:p42",
+  "netIncome": "1959:p42"
+ },
+ "1957": {
+  "revenue": "1959:p42",
+  "netIncome": "1959:p42",
+  "employees": "md-vote"
+ },
+ "1958": {
+  "revenue": "1959:p42",
+  "netIncome": "1959:p42",
+  "employees": "md-vote"
+ },
+ "1959": {
+  "revenue": "1959:p42",
+  "netIncome": "1959:p42"
+ },
+ "1960": {
+  "revenue": "1969:p49",
+  "netIncome": "1969:p49"
+ },
+ "1961": {
+  "revenue": "1969:p49",
+  "netIncome": "1969:p49"
+ },
+ "1962": {
+  "revenue": "1969:p49",
+  "netIncome": "1969:p49"
+ },
+ "1963": {
+  "revenue": "1969:p49",
+  "netIncome": "1969:p49"
+ },
+ "1964": {
+  "revenue": "1969:p49",
+  "netIncome": "1969:p49"
+ },
+ "1965": {
+  "revenue": "1969:p49",
+  "netIncome": "1969:p49"
+ },
+ "1966": {
+  "revenue": "1969:p49",
+  "netIncome": "1969:p49"
+ },
+ "1967": {
+  "revenue": "1969:p49",
+  "netIncome": "1969:p49"
+ },
+ "1968": {
+  "revenue": "1969:p49",
+  "netIncome": "1969:p49"
+ },
+ "1969": {
+  "revenue": "1969:p49",
+  "netIncome": "1969:p49",
+  "employees": "md-vote"
+ },
+ "1970": {
+  "revenue": "1974:p31",
+  "netIncome": "1974:p31",
+  "epsDiluted": "1974:p31"
+ },
+ "1971": {
+  "revenue": "1974:p31",
+  "netIncome": "1974:p31",
+  "epsDiluted": "1974:p31"
+ },
+ "1972": {
+  "revenue": "1974:p30",
+  "netIncome": "1974:p30",
+  "epsDiluted": "1974:p30",
+  "employees": "md-vote"
+ },
+ "1973": {
+  "revenue": "1974:p30",
+  "netIncome": "1974:p30",
+  "epsDiluted": "1974:p30",
+  "employees": "md-vote"
+ },
+ "1974": {
+  "revenue": "1974:p30",
+  "netIncome": "1974:p30",
+  "epsDiluted": "1974:p30",
+  "employees": "md-vote"
+ },
+ "1975": {
+  "revenue": "1976:p16",
+  "netIncome": "1975:p?+1976:p16",
+  "employees": "md-vote"
+ },
+ "1976": {
+  "revenue": "1976:p16",
+  "netIncome": "1976:p16",
+  "employees": "md-vote"
+ },
+ "1977": {
+  "revenue": "1978:p24",
+  "netIncome": "1978:p24",
+  "epsDiluted": "1978:p24",
+  "employees": "md-vote"
+ },
+ "1978": {
+  "revenue": "1978:p24",
+  "netIncome": "1978:p24",
+  "totalAssets": "md-vote",
+  "stockholdersEquity": "md-vote",
+  "epsDiluted": "1978:p24"
+ },
+ "1979": {
+  "revenue": "1979:p5",
+  "netIncome": "1979:p5",
+  "totalAssets": "md-vote",
+  "stockholdersEquity": "md-vote"
+ },
+ "1980": {
+  "revenue": "1984:p41",
+  "netIncome": "1984:p41",
+  "totalAssets": "1984:p41",
+  "stockholdersEquity": "1984:p41",
+  "longTermDebt": "1984:p41",
+  "epsDiluted": "1984:p41",
+  "dividendsPerShare": "1984:p41",
+  "employees": "md-vote"
+ },
+ "1981": {
+  "revenue": "1984:p41",
+  "netIncome": "1984:p41",
+  "totalAssets": "1984:p41",
+  "stockholdersEquity": "1984:p41",
+  "longTermDebt": "1984:p41",
+  "epsDiluted": "1984:p41",
+  "dividendsPerShare": "1984:p41",
+  "employees": "md-vote"
+ },
+ "1982": {
+  "revenue": "1984:p41",
+  "netIncome": "1984:p41",
+  "totalAssets": "1984:p41",
+  "stockholdersEquity": "1984:p41",
+  "longTermDebt": "1984:p41",
+  "epsDiluted": "1984:p41",
+  "dividendsPerShare": "1984:p41",
+  "employees": "md-vote"
+ },
+ "1983": {
+  "revenue": "1984:p41",
+  "netIncome": "1984:p41",
+  "totalAssets": "1984:p41",
+  "stockholdersEquity": "1984:p41",
+  "longTermDebt": "1984:p41",
+  "epsDiluted": "1984:p41",
+  "dividendsPerShare": "1984:p41",
+  "employees": "md-vote"
+ },
+ "1984": {
+  "revenue": "1984:p41",
+  "netIncome": "1984:p41",
+  "totalAssets": "1984:p41",
+  "stockholdersEquity": "1984:p41",
+  "longTermDebt": "1984:p41",
+  "epsDiluted": "1984:p41",
+  "dividendsPerShare": "1984:p41",
+  "employees": "md-vote"
+ },
+ "1985": {
+  "revenue": "1989:p46",
+  "netIncome": "1989:p46",
+  "totalAssets": "1989:p46",
+  "stockholdersEquity": "1989:p46",
+  "longTermDebt": "1989:p46",
+  "epsDiluted": "1989:p46",
+  "dividendsPerShare": "1989:p46"
+ },
+ "1986": {
+  "revenue": "1989:p46",
+  "netIncome": "1989:p46",
+  "totalAssets": "1989:p46",
+  "stockholdersEquity": "1989:p46",
+  "longTermDebt": "1989:p46",
+  "epsDiluted": "1989:p46",
+  "dividendsPerShare": "1989:p46"
+ },
+ "1987": {
+  "revenue": "1989:p46",
+  "netIncome": "1989:p46",
+  "totalAssets": "1989:p46",
+  "stockholdersEquity": "1989:p46",
+  "longTermDebt": "1989:p46",
+  "epsDiluted": "1989:p46",
+  "dividendsPerShare": "1989:p46"
+ },
+ "1988": {
+  "revenue": "1989:p46",
+  "netIncome": "1989:p46",
+  "totalAssets": "1989:p46",
+  "stockholdersEquity": "1989:p46",
+  "longTermDebt": "1989:p46",
+  "epsDiluted": "1989:p46",
+  "dividendsPerShare": "1989:p46",
+  "employees": "md-vote"
+ },
+ "1989": {
+  "revenue": "1989:p46",
+  "netIncome": "1989:p46",
+  "totalAssets": "1989:p46",
+  "stockholdersEquity": "1989:p46",
+  "longTermDebt": "1989:p46",
+  "epsDiluted": "1989:p46",
+  "dividendsPerShare": "1989:p46"
+ },
+ "1990": {
+  "revenue": "1994:p81",
+  "netIncome": "1990AR;1994:p81",
+  "rdExpense": "md-vote",
+  "totalAssets": "1994:p81",
+  "stockholdersEquity": "md-vote",
+  "epsDiluted": "1994:p81",
+  "dividendsPerShare": "1994:p81"
+ },
+ "1991": {
+  "revenue": "1994:p81",
+  "netIncome": "1994:p81",
+  "rdExpense": "md-vote",
+  "totalAssets": "1994:p81",
+  "stockholdersEquity": "md-vote",
+  "totalDebt": "1995:p77",
+  "epsDiluted": "1994:p81",
+  "dividendsPerShare": "1994:p81",
+  "employees": "md-vote"
+ },
+ "1992": {
+  "revenue": "1994:p81",
+  "netIncome": "1994:p81",
+  "rdExpense": "md-vote",
+  "totalAssets": "1994:p81",
+  "stockholdersEquity": "md-vote",
+  "totalDebt": "1995:p77",
+  "epsDiluted": "1994:p81",
+  "dividendsPerShare": "1994:p81",
+  "employees": "md-vote"
+ },
+ "1993": {
+  "revenue": "1994:p81",
+  "netIncome": "1994:p81",
+  "rdExpense": "md-vote",
+  "totalAssets": "1994:p81",
+  "stockholdersEquity": "md-vote",
+  "totalDebt": "1995:p77",
+  "capitalExpenditure": "cashflow-stmt-gross-ppe",
+  "epsDiluted": "1994:p81",
+  "dividendsPerShare": "1994:p81"
+ },
+ "1994": {
+  "revenue": "1994:p81",
+  "netIncome": "1994:p81",
+  "rdExpense": "md-vote",
+  "totalAssets": "1994:p81",
+  "stockholdersEquity": "md-vote",
+  "totalDebt": "1995:p77",
+  "capitalExpenditure": "cashflow-stmt-gross-ppe",
+  "epsDiluted": "1994:p81",
+  "dividendsPerShare": "1994:p81"
+ },
+ "1995": {
+  "revenue": "1999:p96",
+  "netIncome": "1999:p96",
+  "rdExpense": "md-vote",
+  "incomeTaxes": "md-mdna",
+  "totalAssets": "1999:p96",
+  "stockholdersEquity": "md-vote",
+  "totalDebt": "1995:p77",
+  "capitalExpenditure": "cashflow-stmt-gross-ppe",
+  "epsBasic": "1999:p96",
+  "epsDiluted": "1999:p96",
+  "dividendsPerShare": "1999:p96"
+ },
+ "1996": {
+  "revenue": "1999:p96",
+  "netIncome": "1999:p96",
+  "rdExpense": "md-vote",
+  "incomeTaxes": "md-mdna",
+  "totalAssets": "1999:p96",
+  "stockholdersEquity": "md-vote",
+  "totalDebt": "1996:p75",
+  "capitalExpenditure": "cashflow-stmt-gross-ppe",
+  "epsBasic": "1999:p96",
+  "epsDiluted": "1999:p96",
+  "dividendsPerShare": "1999:p96"
+ },
+ "1997": {
+  "revenue": "1999:p96",
+  "netIncome": "1999:p96",
+  "rdExpense": "md-vote",
+  "incomeTaxes": "md-mdna",
+  "totalAssets": "1999:p96",
+  "stockholdersEquity": "md-vote",
+  "totalDebt": "1997:p80",
+  "capitalExpenditure": "cashflow-stmt-gross-ppe",
+  "epsBasic": "1999:p96",
+  "epsDiluted": "1999:p96",
+  "dividendsPerShare": "1999:p96",
+  "employees": "md-vote"
+ },
+ "1998": {
+  "revenue": "1999:p96",
+  "netIncome": "1999:p96",
+  "rdExpense": "md-vote",
+  "pretaxIncome": "md-mdna",
+  "incomeTaxes": "md-mdna",
+  "totalAssets": "1999:p96",
+  "stockholdersEquity": "md-vote",
+  "totalDebt": "1998:p92",
+  "capitalExpenditure": "cashflow-stmt-gross-ppe",
+  "epsBasic": "1999:p96",
+  "epsDiluted": "1999:p96",
+  "dividendsPerShare": "1999:p96",
+  "employees": "md-vote"
+ },
+ "1999": {
+  "revenue": "1999:p96",
+  "netIncome": "1999:p96",
+  "rdExpense": "md-vote",
+  "pretaxIncome": "md-mdna",
+  "incomeTaxes": "md-mdna",
+  "totalAssets": "1999:p96",
+  "stockholdersEquity": "md-vote",
+  "totalDebt": "1999:p96",
+  "capitalExpenditure": "cashflow-stmt-gross-ppe",
+  "epsBasic": "1999:p96",
+  "epsDiluted": "1999:p96",
+  "dividendsPerShare": "1999:p96",
+  "employees": "md-vote"
+ },
+ "2000": {
+  "revenue": "2000:p96",
+  "netIncome": "2000:p96",
+  "rdExpense": "md-vote",
+  "pretaxIncome": "md-mdna",
+  "incomeTaxes": "md-mdna",
+  "totalAssets": "2000:p96",
+  "stockholdersEquity": "md-vote",
+  "totalDebt": "2000:p96",
+  "capitalExpenditure": "cashflow-stmt-gross-ppe",
+  "epsBasic": "2000:p96",
+  "epsDiluted": "2000:p96",
+  "dividendsPerShare": "2002:p107"
+ },
+ "2001": {
+  "revenue": "2001:p108",
+  "netIncome": "2001:p108",
+  "rdExpense": "md-vote",
+  "pretaxIncome": "md-mdna",
+  "incomeTaxes": "md-mdna",
+  "totalAssets": "2001:p108",
+  "stockholdersEquity": "md-vote",
+  "totalDebt": "2001:p108",
+  "capitalExpenditure": "cashflow-stmt-gross-ppe",
+  "epsBasic": "2001:p108",
+  "epsDiluted": "2001:p108",
+  "dividendsPerShare": "2002:p107",
+  "employees": "md-vote"
+ },
+ "2002": {
+  "revenue": "2002:p107",
+  "netIncome": "2002:p107",
+  "rdExpense": "md-vote",
+  "incomeTaxes": "md-mdna",
+  "totalAssets": "2002:p107",
+  "stockholdersEquity": "md-vote",
+  "totalDebt": "2002:p107",
+  "capitalExpenditure": "cashflow-stmt-gross-ppe",
+  "epsBasic": "2002:p107",
+  "epsDiluted": "2002:p107",
+  "dividendsPerShare": "2002:p107",
+  "employees": "md-vote"
+ },
+ "2003": {
+  "revenue": "2003:p124",
+  "netIncome": "2003:p124",
+  "rdExpense": "md-vote",
+  "pretaxIncome": "md-mdna",
+  "incomeTaxes": "md-mdna",
+  "operatingCashFlow": "md-mdna",
+  "freeCashFlow": "2007-report-5yr-roadmap-table",
+  "totalAssets": "2003:p124",
+  "stockholdersEquity": "md-vote",
+  "totalDebt": "2003:p124",
+  "capitalExpenditure": "cashflow-stmt-gross-ppe",
+  "epsBasic": "2003:p124",
+  "epsDiluted": "2003:p124",
+  "dividendsPerShare": "2003:p124",
+  "employees": "md-vote"
+ },
+ "2004": {
+  "revenue": "2004:p94",
+  "netIncome": "2004:p94",
+  "rdExpense": "2005-report-mdna-rde-table",
+  "pretaxIncome": "md-mdna",
+  "incomeTaxes": "md-mdna",
+  "operatingCashFlow": "md-mdna",
+  "freeCashFlow": "2007-report-5yr-roadmap-table",
+  "totalAssets": "2004:p94",
+  "stockholdersEquity": "md-vote",
+  "totalDebt": "2004:p94",
+  "capitalExpenditure": "cashflow-stmt-gross-ppe",
+  "epsBasic": "2004:p94",
+  "epsDiluted": "2004:p94",
+  "dividendsPerShare": "2004:p94"
+ },
+ "2005": {
+  "revenue": "2006:p118",
+  "netIncome": "2006:p118",
+  "rdExpense": "2005-report-mdna-rde-table",
+  "operatingCashFlow": "2006-report-cashflow-stmt",
+  "freeCashFlow": "2007-report-5yr-roadmap-table",
+  "totalAssets": "2006:p118",
+  "stockholdersEquity": "md-vote",
+  "totalDebt": "2006:p118",
+  "capitalExpenditure": "cashflow-stmt-gross-ppe",
+  "epsBasic": "2006:p118",
+  "epsDiluted": "2006:p118",
+  "dividendsPerShare": "2006:p118"
+ },
+ "2006": {
+  "revenue": "2006:p118",
+  "netIncome": "2006:p118",
+  "rdExpense": "md-vote",
+  "incomeTaxes": "md-mdna",
+  "operatingCashFlow": "2006-report-cashflow-stmt",
+  "freeCashFlow": "2007-report-5yr-roadmap-table",
+  "totalAssets": "2006:p118",
+  "stockholdersEquity": "md-vote",
+  "totalDebt": "2006:p118",
+  "capitalExpenditure": "cashflow-stmt-gross-ppe",
+  "epsBasic": "2006:p118",
+  "epsDiluted": "2006:p118",
+  "dividendsPerShare": "2006:p118",
+  "employees": "md-vote"
+ },
+ "2007": {
+  "revenue": "2008:p122",
+  "netIncome": "2008:p122",
+  "rdExpense": "md-vote",
+  "pretaxIncome": "md-mdna",
+  "incomeTaxes": "md-mdna",
+  "freeCashFlow": "2007-report-5yr-roadmap-table",
+  "totalAssets": "2008:p122",
+  "stockholdersEquity": "md-vote",
+  "totalDebt": "2008:p122",
+  "capitalExpenditure": "cashflow-stmt-gross-ppe",
+  "epsBasic": "2008:p122",
+  "epsDiluted": "2008:p122",
+  "dividendsPerShare": "2008:p122",
+  "employees": "md-vote"
+ },
+ "2008": {
+  "revenue": "2008:p122",
+  "netIncome": "2008:p122",
+  "rdExpense": "md-vote",
+  "pretaxIncome": "md-mdna",
+  "incomeTaxes": "md-mdna",
+  "freeCashFlow": "md&a-prose-stated",
+  "totalAssets": "2008:p122",
+  "stockholdersEquity": "md-vote",
+  "totalDebt": "2008:p122",
+  "capitalExpenditure": "cashflow-stmt-gross-ppe",
+  "epsBasic": "2008:p122",
+  "epsDiluted": "2008:p122",
+  "dividendsPerShare": "2008:p122",
+  "employees": "md-vote"
+ },
+ "2009": {
+  "revenue": "2009:p129",
+  "netIncome": "2009:p129",
+  "pretaxIncome": "md-mdna",
+  "incomeTaxes": "md-mdna",
+  "freeCashFlow": "md&a-prose-stated",
+  "totalAssets": "2009:p129",
+  "stockholdersEquity": "md-vote",
+  "totalDebt": "2009:p129",
+  "epsBasic": "2009:p129",
+  "epsDiluted": "2009:p129",
+  "dividendsPerShare": "2009:p129",
+  "employees": "md-vote"
+ },
+ "2010": {
+  "revenue": "2010:p133",
+  "netIncome": "2010:p133",
+  "pretaxIncome": "md-mdna",
+  "incomeTaxes": "md-mdna",
+  "freeCashFlow": "md&a-prose-stated",
+  "totalAssets": "2010:p133",
+  "stockholdersEquity": "md-vote",
+  "totalDebt": "2010:p133",
+  "epsBasic": "2010:p133",
+  "epsDiluted": "2010:p133",
+  "dividendsPerShare": "2010:p133",
+  "employees": "md-vote"
+ },
+ "2011": {
+  "revenue": "2011:p142",
+  "netIncome": "2011:p142",
+  "pretaxIncome": "md-mdna",
+  "incomeTaxes": "md-mdna",
+  "freeCashFlow": "md&a-stated",
+  "totalAssets": "2011:p142",
+  "stockholdersEquity": "md-vote",
+  "totalDebt": "2011:p142",
+  "epsBasic": "2011:p142",
+  "epsDiluted": "2011:p142",
+  "dividendsPerShare": "2011:p142",
+  "employees": "md-vote"
+ },
+ "2012": {
+  "revenue": "2012:p140",
+  "netIncome": "2012:p140",
+  "rdExpense": "md-vote",
+  "pretaxIncome": "md-mdna",
+  "incomeTaxes": "md-mdna",
+  "freeCashFlow": "md&a-stated",
+  "totalAssets": "2012:p140",
+  "stockholdersEquity": "md-vote",
+  "totalDebt": "2012:p140",
+  "epsBasic": "2012:p140",
+  "epsDiluted": "2012:p140",
+  "dividendsPerShare": "2012:p140",
+  "employees": "md-vote"
+ },
+ "2013": {
+  "revenue": "2013:p148",
+  "netIncome": "2013:p148",
+  "rdExpense": "md-vote",
+  "pretaxIncome": "md-mdna",
+  "incomeTaxes": "md-mdna",
+  "freeCashFlow": "md&a-stated",
+  "totalAssets": "2013:p148",
+  "stockholdersEquity": "md-vote",
+  "totalDebt": "2013:p148",
+  "epsBasic": "2013:p148",
+  "epsDiluted": "2013:p148",
+  "dividendsPerShare": "2013:p148",
+  "employees": "md-vote"
+ },
+ "2014": {
+  "revenue": "2014:p152",
+  "netIncome": "2014:p152",
+  "rdExpense": "md-vote",
+  "operatingCashFlow": "md-mdna",
+  "freeCashFlow": "md&a-stated",
+  "totalAssets": "2014:p152",
+  "stockholdersEquity": "md-vote",
+  "totalDebt": "2014:p152",
+  "capitalExpenditure": "md-mdna",
+  "epsBasic": "2016:p86",
+  "epsDiluted": "2016:p86",
+  "dividendsPerShare": "2014:p152",
+  "sharesOutstandingM": "2016:p86"
+ },
+ "2015": {
+  "revenue": "2015:p149",
+  "netIncome": "2015:p149",
+  "rdExpense": "md-vote",
+  "pretaxIncome": "md-mdna",
+  "incomeTaxes": "md-mdna",
+  "operatingCashFlow": "md-mdna",
+  "freeCashFlow": "md&a-stated",
+  "totalAssets": "2015:p149",
+  "stockholdersEquity": "md-vote",
+  "totalDebt": "2015:p149",
+  "capitalExpenditure": "md-mdna",
+  "epsBasic": "2016:p86",
+  "epsDiluted": "2016:p86",
+  "dividendsPerShare": "2015:p149",
+  "sharesOutstandingM": "2016:p86"
+ },
+ "2016": {
+  "revenue": "2016:p157",
+  "netIncome": "2016:p157",
+  "rdExpense": "md-vote",
+  "pretaxIncome": "md-mdna",
+  "incomeTaxes": "md-mdna",
+  "operatingCashFlow": "md-mdna",
+  "freeCashFlow": "md&a-stated",
+  "totalAssets": "2016:p157",
+  "stockholdersEquity": "md-vote",
+  "totalDebt": "2016:p157",
+  "capitalExpenditure": "md-mdna",
+  "epsBasic": "2018:p71",
+  "epsDiluted": "2018:p71",
+  "dividendsPerShare": "2016:p157",
+  "sharesOutstandingM": "2018:p71"
+ },
+ "2017": {
+  "revenue": "2017:p148",
+  "netIncome": "2017:p148",
+  "rdExpense": "md-vote",
+  "pretaxIncome": "md-mdna",
+  "incomeTaxes": "md-mdna",
+  "freeCashFlow": "md&a-stated",
+  "totalAssets": "2017:p148",
+  "stockholdersEquity": "md-vote",
+  "totalDebt": "2017:p148",
+  "epsBasic": "2018:p71",
+  "epsDiluted": "2018:p71",
+  "dividendsPerShare": "2017:p148",
+  "sharesOutstandingM": "2018:p71"
+ },
+ "2018": {
+  "revenue": "2018:p148",
+  "netIncome": "2018:p148",
+  "rdExpense": "md-vote",
+  "pretaxIncome": "md-mdna",
+  "incomeTaxes": "md-mdna",
+  "freeCashFlow": "md&a-stated",
+  "totalAssets": "2018:p148",
+  "stockholdersEquity": "md-vote",
+  "totalDebt": "2018:p148",
+  "epsBasic": "2018:p71",
+  "epsDiluted": "2018:p71",
+  "sharesOutstandingM": "2018:p71"
+ },
+ "2019": {
+  "revenue": "2021:p64",
+  "netIncome": "2021:p64",
+  "rdExpense": "md-vote",
+  "pretaxIncome": "md-mdna",
+  "incomeTaxes": "md-mdna",
+  "operatingCashFlow": "md-mdna",
+  "freeCashFlow": "md-mdna",
+  "totalAssets": "md-vote",
+  "stockholdersEquity": "md-vote",
+  "totalDebt": "md-mdna",
+  "epsBasic": "2021:p64",
+  "epsDiluted": "2021:p64",
+  "sharesOutstandingM": "2021:p64"
+ },
+ "2020": {
+  "revenue": "2021:p64",
+  "netIncome": "2021:p64",
+  "pretaxIncome": "2020:mdna",
+  "operatingCashFlow": "md-mdna",
+  "freeCashFlow": "md-mdna",
+  "totalAssets": "md-vote",
+  "stockholdersEquity": "md-vote",
+  "totalDebt": "md-mdna",
+  "epsBasic": "2021:p64",
+  "epsDiluted": "2021:p64",
+  "sharesOutstandingM": "2021:p64"
+ },
+ "2021": {
+  "revenue": "2021:p64",
+  "netIncome": "2021:p64",
+  "rdExpense": "md-vote",
+  "pretaxIncome": "2021:mdna",
+  "freeCashFlow": "md&a-stated",
+  "totalAssets": "md-vote",
+  "stockholdersEquity": "md-vote",
+  "totalDebt": "md-mdna",
+  "epsBasic": "2023:p46",
+  "epsDiluted": "2023:p46",
+  "sharesOutstandingM": "2023:p46"
+ },
+ "2022": {
+  "revenue": "2024AR",
+  "netIncome": "2024AR",
+  "rdExpense": "md-vote",
+  "pretaxIncome": "md-mdna",
+  "freeCashFlow": "md-mdna",
+  "totalAssets": "md-vote",
+  "stockholdersEquity": "md-vote",
+  "totalDebt": "md-mdna",
+  "epsBasic": "2023:p46",
+  "epsDiluted": "2023:p46",
+  "sharesOutstandingM": "2023:p46",
+  "softwareARR": "2022:mdna"
+ },
+ "2023": {
+  "revenue": "2025:p44",
+  "netIncome": "2025:p44",
+  "rdExpense": "md-vote",
+  "pretaxIncome": "md-mdna",
+  "freeCashFlow": "md-mdna",
+  "totalAssets": "md-vote",
+  "stockholdersEquity": "md-vote",
+  "totalDebt": "md-mdna",
+  "epsBasic": "2025:p44",
+  "epsDiluted": "2025:p44",
+  "sharesOutstandingM": "2025:p44",
+  "softwareARR": "2023:mdna"
+ },
+ "2024": {
+  "revenue": "2025:p44",
+  "netIncome": "2025:p44",
+  "rdExpense": "2024AR",
+  "pretaxIncome": "md-mdna",
+  "freeCashFlow": "md-mdna",
+  "totalAssets": "md-vote",
+  "stockholdersEquity": "md-vote",
+  "totalDebt": "md-mdna",
+  "epsBasic": "2025:p44",
+  "epsDiluted": "2025:p44",
+  "sharesOutstandingM": "2025:p44",
+  "softwareARR": "2025:mdna"
+ },
+ "2025": {
+  "revenue": "2025:p44",
+  "netIncome": "2025:p44",
+  "grossProfit": "2025:p44",
+  "rdExpense": "2025:p44",
+  "pretaxIncome": "md-mdna",
+  "freeCashFlow": "md-mdna",
+  "totalAssets": "md-vote",
+  "stockholdersEquity": "md-vote",
+  "totalDebt": "md-mdna",
+  "epsBasic": "2025:p44",
+  "epsDiluted": "2025:p44",
+  "sharesOutstandingM": "2025:p44",
+  "softwareARR": "2025:mdna"
+ }
+}

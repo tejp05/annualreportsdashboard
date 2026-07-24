@@ -1,0 +1,584 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>IBM Through the Years — Annual Reports Dashboard</title>
+  <meta name="description" content="A century of IBM, drawn directly from the annual reports (1911–2025)." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500;600&family=IBM+Plex+Sans:wght@300;400;600;700&family=IBM+Plex+Serif:wght@700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css?v=29" />
+</head>
+<body>
+  <!-- ===== Top bar ===== -->
+  <header class="topbar">
+    <div class="brand">
+      <img class="brand-logo" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCEtLSBDcmVhdGVkIHdpdGggSW5rc2NhcGUgKGh0dHA6Ly93d3cuaW5rc2NhcGUub3JnLykgLS0+CjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iSUJNX2xvZ29fOC1iYXJfYmx1ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHdpZHRoPSIxMDc1cHgiIGhlaWdodD0iNDAxLjE1cHgiIHZpZXdCb3g9IjAgMCAxMDc1IDQwMS4xNSIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMTAwMCA0MDEuMTUiIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8dGl0bGU+TG9nbyBJbnRlcm5hdGlvbmFsIEJ1c2luZXNzIE1hY2hpbmVzIENvcnBvcmF0aW9uPC90aXRsZT4KPGcgaWQ9IklCTV9sb2dvIiBmaWxsPSIjMWY3MGMxIj4KCTxnIGlkPSJJIj4KCQk8cmVjdCB5PSIzNzMuMTciIHdpZHRoPSIxOTQuNDMiIGhlaWdodD0iMjcuOTMyIi8+CgkJPHJlY3QgeT0iMzE5LjgzIiB3aWR0aD0iMTk0LjQzIiBoZWlnaHQ9IjI3LjkzMiIvPgoJCTxyZWN0IHg9IjU1LjQ2OCIgeT0iMjY2LjU0IiB3aWR0aD0iODMuMzk5IiBoZWlnaHQ9IjI3LjkzMiIvPgoJCTxyZWN0IHg9IjU1LjQ2OCIgeT0iMjEzLjI1IiB3aWR0aD0iODMuMzk5IiBoZWlnaHQ9IjI3LjkzMiIvPgoJCTxyZWN0IHg9IjU1LjQ2OCIgeT0iMTU5Ljk2IiB3aWR0aD0iODMuMzk5IiBoZWlnaHQ9IjI3LjkzMiIvPgoJCTxyZWN0IHg9IjU1LjQ2OCIgeT0iMTA2LjU4IiB3aWR0aD0iODMuMzk5IiBoZWlnaHQ9IjI3LjkzMiIvPgoJCTxyZWN0IHk9IjUzLjI4OCIgd2lkdGg9IjE5NC40MyIgaGVpZ2h0PSIyNy45MzIiLz4KCQk8cmVjdCB3aWR0aD0iMTk0LjQzIiBoZWlnaHQ9IjI3LjkzMiIvPgoJPC9nPgoJPGcgaWQ9IkIiPgoJCTxwYXRoIGQ9Im0yMjIuMTcgNDAwLjg1IDIwNy4xMSAwLjI5N2MyNy43MzQgMCA1Mi43OTMtMTAuNjk3IDcxLjUxMy0yNy45MzJoLTI3OC42MnoiLz4KCQk8cGF0aCBkPSJtMjIyLjE3IDM0Ny43NmgyOTkuMDNjNS4wNTEtOC42MTcgOC44MTUtMTguMDI3IDExLjA5NC0yNy45MzJoLTMxMC4xMnoiLz4KCQk8cmVjdCB4PSIyNzcuNzMiIHk9IjI2Ni41NCIgd2lkdGg9IjgzLjMiIGhlaWdodD0iMjcuOTMyIi8+CgkJPHBhdGggZD0ibTQ0NC40MyAyNjYuNTR2MjcuOTMyaDkwLjkyN2MwLTkuNjA4LTEuMjg4LTE5LjAxNy0zLjc2NC0yNy45MzJ6Ii8+CgkJPHBhdGggZD0ibTQ5Ny45MiAyMTMuMjVoLTIyMC4xOXYyNy45MzJoMjQzLjQ2Yy02LjM0LTEwLjY5OC0xNC4xNjUtMjAuMTA3LTIzLjI3Ny0yNy45MzJ6Ii8+CgkJPHBhdGggZD0ibTI3Ny43MyAxNTkuOTZ2MjcuOTMyaDIyMC4xOWM5LjMxMS03LjgyNSAxNy4xMzUtMTcuMjM1IDIzLjI3Ny0yNy45MzJ6Ii8+CgkJPHJlY3QgeD0iMjc3LjczIiB5PSIxMDYuNTgiIHdpZHRoPSI4My4zIiBoZWlnaHQ9IjI3LjkzMiIvPgoJCTxwYXRoIGQ9Im00NDQuNDMgMTM0LjUxaDg3LjE2M2MyLjQ3Ni04LjkxNCAzLjc2NC0xOC4zMjQgMy43NjQtMjcuOTMyaC05MC45Mjd6Ii8+CgkJPHBhdGggZD0ibTUyMS4yIDUzLjI4OGgtMjk5LjAzdjI3LjkzMmgzMTAuMTJjLTIuNTc1LTkuOTA1LTYuMzM5LTE5LjMxNC0xMS4wOTMtMjcuOTMyeiIvPgoJCTxwYXRoIGQ9Im00MjkuMjggMGgtMjA3LjExdjI3LjkzMmgyNzguNTNjLTE4LjYyMS0xNy4yMzUtNDMuODc4LTI3LjkzMi03MS40MTQtMjcuOTMyeiIvPgoJPC9nPgoJPGcgaWQ9Ik0iPgoJCTxwb2x5Z29uIHBvaW50cz0iNTU1LjU3IDgxLjIyIDc0Mi42NyA4MS4yMiA3MzMuMDYgNTMuMjg4IDU1NS41NyA1My4yODgiLz4KCQk8cG9seWdvbiBwb2ludHM9IjU1NS41NyAyNy45MzIgNzI0LjI1IDI3LjkzMiA3MTQuNjQgMCA1NTUuNTcgMCIvPgoJCTxwb2x5Z29uIHBvaW50cz0iODYxLjAzIDQwMS4xNyA4NjEuMDMgMzczLjI0IDFlMyAzNzMuMjQgMWUzIDQwMS4xNyIgc3Ryb2tlLXdpZHRoPSIxLjAwMTgiLz4KCQk8cG9seWdvbiBwb2ludHM9Ijg2MS4wMyAzNDcuNzYgODYxLjAzIDMxOS44MyAxZTMgMzE5LjgzIDFlMyAzNDcuNzYiLz4KCQk8cG9seWdvbiBwb2ludHM9Ijc3Ny43MyAxODIuNTQgNzY5LjkxIDE1OS45NiA2OTQuNDMgMTU5Ljk2IDYxMS4wMyAxNTkuOTYgNjExLjAzIDE4Ny44OSA2OTQuNDMgMTg3Ljg5IDY5NC40MyAxNjIuMjQgNzAzLjI1IDE4Ny44OSA4NTIuMjIgMTg3Ljg5IDg2MS4wMyAxNjIuMjQgODYxLjAzIDE4Ny44OSA5NDQuNDMgMTg3Ljg5IDk0NC40MyAxNTkuOTYgODYxLjAzIDE1OS45NiA3ODUuNTYgMTU5Ljk2Ii8+CgkJPHBvbHlnb24gcG9pbnRzPSI5NDQuNDMgMTA2LjU4IDgwMy45OCAxMDYuNTggNzk0LjM3IDEzNC41MSA5NDQuNDMgMTM0LjUxIi8+CgkJPHBvbHlnb24gcG9pbnRzPSIxZTMgMjcuOTMyIDFlMyAwIDg0MC45MyAwIDgzMS4zMiAyNy45MzIiLz4KCQk8cG9seWdvbiBwb2ludHM9Ijc2OC4xMyAzNzMuMjIgNzc3LjczIDQwMC44NSA3ODcuMzQgMzczLjIyIi8+CgkJPHBvbHlnb24gcG9pbnRzPSI3NDkuNSAzMTkuODMgNzU5LjMxIDM0Ny43NiA3OTYuMTYgMzQ3Ljc2IDgwNi4wNiAzMTkuODMiLz4KCQk8cG9seWdvbiBwb2ludHM9IjczMC43OCAyNjYuNTQgNzQwLjU5IDI5NC40NyA4MTQuODggMjk0LjQ3IDgyNC42OCAyNjYuNTQiLz4KCQk8cG9seWdvbiBwb2ludHM9IjcyMS45NyAyNDEuMTggODMzLjYgMjQxLjE4IDg0My4xMSAyMTMuMjUgNzEyLjM2IDIxMy4yNSIvPgoJCTxwb2x5Z29uIHBvaW50cz0iNjExLjAzIDEzNC41MSA3NjEuMDkgMTM0LjUxIDc1MS40OSAxMDYuNTggNjExLjAzIDEwNi41OCIvPgoJCTxwb2x5Z29uIHBvaW50cz0iMWUzIDUzLjI4OCA4MjIuNCA1My4yODggODEyLjkgODEuMjIgMWUzIDgxLjIyIi8+CgkJPHJlY3QgeD0iNTU1LjU3IiB5PSIzNzMuMjIiIHdpZHRoPSIxMzguOTciIGhlaWdodD0iMjcuOTMyIi8+CgkJPHJlY3QgeD0iNTU1LjU3IiB5PSIzMTkuODMiIHdpZHRoPSIxMzguOTciIGhlaWdodD0iMjcuOTMyIi8+CgkJPHJlY3QgeD0iNjExLjAzIiB5PSIyNjYuNTQiIHdpZHRoPSI4My4zOTkiIGhlaWdodD0iMjcuOTMyIi8+CgkJPHJlY3QgeD0iNjExLjAzIiB5PSIyMTMuMjUiIHdpZHRoPSI4My4zOTkiIGhlaWdodD0iMjcuOTMyIi8+CgkJPHJlY3QgeD0iODYxLjAzIiB5PSIyMTMuMjUiIHdpZHRoPSI4My4zOTkiIGhlaWdodD0iMjcuOTMyIi8+CgkJPHJlY3QgeD0iODYxLjAzIiB5PSIyNjYuNTQiIHdpZHRoPSI4My4zOTkiIGhlaWdodD0iMjcuOTMyIi8+Cgk8L2c+Cgk8cGF0aCBpZD0iUmVnaXN0ZXJlZCIgZD0ibTEwNTIgMzU3LjE1YTIyIDIyIDAgMCAwLTIyIDIyIDIyIDIyIDAgMCAwIDIyIDIyIDIyIDIyIDAgMCAwIDIyLTIyIDIyIDIyIDAgMCAwLTIyLTIyem0wIDRhMTggMTggMCAwIDEgMTggMTggMTggMTggMCAwIDEtMTggMTggMTggMTggMCAwIDEtMTgtMTggMTggMTggMCAwIDEgMTgtMTh6bS05LjM0NzYgNi43OTN2MjIuNDE0aDUuNDUzdi03LjczMDVoMy4wOTc4bDQuMTY0IDcuNzMwNWg1Ljk4MDRsLTUuMDIzNC04LjU4MmMyLjQ2MTYtMC45NjQ0NiA0LjA2MjQtMy4yMTU4IDQuMDYyNC02Ljc1IDAtNC4wODE4LTIuNTU5NC03LjA4Mi03LjU4Mi03LjA4MnptNS40NTMgNC4yODkxaDQuMDU0OGMxLjcxMTQgMCAyLjY2OCAwLjc1MDE2IDIuNjY4IDIuMzU1NXYxLjYxMzNjMCAxLjYwNTMtMC45NTY2IDIuMzU5NC0yLjY2OCAyLjM1OTRoLTQuMDU0OHoiLz4KPC9nPgo8L3N2Zz4K" alt="IBM" />
+      <span class="brand-divider"></span>
+      <span class="brand-title">Through&nbsp;the&nbsp;Years</span>
+      <span class="brand-sub">1911 – 2026</span>
+    </div>
+    <span class="spacer"></span>
+    <img class="bob-avatar" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiBmaWxsPSJub25lIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzNfMikiPjxtYXNrIGlkPSJtYXNrMF8zXzIiIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB4PSIwIiB5PSIwIiBtYXNrVW5pdHM9InVzZXJTcGFjZU9uVXNlIiBzdHlsZT0ibWFzay10eXBlOmx1bWluYW5jZSI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTUxMiAwSDBWNTEySDUxMlYwWiIvPjwvbWFzaz48ZyBtYXNrPSJ1cmwoI21hc2swXzNfMikiPjxwYXRoIGZpbGw9IiMwMDQzY2UiIGQ9Ik0yNDQuMTc5IDUwNi41NjRDMjQ0LjE3OSA0ODAuMDU0IDIyMi42ODkgNDU4LjU2NCAxOTYuMTc5IDQ1OC41NjRDMTY5LjY2OSA0NTguNTY0IDE0Ny45NDEgNDgwLjA1NCAxNDcuOTQxIDUwNi41NjRDMTQ3Ljk0MSA1MDYuNTY0IDE1Ni4xOSA1MDYuNTY0IDE5NS41OTUgNTA2LjU2NEMyMzUgNTA2LjU2NCAyNDQuMTc5IDUwNi41NjQgMjQ0LjE3OSA1MDYuNTY0WiIvPjxwYXRoIHN0cm9rZT0iIzI2MjYyNiIgc3Ryb2tlLXdpZHRoPSIxMCIgZD0iTTI0NC4xNzkgNTA2LjU2NEMyNDQuMTc5IDQ4MC4wNTQgMjIyLjY4OSA0NTguNTY0IDE5Ni4xNzkgNDU4LjU2NEMxNjkuNjY5IDQ1OC41NjQgMTQ3Ljk0MSA0ODAuMDU0IDE0Ny45NDEgNTA2LjU2NEMxNDcuOTQxIDUwNi41NjQgMTU2LjE5IDUwNi41NjQgMTk1LjU5NSA1MDYuNTY0QzIzNSA1MDYuNTY0IDI0NC4xNzkgNTA2LjU2NCAyNDQuMTc5IDUwNi41NjRaIi8+PHBhdGggZmlsbD0iIzBmNjJmZSIgZD0iTTI0NC4xNzkgNTA2LjU2NEMyNDQuMTc5IDQ4MC4wNTQgMjIyLjY4OSA0NTguNTY0IDE5Ni4xNzkgNDU4LjU2NEMxNjkuNjY5IDQ1OC41NjQgMTQ3Ljk0MSA0ODAuMDU0IDE0Ny45NDEgNTA2LjU2NEMxNDcuOTQxIDUwNi41NjQgMTQ2LjQ0MSA1MDYuNTY0IDE5NS4yMjEgNTA2LjU2NEMyNDQuMDAxIDUwNi41NjQgMjQ0LjE3OSA1MDYuNTY0IDI0NC4xNzkgNTA2LjU2NFoiLz48cGF0aCBzdHJva2U9IiMyNjI2MjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIxMCIgZD0iTTI0NC4xNzkgNTA2LjU2NEMyNDQuMTc5IDQ4MC4wNTQgMjIyLjY4OSA0NTguNTY0IDE5Ni4xNzkgNDU4LjU2NEMxNjkuNjY5IDQ1OC41NjQgMTQ3Ljk0MSA0ODAuMDU0IDE0Ny45NDEgNTA2LjU2NEMxNDcuOTQxIDUwNi41NjQgMTQ2LjQ0MSA1MDYuNTY0IDE5NS4yMjEgNTA2LjU2NEMyNDQuMDAxIDUwNi41NjQgMjQ0LjE3OSA1MDYuNTY0IDI0NC4xNzkgNTA2LjU2NFoiLz48cGF0aCBmaWxsPSIjMDA0M2NlIiBkPSJNMzY0LjE3OSA1MDYuNTY0QzM2NC4xNzkgNDgwLjA1NCAzNDIuNjg5IDQ1OC41NjQgMzE2LjE3OSA0NTguNTY0QzI4OS42NjkgNDU4LjU2NCAyNjcuOTQxIDQ4MC4wNTQgMjY3Ljk0MSA1MDYuNTY0QzI2Ny45NDEgNTA2LjU2NCAyNzYuMTkgNTA2LjU2NCAzMTUuNTk1IDUwNi41NjRDMzU1IDUwNi41NjQgMzY0LjE3OSA1MDYuNTY0IDM2NC4xNzkgNTA2LjU2NFoiLz48cGF0aCBzdHJva2U9IiMyNjI2MjYiIHN0cm9rZS13aWR0aD0iMTAiIGQ9Ik0zNjQuMTc5IDUwNi41NjRDMzY0LjE3OSA0ODAuMDU0IDM0Mi42ODkgNDU4LjU2NCAzMTYuMTc5IDQ1OC41NjRDMjg5LjY2OSA0NTguNTY0IDI2Ny45NDEgNDgwLjA1NCAyNjcuOTQxIDUwNi41NjRDMjY3Ljk0MSA1MDYuNTY0IDI3Ni4xOSA1MDYuNTY0IDMxNS41OTUgNTA2LjU2NEMzNTUgNTA2LjU2NCAzNjQuMTc5IDUwNi41NjQgMzY0LjE3OSA1MDYuNTY0WiIvPjxwYXRoIGZpbGw9IiMwZjYyZmUiIGQ9Ik0zNjQuMTc5IDUwNi41NjRDMzY0LjE3OSA0ODAuMDU0IDM0Mi42ODkgNDU4LjU2NCAzMTYuMTc5IDQ1OC41NjRDMjg5LjY2OSA0NTguNTY0IDI2Ny45NDEgNDgwLjA1NCAyNjcuOTQxIDUwNi41NjRDMjY3Ljk0MSA1MDYuNTY0IDI2Ni40NDEgNTA2LjU2NCAzMTUuMjIxIDUwNi41NjRDMzY0LjAwMSA1MDYuNTY0IDM2NC4xNzkgNTA2LjU2NCAzNjQuMTc5IDUwNi41NjRaIi8+PHBhdGggc3Ryb2tlPSIjMjYyNjI2IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMTAiIGQ9Ik0zNjQuMTc5IDUwNi41NjRDMzY0LjE3OSA0ODAuMDU0IDM0Mi42ODkgNDU4LjU2NCAzMTYuMTc5IDQ1OC41NjRDMjg5LjY2OSA0NTguNTY0IDI2Ny45NDEgNDgwLjA1NCAyNjcuOTQxIDUwNi41NjRDMjY3Ljk0MSA1MDYuNTY0IDI2Ni40NDEgNTA2LjU2NCAzMTUuMjIxIDUwNi41NjRDMzY0LjAwMSA1MDYuNTY0IDM2NC4xNzkgNTA2LjU2NCAzNjQuMTc5IDUwNi41NjRaIi8+PHBhdGggZmlsbD0iI2UwZTBlMCIgZD0iTTM5NC44NTcgMjcyLjU2MkwzNzAuODU3IDI3Mi41NjJDMzY1LjMzNCAyNzIuNTYyIDM2MC44NTcgMjY4LjA4NSAzNjAuODU2IDI2Mi41NjJMMzYwLjg1NiAyMjIuNTYyQzM2MC44NTYgMjE3LjAzOSAzNjUuMzMzIDIxMi41NjIgMzcwLjg1NiAyMTIuNTYyTDM5NC44NTYgMjEyLjU2MkM0MDAuMzc5IDIxMi41NjIgNDA0Ljg1NiAyMTcuMDM5IDQwNC44NTYgMjIyLjU2Mkw0MDQuODU2IDI2Mi41NjJDNDA0Ljg1NyAyNjguMDg1IDQwMC4zOCAyNzIuNTYyIDM5NC44NTcgMjcyLjU2MloiLz48cGF0aCBzdHJva2U9IiMyNjI2MjYiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgc3Ryb2tlLXdpZHRoPSIxMCIgZD0iTTM5NC44NTcgMjcyLjU2MkwzNzAuODU3IDI3Mi41NjJDMzY1LjMzNCAyNzIuNTYyIDM2MC44NTcgMjY4LjA4NSAzNjAuODU2IDI2Mi41NjJMMzYwLjg1NiAyMjIuNTYyQzM2MC44NTYgMjE3LjAzOSAzNjUuMzMzIDIxMi41NjIgMzcwLjg1NiAyMTIuNTYyTDM5NC44NTYgMjEyLjU2MkM0MDAuMzc5IDIxMi41NjIgNDA0Ljg1NiAyMTcuMDM5IDQwNC44NTYgMjIyLjU2Mkw0MDQuODU2IDI2Mi41NjJDNDA0Ljg1NyAyNjguMDg1IDQwMC4zOCAyNzIuNTYyIDM5NC44NTcgMjcyLjU2MloiLz48cGF0aCBmaWxsPSIjZTBlMGUwIiBkPSJNMTQwLjg1NyAyNzIuNTY0TDExNi44NTcgMjcyLjU2NEMxMTEuMzM0IDI3Mi41NjQgMTA2Ljg1NyAyNjguMDg3IDEwNi44NTYgMjYyLjU2NEwxMDYuODU2IDIyMi41NjRDMTA2Ljg1NiAyMTcuMDQxIDExMS4zMzMgMjEyLjU2NCAxMTYuODU2IDIxMi41NjRMMTQwLjg1NiAyMTIuNTY0QzE0Ni4zNzkgMjEyLjU2NCAxNTAuODU2IDIxNy4wNDEgMTUwLjg1NiAyMjIuNTY0TDE1MC44NTYgMjYyLjU2NEMxNTAuODU3IDI2OC4wODcgMTQ2LjM4IDI3Mi41NjQgMTQwLjg1NyAyNzIuNTY0WiIvPjxwYXRoIHN0cm9rZT0iIzI2MjYyNiIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBzdHJva2Utd2lkdGg9IjEwIiBkPSJNMTQwLjg1NyAyNzIuNTY0TDExNi44NTcgMjcyLjU2NEMxMTEuMzM0IDI3Mi41NjQgMTA2Ljg1NyAyNjguMDg3IDEwNi44NTYgMjYyLjU2NEwxMDYuODU2IDIyMi41NjRDMTA2Ljg1NiAyMTcuMDQxIDExMS4zMzMgMjEyLjU2NCAxMTYuODU2IDIxMi41NjRMMTQwLjg1NiAyMTIuNTY0QzE0Ni4zNzkgMjEyLjU2NCAxNTAuODU2IDIxNy4wNDEgMTUwLjg1NiAyMjIuNTY0TDE1MC44NTYgMjYyLjU2NEMxNTAuODU3IDI2OC4wODcgMTQ2LjM4IDI3Mi41NjQgMTQwLjg1NyAyNzIuNTY0WiIvPjxwYXRoIGZpbGw9IiNhOGE4YTgiIGQ9Ik0zMzMuOTkxIDMyMC4zOUwxNzguMDA5IDMyMC4zOTJDMTUxLjQ5NCAzMjAuMzkyIDEzMCAyOTguODk4IDEzMCAyNzIuMzgzTDEyOS45OTkgMjEyLjQwMUMxMjkuOTk5IDE4NS44ODYgMTUxLjQ5MyAxNjQuMzkyIDE3OC4wMDggMTY0LjM5MkwzMzMuOTkgMTY0LjM5QzM2MC41MDUgMTY0LjM5IDM4MS45OTkgMTg1Ljg4NCAzODEuOTk5IDIxMi4zOTlMMzgyIDI3Mi4zODFDMzgyIDI5OC44OTYgMzYwLjUwNiAzMjAuMzkgMzMzLjk5MSAzMjAuMzlaIi8+PHBhdGggc3Ryb2tlPSIjMjYyNjI2IiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHN0cm9rZS13aWR0aD0iMTAiIGQ9Ik0zMzMuOTkxIDMyMC4zOUwxNzguMDA5IDMyMC4zOTJDMTUxLjQ5NCAzMjAuMzkyIDEzMCAyOTguODk4IDEzMCAyNzIuMzgzTDEyOS45OTkgMjEyLjQwMUMxMjkuOTk5IDE4NS44ODYgMTUxLjQ5MyAxNjQuMzkyIDE3OC4wMDggMTY0LjM5MkwzMzMuOTkgMTY0LjM5QzM2MC41MDUgMTY0LjM5IDM4MS45OTkgMTg1Ljg4NCAzODEuOTk5IDIxMi4zOTlMMzgyIDI3Mi4zODFDMzgyIDI5OC44OTYgMzYwLjUwNiAzMjAuMzkgMzMzLjk5MSAzMjAuMzlaIi8+PHBhdGggZmlsbD0iI2UwZTBlMCIgZD0iTTI0NiA0MjYuMTQxQzIxOC4zODYgNDI2LjE0MSAxOTYgNDAzLjc1NSAxOTYgMzc2LjE0MUwxOTYgMzM2LjM5MUMxOTYgMzM2LjM5MSAxOTguNSAzMzYuMzkxIDI1Ny41IDMzNi4zOTFDMzE2LjUgMzM2LjM5MSAzMTYgMzM2LjM5MSAzMTYgMzM2LjM5MUwzMTYgMzc2LjE0MUMzMTYgNDAzLjc1NSAyOTMuNjE0IDQyNi4xNDEgMjY2IDQyNi4xNDFMMjQ2IDQyNi4xNDFaIi8+PHBhdGggc3Ryb2tlPSIjMjYyNjI2IiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHN0cm9rZS13aWR0aD0iMTAiIGQ9Ik0yNDYgNDI2LjE0MUMyMTguMzg2IDQyNi4xNDEgMTk2IDQwMy43NTUgMTk2IDM3Ni4xNDFMMTk2IDMzNi4zOTFDMTk2IDMzNi4zOTEgMTk4LjUgMzM2LjM5MSAyNTcuNSAzMzYuMzkxQzMxNi41IDMzNi4zOTEgMzE2IDMzNi4zOTEgMzE2IDMzNi4zOTFMMzE2IDM3Ni4xNDFDMzE2IDQwMy43NTUgMjkzLjYxNCA0MjYuMTQxIDI2NiA0MjYuMTQxTDI0NiA0MjYuMTQxWiIvPjxwYXRoIGZpbGw9IiNlMGUwZTAiIGQ9Ik0zMzMuOTkxIDMyMC4zOUwxNzguMDA5IDMyMC4zOTJDMTUxLjQ5NCAzMjAuMzkyIDEzMCAyOTguODk4IDEzMCAyNzIuMzgzTDEyOS45OTkgMjEyLjQwMUMxMjkuOTk5IDE4NS44ODYgMTUxLjQ5MyAxNjQuMzkyIDE3OC4wMDggMTY0LjM5MkwzMzMuOTkgMTY0LjM5QzM2MC41MDUgMTY0LjM5IDM4MS45OTkgMTg1Ljg4NCAzODEuOTk5IDIxMi4zOTlMMzgyIDI3Mi4zODFDMzgyIDI5OC44OTYgMzYwLjUwNiAzMjAuMzkgMzMzLjk5MSAzMjAuMzlaIi8+PHBhdGggc3Ryb2tlPSIjMjYyNjI2IiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHN0cm9rZS13aWR0aD0iMTAiIGQ9Ik0zMzMuOTkxIDMyMC4zOUwxNzguMDA5IDMyMC4zOTJDMTUxLjQ5NCAzMjAuMzkyIDEzMCAyOTguODk4IDEzMCAyNzIuMzgzTDEyOS45OTkgMjEyLjQwMUMxMjkuOTk5IDE4NS44ODYgMTUxLjQ5MyAxNjQuMzkyIDE3OC4wMDggMTY0LjM5MkwzMzMuOTkgMTY0LjM5QzM2MC41MDUgMTY0LjM5IDM4MS45OTkgMTg1Ljg4NCAzODEuOTk5IDIxMi4zOTlMMzgyIDI3Mi4zODFDMzgyIDI5OC44OTYgMzYwLjUwNiAzMjAuMzkgMzMzLjk5MSAzMjAuMzlaIi8+PHBhdGggZmlsbD0iI2Y0ZjRmNCIgZD0iTTMyMS41MTIgMzIwLjM5TDE5MC40ODggMzIwLjM5MkMxNjguMjE1IDMyMC4zOTIgMTUwLjE2IDI5OC44OTggMTUwLjE2IDI3Mi4zODNMMTUwLjE1OSAyMTIuNDAxQzE1MC4xNTkgMTg1Ljg4NiAxNjguMjE0IDE2NC4zOTIgMTkwLjQ4NiAxNjQuMzkyTDMyMS41MTEgMTY0LjM5QzM0My43ODQgMTY0LjM5IDM2MS44MzkgMTg1Ljg4NCAzNjEuODM5IDIxMi4zOTlMMzYxLjg0IDI3Mi4zODFDMzYxLjg0IDI5OC44OTYgMzQzLjc4NSAzMjAuMzkgMzIxLjUxMiAzMjAuMzlaIi8+PHBhdGggc3Ryb2tlPSIjMjYyNjI2IiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHN0cm9rZS13aWR0aD0iMTAiIGQ9Ik0zMzMuOTkxIDMyMC4zOUwxNzguMDA5IDMyMC4zOTJDMTUxLjQ5NCAzMjAuMzkyIDEzMCAyOTguODk4IDEzMCAyNzIuMzgzTDEyOS45OTkgMjEyLjQwMUMxMjkuOTk5IDE4NS44ODYgMTUxLjQ5MyAxNjQuMzkyIDE3OC4wMDggMTY0LjM5MkwzMzMuOTkgMTY0LjM5QzM2MC41MDUgMTY0LjM5IDM4MS45OTkgMTg1Ljg4NCAzODEuOTk5IDIxMi4zOTlMMzgyIDI3Mi4zODFDMzgyIDI5OC44OTYgMzYwLjUwNiAzMjAuMzkgMzMzLjk5MSAzMjAuMzlaIi8+PHBhdGggc3Ryb2tlPSIjMjYyNjI2IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMTAiIGQ9Ik0yMjYuMzM2IDI4NC4zOTFDMjM4LjI5NCAyODkuMDU0IDI0Ny4yNzQgMjkxLjM0NyAyNTYuNDMgMjkxLjI2OUMyNjUuMjg0IDI5MS4xOTMgMjc0LjMwMiAyODguOSAyODYuMzM2IDI4NC4zOTFDMjg2LjMzNiAyODQuMzkxIDI3Mi41NCAyOTEuMzc0IDI1Ni41NyAyOTEuMjI4QzI0MC42IDI5MS4wODIgMjI2LjMzNiAyODQuMzkxIDIyNi4zMzYgMjg0LjM5MVoiLz48cGF0aCBmaWxsPSIjMjYyNjI2IiBkPSJNMjI2LjMzNiAyODQuMzkxQzIzOC4yOTQgMjg5LjA1NCAyNDcuMjc0IDI5MS4zNDcgMjU2LjQzIDI5MS4yNjkgMjY1LjI4NCAyOTEuMTkzIDI3NC4zMDIgMjg4LjkgMjg2LjMzNiAyODQuMzkxIDI4Ni4zMzYgMjg0LjM5MSAyNzIuNTQgMjkxLjM3NCAyNTYuNTcgMjkxLjIyOCAyNDAuNiAyOTEuMDgyIDIyNi4zMzYgMjg0LjM5MSAyMjYuMzM2IDI4NC4zOTFaTTI4NC4xMDYgMjQwLjU2M0MyODQuMTA2IDIyNS4yMzcgMjk2LjA4MiAyMTIuODEzIDMxMC44NTYgMjEyLjgxMiAzMjUuNjMgMjEyLjgxMiAzMzcuNjA2IDIyNS4yMzYgMzM3LjYwNiAyNDAuNTYyIDMzNy42MDYgMjU1Ljg4OCAzMjUuNjMxIDI2OC4zMTIgMzEwLjg1NyAyNjguMzEyIDI5Ni4wODMgMjY4LjMxMyAyODQuMTA2IDI1NS44ODkgMjg0LjEwNiAyNDAuNTYzWiIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0zMDkuODU2IDIzNi41NjJDMzA5Ljg1NiAyMzIuNjk5IDMxMi45OTMgMjI5LjU2MiAzMTYuODU2IDIyOS41NjJDMzIwLjcxOSAyMjkuNTYyIDMyMy44NTYgMjMyLjY5OSAzMjMuODU2IDIzNi41NjJDMzIzLjg1NiAyNDAuNDI2IDMyMC43MiAyNDMuNTYyIDMxNi44NTYgMjQzLjU2MkMzMTIuOTkzIDI0My41NjIgMzA5Ljg1NiAyNDAuNDI2IDMwOS44NTYgMjM2LjU2MloiLz48cGF0aCBmaWxsPSIjMjYyNjI2IiBkPSJNMTcyLjEwNiAyNDAuNTY0QzE3Mi4xMDYgMjI1LjIzOCAxODQuMDgyIDIxMi44MTQgMTk4Ljg1NiAyMTIuODE0QzIxMy42MyAyMTIuODEzIDIyNS42MDYgMjI1LjIzNyAyMjUuNjA2IDI0MC41NjNDMjI1LjYwNiAyNTUuODg5IDIxMy42MzEgMjY4LjMxMyAxOTguODU3IDI2OC4zMTRDMTg0LjA4MyAyNjguMzE0IDE3Mi4xMDYgMjU1Ljg5IDE3Mi4xMDYgMjQwLjU2NFoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTk3Ljg1NiAyMzYuNTY0QzE5Ny44NTYgMjMyLjcgMjAwLjk5MyAyMjkuNTYzIDIwNC44NTYgMjI5LjU2M0MyMDguNzE5IDIyOS41NjMgMjExLjg1NiAyMzIuNyAyMTEuODU2IDIzNi41NjNDMjExLjg1NiAyNDAuNDI3IDIwOC43MiAyNDMuNTYzIDIwNC44NTYgMjQzLjU2M0MyMDAuOTkzIDI0My41NjMgMTk3Ljg1NiAyNDAuNDI3IDE5Ny44NTYgMjM2LjU2NFoiLz48cGF0aCBmaWxsPSJ1cmwoI3BhaW50MF9saW5lYXJfM18yKSIgZD0iTTM5NC41NzggMTk0LjM5MUMzOTkuNDA2IDE5NC4zOTEgNDAzLjgwMSAxOTEuNjExIDQwNS44NzEgMTg3LjI0OUM0MDkuMjc3IDE4MC4wNzEgNDA1LjIxMSAxNzEuNTc4IDM5Ny40ODMgMTY5LjczMkwzODQuOTk5IDE2NS4zMTZDMzg0Ljk5OCA5Ny43MTE4IDMyNy4yNDMgNDIuOTA3MyAyNTUuOTk3IDQyLjkwOEMxODQuNzUyIDQyLjkwODYgMTI2Ljk5OCA5Ny43MTQyIDEyNi45OTkgMTY1LjMxOEwxMTQuNTE1IDE2OS43MzRDMTA2Ljc4NyAxNzEuNTggMTAyLjcyMSAxODAuMDczIDEwNi4xMjcgMTg3LjI1MUMxMDguMTk3IDE5MS42MTMgMTEyLjU5MiAxOTQuMzkzIDExNy40MiAxOTQuMzkzQzExNy40MiAxOTQuMzkzIDE2NC4zMDcgMTk0LjM5MyAyNTYuNDAzIDE5NC4zOTJDMzQ4LjQ5OSAxOTQuMzkxIDM5NC41NzggMTk0LjM5MSAzOTQuNTc4IDE5NC4zOTFaIi8+PHBhdGggc3Ryb2tlPSIjMjYyNjI2IiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjguOTc2IiBkPSJNMzk0LjU3OCAxOTQuMzkxQzM5OS40MDYgMTk0LjM5MSA0MDMuODAxIDE5MS42MTEgNDA1Ljg3MSAxODcuMjQ5QzQwOS4yNzcgMTgwLjA3MSA0MDUuMjExIDE3MS41NzggMzk3LjQ4MyAxNjkuNzMyTDM4NC45OTkgMTY1LjMxNkMzODQuOTk4IDk3LjcxMTggMzI3LjI0MyA0Mi45MDczIDI1NS45OTcgNDIuOTA4QzE4NC43NTIgNDIuOTA4NiAxMjYuOTk4IDk3LjcxNDIgMTI2Ljk5OSAxNjUuMzE4TDExNC41MTUgMTY5LjczNEMxMDYuNzg3IDE3MS41OCAxMDIuNzIxIDE4MC4wNzMgMTA2LjEyNyAxODcuMjUxQzEwOC4xOTcgMTkxLjYxMyAxMTIuNTkyIDE5NC4zOTMgMTEyLjU5MiAxOTQuMzkzQzExNy40MiAxOTQuMzkzIDE2NC4zMDcgMTk0LjM5MyAyNTYuNDAzIDE5NC4zOTJDMzQ4LjQ5OSAxOTQuMzkxIDM5NC41NzggMTk0LjM5MSAzOTQuNTc4IDE5NC4zOTFaIi8+PHBhdGggc3Ryb2tlPSIjMjYyNjI2IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS13aWR0aD0iMTAiIGQ9Ik0xNTcuOTk5IDE1OS40MzhDMjM1LjAwOCAxNDkuNjg4IDI3Ny45NDIgMTQ5LjI0NCAzNTMuOTk5IDE1OS40MzYiLz48cGF0aCBmaWxsPSJ1cmwoI3BhaW50MV9saW5lYXJfM18yKSIgZD0iTTIxOS45OTggMTIxLjQzN0wyMTkuOTk4IDQ1LjQzNzNDMjE5Ljk5NyAzOS45MTQzIDIyNC40NzQgMzUuNDM3MyAyMjkuOTk3IDM1LjQzNzJMMjgxLjk5NyAzNS40MzY4QzI4Ny41MiAzNS40MzY3IDI5MS45OTcgMzUuNDM2NyAyOTEuOTk4IDQ1LjQzNjdMMjkxLjk5OCAxMjEuNDM3Ii8+PHBhdGggc3Ryb2tlPSIjMjYyNjI2IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgc3Ryb2tlLXdpZHRoPSIxMCIgZD0iTTIxOS45OTggMTIxLjQzN0wyMTkuOTk4IDQ1LjQzNzNDMjE5Ljk5NyAzOS45MTQzIDIyNC40NzQgMzUuNDM3MyAyMjkuOTk3IDM1LjQzNzJMMjgxLjk5NyAzNS40MzY4QzI4Ny41MiAzNS40MzY3IDI5MS45OTcgMzUuNDM2NyAyOTEuOTk4IDQ1LjQzNjdMMjkxLjk5OCAxMjEuNDM3Ii8+PHBhdGggc3Ryb2tlPSIjMjYyNjI2IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgc3Ryb2tlLXdpZHRoPSI1MCIgZD0iTTE1OC45MTggNDIyLjM5MUMxNjAgMzgyLjUgMTYxLjY4MiAzNTQuMzc0IDE2MS42ODIgMzU0LjM3NCIvPjxwYXRoIHN0cm9rZT0iI2UwZTBlMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHN0cm9rZS13aWR0aD0iMzAiIGQ9Ik0xNTguOTE4IDQyMi4zOTFDMTYwIDM4Mi41IDE2MS42ODIgMzU0LjM3NCAxNjEuNjgyIDM1NC4zNzQiLz48cGF0aCBzdHJva2U9IiMyNjI2MjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBzdHJva2Utd2lkdGg9IjUwIiBkPSJNMzU1LjIwNSA0MTguMzkxQzM1NC40OTkgMzgwIDM1MC45NjkgMzU0LjM3NCAzNTAuOTY5IDM1NC4zNzQiLz48cGF0aCBzdHJva2U9IiNlMGUwZTAiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBzdHJva2Utd2lkdGg9IjMwIiBkPSJNMzU1LjIwNSA0MTguMzkxQzM1NC40OTkgMzgwIDM1MC45NjkgMzU0LjM3NCAzNTAuOTY5IDM1NC4zNzQiLz48cGF0aCBzdHJva2U9IiMyNjI2MjYiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgc3Ryb2tlLXdpZHRoPSIyMCIgZD0iTTE1My42NTMgNDA3LjIyOEMxMzYuNDIzIDQwOS4zNDMgMTIzLjY2MyA0MjMuNjQzIDEyMi45NDYgNDQwLjQzMkMxMjIuODE2IDQ0My41MDMgMTI1LjUwOSA0NDUuOTQ2IDEyOC41NjEgNDQ1LjU3MkwxODcuMjc2IDQzOC4zNjJDMTkwLjMyNyA0MzcuOTg4IDE5Mi4zNDkgNDM0Ljk2NiAxOTEuNDggNDMyLjAxOEMxODYuNzIzIDQxNS45IDE3MC44ODIgNDA1LjExMiAxNTMuNjUzIDQwNy4yMjhaTTE1My42NTMgNDA3LjIyOEMxNzIuODM5IDQwNC44NzIgMTkwLjMwMSA0MTguNTE2IDE5Mi42NTcgNDM3LjcwMkwxNTguMTY2IDQ0MS45MzdDMTU4LjE2NiA0NDEuOTM3IDEzNC40NjcgNDA5LjU4NCAxNTMuNjUzIDQwNy4yMjhaTTE1My42NTMgNDA3LjIyOEMxMzQuNDY3IDQwOS41ODQgMTIwLjgyMyA0MjcuMDQ2IDEyMy4xNzkgNDQ2LjIzMkwxNTcuNjcgNDQxLjk5N0MxNTcuNjcgNDQxLjk5NyAxNzIuODM5IDQwNC44NzIgMTUzLjY1MyA0MDcuMjI4WiIvPjxwYXRoIGZpbGw9IiNmNGY0ZjQiIGQ9Ik0xMjguNTYxIDQ0NS41NzJDMTI1LjUwOSA0NDUuOTQ2IDEyMi44MTYgNDQzLjUwMyAxMjIuOTQ2IDQ0MC40MzJDMTIzLjY2MyA0MjMuNjQzIDEzNi40MjMgNDA5LjM0MyAxNTMuNjUzIDQwNy4yMjhDMTcwLjg4MiA0MDUuMTEyIDE4Ni43MjMgNDE1LjkgMTkxLjQ4IDQzMi4wMThDMTkyLjM0OSA0MzQuOTY2IDE5MC4zMjcgNDM3Ljk4OCAxODcuMjc2IDQzOC4zNjJMMTI4LjU2MSA0NDUuNTcyWiIvPjxwYXRoIGZpbGw9IiNmNGY0ZjQiIGQ9Ik0xNTMuNjUzIDQwNy4yMjhDMTcyLjgzOSA0MDQuODcyIDE5MC4zMDIgNDE4LjUxNiAxOTIuNjU3IDQzNy43MDJMMTU4LjE2NiA0NDEuOTM3QzE1OC4xNjYgNDQxLjkzNyAxMzQuNDY3IDQwOS41ODQgMTUzLjY1MyA0MDcuMjI4WiIvPjxwYXRoIGZpbGw9IiNmNGY0ZjQiIGQ9Ik0xNTMuNjUzIDQwNy4yMjhDMTM0LjQ2NyA0MDkuNTg0IDEyMC44MjMgNDI3LjA0NiAxMjMuMTc5IDQ0Ni4yMzJMMTU3LjY3IDQ0MS45OTdDMTU3LjY3IDQ0MS45OTcgMTcyLjgzOSA0MDQuODcyIDE1My42NTMgNDA3LjIyOFoiLz48cGF0aCBzdHJva2U9IiMyNjI2MjYiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgc3Ryb2tlLXdpZHRoPSIyMCIgZD0iTTM1Ni42ODEgNDA3LjI2MUMzMzkuNTM2IDQwNC41NDUgMzIzLjMyOCA0MTQuNzc0IDMxOC4wMTIgNDMwLjcxNUMzMTcuMDQgNDMzLjYzMSAzMTguOTU2IDQzNi43MjIgMzIxLjk5MiA0MzcuMjAzTDM4MC40MiA0NDYuNDU3QzM4My40NTYgNDQ2LjkzOCAzODYuMjMzIDQ0NC41OSAzODYuMjEgNDQxLjUxN0MzODYuMDggNDI0LjcxMyAzNzMuODI2IDQwOS45NzYgMzU2LjY4MSA0MDcuMjYxWk0zNTYuNjgxIDQwNy4yNjFDMzc1Ljc3MyA0MTAuMjg1IDM4OC43OTkgNDI4LjIxMyAzODUuNzc1IDQ0Ny4zMDVMMzUxLjQ1MyA0NDEuODY5QzM1MS40NTMgNDQxLjg2OSAzMzcuNTg5IDQwNC4yMzcgMzU2LjY4MSA0MDcuMjYxWk0zNTYuNjgxIDQwNy4yNjFDMzM3LjU4OSA0MDQuMjM3IDMxOS42NjEgNDE3LjI2MyAzMTYuNjM3IDQzNi4zNTVMMzUwLjk1OSA0NDEuNzkxQzM1MC45NTkgNDQxLjc5MSAzNzUuNzczIDQxMC4yODUgMzU2LjY4MSA0MDcuMjYxWiIvPjxwYXRoIGZpbGw9IiNmNGY0ZjQiIGQ9Ik0zMjEuOTkyIDQzNy4yMDNDMzE4Ljk1NiA0MzYuNzIyIDMxNy4wNCA0MzMuNjMxIDMxOC4wMTIgNDMwLjcxNUMzMjMuMzI4IDQxNC43NzQgMzM5LjUzNiA0MDQuNTQ1IDM1Ni42ODEgNDA3LjI2MUMzNzMuODI3IDQwOS45NzYgMzg2LjA4IDQyNC43MTMgMzg2LjIxIDQ0MS41MTdDMzg2LjIzMyA0NDQuNTkgMzgzLjQ1NiA0NDYuOTM4IDM4MC40MiA0NDYuNDU3TDMyMS45OTIgNDM3LjIwM1oiLz48cGF0aCBmaWxsPSIjZjRmNGY0IiBkPSJNMzU2LjY4MSA0MDcuMjYxQzM3NS43NzMgNDEwLjI4NSAzODguNzk5IDQyOC4yMTMgMzg1Ljc3NSA0NDcuMzA1TDM1MS40NTMgNDQxLjg2OUMzNTEuNDUzIDQ0MS44NjkgMzM3LjU4OSA0MDQuMjM3IDM1Ni42ODEgNDA3LjI2MVoiLz48cGF0aCBmaWxsPSIjZjRmNGY0IiBkPSJNMzU2LjY4MSA0MDcuMjYxQzMzNy41ODkgNDA0LjIzNyAzMTkuNjYxIDQxNy4yNjMgMzE2LjYzNyA0MzYuMzU1TDM1MC45NTkgNDQxLjc5MUMzNTAuOTU5IDQ0MS43OTEgMzc1Ljc3MyA0MTAuMjg1IDM1Ni42ODEgNDA3LjI2MVoiLz48L2c+PHBhdGggZmlsbD0iIzEwNWZmZiIgZD0iTTI1OC44MDUgMzU5LjY2OEMyNTguNDA0IDM2MC43MSAyNTUuMTk5IDM2OS42MDUgMjUxLjY3MyAzNzkuNTQyIDI0Ny4xODUgMzkyLjQ0NCAyNDUuNTgyIDM5Ny45NzQgMjQ2LjE0MyAzOTguOTM2IDI0Ny4xODUgNDAxLjAxOSAyNTAuNzkxIDQwMS43NCAyNTEuOTkzIDQwMC4xMzggMjUyLjU1NCAzOTkuNDE2IDI1NS45MiAzOTAuMjgxIDI1OS42MDYgMzc5Ljc4MyAyNjYuNjU4IDM1OS4zNDcgMjY2LjgxOSAzNTguNTQ2IDI2Mi4xNzEgMzU4LjA2NSAyNjAuMTY3IDM1Ny44MjUgMjU5LjQ0NiAzNTguMjI1IDI1OC44MDUgMzU5LjY2OFpNMjMwLjM1NiAzNzAuNTY3QzIxNy42OTQgMzc5Ljc4MyAyMTcuNjk0IDM3OS44NjMgMjI3LjcxMSAzODcuMzE2IDIzOS4xNzEgMzk1Ljg5IDIzOS40OTIgMzk2LjA1MSAyNDAuNzc0IDM5NC42ODggMjQxLjMzNSAzOTQuMDQ3IDI0Mi4xMzYgMzkyLjYwNSAyNDIuMzc3IDM5MS40MDMgMjQyLjg1NyAzODkuNDc5IDI0Mi4zNzcgMzg4LjkxOCAyMzcuMjQ4IDM4NS4wNzIgMjM0LjEyMiAzODIuNjY4IDIzMS41NTggMzgwLjUwNCAyMzEuNTU4IDM4MC4xODMgMjMxLjU1OCAzNzkuODYzIDIzNC4xMjIgMzc3LjY5OSAyMzcuMTY4IDM3NS40NTUgMjQwLjI5MyAzNzMuMjExIDI0My4wOTggMzcwLjgwNyAyNDMuNDk4IDM3MC4wMDYgMjQ0LjM4IDM2OC40MDMgMjQyLjUzNyAzNjMuNTE1IDI0MS4wMTQgMzYzLjUxNSAyNDAuNDUzIDM2My41OTUgMjM1LjY0NSAzNjYuNzIgMjMwLjM1NiAzNzAuNTY3Wk0yNjguODIyIDM2Ni4wNzlDMjY3LjM4IDM2OS41MjUgMjY4LjAyMSAzNzAuNTY3IDI3NC44MzIgMzc1LjQ1NSAyNzcuODc4IDM3Ny42OTkgMjgwLjQ0MiAzNzkuODYzIDI4MC40NDIgMzgwLjE4MyAyODAuNDQyIDM4MC41MDQgMjc3Ljg3OCAzODIuNjY4IDI3NC43NTIgMzg1LjA3MiAyNjkuNjIzIDM4OC45MTggMjY5LjE0MyAzODkuNDc5IDI2OS42MjMgMzkxLjQwMyAyNjkuODY0IDM5Mi42MDUgMjcwLjY2NSAzOTQuMDQ3IDI3MS4yMjYgMzk0LjY4OCAyNzIuNTA4IDM5Ni4wNTEgMjcyLjgyOSAzOTUuODkgMjg0LjI4OSAzODcuMzE2IDI5NC4zMDYgMzc5Ljg2MyAyOTQuMzA2IDM3OS43ODMgMjgxLjY0NCAzNzAuNTY3IDI3Ni4zNTUgMzY2LjcyIDI3MS41NDcgMzYzLjU5NSAyNzAuOTg2IDM2My41MTUgMjcwLjQyNSAzNjMuNTE1IDI2OS40NjMgMzY0LjcxNyAyNjguODIyIDM2Ni4wNzlaIi8+PC9nPjxkZWZzPjxsaW5lYXJHcmFkaWVudCBpZD0icGFpbnQwX2xpbmVhcl8zXzIiIHgxPSIxNzYuOTk4IiB4Mj0iMzQ4LjgwNyIgeTE9Ijk4LjAwMTciIHkyPSIyMTcuNTE4IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+PHN0b3Agc3RvcC1jb2xvcj0iIzBmNjJmZSIvPjxzdG9wIG9mZnNldD0iMC41IiBzdG9wLWNvbG9yPSIjNWE2OGZlIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjYTU2ZWZmIi8+PC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9InBhaW50MV9saW5lYXJfM18yIiB4MT0iMjU4LjAzNCIgeDI9IjI1Ny4zMDIiIHkxPSI1OC4yNjYiIHkyPSI3NS43MzMiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBzdG9wLWNvbG9yPSIjMGY2MmZlIi8+PHN0b3Agb2Zmc2V0PSIwLjQxIiBzdG9wLWNvbG9yPSIjMGY2MmZlIiBzdG9wLW9wYWNpdHk9IjAuNSIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzBmNjJmZSIgc3RvcC1vcGFjaXR5PSIwIi8+PC9saW5lYXJHcmFkaWVudD48Y2xpcFBhdGggaWQ9ImNsaXAwXzNfMiI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMEg1MTJWNTEySDB6Ii8+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+" alt="Bob" title="Bob — your IBM guide" />
+    <span class="tag" id="dataTag">annual reports</span>
+  </header>
+
+  <!-- CNBC-style scrolling ticker: IBM + competitor quotes (agent server /quotes).
+       Hidden until the first successful fetch; refreshes every 60s. -->
+  <div class="ticker-strip" id="tickerStrip" aria-hidden="true" hidden>
+    <div class="ticker-track" id="tickerTrack"></div>
+  </div>
+
+  <!-- ===== Tab navigation ===== -->
+  <nav class="tabs" id="tabs" role="tablist" aria-label="Sections">
+    <button class="tab" role="tab" data-tab="home" aria-selected="true">Overview</button>
+    <button class="tab" role="tab" data-tab="story">Story Mode</button>
+    <button class="tab" role="tab" data-tab="regression">Regression Lab</button>
+    <button class="tab" role="tab" data-tab="macro">Macro vs IBM</button>
+    <button class="tab" role="tab" data-tab="ma">Mergers &amp; Acquisitions</button>
+    <button class="tab" role="tab" data-tab="competitors">Competitors</button>
+    <button class="tab" role="tab" data-tab="about">About &amp; Data</button>
+  </nav>
+
+  <main class="wrap">
+
+    <!-- ============================ HOME ============================ -->
+    <section class="panel active" id="panel-home" role="tabpanel">
+
+      <!-- Hero -->
+      <div class="hero">
+        <div class="hero-text">
+          <div class="hero-kicker">1911 — 2025 · eleven CEOs · four reinventions</div>
+          <h1>A century of IBM,<br>straight from the annual reports</h1>
+          <p>Every figure here was parsed directly from IBM &amp; CTR annual reports and cross-checked
+             across the filings — never estimated. Scrub the timeline, filter by era, and watch the
+             company evolve from a punch-card maker into a global technology company.</p>
+        </div>
+
+        <!-- Bob Shell hero: a live terminal window that "types" real data
+             (live quote, latest SEC filing, milestones) over an Apple-style
+             morphing colour aurora. Decorative (aria-hidden); tilts gently
+             toward the cursor like a product-page hero shot. -->
+        <div class="hero-visual" id="heroVisual" aria-hidden="true">
+          <div class="hero-aurora">
+            <span class="ha-blob ha-a"></span><span class="ha-blob ha-b"></span>
+            <span class="ha-blob ha-c"></span><span class="ha-blob ha-d"></span>
+          </div>
+          <div class="bobshell" id="bobShell">
+            <div class="bs-titlebar">
+              <span class="bs-light r"></span><span class="bs-light y"></span><span class="bs-light g"></span>
+              <span class="bs-title">bob@ibm — shell</span>
+              <span class="bs-live" id="bsLive">● LIVE</span>
+            </div>
+            <pre class="bs-banner">██▄ ▄▀▄ ██▄   SHELL
+█▄█ ▀▄▀ █▄█   v1.0.4</pre>
+            <div class="bs-screen" id="bsScreen"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- FY2025 snapshot (latest reported year) -->
+      <section class="fy-section">
+        <!-- Live market quote (fetched client-side; graceful fallback when offline) -->
+        <div class="live-quote" id="liveQuote" aria-live="polite">
+          <span class="lq-dot" id="lqDot"></span>
+          <span class="lq-label">IBM · NYSE</span>
+          <span class="lq-price" id="lqPrice">—</span>
+          <span class="lq-change" id="lqChange"></span>
+          <svg class="lq-chart" id="lqChart" aria-hidden="true" viewBox="0 0 200 48" preserveAspectRatio="none"></svg>
+          <span class="lq-cap" id="lqCap"></span>
+          <span class="lq-note" id="lqNote">fetching live quote…</span>
+        </div>
+
+        <!-- Latest SEC filing + live earnings (fetched client-side from SEC EDGAR
+             via the agent server; self-refreshes so a brand-new 10-Q/10-K shows up
+             here without a pipeline re-run — see agent/server.py /filings/*) -->
+        <div class="sec-filing-card card" id="secFilingCard" aria-live="polite">
+          <div class="sfc-top">
+            <span class="lq-dot" id="sfDot"></span>
+            <span class="lq-label">SEC EDGAR · Latest Filing</span>
+            <span class="sfc-badge" id="sfBadge">—</span>
+            <span class="sfc-period" id="sfPeriod"></span>
+            <a class="sfc-link" id="sfLink" href="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0000051143&amp;type=10-K" target="_blank" rel="noopener">View filing ↗</a>
+            <a class="sfc-link" id="sfNasdaqLink" href="https://www.nasdaq.com/market-activity/stocks/ibm/sec-filings" target="_blank" rel="noopener">All filings (Nasdaq) ↗</a>
+            <span class="lq-note" id="sfNote">checking EDGAR…</span>
+          </div>
+          <div class="sfc-body">
+            <svg class="sfc-chart" id="sfChart" viewBox="0 0 340 74" preserveAspectRatio="none" aria-hidden="true"></svg>
+            <div class="sfc-headline" id="sfHeadline"></div>
+          </div>
+          <div class="callout" style="margin-top:12px">
+            <b>FY2026 guidance</b> (updated Jul 22, 2026 Q2 earnings call): <b>4–5%</b> constant-currency revenue
+            growth (cut from the prior “more than 5%” guide) · free cash flow still expected to rise
+            <b>~$1B year-over-year</b> (unchanged) · improved full-year pre-tax margin expansion expected ·
+            currency expected to be neutral to growth.
+            <div style="margin-top:6px;font-size:11px;color:var(--ink-dim)">Source: IBM Q2 2026 earnings release, newsroom.ibm.com (Jul 22, 2026) — company guidance, not yet in the audited pipeline series.</div>
+          </div>
+        </div>
+
+        <!-- Past-5-years selector: re-renders the snapshot below for any of the
+             last five fiscal years; a "live" chip appears automatically when a
+             10-K newer than the pipeline data shows up on EDGAR. -->
+        <div class="chip-row fy-year-chips" id="fyYearChips"><span class="legend">Snapshot year</span></div>
+        <div class="fy-statbar" id="fyStatbar"></div>
+        <div class="fy-cols">
+          <div class="card fy-panel">
+            <h2>Revenue Share by Segment</h2>
+            <p class="sub" id="donutSub"></p>
+            <div class="donut-wrap">
+              <div class="donut" id="segDonut"></div>
+              <div class="donut-legend" id="segLegend"></div>
+            </div>
+            <div class="callout" id="segCallout"></div>
+          </div>
+          <div class="card fy-panel">
+            <h2>Gross Margin by Segment</h2>
+            <p class="sub">FY2025 external gross margin %, as reported in the segment note</p>
+            <div id="gmBars"></div>
+            <div class="callout">Why it matters: <b>Software</b> is IBM's highest-margin engine (subscription, near-zero marginal cost); <b>Consulting</b> is people-driven and lower-margin; <b>Infrastructure</b> blends hardware with high-margin recurring support.</div>
+          </div>
+        </div>
+
+        <!-- Agent-built custom charts land here (window.createCustomChart, see
+             app.js + agent-tools.js's create_custom_chart tool). Empty by default. -->
+        <div class="custom-charts-host" id="customChartsHost"></div>
+      </section>
+
+      <!-- i. Timeline slider -->
+      <div class="scrubber card">
+        <div class="scrub-top">
+          <div class="scrub-left">
+            <div class="scrub-year" id="scrubYear">2025</div>
+          </div>
+          <div class="scrub-ctx" id="scrubCtx"></div>
+        </div>
+        <input type="range" id="scrubSlider" min="1911" max="2025" value="2025" step="1" aria-label="Select year" />
+        <div class="snap-grid" id="snapGrid"></div>
+        <div id="milestoneFlag"></div>
+      </div>
+
+      <!-- ii. Era / leadership filters -->
+      <div class="filters">
+        <p class="section-title">Filter the view by era</p>
+        <div class="chip-row" id="eraChips"><span class="legend">Company eras</span></div>
+        <div class="chip-row" id="ceoChips"><span class="legend">Leadership</span></div>
+      </div>
+
+      <!-- iii. Interactive financial trend chart -->
+      <div class="card chart-card">
+        <div class="chart-toolbar">
+          <div class="metric-toggles" id="metricToggles"></div>
+          <div class="chart-opts">
+            <label><input type="checkbox" id="logToggle" /> Log scale</label>
+          </div>
+        </div>
+        <div class="chart-host" id="chartHost">
+          <div class="tooltip" id="chartTip"></div>
+        </div>
+        <p class="chart-note" id="chartNote"></p>
+      </div>
+
+      <!-- iv. Derived performance-ratios table (interactive / adjustable) -->
+      <div class="card derived-card">
+        <div class="derived-head">
+          <div>
+            <p class="section-title" style="margin:0 0 4px">Performance ratios — derived from the filings</p>
+            <p class="derived-sub">Calculated from IBM's reported figures. Adjust the assumptions below; cells colour by value, and “—” means the underlying line item isn't in the filing data for that year.</p>
+          </div>
+        </div>
+        <div class="derived-controls">
+          <div class="range-chips" id="derivedRange"></div>
+          <label class="tax-ctl">ROIC tax rate
+            <input type="range" id="taxRate" min="0" max="40" value="25" step="1" />
+            <b id="taxVal">25%</b>
+          </label>
+        </div>
+        <div class="derived-table-wrap">
+          <table class="derived-table" id="derivedTable"></table>
+        </div>
+        <p class="chart-note" id="derivedNote"></p>
+      </div>
+    </section>
+
+    <!-- ====================== PLACEHOLDER PANELS =========================== -->
+    <section class="panel" id="panel-story" role="tabpanel"></section>
+    <section class="panel" id="panel-regression" role="tabpanel"></section>
+    <section class="panel" id="panel-macro" role="tabpanel"></section>
+    <section class="panel" id="panel-ma" role="tabpanel"></section>
+    <section class="panel" id="panel-competitors" role="tabpanel">
+
+      <!-- Hero — consistent with all other tabs -->
+      <div class="hero">
+        <div class="hero-text">
+          <div class="hero-kicker">Competitors &middot; current era 2022 &ndash; 2026 &middot; three operating segments</div>
+          <h1>IBM Competitive Landscape</h1>
+          <p>Interactive peer positioning, SWOT analysis, BCG portfolio mapping, Porter&rsquo;s Five Forces, and competitive positioning &mdash; across IBM&rsquo;s three core operating segments.</p>
+        </div>
+      </div>
+
+      <!-- Live peer quotes (agent server /quotes; hidden when offline) -->
+      <div class="live-mkt-row" id="compLiveRow" hidden></div>
+
+      <div class="intel-dashboard-wrapper" style="padding-top:0">
+
+        <!-- Performance chart card — no title, mode buttons evenly distributed -->
+        <div class="intel-card benchmark-card" id="benchmarkCard">
+
+          <!-- Three equal-width chart mode buttons -->
+          <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:10px;margin-bottom:20px;">
+            <button class="reg-preset-btn active" id="chartModeTR"      data-mode="totalReturn" style="text-align:center;">IBM vs S&amp;P Benchmarks</button>
+            <button class="reg-preset-btn"         id="chartModeEV"      data-mode="evEbitda"    style="text-align:center;">Competitor EV/EBITDA</button>
+            <button class="reg-preset-btn"         id="chartModeScatter" data-mode="scatter"     style="text-align:center;">Growth vs Valuation</button>
+          </div>
+
+          <!-- Filter + canvas — always visible -->
+          <div id="chartModeContent" style="display:flex;flex-direction:column;gap:16px;">
+
+            <!-- Filter panel -->
+            <div id="benchmark-filters-container" style="padding:16px;background:var(--surface-2);border-radius:6px;border:1px solid var(--line);">
+
+              <!-- Total return filters — pill design, horizontal -->
+              <div id="total-return-toggles" style="display:flex;flex-direction:column;gap:8px;">
+                <div style="display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid var(--line);padding-bottom:8px;">
+                  <span style="color:var(--ink);font-weight:600;font-size:12px;text-transform:uppercase;letter-spacing:0.5px;">S&amp;P Global Industry Index Benchmarks</span>
+                  <div style="display:flex;gap:8px;">
+                    <button id="tr-select-all" style="background:none;border:1px solid var(--line);color:var(--ink-soft);border-radius:4px;padding:3px 10px;font-size:11px;cursor:pointer;font-family:var(--font);">All</button>
+                    <button id="tr-clear-all"  style="background:none;border:1px solid var(--line);color:var(--ink-soft);border-radius:4px;padding:3px 10px;font-size:11px;cursor:pointer;font-family:var(--font);">Clear</button>
+                  </div>
+                </div>
+                <div class="ev-pills" style="padding-top:2px;">
+                  <button class="ev-pill tr-pill active" data-id="tr-IBM"     data-label="IBM Corp."                          style="--pill-color:#054ADA;font-weight:700;">IBM Corp.</button>
+                  <button class="ev-pill tr-pill active" data-id="tr-SP500IT" data-label="S&amp;P 500 Info Tech"               style="--pill-color:#ffb000;">S&amp;P 500 Info Tech</button>
+                  <button class="ev-pill tr-pill active" data-id="tr-SPHW"    data-label="S&amp;P Tech Hardware"               style="--pill-color:#fa4d56;">S&amp;P Tech Hardware</button>
+                  <button class="ev-pill tr-pill active" data-id="tr-SPSW"    data-label="S&amp;P Software &amp; Services"     style="--pill-color:#4589ff;">S&amp;P Software &amp; Services</button>
+                  <button class="ev-pill tr-pill active" data-id="tr-SPITSRV" data-label="S&amp;P 500 IT Services"             style="--pill-color:#08bdba;">S&amp;P 500 IT Services</button>
+                </div>
+              </div>
+
+              <!-- EV/EBITDA filters -->
+              <div id="ev-ebitda-toggles" style="display:none;flex-direction:column;gap:10px;">
+
+                <!-- Header -->
+                <div style="display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid var(--line);padding-bottom:8px;">
+                  <span style="color:var(--ink);font-weight:600;font-size:12px;text-transform:uppercase;letter-spacing:0.5px;">EV / EBITDA Multiple — Company Filter</span>
+                  <div style="display:flex;align-items:center;gap:10px;">
+                    <button id="ev-select-all" class="ev-util-btn">All</button>
+                    <button id="ev-clear-all"  class="ev-util-btn">Clear</button>
+                    <label style="color:var(--down);cursor:pointer;display:flex;align-items:center;gap:6px;font-size:12px;font-style:italic;">
+                      <input type="checkbox" id="showTrendline"> Trendline
+                    </label>
+                  </div>
+                </div>
+
+                <!-- Single-row layout: IBM big button + sector groups with company pills -->
+                <div class="ev-filter-row">
+
+                  <!-- IBM — big standalone button -->
+                  <button class="ev-pill ev-cb ev-ibm-btn active" data-key="IBM" data-label="IBM" data-sector="ibm" style="--pill-color:#054ADA;">IBM</button>
+
+                  <!-- Sector groups -->
+                  <div class="ev-filter-groups">
+
+                    <div class="ev-filter-group">
+                      <button class="ev-sector-btn active" data-sector="cloud">Cloud</button>
+                      <div class="ev-pills">
+                        <button class="ev-pill ev-cb active" data-key="GOOGL" data-label="Alphabet"  data-sector="cloud" style="--pill-color:#34a853;">Alphabet</button>
+                        <button class="ev-pill ev-cb active" data-key="AMZN"  data-label="Amazon"    data-sector="cloud" style="--pill-color:#ff9900;">Amazon</button>
+                        <button class="ev-pill ev-cb active" data-key="MSFT"  data-label="Microsoft" data-sector="cloud" style="--pill-color:#00a4ef;">Microsoft</button>
+                      </div>
+                    </div>
+
+                    <div class="ev-filter-group">
+                      <button class="ev-sector-btn active" data-sector="software">Software</button>
+                      <div class="ev-pills">
+                        <button class="ev-pill ev-cb active" data-key="ORCL" data-label="Oracle"    data-sector="software" style="--pill-color:#f80000;">Oracle</button>
+                        <button class="ev-pill ev-cb active" data-key="SAP"  data-label="SAP"        data-sector="software" style="--pill-color:#0070f2;">SAP</button>
+                        <button class="ev-pill ev-cb active" data-key="AVGO" data-label="Broadcom"  data-sector="software" style="--pill-color:#cc0000;">Broadcom</button>
+                        <button class="ev-pill ev-cb active" data-key="CSCO" data-label="Cisco"     data-sector="software" style="--pill-color:#1ba0d7;">Cisco</button>
+                      </div>
+                    </div>
+
+                    <div class="ev-filter-group">
+                      <button class="ev-sector-btn active" data-sector="services">Services</button>
+                      <div class="ev-pills">
+                        <button class="ev-pill ev-cb active" data-key="ACN" data-label="Accenture" data-sector="services" style="--pill-color:#a100ff;">Accenture</button>
+                        <button class="ev-pill ev-cb active" data-key="TCS" data-label="TCS"       data-sector="services" style="--pill-color:#4589ff;">TCS</button>
+                      </div>
+                    </div>
+
+                    <div class="ev-filter-group">
+                      <button class="ev-sector-btn active" data-sector="infra">Infrastructure</button>
+                      <div class="ev-pills">
+                        <button class="ev-pill ev-cb active" data-key="HPE"  data-label="HPE"      data-sector="infra" style="--pill-color:#08bdba;">HPE</button>
+                        <button class="ev-pill ev-cb active" data-key="DELL" data-label="Dell Tech" data-sector="infra" style="--pill-color:#006bb6;">Dell Tech</button>
+                      </div>
+                    </div>
+
+                  </div><!-- /ev-filter-groups -->
+                </div><!-- /ev-filter-row -->
+              </div>
+
+              <!-- Scatter filters — same IBM + sector group layout -->
+              <div id="scatter-toggles" style="display:none;flex-direction:column;gap:10px;">
+
+                <!-- Header -->
+                <div style="display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid var(--line);padding-bottom:8px;">
+                  <span style="color:var(--ink);font-weight:600;font-size:12px;text-transform:uppercase;letter-spacing:0.5px;">Revenue Growth % vs EV/EBITDA — Company Filter</span>
+                  <div style="display:flex;align-items:center;gap:10px;">
+                    <button id="sc-select-all" class="ev-util-btn">All</button>
+                    <button id="sc-clear-all"  class="ev-util-btn">Clear</button>
+                    <label style="color:var(--ink-soft);cursor:pointer;display:flex;align-items:center;gap:6px;font-size:12px;">
+                      Quarter: <select id="scatterQuarter" style="background:var(--surface);border:1px solid var(--line);color:var(--ink);border-radius:4px;padding:3px 8px;font-size:12px;font-family:var(--font);cursor:pointer;"></select>
+                    </label>
+                  </div>
+                </div>
+
+                <!-- IBM + sector groups -->
+                <div class="ev-filter-row">
+
+                  <button class="ev-pill sc-cb ev-ibm-btn active" data-key="IBM" data-label="IBM" data-sector="ibm" style="--pill-color:#054ADA;">IBM</button>
+
+                  <div class="ev-filter-groups">
+
+                    <div class="ev-filter-group">
+                      <button class="sc-sector-btn active" data-sector="cloud">Cloud</button>
+                      <div class="ev-pills">
+                        <button class="ev-pill sc-cb active" data-key="GOOGL" data-label="Alphabet"  data-sector="cloud" style="--pill-color:#34a853;">Alphabet</button>
+                        <button class="ev-pill sc-cb active" data-key="AMZN"  data-label="Amazon"    data-sector="cloud" style="--pill-color:#ff9900;">Amazon</button>
+                        <button class="ev-pill sc-cb active" data-key="MSFT"  data-label="Microsoft" data-sector="cloud" style="--pill-color:#00a4ef;">Microsoft</button>
+                      </div>
+                    </div>
+
+                    <div class="ev-filter-group">
+                      <button class="sc-sector-btn active" data-sector="software">Software</button>
+                      <div class="ev-pills">
+                        <button class="ev-pill sc-cb active" data-key="ORCL" data-label="Oracle"   data-sector="software" style="--pill-color:#f80000;">Oracle</button>
+                        <button class="ev-pill sc-cb active" data-key="SAP"  data-label="SAP"       data-sector="software" style="--pill-color:#0070f2;">SAP</button>
+                        <button class="ev-pill sc-cb active" data-key="AVGO" data-label="Broadcom" data-sector="software" style="--pill-color:#cc0000;">Broadcom</button>
+                        <button class="ev-pill sc-cb active" data-key="CSCO" data-label="Cisco"    data-sector="software" style="--pill-color:#1ba0d7;">Cisco</button>
+                      </div>
+                    </div>
+
+                    <div class="ev-filter-group">
+                      <button class="sc-sector-btn active" data-sector="services">Services</button>
+                      <div class="ev-pills">
+                        <button class="ev-pill sc-cb active" data-key="ACN" data-label="Accenture" data-sector="services" style="--pill-color:#a100ff;">Accenture</button>
+                        <button class="ev-pill sc-cb active" data-key="TCS" data-label="TCS"       data-sector="services" style="--pill-color:#4589ff;">TCS</button>
+                      </div>
+                    </div>
+
+                    <div class="ev-filter-group">
+                      <button class="sc-sector-btn active" data-sector="infra">Infrastructure</button>
+                      <div class="ev-pills">
+                        <button class="ev-pill sc-cb active" data-key="HPE"  data-label="HPE"      data-sector="infra" style="--pill-color:#08bdba;">HPE</button>
+                        <button class="ev-pill sc-cb active" data-key="DELL" data-label="Dell Tech" data-sector="infra" style="--pill-color:#006bb6;">Dell Tech</button>
+                      </div>
+                    </div>
+
+                  </div><!-- /ev-filter-groups -->
+                </div><!-- /ev-filter-row -->
+              </div>
+
+            </div>
+
+            <!-- Canvas -->
+            <div style="position:relative;height:440px;width:100%;border:1px solid var(--line);border-radius:8px;background:var(--surface);padding:16px;box-sizing:border-box;">
+              <canvas id="primaryChartCanvas"></canvas>
+            </div>
+
+          </div><!-- /chartModeContent -->
+        </div><!-- /benchmarkCard -->
+
+        <!-- Segment selector -->
+        <div class="card reg-presets-card" style="padding:16px;">
+          <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:10px;" id="segmentSelector">
+            <button class="reg-preset-btn" data-seg="software"       style="text-align:center;font-size:15px;font-weight:700;">Software &amp; Hybrid Cloud</button>
+            <button class="reg-preset-btn" data-seg="consulting"     style="text-align:center;font-size:15px;font-weight:700;">Consulting &amp; Services</button>
+            <button class="reg-preset-btn" data-seg="infrastructure" style="text-align:center;font-size:15px;font-weight:700;">Infrastructure</button>
+          </div>
+        </div>
+
+        <!-- Dynamic content area — hidden until a segment is selected -->
+        <div id="intelDynamicContent" class="fade-transition" style="display:none;">
+
+          <!-- Row 1: SWOT + Comparative table -->
+          <div class="intel-grid row-1">
+            <div class="intel-card">
+              <h3>1. Peer Directory &amp; Strategic SWOT</h3>
+              <div class="swot-layout">
+                <div class="peer-list">
+                  <div class="peer-tier"><span class="badge primary-badge">Tier 1 Peers</span><span id="txtTier1"></span></div>
+                  <div class="peer-tier"><span class="badge secondary-badge">Platform Rivals</span><span id="txtTier2"></span></div>
+                </div>
+                <div class="swot-text-grid">
+                  <div class="s-box"><strong>Strengths:</strong><ul id="txtS"></ul></div>
+                  <div class="w-box"><strong>Weaknesses:</strong><ul id="txtW"></ul></div>
+                  <div class="o-box"><strong>Opportunities:</strong><ul id="txtO"></ul></div>
+                  <div class="t-box"><strong>Threats:</strong><ul id="txtT"></ul></div>
+                </div>
+              </div>
+            </div>
+            <div class="intel-card">
+              <h3>2. Comparative Market Analysis</h3>
+              <div class="table-container">
+                <table class="comparative-table">
+                  <thead>
+                    <tr><th>Dimension</th><th>IBM Position</th><th>Primary Peers</th></tr>
+                  </thead>
+                  <tbody id="comparativeTableBody"></tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+
+          <!-- Row 2: Porter's radar + Ansoff matrix -->
+          <div class="intel-grid row-2">
+            <div class="intel-card chart-card">
+              <h3>3. Porter's Five Forces Intensity</h3>
+              <div class="canvas-wrapper">
+                <canvas id="portersChart"></canvas>
+              </div>
+              <div id="portersContext" class="porters-context"></div>
+            </div>
+            <div class="intel-card">
+              <h3>4. Strategic Growth Horizon (Ansoff Matrix)</h3>
+              <div class="ansoff-grid">
+                <div class="ansoff-quad">
+                  <div class="ansoff-label">Market Penetration</div>
+                  <div class="ansoff-desc" id="ansoffPen"></div>
+                </div>
+                <div class="ansoff-quad">
+                  <div class="ansoff-label">Product Development</div>
+                  <div class="ansoff-desc" id="ansoffProd"></div>
+                </div>
+                <div class="ansoff-quad">
+                  <div class="ansoff-label">Market Development</div>
+                  <div class="ansoff-desc" id="ansoffMkt"></div>
+                </div>
+                <div class="ansoff-quad highlight-quad">
+                  <div class="ansoff-label">Diversification</div>
+                  <div class="ansoff-desc" id="ansoffDiv"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Row 3: BCG bubble + Position map -->
+          <div class="intel-grid row-2">
+            <div class="intel-card chart-card">
+              <h3>5. Growth-Share Portfolio (BCG Matrix)</h3>
+              <div class="canvas-wrapper">
+                <canvas id="bcgChart"></canvas>
+              </div>
+              <div id="bcgNarrative" class="intel-narrative"></div>
+            </div>
+            <div class="intel-card chart-card">
+              <h3 id="positionMapTitle">6. Position Mapping</h3>
+              <div class="canvas-wrapper">
+                <canvas id="positionChart"></canvas>
+              </div>
+              <div id="positionNarrative" class="intel-narrative"></div>
+            </div>
+          </div>
+
+        </div><!-- /intelDynamicContent -->
+      </div><!-- /intel-dashboard-wrapper -->
+
+    </section>
+    <section class="panel" id="panel-about" role="tabpanel"></section>
+  </main>
+
+  <div id="wxo-root"></div>
+
+  <!-- Info drawer (The project / Methodology) -->
+  <div class="info-overlay" id="infoOverlay"></div>
+  <aside class="info-drawer" id="infoDrawer" role="dialog" aria-modal="true">
+    <div class="info-drawer-head">
+      <p class="info-drawer-title" id="infoDrawerTitle"></p>
+      <button class="info-drawer-close" id="infoDrawerClose" aria-label="Close">&#x2715;</button>
+    </div>
+    <div class="info-drawer-body" id="infoDrawerBody"></div>
+  </aside>
+
+  <footer class="ibm-footer">
+    <div class="ft-in">
+      <div><img class="ft-logo" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCEtLSBDcmVhdGVkIHdpdGggSW5rc2NhcGUgKGh0dHA6Ly93d3cuaW5rc2NhcGUub3JnLykgLS0+CjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iSUJNX2xvZ29fOC1iYXJfYmx1ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHdpZHRoPSIxMDc1cHgiIGhlaWdodD0iNDAxLjE1cHgiIHZpZXdCb3g9IjAgMCAxMDc1IDQwMS4xNSIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMTAwMCA0MDEuMTUiIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8dGl0bGU+TG9nbyBJbnRlcm5hdGlvbmFsIEJ1c2luZXNzIE1hY2hpbmVzIENvcnBvcmF0aW9uPC90aXRsZT4KPGcgaWQ9IklCTV9sb2dvIiBmaWxsPSIjMWY3MGMxIj4KCTxnIGlkPSJJIj4KCQk8cmVjdCB5PSIzNzMuMTciIHdpZHRoPSIxOTQuNDMiIGhlaWdodD0iMjcuOTMyIi8+CgkJPHJlY3QgeT0iMzE5LjgzIiB3aWR0aD0iMTk0LjQzIiBoZWlnaHQ9IjI3LjkzMiIvPgoJCTxyZWN0IHg9IjU1LjQ2OCIgeT0iMjY2LjU0IiB3aWR0aD0iODMuMzk5IiBoZWlnaHQ9IjI3LjkzMiIvPgoJCTxyZWN0IHg9IjU1LjQ2OCIgeT0iMjEzLjI1IiB3aWR0aD0iODMuMzk5IiBoZWlnaHQ9IjI3LjkzMiIvPgoJCTxyZWN0IHg9IjU1LjQ2OCIgeT0iMTU5Ljk2IiB3aWR0aD0iODMuMzk5IiBoZWlnaHQ9IjI3LjkzMiIvPgoJCTxyZWN0IHg9IjU1LjQ2OCIgeT0iMTA2LjU4IiB3aWR0aD0iODMuMzk5IiBoZWlnaHQ9IjI3LjkzMiIvPgoJCTxyZWN0IHk9IjUzLjI4OCIgd2lkdGg9IjE5NC40MyIgaGVpZ2h0PSIyNy45MzIiLz4KCQk8cmVjdCB3aWR0aD0iMTk0LjQzIiBoZWlnaHQ9IjI3LjkzMiIvPgoJPC9nPgoJPGcgaWQ9IkIiPgoJCTxwYXRoIGQ9Im0yMjIuMTcgNDAwLjg1IDIwNy4xMSAwLjI5N2MyNy43MzQgMCA1Mi43OTMtMTAuNjk3IDcxLjUxMy0yNy45MzJoLTI3OC42MnoiLz4KCQk8cGF0aCBkPSJtMjIyLjE3IDM0Ny43NmgyOTkuMDNjNS4wNTEtOC42MTcgOC44MTUtMTguMDI3IDExLjA5NC0yNy45MzJoLTMxMC4xMnoiLz4KCQk8cmVjdCB4PSIyNzcuNzMiIHk9IjI2Ni41NCIgd2lkdGg9IjgzLjMiIGhlaWdodD0iMjcuOTMyIi8+CgkJPHBhdGggZD0ibTQ0NC40MyAyNjYuNTR2MjcuOTMyaDkwLjkyN2MwLTkuNjA4LTEuMjg4LTE5LjAxNy0zLjc2NC0yNy45MzJ6Ii8+CgkJPHBhdGggZD0ibTQ5Ny45MiAyMTMuMjVoLTIyMC4xOXYyNy45MzJoMjQzLjQ2Yy02LjM0LTEwLjY5OC0xNC4xNjUtMjAuMTA3LTIzLjI3Ny0yNy45MzJ6Ii8+CgkJPHBhdGggZD0ibTI3Ny43MyAxNTkuOTZ2MjcuOTMyaDIyMC4xOWM5LjMxMS03LjgyNSAxNy4xMzUtMTcuMjM1IDIzLjI3Ny0yNy45MzJ6Ii8+CgkJPHJlY3QgeD0iMjc3LjczIiB5PSIxMDYuNTgiIHdpZHRoPSI4My4zIiBoZWlnaHQ9IjI3LjkzMiIvPgoJCTxwYXRoIGQ9Im00NDQuNDMgMTM0LjUxaDg3LjE2M2MyLjQ3Ni04LjkxNCAzLjc2NC0xOC4zMjQgMy43NjQtMjcuOTMyaC05MC45Mjd6Ii8+CgkJPHBhdGggZD0ibTUyMS4yIDUzLjI4OGgtMjk5LjAzdjI3LjkzMmgzMTAuMTJjLTIuNTc1LTkuOTA1LTYuMzM5LTE5LjMxNC0xMS4wOTMtMjcuOTMyeiIvPgoJCTxwYXRoIGQ9Im00MjkuMjggMGgtMjA3LjExdjI3LjkzMmgyNzguNTNjLTE4LjYyMS0xNy4yMzUtNDMuODc4LTI3LjkzMi03MS40MTQtMjcuOTMyeiIvPgoJPC9nPgoJPGcgaWQ9Ik0iPgoJCTxwb2x5Z29uIHBvaW50cz0iNTU1LjU3IDgxLjIyIDc0Mi42NyA4MS4yMiA3MzMuMDYgNTMuMjg4IDU1NS41NyA1My4yODgiLz4KCQk8cG9seWdvbiBwb2ludHM9IjU1NS41NyAyNy45MzIgNzI0LjI1IDI3LjkzMiA3MTQuNjQgMCA1NTUuNTcgMCIvPgoJCTxwb2x5Z29uIHBvaW50cz0iODYxLjAzIDQwMS4xNyA4NjEuMDMgMzczLjI0IDFlMyAzNzMuMjQgMWUzIDQwMS4xNyIgc3Ryb2tlLXdpZHRoPSIxLjAwMTgiLz4KCQk8cG9seWdvbiBwb2ludHM9Ijg2MS4wMyAzNDcuNzYgODYxLjAzIDMxOS44MyAxZTMgMzE5LjgzIDFlMyAzNDcuNzYiLz4KCQk8cG9seWdvbiBwb2ludHM9Ijc3Ny43MyAxODIuNTQgNzY5LjkxIDE1OS45NiA2OTQuNDMgMTU5Ljk2IDYxMS4wMyAxNTkuOTYgNjExLjAzIDE4Ny44OSA2OTQuNDMgMTg3Ljg5IDY5NC40MyAxNjIuMjQgNzAzLjI1IDE4Ny44OSA4NTIuMjIgMTg3Ljg5IDg2MS4wMyAxNjIuMjQgODYxLjAzIDE4Ny44OSA5NDQuNDMgMTg3Ljg5IDk0NC40MyAxNTkuOTYgODYxLjAzIDE1OS45NiA3ODUuNTYgMTU5Ljk2Ii8+CgkJPHBvbHlnb24gcG9pbnRzPSI5NDQuNDMgMTA2LjU4IDgwMy45OCAxMDYuNTggNzk0LjM3IDEzNC41MSA5NDQuNDMgMTM0LjUxIi8+CgkJPHBvbHlnb24gcG9pbnRzPSIxZTMgMjcuOTMyIDFlMyAwIDg0MC45MyAwIDgzMS4zMiAyNy45MzIiLz4KCQk8cG9seWdvbiBwb2ludHM9Ijc2OC4xMyAzNzMuMjIgNzc3LjczIDQwMC44NSA3ODcuMzQgMzczLjIyIi8+CgkJPHBvbHlnb24gcG9pbnRzPSI3NDkuNSAzMTkuODMgNzU5LjMxIDM0Ny43NiA3OTYuMTYgMzQ3Ljc2IDgwNi4wNiAzMTkuODMiLz4KCQk8cG9seWdvbiBwb2ludHM9IjczMC43OCAyNjYuNTQgNzQwLjU5IDI5NC40NyA4MTQuODggMjk0LjQ3IDgyNC42OCAyNjYuNTQiLz4KCQk8cG9seWdvbiBwb2ludHM9IjcyMS45NyAyNDEuMTggODMzLjYgMjQxLjE4IDg0My4xMSAyMTMuMjUgNzEyLjM2IDIxMy4yNSIvPgoJCTxwb2x5Z29uIHBvaW50cz0iNjExLjAzIDEzNC41MSA3NjEuMDkgMTM0LjUxIDc1MS40OSAxMDYuNTggNjExLjAzIDEwNi41OCIvPgoJCTxwb2x5Z29uIHBvaW50cz0iMWUzIDUzLjI4OCA4MjIuNCA1My4yODggODEyLjkgODEuMjIgMWUzIDgxLjIyIi8+CgkJPHJlY3QgeD0iNTU1LjU3IiB5PSIzNzMuMjIiIHdpZHRoPSIxMzguOTciIGhlaWdodD0iMjcuOTMyIi8+CgkJPHJlY3QgeD0iNTU1LjU3IiB5PSIzMTkuODMiIHdpZHRoPSIxMzguOTciIGhlaWdodD0iMjcuOTMyIi8+CgkJPHJlY3QgeD0iNjExLjAzIiB5PSIyNjYuNTQiIHdpZHRoPSI4My4zOTkiIGhlaWdodD0iMjcuOTMyIi8+CgkJPHJlY3QgeD0iNjExLjAzIiB5PSIyMTMuMjUiIHdpZHRoPSI4My4zOTkiIGhlaWdodD0iMjcuOTMyIi8+CgkJPHJlY3QgeD0iODYxLjAzIiB5PSIyMTMuMjUiIHdpZHRoPSI4My4zOTkiIGhlaWdodD0iMjcuOTMyIi8+CgkJPHJlY3QgeD0iODYxLjAzIiB5PSIyNjYuNTQiIHdpZHRoPSI4My4zOTkiIGhlaWdodD0iMjcuOTMyIi8+Cgk8L2c+Cgk8cGF0aCBpZD0iUmVnaXN0ZXJlZCIgZD0ibTEwNTIgMzU3LjE1YTIyIDIyIDAgMCAwLTIyIDIyIDIyIDIyIDAgMCAwIDIyIDIyIDIyIDIyIDAgMCAwIDIyLTIyIDIyIDIyIDAgMCAwLTIyLTIyem0wIDRhMTggMTggMCAwIDEgMTggMTggMTggMTggMCAwIDEtMTggMTggMTggMTggMCAwIDEtMTgtMTggMTggMTggMCAwIDEgMTgtMTh6bS05LjM0NzYgNi43OTN2MjIuNDE0aDUuNDUzdi03LjczMDVoMy4wOTc4bDQuMTY0IDcuNzMwNWg1Ljk4MDRsLTUuMDIzNC04LjU4MmMyLjQ2MTYtMC45NjQ0NiA0LjA2MjQtMy4yMTU4IDQuMDYyNC02Ljc1IDAtNC4wODE4LTIuNTU5NC03LjA4Mi03LjU4Mi03LjA4MnptNS40NTMgNC4yODkxaDQuMDU0OGMxLjcxMTQgMCAyLjY2OCAwLjc1MDE2IDIuNjY4IDIuMzU1NXYxLjYxMzNjMCAxLjYwNTMtMC45NTY2IDIuMzU5NC0yLjY2OCAyLjM1OTRoLTQuMDU0OHoiLz4KPC9nPgo8L3N2Zz4K" alt="IBM" style="filter:brightness(0) invert(1)" /></div>
+      <div>
+        <h4>Explore</h4>
+        <ul>
+          <li><a href="#home"       onclick="event.preventDefault();selectTab('home')">Overview &amp; financials</a></li>
+          <li><a href="#story"      onclick="event.preventDefault();selectTab('story')">Story mode</a></li>
+          <li><a href="#regression" onclick="event.preventDefault();selectTab('regression')">Regression lab</a></li>
+          <li><a href="#macro"      onclick="event.preventDefault();selectTab('macro')">Macro vs IBM</a></li>
+          <li><a href="#ma"         onclick="event.preventDefault();selectTab('ma')">Mergers &amp; Acquisitions</a></li>
+          <li><a href="#competitors" onclick="event.preventDefault();selectTab('competitors')">Competitors</a></li>
+          <li><a href="#about"      onclick="event.preventDefault();selectTab('about')">About &amp; Data</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Data &amp; method</h4>
+        <ul>
+          <li><a href="#about" onclick="event.preventDefault();selectTab('about')">About the data</a></li>
+          <li><a href="#about" onclick="event.preventDefault();selectTab('about')">Coverage &amp; provenance</a></li>
+          <li><a href="https://www.ibm.com/investor" target="_blank" rel="noopener">IBM investor relations</a></li>
+          <li><a href="https://www.ibm.com/annualreport" target="_blank" rel="noopener">IBM annual reports</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>About</h4>
+        <ul>
+          <li><a href="#" onclick="event.preventDefault();openInfoDrawer('project')">The project</a></li>
+          <li><a href="#" onclick="event.preventDefault();openInfoDrawer('methodology')">Methodology</a></li>
+          <li><a href="https://www.ibm.com" target="_blank" rel="noopener">IBM.com</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="ft-bottom">
+      <div class="ft-in2">
+        <span>© <span id="ftYear">2026</span> IBM Through the Years — internal historical-analytics project.</span>
+        <a href="#about">Privacy</a><a href="#about">Terms of use</a><a href="#about">Accessibility</a>
+        <p class="ft-note">Figures parsed from IBM &amp; CTR annual reports (1911–2025) in <code>pipeline/</code>; US$ millions unless noted; <code>n/a</code> = not reliably stated (never estimated). Market cap is external market data. <span id="genStamp"></span></p>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Chart.js — powers the Competitors tab benchmark/radar/bubble charts.
+       Loaded async so a slow/unreachable CDN never blocks the rest of the page;
+       the competitors code waits for Chart to become available before drawing. -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js" defer></script>
+  <script>
+    /* Point the site at a remote agent server (for hosted deployments):
+       visit once with ?agent=https://your-host:8787 — it persists in
+       localStorage. ?agent=clear resets to the default localhost:8787.
+       Every live feature (ticker, quotes, SEC filings, chat) honors this. */
+    (function () { try {
+      const p = new URLSearchParams(location.search).get("agent");
+      if (p === "clear") localStorage.removeItem("CUGA_AGENT_URL");
+      else if (p) localStorage.setItem("CUGA_AGENT_URL", p.replace(/\/+$/, ""));
+      const v = localStorage.getItem("CUGA_AGENT_URL");
+      if (v) window.CUGA_AGENT_URL = v;
+    } catch (_) {} })();
+  </script>
+  <script src="data.js?v=20"></script>
+  <script src="Story Mode/ibm_daily_prices.js"></script>
+  <script src="charts.js?v=13"></script>
+  <script src="app.js?v=52"></script>
+  <script src="regression.js?v=20"></script>
+  <script src="agent-tools.js?v=5"></script>
+  <script>
+    window.wxOConfiguration = {
+      orchestrationID: "20250306-0917-2112-60db-f92bd41c3fcb_20260611-1501-3141-7055-c87c021da43e",
+      hostURL: "https://cio.watson-orchestrate.ibm.com",
+      rootElementID: "wxo-root",
+      chatOptions: {
+        agentId: "aee04915-6c36-49f0-bc9a-3acf0d972ce6",
+        agentEnvironmentId: "4ca55a7e-7dc9-4355-a3af-45ca2cf74906"
+      }
+    };
+    var script = document.createElement("script");
+    script.src = window.wxOConfiguration.hostURL + "/wxochat/wxoLoader.js?embed=true";
+    script.addEventListener("load", function () { wxoLoader.init(); });
+    document.head.appendChild(script);
+  </script>
+</body>
+</html>

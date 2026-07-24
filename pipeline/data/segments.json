@@ -1,0 +1,86 @@
+{
+ "_comment": "External revenue by reportable segment, US$ millions, from the MD&A 'Results of Continuing Operations by Segment' tables. Current four-segment structure (post-Kyndryl spinoff, Nov 2021). Each year's segments sum to that year's total revenue. BASIS NOTE: 2021-2023 are on the then-historical reportable-segment basis; in Q1 2025 IBM reclassified some revenue between Software and Consulting, so 2024-2025 here are on the 2025 basis (2024 segment splits differ slightly from how the 2024 report originally presented them, but the total is unchanged). Verified by visual read of the filings.",
+ "currency": "USD_millions",
+ "segmentsCurrent": [
+  "Software",
+  "Consulting",
+  "Infrastructure",
+  "Financing",
+  "Other"
+ ],
+ "years": [
+  {
+   "year": 2021,
+   "basis": "historical",
+   "source": "2022:p19",
+   "segments": {
+    "Software": 23426,
+    "Consulting": 17844,
+    "Infrastructure": 14188,
+    "Financing": 774,
+    "Other": 1119
+   },
+   "total": 57351
+  },
+  {
+   "year": 2022,
+   "basis": "historical",
+   "source": "2023:p19",
+   "segments": {
+    "Software": 25037,
+    "Consulting": 19107,
+    "Infrastructure": 15288,
+    "Financing": 645,
+    "Other": 453
+   },
+   "total": 60530
+  },
+  {
+   "year": 2023,
+   "basis": "historical",
+   "source": "2023:p19",
+   "segments": {
+    "Software": 26308,
+    "Consulting": 19985,
+    "Infrastructure": 14593,
+    "Financing": 741,
+    "Other": 233
+   },
+   "total": 61860
+  },
+  {
+   "year": 2024,
+   "basis": "2025-reclassified",
+   "source": "2025:p18",
+   "segments": {
+    "Software": 27085,
+    "Consulting": 20692,
+    "Infrastructure": 14020,
+    "Financing": 713,
+    "Other": 243
+   },
+   "total": 62753
+  },
+  {
+   "year": 2025,
+   "basis": "2025-reclassified",
+   "source": "2025:p18",
+   "segments": {
+    "Software": 29962,
+    "Consulting": 21005,
+    "Infrastructure": 15718,
+    "Financing": 737,
+    "Other": 63
+   },
+   "total": 67535
+  }
+ ],
+ "note_history": "Earlier eras used different segment taxonomies (e.g., 2015-2020: Cognitive Solutions / Global Business Services / Technology Services & Cloud Platforms / Systems / Global Financing; 1990s-2000s: Hardware / Software / Global Services / Global Financing). These are available in the raw report text under pipeline/raw/ for extension if the dashboard needs deeper segment history.",
+ "segmentGrossMargin2025": {
+  "Software": 83.5,
+  "Consulting": 28.1,
+  "Infrastructure": 58.6,
+  "Financing": 45.3
+ },
+ "_gm_note": "FY2025 external gross margin % by segment, visual-read from the 2025 report segment table (2025:p18)."
+}

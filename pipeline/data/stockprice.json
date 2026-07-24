@@ -1,0 +1,29 @@
+{
+  "_comment": "Year-end stock price per common share, IBM's own disclosed figure from each report's Financial Highlights table. Coverage 2001-2020 only -- IBM stopped publishing this table after 2020. Pre-2001 and 2021-2025 are not yet extracted (see pipeline/README for the validated method used for market cap: CEO-letter price mention or quarterly high/low table, cross-checked against neighboring years' restatements).",
+  "currency": "USD",
+  "sources": {
+    "2001-2020": "IBM Annual Report 'Financial Highlights' table, 'Stock price per common share' line"
+  },
+  "years": {
+    "2001": 120.96,
+    "2002": 77.5,
+    "2003": 92.68,
+    "2004": 98.58,
+    "2005": 82.2,
+    "2006": 97.15,
+    "2007": 108.1,
+    "2008": 84.16,
+    "2009": 130.9,
+    "2010": 146.76,
+    "2011": 183.88,
+    "2012": 191.55,
+    "2013": 187.57,
+    "2014": 160.44,
+    "2015": 137.62,
+    "2016": 165.99,
+    "2017": 153.42,
+    "2018": 113.67,
+    "2019": 134.04,
+    "2020": 125.88
+  }
+}

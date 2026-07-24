@@ -1,0 +1,2427 @@
+{
+ "_comment": "Manually VERIFIED figures (visual read of PDF pages and/or explicit report summary lines), used as high-trust anchors that override automated candidates. Money in US$ MILLIONS. basis records domestic vs worldwide and pre/post tax; source is <reportYear>:p<page>; method is how it was confirmed.",
+ "1911": {
+  "netIncome": {
+   "value": 0.951,
+   "basis": "net earnings of constituent companies, yr ended Apr 30 1911, before interest (CTR incorporated Jun 1911)",
+   "source": "1911:p4",
+   "method": "visual"
+  }
+ },
+ "1912": {
+  "netIncome": {
+   "value": 0.541,
+   "basis": "derived: 1913 net earnings less stated $93,769 YoY increase; approximate",
+   "source": "1913:p5",
+   "method": "derived"
+  }
+ },
+ "1913": {
+  "netIncome": {
+   "value": 0.635,
+   "basis": "net earnings = dividends $313,719 + $320,975 added to surplus",
+   "source": "1913:p5",
+   "method": "visual+derived"
+  }
+ },
+ "1915": {
+  "netIncome": {
+   "value": 0.691,
+   "basis": "net profit for year (CTR, pre-tax era)",
+   "source": "1915:p5",
+   "method": "text+visual"
+  }
+ },
+ "1916": {
+  "netIncome": {
+   "value": 1.207,
+   "basis": "net profit for year",
+   "source": "1916:p7",
+   "method": "text"
+  }
+ },
+ "1917": {
+  "netIncome": {
+   "value": 1.568,
+   "basis": "net profit for year (pre WWII excess-profits tax)",
+   "source": "1917:p7",
+   "method": "text"
+  }
+ },
+ "1918": {
+  "netIncome": {
+   "value": 1.788,
+   "basis": "net profit for year",
+   "source": "1918:p7",
+   "method": "text"
+  }
+ },
+ "1919": {
+  "netIncome": {
+   "value": 2.127,
+   "basis": "net profit for year",
+   "source": "1919:p7",
+   "method": "text"
+  }
+ },
+ "1920": {
+  "netIncome": {
+   "value": 1.882,
+   "basis": "net income for year",
+   "source": "1920:p7",
+   "method": "text"
+  }
+ },
+ "1921": {
+  "netIncome": {
+   "value": 1.047,
+   "basis": "net income for year",
+   "source": "1921:p7",
+   "method": "text"
+  }
+ },
+ "1922": {
+  "netIncome": {
+   "value": 1.632,
+   "basis": "net income for year",
+   "source": "1922:p7",
+   "method": "text"
+  }
+ },
+ "1923": {
+  "netIncome": {
+   "value": 2.161,
+   "basis": "net income for year",
+   "source": "1923:p7",
+   "method": "text"
+  }
+ },
+ "1924": {
+  "netIncome": {
+   "value": 2.426,
+   "basis": "net income for year",
+   "source": "1924:p7",
+   "method": "text"
+  }
+ },
+ "1925": {
+  "netIncome": {
+   "value": 3.204,
+   "basis": "net income for year",
+   "source": "1925:p7",
+   "method": "text"
+  }
+ },
+ "1926": {
+  "netIncome": {
+   "value": 4.216,
+   "basis": "net income for year (incl. foreign subs)",
+   "source": "1926:p7",
+   "method": "text"
+  }
+ },
+ "1927": {
+  "netIncome": {
+   "value": 4.935,
+   "basis": "net income for year (incl. foreign subs)",
+   "source": "1927:p7",
+   "method": "text"
+  }
+ },
+ "1928": {
+  "netIncome": {
+   "value": 5.939,
+   "basis": "net income for year, pre federal tax ($0.575M tax); after-tax ~5.364",
+   "source": "1928:p7",
+   "method": "visual"
+  }
+ },
+ "1929": {
+  "netIncome": {
+   "value": 6.706,
+   "basis": "net income after federal taxes",
+   "source": "1929:p7",
+   "method": "visual"
+  }
+ },
+ "1930": {
+  "netIncome": {
+   "value": 7.336,
+   "basis": "net income after federal taxes (derived from $11.50/sh x 637,954 sh; pre-tax $8.158M)",
+   "source": "1930:p5",
+   "method": "visual+derived"
+  }
+ },
+ "1931": {
+  "netIncome": {
+   "value": 7.423,
+   "basis": "net income after federal taxes",
+   "source": "1931:p7",
+   "method": "visual"
+  }
+ },
+ "1932": {
+  "netIncome": {
+   "value": 6.378,
+   "basis": "net income after federal taxes",
+   "source": "1932:p7",
+   "method": "visual"
+  }
+ },
+ "1933": {
+  "netIncome": {
+   "value": 5.736,
+   "basis": "net income after federal taxes",
+   "source": "1933:p9",
+   "method": "text"
+  }
+ },
+ "1934": {
+  "netIncome": {
+   "value": 6.597,
+   "basis": "net profit for the year (incl. foreign subs)",
+   "source": "1934:p9",
+   "method": "text"
+  }
+ },
+ "1935": {
+  "netIncome": {
+   "value": 7.091,
+   "basis": "net income for the year (incl. foreign subs)",
+   "source": "1935:p5",
+   "method": "text"
+  }
+ },
+ "1936": {
+  "netIncome": {
+   "value": 7.553,
+   "basis": "net income for the year",
+   "source": "1936:p9",
+   "method": "text"
+  }
+ },
+ "1937": {
+  "netIncome": {
+   "value": 8.083,
+   "basis": "net profit after estimated federal taxes ($10.413M pre-tax less $2.330M taxes); approximate",
+   "source": "1937:p9",
+   "method": "visual-approx"
+  }
+ },
+ "1938": {
+  "netIncome": {
+   "value": 8.66,
+   "basis": "net profit for the year",
+   "source": "1938:p9",
+   "method": "text"
+  }
+ },
+ "1939": {
+  "netIncome": {
+   "value": 9.093,
+   "basis": "net profit for the year",
+   "source": "1939:p9",
+   "method": "text"
+  }
+ },
+ "1940": {
+  "revenue": {
+   "value": 44.882,
+   "basis": "US gross income from sales, service & rentals",
+   "source": "1949:p13",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 9.431,
+   "basis": "net income for the year after US federal income taxes",
+   "source": "1949:p13",
+   "method": "visual+arithmetic"
+  }
+ },
+ "1941": {
+  "revenue": {
+   "value": 60.487,
+   "basis": "US gross income from sales, service & rentals",
+   "source": "1949:p13",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 9.845,
+   "basis": "net income for the year after US federal income taxes",
+   "source": "1949:p13",
+   "method": "visual+arithmetic"
+  }
+ },
+ "1942": {
+  "revenue": {
+   "value": 85.716,
+   "basis": "US gross income from sales, service & rentals",
+   "source": "1949:p13",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 8.319,
+   "basis": "net income for the year after US federal income taxes (WWII excess-profits taxes)",
+   "source": "1949:p13",
+   "method": "visual+arithmetic"
+  }
+ },
+ "1943": {
+  "revenue": {
+   "value": 131.272,
+   "basis": "US gross income from sales, service & rentals",
+   "source": "1949:p13",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 9.205,
+   "basis": "net income for the year after taxes (NOT the $36.97M pre-tax figure)",
+   "source": "1949:p13",
+   "method": "visual+arithmetic"
+  }
+ },
+ "1944": {
+  "revenue": {
+   "value": 139.665,
+   "basis": "US gross income from sales, service & rentals",
+   "source": "1949:p13",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 9.711,
+   "basis": "net income for the year after taxes",
+   "source": "1949:p13",
+   "method": "visual+arithmetic"
+  }
+ },
+ "1945": {
+  "revenue": {
+   "value": 138.166,
+   "basis": "US gross income from sales, service & rentals",
+   "source": "1949:p13",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 10.894,
+   "basis": "net income for the year after taxes",
+   "source": "1949:p13",
+   "method": "visual+arithmetic"
+  }
+ },
+ "1946": {
+  "revenue": {
+   "value": 115.645,
+   "basis": "US gross income from sales, service & rentals",
+   "source": "1949:p13",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 18.766,
+   "basis": "net income for the year after taxes",
+   "source": "1949:p13",
+   "method": "visual"
+  }
+ },
+ "1947": {
+  "revenue": {
+   "value": 139.404,
+   "basis": "US gross income from sales, service & rentals",
+   "source": "1949:p13",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 23.554,
+   "basis": "net income for the year after taxes",
+   "source": "1949:p13",
+   "method": "visual"
+  }
+ },
+ "1948": {
+  "revenue": {
+   "value": 156.398,
+   "basis": "US gross income from sales, service & rentals",
+   "source": "1949:p13",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 28.101,
+   "basis": "net income for the year after taxes",
+   "source": "1949:p13",
+   "method": "visual"
+  }
+ },
+ "1949": {
+  "revenue": {
+   "value": 183.465,
+   "basis": "US gross income from sales, service & rentals",
+   "source": "1949:p13",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 33.277,
+   "basis": "net income for the year after taxes",
+   "source": "1949:p13",
+   "method": "visual"
+  }
+ },
+ "1950": {
+  "revenue": {
+   "value": 214.917,
+   "basis": "US domestic gross income",
+   "source": "1959:p42",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 33.301,
+   "basis": "US domestic, after tax",
+   "source": "1959:p42",
+   "method": "visual+arithmetic"
+  }
+ },
+ "1951": {
+  "revenue": {
+   "value": 266.798,
+   "basis": "US domestic gross income",
+   "source": "1959:p42",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 27.892,
+   "basis": "US domestic, after tax",
+   "source": "1959:p42",
+   "method": "visual+arithmetic"
+  }
+ },
+ "1952": {
+  "revenue": {
+   "value": 333.728,
+   "basis": "US domestic gross income",
+   "source": "1959:p42",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 29.875,
+   "basis": "US domestic, after tax",
+   "source": "1959:p42",
+   "method": "visual+arithmetic"
+  }
+ },
+ "1953": {
+  "revenue": {
+   "value": 409.989,
+   "basis": "US domestic gross income",
+   "source": "1959:p42",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 34.119,
+   "basis": "US domestic, after tax",
+   "source": "1959:p42",
+   "method": "visual+arithmetic"
+  }
+ },
+ "1954": {
+  "revenue": {
+   "value": 461.35,
+   "basis": "US domestic gross income",
+   "source": "1959:p42",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 46.537,
+   "basis": "US domestic, after tax",
+   "source": "1959:p42",
+   "method": "visual+arithmetic"
+  }
+ },
+ "1955": {
+  "revenue": {
+   "value": 563.549,
+   "basis": "US domestic gross income",
+   "source": "1959:p42",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 55.873,
+   "basis": "US domestic, after tax",
+   "source": "1959:p42",
+   "method": "visual+arithmetic"
+  }
+ },
+ "1956": {
+  "revenue": {
+   "value": 734.34,
+   "basis": "US domestic gross income",
+   "source": "1959:p42",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 68.785,
+   "basis": "US domestic, after tax",
+   "source": "1959:p42",
+   "method": "visual+arithmetic"
+  }
+ },
+ "1957": {
+  "revenue": {
+   "value": 1000.432,
+   "basis": "US domestic gross income",
+   "source": "1959:p42",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 89.292,
+   "basis": "US domestic, after tax",
+   "source": "1959:p42",
+   "method": "visual+arithmetic"
+  }
+ },
+ "1958": {
+  "revenue": {
+   "value": 1171.788,
+   "basis": "US domestic gross income",
+   "source": "1959:p42",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 126.192,
+   "basis": "US domestic, after tax",
+   "source": "1959:p42",
+   "method": "visual+arithmetic"
+  }
+ },
+ "1959": {
+  "revenue": {
+   "value": 1309.788,
+   "basis": "US domestic gross income",
+   "source": "1959:p42",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 145.633,
+   "basis": "US domestic, after tax",
+   "source": "1959:p42",
+   "method": "visual+arithmetic"
+  }
+ },
+ "1960": {
+  "revenue": {
+   "value": 1816.888,
+   "basis": "worldwide consolidated gross income",
+   "source": "1969:p49",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 204.916,
+   "basis": "worldwide consolidated net earnings",
+   "source": "1969:p49",
+   "method": "visual+arithmetic"
+  }
+ },
+ "1961": {
+  "revenue": {
+   "value": 2202.465,
+   "basis": "worldwide consolidated gross income",
+   "source": "1969:p49",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 254.119,
+   "basis": "worldwide consolidated net earnings",
+   "source": "1969:p49",
+   "method": "visual+arithmetic"
+  }
+ },
+ "1962": {
+  "revenue": {
+   "value": 2591.269,
+   "basis": "worldwide consolidated gross income",
+   "source": "1969:p49",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 304.726,
+   "basis": "worldwide consolidated net earnings",
+   "source": "1969:p49",
+   "method": "visual+arithmetic"
+  }
+ },
+ "1963": {
+  "revenue": {
+   "value": 2862.733,
+   "basis": "worldwide consolidated gross income",
+   "source": "1969:p49",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 364.255,
+   "basis": "worldwide consolidated net earnings",
+   "source": "1969:p49",
+   "method": "visual+arithmetic"
+  }
+ },
+ "1964": {
+  "revenue": {
+   "value": 3239.36,
+   "basis": "worldwide consolidated gross income",
+   "source": "1969:p49",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 431.16,
+   "basis": "worldwide consolidated net earnings",
+   "source": "1969:p49",
+   "method": "visual+arithmetic"
+  }
+ },
+ "1965": {
+  "revenue": {
+   "value": 3572.825,
+   "basis": "worldwide consolidated gross income",
+   "source": "1969:p49",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 476.902,
+   "basis": "worldwide consolidated net earnings",
+   "source": "1969:p49",
+   "method": "visual+arithmetic"
+  }
+ },
+ "1966": {
+  "revenue": {
+   "value": 4247.706,
+   "basis": "worldwide consolidated gross income",
+   "source": "1969:p49",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 526.13,
+   "basis": "worldwide consolidated net earnings",
+   "source": "1969:p49",
+   "method": "visual+arithmetic"
+  }
+ },
+ "1967": {
+  "revenue": {
+   "value": 5545.291,
+   "basis": "worldwide consolidated gross income",
+   "source": "1969:p49",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 651.5,
+   "basis": "worldwide consolidated net earnings",
+   "source": "1969:p49",
+   "method": "visual+arithmetic"
+  }
+ },
+ "1968": {
+  "revenue": {
+   "value": 6888.549,
+   "basis": "worldwide consolidated gross income",
+   "source": "1969:p49",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 871.498,
+   "basis": "worldwide consolidated net earnings",
+   "source": "1969:p49",
+   "method": "visual+arithmetic"
+  }
+ },
+ "1969": {
+  "revenue": {
+   "value": 7197.295,
+   "basis": "worldwide consolidated gross income",
+   "source": "1969:p49",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 933.873,
+   "basis": "worldwide consolidated net earnings",
+   "source": "1969:p49",
+   "method": "visual+arithmetic"
+  }
+ },
+ "1970": {
+  "revenue": {
+   "value": 7503.96,
+   "basis": "worldwide consolidated total gross income",
+   "source": "1974:p31",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 1017.521,
+   "basis": "worldwide net earnings",
+   "source": "1974:p31",
+   "method": "visual"
+  },
+  "epsDiluted": {
+   "value": 7.13,
+   "source": "1974:p31",
+   "method": "visual"
+  }
+ },
+ "1971": {
+  "revenue": {
+   "value": 8273.603,
+   "basis": "worldwide consolidated total gross income",
+   "source": "1974:p31",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 1078.847,
+   "basis": "worldwide net earnings",
+   "source": "1974:p31",
+   "method": "visual"
+  },
+  "epsDiluted": {
+   "value": 7.5,
+   "source": "1974:p31",
+   "method": "visual"
+  }
+ },
+ "1972": {
+  "revenue": {
+   "value": 9532.593,
+   "basis": "worldwide consolidated total gross income",
+   "source": "1974:p30",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 1279.268,
+   "basis": "worldwide net earnings",
+   "source": "1974:p30",
+   "method": "visual"
+  },
+  "epsDiluted": {
+   "value": 8.83,
+   "source": "1974:p30",
+   "method": "visual"
+  }
+ },
+ "1973": {
+  "revenue": {
+   "value": 10993.242,
+   "basis": "worldwide consolidated total gross income",
+   "source": "1974:p30",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 1575.467,
+   "basis": "worldwide net earnings",
+   "source": "1974:p30",
+   "method": "visual"
+  },
+  "epsDiluted": {
+   "value": 10.79,
+   "source": "1974:p30",
+   "method": "visual"
+  }
+ },
+ "1974": {
+  "revenue": {
+   "value": 12675.292,
+   "basis": "worldwide consolidated total gross income",
+   "source": "1974:p30",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 1837.639,
+   "basis": "worldwide net earnings",
+   "source": "1974:p30",
+   "method": "visual"
+  },
+  "epsDiluted": {
+   "value": 12.47,
+   "source": "1974:p30",
+   "method": "visual"
+  }
+ },
+ "1975": {
+  "revenue": {
+   "value": 14437,
+   "basis": "worldwide consolidated gross income",
+   "source": "1976:p16",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 1989.877,
+   "basis": "worldwide net earnings after tax",
+   "source": "1975:p?+1976:p16",
+   "method": "text+visual"
+  }
+ },
+ "1976": {
+  "revenue": {
+   "value": 16304,
+   "basis": "worldwide consolidated gross income",
+   "source": "1976:p16",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 2398,
+   "basis": "worldwide net earnings after tax",
+   "source": "1976:p16",
+   "method": "visual"
+  }
+ },
+ "1977": {
+  "revenue": {
+   "value": 18133.184,
+   "basis": "worldwide consolidated total gross income",
+   "source": "1978:p24",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 2719.414,
+   "basis": "worldwide net earnings",
+   "source": "1978:p24",
+   "method": "visual"
+  },
+  "epsDiluted": {
+   "value": 18.3,
+   "source": "1978:p24",
+   "method": "visual"
+  }
+ },
+ "1978": {
+  "revenue": {
+   "value": 21076.089,
+   "basis": "worldwide consolidated total gross income",
+   "source": "1978:p24",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 3110.568,
+   "basis": "worldwide net earnings",
+   "source": "1978:p24",
+   "method": "visual"
+  },
+  "epsDiluted": {
+   "value": 21.29,
+   "source": "1978:p24",
+   "method": "visual"
+  }
+ },
+ "1979": {
+  "revenue": {
+   "value": 22863,
+   "basis": "worldwide consolidated gross income",
+   "source": "1979:p5",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 3011,
+   "basis": "worldwide net earnings",
+   "source": "1979:p5",
+   "method": "visual"
+  }
+ },
+ "1980": {
+  "revenue": {
+   "value": 26213,
+   "basis": "worldwide consolidated gross income",
+   "source": "1984:p41",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 3397,
+   "basis": "net earnings",
+   "source": "1984:p41",
+   "method": "visual"
+  },
+  "epsDiluted": {
+   "value": 5.82,
+   "source": "1984:p41",
+   "method": "visual"
+  },
+  "dividendsPerShare": {
+   "value": 3.44,
+   "source": "1984:p41",
+   "method": "visual"
+  },
+  "totalAssets": {
+   "value": 26831,
+   "source": "1984:p41",
+   "method": "visual"
+  },
+  "stockholdersEquity": {
+   "value": 16578,
+   "source": "1984:p41",
+   "method": "visual"
+  },
+  "longTermDebt": {
+   "value": 2099,
+   "source": "1984:p41",
+   "method": "visual"
+  }
+ },
+ "1981": {
+  "revenue": {
+   "value": 29070,
+   "basis": "worldwide consolidated gross income (reclassified to 1984 basis)",
+   "source": "1984:p41",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 3610,
+   "basis": "net earnings",
+   "source": "1984:p41",
+   "method": "visual"
+  },
+  "epsDiluted": {
+   "value": 6.14,
+   "source": "1984:p41",
+   "method": "visual"
+  },
+  "dividendsPerShare": {
+   "value": 3.44,
+   "source": "1984:p41",
+   "method": "visual"
+  },
+  "totalAssets": {
+   "value": 29107,
+   "source": "1984:p41",
+   "method": "visual"
+  },
+  "stockholdersEquity": {
+   "value": 17676,
+   "source": "1984:p41",
+   "method": "visual"
+  },
+  "longTermDebt": {
+   "value": 2669,
+   "source": "1984:p41",
+   "method": "visual"
+  }
+ },
+ "1982": {
+  "revenue": {
+   "value": 34364,
+   "basis": "worldwide consolidated gross income (reclassified to 1984 basis)",
+   "source": "1984:p41",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 4409,
+   "basis": "net earnings",
+   "source": "1984:p41",
+   "method": "visual"
+  },
+  "epsDiluted": {
+   "value": 7.39,
+   "source": "1984:p41",
+   "method": "visual"
+  },
+  "dividendsPerShare": {
+   "value": 3.44,
+   "source": "1984:p41",
+   "method": "visual"
+  },
+  "totalAssets": {
+   "value": 32541,
+   "source": "1984:p41",
+   "method": "visual"
+  },
+  "stockholdersEquity": {
+   "value": 19960,
+   "source": "1984:p41",
+   "method": "visual"
+  },
+  "longTermDebt": {
+   "value": 2851,
+   "source": "1984:p41",
+   "method": "visual"
+  }
+ },
+ "1983": {
+  "revenue": {
+   "value": 40180,
+   "basis": "worldwide consolidated gross income",
+   "source": "1984:p41",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 5485,
+   "basis": "net earnings",
+   "source": "1984:p41",
+   "method": "visual"
+  },
+  "epsDiluted": {
+   "value": 9.04,
+   "source": "1984:p41",
+   "method": "visual"
+  },
+  "dividendsPerShare": {
+   "value": 3.71,
+   "source": "1984:p41",
+   "method": "visual"
+  },
+  "totalAssets": {
+   "value": 37461,
+   "source": "1984:p41",
+   "method": "visual"
+  },
+  "stockholdersEquity": {
+   "value": 23219,
+   "source": "1984:p41",
+   "method": "visual"
+  },
+  "longTermDebt": {
+   "value": 2674,
+   "source": "1984:p41",
+   "method": "visual"
+  }
+ },
+ "1984": {
+  "revenue": {
+   "value": 45937,
+   "basis": "worldwide consolidated gross income",
+   "source": "1984:p41",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 6582,
+   "basis": "net earnings",
+   "source": "1984:p41",
+   "method": "visual"
+  },
+  "epsDiluted": {
+   "value": 10.77,
+   "source": "1984:p41",
+   "method": "visual"
+  },
+  "dividendsPerShare": {
+   "value": 4.1,
+   "source": "1984:p41",
+   "method": "visual"
+  },
+  "totalAssets": {
+   "value": 42808,
+   "source": "1984:p41",
+   "method": "visual"
+  },
+  "stockholdersEquity": {
+   "value": 26489,
+   "source": "1984:p41",
+   "method": "visual"
+  },
+  "longTermDebt": {
+   "value": 3269,
+   "source": "1984:p41",
+   "method": "visual"
+  }
+ },
+ "1990": {
+  "revenue": {
+   "value": 68931,
+   "basis": "worldwide consolidated revenue",
+   "source": "1994:p81",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 6020,
+   "basis": "net earnings as originally reported (1994 5-yr restates to 5,967 after accounting changes)",
+   "source": "1990AR;1994:p81",
+   "method": "visual"
+  },
+  "epsDiluted": {
+   "value": 10.42,
+   "source": "1994:p81",
+   "method": "visual"
+  },
+  "dividendsPerShare": {
+   "value": 4.84,
+   "source": "1994:p81",
+   "method": "visual"
+  },
+  "totalAssets": {
+   "value": 87568,
+   "source": "1994:p81",
+   "method": "visual"
+  }
+ },
+ "1991": {
+  "revenue": {
+   "value": 64766,
+   "basis": "worldwide consolidated revenue",
+   "source": "1994:p81",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": -2861,
+   "basis": "net loss after accounting changes",
+   "source": "1994:p81",
+   "method": "visual"
+  },
+  "epsDiluted": {
+   "value": -5.01,
+   "source": "1994:p81",
+   "method": "visual"
+  },
+  "dividendsPerShare": {
+   "value": 4.84,
+   "source": "1994:p81",
+   "method": "visual"
+  },
+  "totalAssets": {
+   "value": 92473,
+   "source": "1994:p81",
+   "method": "visual"
+  }
+ },
+ "1992": {
+  "revenue": {
+   "value": 64523,
+   "basis": "worldwide consolidated revenue",
+   "source": "1994:p81",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": -4965,
+   "basis": "net loss after accounting changes",
+   "source": "1994:p81",
+   "method": "visual"
+  },
+  "epsDiluted": {
+   "value": -8.7,
+   "source": "1994:p81",
+   "method": "visual"
+  },
+  "dividendsPerShare": {
+   "value": 4.84,
+   "source": "1994:p81",
+   "method": "visual"
+  },
+  "totalAssets": {
+   "value": 86705,
+   "source": "1994:p81",
+   "method": "visual"
+  }
+ },
+ "1993": {
+  "revenue": {
+   "value": 62716,
+   "basis": "worldwide consolidated revenue",
+   "source": "1994:p81",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": -8101,
+   "basis": "net loss after accounting changes",
+   "source": "1994:p81",
+   "method": "visual"
+  },
+  "epsDiluted": {
+   "value": -14.22,
+   "source": "1994:p81",
+   "method": "visual"
+  },
+  "dividendsPerShare": {
+   "value": 1.58,
+   "source": "1994:p81",
+   "method": "visual"
+  },
+  "totalAssets": {
+   "value": 81113,
+   "source": "1994:p81",
+   "method": "visual"
+  },
+  "capitalExpenditure": {
+   "value": 3154.0,
+   "source": "cashflow-stmt-gross-ppe",
+   "method": "text-read"
+  }
+ },
+ "1994": {
+  "revenue": {
+   "value": 64052,
+   "basis": "worldwide consolidated revenue",
+   "source": "1994:p81",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 3021,
+   "basis": "net earnings",
+   "source": "1994:p81",
+   "method": "visual"
+  },
+  "epsDiluted": {
+   "value": 5.02,
+   "source": "1994:p81",
+   "method": "visual"
+  },
+  "dividendsPerShare": {
+   "value": 1.0,
+   "source": "1994:p81",
+   "method": "visual"
+  },
+  "totalAssets": {
+   "value": 81091,
+   "source": "1994:p81",
+   "method": "visual"
+  },
+  "capitalExpenditure": {
+   "value": 3078.0,
+   "source": "cashflow-stmt-gross-ppe",
+   "method": "text-read"
+  }
+ },
+ "2019": {
+  "revenue": {
+   "value": 77147,
+   "basis": "worldwide consolidated revenue",
+   "source": "2021:p64",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 9431,
+   "source": "2021:p64",
+   "method": "visual"
+  },
+  "epsDiluted": {
+   "value": 10.56,
+   "source": "2021:p64",
+   "method": "visual"
+  },
+  "epsBasic": {
+   "value": 10.63,
+   "source": "2021:p64",
+   "method": "visual"
+  },
+  "sharesOutstandingM": {
+   "value": 892.81,
+   "basis": "weighted-average diluted",
+   "source": "2021:p64",
+   "method": "visual"
+  },
+  "incomeTaxes": {
+   "value": 731.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "pretaxIncome": {
+   "value": 10166.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "operatingCashFlow": {
+   "value": 14770.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "freeCashFlow": {
+   "value": 11909.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "totalDebt": {
+   "value": 62899.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  }
+ },
+ "2020": {
+  "revenue": {
+   "value": 73620,
+   "basis": "worldwide consolidated revenue",
+   "source": "2021:p64",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 5590,
+   "source": "2021:p64",
+   "method": "visual"
+  },
+  "epsDiluted": {
+   "value": 6.23,
+   "source": "2021:p64",
+   "method": "visual"
+  },
+  "epsBasic": {
+   "value": 6.28,
+   "source": "2021:p64",
+   "method": "visual"
+  },
+  "sharesOutstandingM": {
+   "value": 896.56,
+   "basis": "weighted-average diluted",
+   "source": "2021:p64",
+   "method": "visual"
+  },
+  "operatingCashFlow": {
+   "value": 18197.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "freeCashFlow": {
+   "value": 10805.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "totalDebt": {
+   "value": 61538.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "pretaxIncome": {
+   "value": 4637,
+   "source": "2020:mdna",
+   "method": "visual"
+  }
+ },
+ "2021": {
+  "revenue": {
+   "value": 57351,
+   "basis": "worldwide consolidated revenue (post-Kyndryl spinoff)",
+   "source": "2021:p64",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 5743,
+   "source": "2021:p64",
+   "method": "visual"
+  },
+  "epsDiluted": {
+   "value": 6.35,
+   "source": "2023:p46",
+   "method": "visual"
+  },
+  "epsBasic": {
+   "value": 6.41,
+   "source": "2023:p46",
+   "method": "visual"
+  },
+  "sharesOutstandingM": {
+   "value": 904.64,
+   "basis": "weighted-average diluted",
+   "source": "2023:p46",
+   "method": "visual"
+  },
+  "totalDebt": {
+   "value": 51703.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "pretaxIncome": {
+   "value": 4837,
+   "source": "2021:mdna",
+   "method": "visual"
+  },
+  "freeCashFlow": {
+   "value": 6500.0,
+   "source": "md&a-stated",
+   "method": "text-read"
+  }
+ },
+ "2022": {
+  "revenue": {
+   "value": 60530,
+   "basis": "worldwide consolidated revenue",
+   "source": "2024AR",
+   "method": "md-table"
+  },
+  "netIncome": {
+   "value": 1639,
+   "source": "2024AR",
+   "method": "md-table"
+  },
+  "epsDiluted": {
+   "value": 1.8,
+   "source": "2023:p46",
+   "method": "visual"
+  },
+  "epsBasic": {
+   "value": 1.82,
+   "source": "2023:p46",
+   "method": "visual"
+  },
+  "sharesOutstandingM": {
+   "value": 912.27,
+   "basis": "weighted-average diluted",
+   "source": "2023:p46",
+   "method": "visual"
+  },
+  "pretaxIncome": {
+   "value": 1156.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "freeCashFlow": {
+   "value": 9291.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "totalDebt": {
+   "value": 50949.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "softwareARR": {
+   "value": 13300,
+   "source": "2022:mdna",
+   "method": "visual"
+  }
+ },
+ "2023": {
+  "revenue": {
+   "value": 61860,
+   "basis": "worldwide consolidated revenue",
+   "source": "2025:p44",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 7502,
+   "source": "2025:p44",
+   "method": "visual"
+  },
+  "epsDiluted": {
+   "value": 8.14,
+   "source": "2025:p44",
+   "method": "visual"
+  },
+  "epsBasic": {
+   "value": 8.23,
+   "source": "2025:p44",
+   "method": "visual"
+  },
+  "sharesOutstandingM": {
+   "value": 922.07,
+   "basis": "weighted-average diluted",
+   "source": "2025:p44",
+   "method": "visual"
+  },
+  "pretaxIncome": {
+   "value": 8690.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "freeCashFlow": {
+   "value": 11210.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "totalDebt": {
+   "value": 56547.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "softwareARR": {
+   "value": 14400,
+   "source": "2023:mdna",
+   "method": "visual"
+  }
+ },
+ "2024": {
+  "revenue": {
+   "value": 62753,
+   "basis": "worldwide consolidated revenue",
+   "source": "2025:p44",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 6023,
+   "source": "2025:p44",
+   "method": "visual"
+  },
+  "rdExpense": {
+   "value": 7479,
+   "source": "2024AR",
+   "method": "md-table"
+  },
+  "epsDiluted": {
+   "value": 6.43,
+   "source": "2025:p44",
+   "method": "visual"
+  },
+  "epsBasic": {
+   "value": 6.53,
+   "source": "2025:p44",
+   "method": "visual"
+  },
+  "sharesOutstandingM": {
+   "value": 937.16,
+   "basis": "weighted-average diluted",
+   "source": "2025:p44",
+   "method": "visual"
+  },
+  "pretaxIncome": {
+   "value": 5797.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "freeCashFlow": {
+   "value": 12749.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "totalDebt": {
+   "value": 54973.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "softwareARR": {
+   "value": 21300,
+   "source": "2025:mdna",
+   "method": "visual"
+  }
+ },
+ "2025": {
+  "revenue": {
+   "value": 67535,
+   "basis": "worldwide consolidated revenue",
+   "source": "2025:p44",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 10593,
+   "source": "2025:p44",
+   "method": "visual"
+  },
+  "grossProfit": {
+   "value": 39297,
+   "source": "2025:p44",
+   "method": "visual"
+  },
+  "rdExpense": {
+   "value": 8316,
+   "source": "2025:p44",
+   "method": "visual"
+  },
+  "epsDiluted": {
+   "value": 11.17,
+   "source": "2025:p44",
+   "method": "visual"
+  },
+  "epsBasic": {
+   "value": 11.36,
+   "source": "2025:p44",
+   "method": "visual"
+  },
+  "sharesOutstandingM": {
+   "value": 948.68,
+   "basis": "weighted-average diluted",
+   "source": "2025:p44",
+   "method": "visual"
+  },
+  "pretaxIncome": {
+   "value": 10328.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "freeCashFlow": {
+   "value": 14734.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "totalDebt": {
+   "value": 61260.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "softwareARR": {
+   "value": 23600,
+   "source": "2025:mdna",
+   "method": "visual"
+  }
+ },
+ "1995": {
+  "revenue": {
+   "value": 71940,
+   "basis": "worldwide consolidated revenue",
+   "source": "1999:p96",
+   "method": "text-table"
+  },
+  "netIncome": {
+   "value": 4178,
+   "source": "1999:p96",
+   "method": "text-table"
+  },
+  "epsDiluted": {
+   "value": 1.76,
+   "basis": "split-adjusted",
+   "source": "1999:p96",
+   "method": "text-table"
+  },
+  "epsBasic": {
+   "value": 1.81,
+   "source": "1999:p96",
+   "method": "text-table"
+  },
+  "dividendsPerShare": {
+   "value": 0.25,
+   "source": "1999:p96",
+   "method": "text-table"
+  },
+  "totalAssets": {
+   "value": 80292,
+   "source": "1999:p96",
+   "method": "text-table"
+  },
+  "capitalExpenditure": {
+   "value": 4744.0,
+   "source": "cashflow-stmt-gross-ppe",
+   "method": "text-read"
+  },
+  "incomeTaxes": {
+   "value": 3635.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  }
+ },
+ "1996": {
+  "revenue": {
+   "value": 75947,
+   "basis": "worldwide consolidated revenue",
+   "source": "1999:p96",
+   "method": "text-table"
+  },
+  "netIncome": {
+   "value": 5429,
+   "source": "1999:p96",
+   "method": "text-table"
+  },
+  "epsDiluted": {
+   "value": 2.5,
+   "basis": "split-adjusted",
+   "source": "1999:p96",
+   "method": "text-table"
+  },
+  "epsBasic": {
+   "value": 2.56,
+   "source": "1999:p96",
+   "method": "text-table"
+  },
+  "dividendsPerShare": {
+   "value": 0.325,
+   "source": "1999:p96",
+   "method": "text-table"
+  },
+  "totalAssets": {
+   "value": 81132,
+   "source": "1999:p96",
+   "method": "text-table"
+  },
+  "capitalExpenditure": {
+   "value": 5883.0,
+   "source": "cashflow-stmt-gross-ppe",
+   "method": "text-read"
+  },
+  "incomeTaxes": {
+   "value": 531.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  }
+ },
+ "1997": {
+  "revenue": {
+   "value": 78508,
+   "basis": "worldwide consolidated revenue",
+   "source": "1999:p96",
+   "method": "text-table"
+  },
+  "netIncome": {
+   "value": 6093,
+   "source": "1999:p96",
+   "method": "text-table"
+  },
+  "epsDiluted": {
+   "value": 3.0,
+   "basis": "split-adjusted",
+   "source": "1999:p96",
+   "method": "text-table"
+  },
+  "epsBasic": {
+   "value": 3.09,
+   "source": "1999:p96",
+   "method": "text-table"
+  },
+  "dividendsPerShare": {
+   "value": 0.3875,
+   "source": "1999:p96",
+   "method": "text-table"
+  },
+  "totalAssets": {
+   "value": 81499,
+   "source": "1999:p96",
+   "method": "text-table"
+  },
+  "capitalExpenditure": {
+   "value": 6793.0,
+   "source": "cashflow-stmt-gross-ppe",
+   "method": "text-read"
+  },
+  "incomeTaxes": {
+   "value": 429.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  }
+ },
+ "1998": {
+  "revenue": {
+   "value": 81667,
+   "basis": "worldwide consolidated revenue",
+   "source": "1999:p96",
+   "method": "text-table"
+  },
+  "netIncome": {
+   "value": 6328,
+   "source": "1999:p96",
+   "method": "text-table"
+  },
+  "epsDiluted": {
+   "value": 3.29,
+   "basis": "split-adjusted",
+   "source": "1999:p96",
+   "method": "text-table"
+  },
+  "epsBasic": {
+   "value": 3.38,
+   "source": "1999:p96",
+   "method": "text-table"
+  },
+  "dividendsPerShare": {
+   "value": 0.43,
+   "source": "1999:p96",
+   "method": "text-table"
+  },
+  "totalAssets": {
+   "value": 86100,
+   "source": "1999:p96",
+   "method": "text-table"
+  },
+  "capitalExpenditure": {
+   "value": 6520.0,
+   "source": "cashflow-stmt-gross-ppe",
+   "method": "text-read"
+  },
+  "incomeTaxes": {
+   "value": 2712.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "pretaxIncome": {
+   "value": 9040.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  }
+ },
+ "1999": {
+  "revenue": {
+   "value": 87548,
+   "basis": "worldwide consolidated revenue",
+   "source": "1999:p96",
+   "method": "text-table"
+  },
+  "netIncome": {
+   "value": 7712,
+   "source": "1999:p96",
+   "method": "text-table"
+  },
+  "epsDiluted": {
+   "value": 4.12,
+   "basis": "split-adjusted",
+   "source": "1999:p96",
+   "method": "text-table"
+  },
+  "epsBasic": {
+   "value": 4.25,
+   "source": "1999:p96",
+   "method": "text-table"
+  },
+  "dividendsPerShare": {
+   "value": 0.47,
+   "source": "1999:p96",
+   "method": "text-table"
+  },
+  "totalAssets": {
+   "value": 87495,
+   "source": "1999:p96",
+   "method": "text-table"
+  },
+  "capitalExpenditure": {
+   "value": 5959.0,
+   "source": "cashflow-stmt-gross-ppe",
+   "method": "text-read"
+  },
+  "incomeTaxes": {
+   "value": 4045.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "pretaxIncome": {
+   "value": 11757.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  }
+ },
+ "1985": {
+  "revenue": {
+   "value": 50718,
+   "basis": "worldwide consolidated revenue",
+   "source": "1989:p46",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 6555,
+   "basis": "net earnings",
+   "source": "1989:p46",
+   "method": "visual"
+  },
+  "epsDiluted": {
+   "value": 10.67,
+   "basis": "primary EPS",
+   "source": "1989:p46",
+   "method": "visual"
+  },
+  "dividendsPerShare": {
+   "value": 4.4,
+   "source": "1989:p46",
+   "method": "visual"
+  },
+  "totalAssets": {
+   "value": 56983,
+   "source": "1989:p46",
+   "method": "visual"
+  },
+  "stockholdersEquity": {
+   "value": 31990,
+   "source": "1989:p46",
+   "method": "visual"
+  },
+  "longTermDebt": {
+   "value": 6368,
+   "source": "1989:p46",
+   "method": "visual"
+  }
+ },
+ "1986": {
+  "revenue": {
+   "value": 52160,
+   "basis": "worldwide consolidated revenue",
+   "source": "1989:p46",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 4789,
+   "basis": "net earnings",
+   "source": "1989:p46",
+   "method": "visual"
+  },
+  "epsDiluted": {
+   "value": 7.81,
+   "source": "1989:p46",
+   "method": "visual"
+  },
+  "dividendsPerShare": {
+   "value": 4.4,
+   "source": "1989:p46",
+   "method": "visual"
+  },
+  "totalAssets": {
+   "value": 63020,
+   "source": "1989:p46",
+   "method": "visual"
+  },
+  "stockholdersEquity": {
+   "value": 34374,
+   "source": "1989:p46",
+   "method": "visual"
+  },
+  "longTermDebt": {
+   "value": 6923,
+   "source": "1989:p46",
+   "method": "visual"
+  }
+ },
+ "1987": {
+  "revenue": {
+   "value": 55256,
+   "basis": "worldwide consolidated revenue",
+   "source": "1989:p46",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 5258,
+   "basis": "net earnings",
+   "source": "1989:p46",
+   "method": "visual"
+  },
+  "epsDiluted": {
+   "value": 8.72,
+   "source": "1989:p46",
+   "method": "visual"
+  },
+  "dividendsPerShare": {
+   "value": 4.4,
+   "source": "1989:p46",
+   "method": "visual"
+  },
+  "totalAssets": {
+   "value": 70029,
+   "source": "1989:p46",
+   "method": "visual"
+  },
+  "stockholdersEquity": {
+   "value": 38263,
+   "source": "1989:p46",
+   "method": "visual"
+  },
+  "longTermDebt": {
+   "value": 7108,
+   "source": "1989:p46",
+   "method": "visual"
+  }
+ },
+ "1988": {
+  "revenue": {
+   "value": 59681,
+   "basis": "worldwide consolidated revenue",
+   "source": "1989:p46",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 5806,
+   "basis": "net earnings incl. +315 cumulative accounting change",
+   "source": "1989:p46",
+   "method": "visual"
+  },
+  "epsDiluted": {
+   "value": 9.8,
+   "source": "1989:p46",
+   "method": "visual"
+  },
+  "dividendsPerShare": {
+   "value": 4.4,
+   "source": "1989:p46",
+   "method": "visual"
+  },
+  "totalAssets": {
+   "value": 73037,
+   "source": "1989:p46",
+   "method": "visual"
+  },
+  "stockholdersEquity": {
+   "value": 39509,
+   "source": "1989:p46",
+   "method": "visual"
+  },
+  "longTermDebt": {
+   "value": 8518,
+   "source": "1989:p46",
+   "method": "visual"
+  }
+ },
+ "1989": {
+  "revenue": {
+   "value": 62710,
+   "basis": "worldwide consolidated revenue",
+   "source": "1989:p46",
+   "method": "visual"
+  },
+  "netIncome": {
+   "value": 3758,
+   "basis": "net earnings",
+   "source": "1989:p46",
+   "method": "visual"
+  },
+  "epsDiluted": {
+   "value": 6.47,
+   "source": "1989:p46",
+   "method": "visual"
+  },
+  "dividendsPerShare": {
+   "value": 4.73,
+   "source": "1989:p46",
+   "method": "visual"
+  },
+  "totalAssets": {
+   "value": 77734,
+   "source": "1989:p46",
+   "method": "visual"
+  },
+  "stockholdersEquity": {
+   "value": 38509,
+   "source": "1989:p46",
+   "method": "visual"
+  },
+  "longTermDebt": {
+   "value": 10825,
+   "source": "1989:p46",
+   "method": "visual"
+  }
+ },
+ "1914": {
+  "netIncome": {
+   "value": 0.49,
+   "basis": "net earnings for year = balance carried to surplus $489,861.59 (no common/pref dividend deducted in 1914)",
+   "source": "1914:p7",
+   "method": "visual"
+  }
+ },
+ "2014": {
+  "epsDiluted": {
+   "value": 11.9,
+   "source": "2016:p86",
+   "method": "visual"
+  },
+  "epsBasic": {
+   "value": 11.97,
+   "source": "2016:p86",
+   "method": "visual"
+  },
+  "sharesOutstandingM": {
+   "value": 1010.0,
+   "basis": "weighted-average diluted",
+   "source": "2016:p86",
+   "method": "visual"
+  },
+  "capitalExpenditure": {
+   "value": 3740.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "operatingCashFlow": {
+   "value": 16868.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "freeCashFlow": {
+   "value": 12372.0,
+   "source": "md&a-stated",
+   "method": "text-read"
+  }
+ },
+ "2015": {
+  "epsDiluted": {
+   "value": 13.42,
+   "source": "2016:p86",
+   "method": "visual"
+  },
+  "epsBasic": {
+   "value": 13.48,
+   "source": "2016:p86",
+   "method": "visual"
+  },
+  "sharesOutstandingM": {
+   "value": 982.7,
+   "basis": "weighted-average diluted",
+   "source": "2016:p86",
+   "method": "visual"
+  },
+  "capitalExpenditure": {
+   "value": 3579.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "incomeTaxes": {
+   "value": 2581.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "pretaxIncome": {
+   "value": 15945.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "operatingCashFlow": {
+   "value": 17008.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "freeCashFlow": {
+   "value": 13075.0,
+   "source": "md&a-stated",
+   "method": "text-read"
+  }
+ },
+ "2016": {
+  "epsDiluted": {
+   "value": 12.38,
+   "source": "2018:p71",
+   "method": "visual"
+  },
+  "epsBasic": {
+   "value": 12.43,
+   "source": "2018:p71",
+   "method": "visual"
+  },
+  "sharesOutstandingM": {
+   "value": 958.71,
+   "basis": "weighted-average diluted",
+   "source": "2018:p71",
+   "method": "visual"
+  },
+  "capitalExpenditure": {
+   "value": 3567.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "incomeTaxes": {
+   "value": 449.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "pretaxIncome": {
+   "value": 12330.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "operatingCashFlow": {
+   "value": 16958.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "freeCashFlow": {
+   "value": 11574.0,
+   "source": "md&a-stated",
+   "method": "text-read"
+  }
+ },
+ "2017": {
+  "epsDiluted": {
+   "value": 6.14,
+   "source": "2018:p71",
+   "method": "visual"
+  },
+  "epsBasic": {
+   "value": 6.17,
+   "source": "2018:p71",
+   "method": "visual"
+  },
+  "sharesOutstandingM": {
+   "value": 937.39,
+   "basis": "weighted-average diluted",
+   "source": "2018:p71",
+   "method": "visual"
+  },
+  "incomeTaxes": {
+   "value": 5642.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "pretaxIncome": {
+   "value": 11400.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "freeCashFlow": {
+   "value": 12992.0,
+   "source": "md&a-stated",
+   "method": "text-read"
+  }
+ },
+ "2018": {
+  "epsDiluted": {
+   "value": 9.52,
+   "source": "2018:p71",
+   "method": "visual"
+  },
+  "epsBasic": {
+   "value": 9.57,
+   "source": "2018:p71",
+   "method": "visual"
+  },
+  "sharesOutstandingM": {
+   "value": 916.32,
+   "basis": "weighted-average diluted",
+   "source": "2018:p71",
+   "method": "visual"
+  },
+  "incomeTaxes": {
+   "value": 2619.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "pretaxIncome": {
+   "value": 11342.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "freeCashFlow": {
+   "value": 11876.0,
+   "source": "md&a-stated",
+   "method": "text-read"
+  }
+ },
+ "2001": {
+  "capitalExpenditure": {
+   "value": 5660.0,
+   "source": "cashflow-stmt-gross-ppe",
+   "method": "text-read"
+  },
+  "incomeTaxes": {
+   "value": 3230.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "pretaxIncome": {
+   "value": 10953.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  }
+ },
+ "2000": {
+  "capitalExpenditure": {
+   "value": 5616.0,
+   "source": "cashflow-stmt-gross-ppe",
+   "method": "text-read"
+  },
+  "incomeTaxes": {
+   "value": 3441.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "pretaxIncome": {
+   "value": 11534.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  }
+ },
+ "2003": {
+  "capitalExpenditure": {
+   "value": 4393.0,
+   "source": "cashflow-stmt-gross-ppe",
+   "method": "text-read"
+  },
+  "incomeTaxes": {
+   "value": 3261.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "pretaxIncome": {
+   "value": 10874.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "operatingCashFlow": {
+   "value": 14569.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "freeCashFlow": {
+   "value": 8700.0,
+   "source": "2007-report-5yr-roadmap-table",
+   "method": "visual-table"
+  }
+ },
+ "2002": {
+  "capitalExpenditure": {
+   "value": 4753.0,
+   "source": "cashflow-stmt-gross-ppe",
+   "method": "text-read"
+  },
+  "incomeTaxes": {
+   "value": 2190.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  }
+ },
+ "2004": {
+  "capitalExpenditure": {
+   "value": 4368.0,
+   "source": "cashflow-stmt-gross-ppe",
+   "method": "text-read"
+  },
+  "incomeTaxes": {
+   "value": 3580.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "pretaxIncome": {
+   "value": 12028.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "operatingCashFlow": {
+   "value": 15406.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "freeCashFlow": {
+   "value": 9100.0,
+   "source": "2007-report-5yr-roadmap-table",
+   "method": "visual-table"
+  },
+  "rdExpense": {
+   "value": 5874,
+   "source": "2005-report-mdna-rde-table",
+   "method": "md-table"
+  }
+ },
+ "2008": {
+  "capitalExpenditure": {
+   "value": 4171.0,
+   "source": "cashflow-stmt-gross-ppe",
+   "method": "text-read"
+  },
+  "incomeTaxes": {
+   "value": 4381.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "pretaxIncome": {
+   "value": 16715.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "freeCashFlow": {
+   "value": 14300.0,
+   "source": "md&a-prose-stated",
+   "method": "text-read"
+  }
+ },
+ "2007": {
+  "capitalExpenditure": {
+   "value": 4630.0,
+   "source": "cashflow-stmt-gross-ppe",
+   "method": "text-read"
+  },
+  "incomeTaxes": {
+   "value": 4071.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "pretaxIncome": {
+   "value": 14489.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "freeCashFlow": {
+   "value": 12400.0,
+   "source": "2007-report-5yr-roadmap-table",
+   "method": "visual-table"
+  }
+ },
+ "2006": {
+  "incomeTaxes": {
+   "value": 3901.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "capitalExpenditure": {
+   "value": 4362.0,
+   "source": "cashflow-stmt-gross-ppe",
+   "method": "text-read"
+  },
+  "freeCashFlow": {
+   "value": 10500.0,
+   "source": "2007-report-5yr-roadmap-table",
+   "method": "visual-table"
+  },
+  "operatingCashFlow": {
+   "value": 15019.0,
+   "source": "2006-report-cashflow-stmt",
+   "method": "text-read"
+  }
+ },
+ "2009": {
+  "incomeTaxes": {
+   "value": 4713.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "pretaxIncome": {
+   "value": 18138.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "freeCashFlow": {
+   "value": 15100.0,
+   "source": "md&a-prose-stated",
+   "method": "text-read"
+  }
+ },
+ "2010": {
+  "incomeTaxes": {
+   "value": 4890.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "pretaxIncome": {
+   "value": 19723.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "freeCashFlow": {
+   "value": 16300.0,
+   "source": "md&a-prose-stated",
+   "method": "text-read"
+  }
+ },
+ "2011": {
+  "incomeTaxes": {
+   "value": 5148.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "pretaxIncome": {
+   "value": 21003.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "freeCashFlow": {
+   "value": 16604.0,
+   "source": "md&a-stated",
+   "method": "text-read"
+  }
+ },
+ "2012": {
+  "incomeTaxes": {
+   "value": 5298.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "pretaxIncome": {
+   "value": 21902.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "freeCashFlow": {
+   "value": 18200.0,
+   "source": "md&a-stated",
+   "method": "text-read"
+  }
+ },
+ "2013": {
+  "incomeTaxes": {
+   "value": 3041.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "pretaxIncome": {
+   "value": 19524.0,
+   "source": "md-mdna",
+   "method": "md-table"
+  },
+  "freeCashFlow": {
+   "value": 15021.0,
+   "source": "md&a-stated",
+   "method": "text-read"
+  }
+ },
+ "2005": {
+  "freeCashFlow": {
+   "value": 9600.0,
+   "source": "2007-report-5yr-roadmap-table",
+   "method": "visual-table"
+  },
+  "operatingCashFlow": {
+   "value": 14914.0,
+   "source": "2006-report-cashflow-stmt",
+   "method": "text-read"
+  },
+  "capitalExpenditure": {
+   "value": 3842.0,
+   "source": "cashflow-stmt-gross-ppe",
+   "method": "text-read"
+  },
+  "rdExpense": {
+   "value": 5842,
+   "source": "2005-report-mdna-rde-table",
+   "method": "md-table"
+  }
+ }
+}

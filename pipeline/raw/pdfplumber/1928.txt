@@ -1,0 +1,238 @@
+
+
+===== PAGE 1 =====
+f.
+INTERNATIONAL
+BUSINESS MACHINES
+CORPORATION
+SEVENTEENTH ANNUAL REPORT
+FOR THE YEAR E N D ED
+DECEMBER THIRTY-FIRST
+1928
+
+===== PAGE 2 =====
+' . to
+-...v:' J;. , . . • - -v.
+-
+f
+- mm
+•
+J"
+< to - . : .
+
+===== PAGE 3 =====
+Seventeenth Annual Report
+OF THE
+International
+Business Machines
+Corporation
+m
+For the year ended
+December Thirty-First
+1928
+
+===== PAGE 4 =====
+International Business Machines Corporation
+BOARD OF DIRECTORS
+Charles L. Andrus Oscar L. Gubelman
+Willis H. Booth Samuel M. Hastings
+Drury W. Cooper John W. Herbert
+Edward Cornell Erskine Hewitt
+Sherman M. Fairchild Walter D. Jones
+Charles R. Flint Charles Smith
+A. Ward Ford Christopher D. Smithers
+Thomas J. Watson
+EXECUTIVE AND FINANCE COMMITTEE
+Willis H. Booth Oscar L. Gubelman
+Edward Cornell John W. Herbert
+Charles R. Flint Christopher D. Smithers
+Thomas J. Watson
+OFFICERS
+THOMAS J. WATSON President and General Manager
+0. E. BRAITMAYER Vice-President
+CLEMENT EHRET Vice-President
+WALTER D. JONES Treasurer
+JOHN G. PHILLIPS Secretary
+Transfer Agent Trustee and Registrar
+EMPIRE TRUST COMPANY GUARANTY TRUST COMPANY
+New York of New York
+
+===== PAGE 5 =====
+To THE STOCKHOLDERS:
+Your Directors submit herewith Income and Surplus Account for the
+year 1928, together with Consolidated Balance Sheet as of December
+31st, 1928, with the Auditors' certificate attached.
+The Net Income for the year, including Foreign Subsidiaries, before
+Federal Taxes, but after providing for full Depreciation ($1,268,158.38),
+Development and Patent Expenses ($740,215.95), and Interest ($317,-
+658.38), was $5,938,765.66, compared with $4,935,318.83 for the year
+1927, being an increase of $1,003,446.83.
+After deducting Federal Taxes from Net Income, the earnings per share
+were $8.83 on the 607,576 shares outstanding December 31, 1928 which
+included the 5% stock dividend paid December 28, 1928; (on the basis of
+578,643 shares outstanding December 31, 1927, the earnings per share for
+1928 amount to $9.27, as compared with $7.66 per share in 1927, and
+$6.51 per share in 1926).
+Net Current Assets totalled $9,570,928.65, compared with $10,437,-
+155.82 at the close of 1927. Reduction of Net Current Assets this year as
+compared with the net total of last year was due to the deposit of $1,000,-
+000 in Bond Sinking Fund for the retirement of bonds January 1,1929, as
+mentioned in the succeeding paragraph.
+During the year the Company retired and cancelled bonds of a par
+value of $154,500. In addition, there was deposited with the Sinking
+Fund Trustees $1,039,683.61 for the redemption of additional bonds
+called for payment January 1,1929.
+Your Directors have authorized a further retirement out of earnings of
+$1,000,000 par value of bonds on July 1,1929.
+In December, 1928, a stock dividend of 5% was paid, amounting to
+28,933 shares. The result of this issue was to increase the Capital Stock
+outstanding at the close of the year to 607,576 shares. The dividend
+rate of $1.25 quarterly was maintained on the increased shares.
+
+===== PAGE 6 =====
+International Business Machines Corporation
+and
+Domestic Subsidiary Companies
+C O N S O L I D A T ED B A L A N CE S H E ET AS OF D E C E M B ER 3 1, 1 9 28
+A S S E TS L I A B I L I T I ES
+CURRENT: CURRENT:
+Cash .: $2,388,111-19
+Call and Time Loans secured by Accounts Payable, Accrued Items, etc. $ 1,125,987.61
+collateral 1,200,000.00
+Dividend Payable January 10, 1929 758,193.75
+United States Treasury Certificates 1,585,000.00 $5,173,111.19
+Notes Receivable 7,006.56 Accrued Interest on Bonds 155,460.00
+Accounts Receivable 4,084,318.40 Federal Taxes (Estimated) .... 575,000.00
+LESS: Reserve for Doubtful Ac-
+counts 339.680.00 3,744,638.40
+Inventories (At cost or lower).... 3,260,813.86 $2,614,641.36
+$12,185,570.01
+SINKING FUND:
+Cash in hands of Trustees for Re-
+BONDED INDEBTEDNESS:
+demption of bonds called for
+payment 1,039,683.61 Computing-Tabulating-Recording C o.
+Collateral Trust, Sinking Fund
+DEFERRED:
+Bonds, due 1941 7,000,000.00
+Commissions advanced salesmen
+on unfilled orders, etc., less re- LESS: Redeemed and Cancelled $1,818,000.00
+serve 209,792.61 Held in Treasury 40,000.00 1,858,000.00
+Prepaid Insurance, Taxes, etc 187,009.68
+396,802.29 5,142,000.00
+INVESTMENTS:
+Securities of and advances to other
+companies including Foreign
+Subsidiaries, (at cost) 2,856,676,41 RESERVE FOR CONTINGENCIES 969,646.61
+ADD: Proportion undistributed sur-
+plus and profit of Foreign Sub-
+sidiaries 926,968.34
+3,783,644.75 CAPITAL STOCK AND SURPLUS OF
+SUBSIDIARY COMPANIES, not owned 244,012.47
+PLANTS AND EQUIPMENT:
+Land and Buildings 2,025,223.73
+LESS: Reserve for Depreciation. 523,352.82 1,501,870.91
+Plant Equipment and Rental Ma- DECLARED CAPITAL ($19,574,171)
+chines 15,470,268.39
+LESS: Reserve for Depreciation. 8,896,038.40 6,574,229.99 AND SURPLUS represented by
+8,076,100.90 607,576 shares of capital stock
+14,871,245.13 without par value 30,271,491.82
+1,111,254.43 13,759,990.70
+$39,241,792.26
+$39,241,792.26
+
+===== PAGE 7 =====
+International Business Machines Corporation
+and Subsidiary Companies
+SUMMARY OF CONSOLIDATED INCOME, SURPLUS AND CAPITAL
+For the Year Ended December 31, 1928
+NET PROFIT OF SUBSIDIARY COMPANIES, including
+Foreign, after writing down inventories of raw
+materials to cost or market, whichever was lower,
+deducting maintenance and repairs of plants and
+equipment, provision for doubtful accounts, the
+proportion of net profit applicable to unacquired
+sharss, and expenses of International Business
+Machines Corporation $8,264,798.37
+Less:
+Depreciation of plants, equipment and rental
+machines $1,268,158.38
+Development and patent expenses 740,215.95
+Interest on bonded indetedness and borrowed
+money 317,658.38
+2,326,032.71
+NET INCOME FOR YEAR 1928 $5,938,765.66
+Deduct: Dividends as follows:
+No. 52—$1.25 Paid April 10, 1928 $ 723,157.50
+No. 53—$1.25 Paid July 10, 1928 723,157.50
+No. 54—$1.25 Paid Oct. 10, 1928 723,157.50
+*No. 55—$1.25 Due Jan. 10, 1929 758,193.75
+2,927,666.25
+BALANCE BEFORE DEDUCTIONS $3,011,099.41
+Deductions:
+Federal Income Taxes 1928 (Estimated) $ 575,000.00
+Amortization of Patents 71,236.54
+646,236.54
+SURPLUS FOR YEAR 1928 $2,364,862.87
+CAPITAL AND SURPLUS JANUARY 1, 1928 27,906,628.95
+DECLARED CAPITAL ($19,574,171) AND SURPLUS
+DECEMBER 31,1928, represented by 607,576 shares
+of capital stock without par value $30,271,491.82
+• Includes $35,036.25, dividend on 28,933 shares,
+stock dividend issued December 28, 1928.
+
+===== PAGE 8 =====
+NEW YORK CHICAGO
+STANDARD OIL BUILDING NEW YORK LIFE BUILDING
+26 BROADWAY 39 SOUTH LASALLE ST.
+To the Stockholders of the
+INTERNATIONAL BUSINESS MACHINES CORPORATION:
+We have made a general audit of the books and accounts of the
+INTERNATIONAI. BUSINESS MACHINES CORPORATION and its Subsidiary
+Companies and have reviewed reports from the Foreign Subsidiaries,
+for the year ending December 31, 1928.
+We certify that the Consolidated Balance Sheet and Related Summary
+of Consolidated Income, Surplus and Capital presented herewith, are
+true Exhibits of the accounts and that, in our opinion, they correctly set
+forth the financial condition of the INTERNATIONAL BUSINESS MACHINES
+CORPOEATION AND SUBSIDIARY COMPANIES as of December 31, 1928
+and the results from operations for the period stated.
+Very truly yours,
+THE AUDIT COMPANY OF NEW YORK
+ERNEST WM. BELL, H. I. LUNDQUIST,
+Vice-President Secretary
+
+===== PAGE 9 =====
+My
+WFSmW^t
+^mmSm
+f^mAm
+iMir''
+•J .i
+P'j
+lii
+Imi
+
+===== PAGE 10 =====
+- -• •••^^rfii
+T i?:
+i v --
+• • •• • .'-. v-*'-'•^V-'C.-r- , A ' X
+^ . -
+• --A /
+i'
+r
+. '
+' « "TS ^ " a.
+•
+• c
+'•^'•U'
+• . i-f- *
+^ , -A
+J"
+"
+"v -
+V
+'
+
+===== PAGE 11 =====

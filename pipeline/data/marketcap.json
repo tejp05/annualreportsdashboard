@@ -1,0 +1,42 @@
+{
+ "_comment": "IBM year-end market capitalization in US$ MILLIONS. 2001-2016: IBM's own disclosed 'Market capitalization' line from each report's Financial Highlights / Selected Financial Data table (primary source, cross-validated). 1984-2000 and 2017-2025: external market data sourced from Yahoo Finance / stockanalysis.com (Dec 31 year-end values) and companiesmarketcap.com / wallstreetnumbers.com (1984-1995). Not from IBM filings -- clearly labelled as external in the site.",
+ "currency": "USD_millions",
+ "sources": {
+  "2001-2016": "IBM Annual Report 'Financial Highlights' table, 'Market capitalization' line -- extracted directly from the filing text (pipeline/raw/pymupdf4llm), cross-validated against each report's own prior-year column",
+  "2017-2025": "Yahoo Finance / stockanalysis.com Dec 31 year-end closing market cap",
+  "1996-2000": "companiesmarketcap.com Dec 31 year-end market cap",
+  "1984-1995": "wallstreetnumbers.com / companiesmarketcap.com year-end market cap"
+ },
+ "years": {
+  "1984": 72000,
+  "1985": 91000,
+  "1986": 70000,
+  "1987": 66000,
+  "1988": 69000,
+  "1989": 52000,
+  "1990": 62000,
+  "1991": 49000,
+  "1992": 28000,
+  "1993": 31000,
+  "1994": 41000,
+  "1995": 48000,
+  "1996": 76950,
+  "1997": 100240,
+  "1998": 168870,
+  "1999": 192470,
+  "2000": 148140,
+  "2001": 208438, "2002": 133483, "2003": 157047, "2004": 162223, "2005": 129381,
+  "2006": 146355, "2007": 149744, "2008": 112698, "2009": 170869, "2010": 180220,
+  "2011": 213886, "2012": 214032, "2013": 197772, "2014": 158920, "2015": 133507,
+  "2016": 157832,
+  "2017": 142030,
+  "2018": 103300,
+  "2019": 118710,
+  "2020": 112170,
+  "2021": 119870,
+  "2022": 127380,
+  "2023": 149340,
+  "2024": 203260,
+  "2025": 276880
+ }
+}

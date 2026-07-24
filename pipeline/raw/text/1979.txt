@@ -1,0 +1,3780 @@
+
+
+===== PAGE 1 =====
+
+
+===== PAGE 2 =====
+Cover chart, photographed from screen of new IBM 
+]2yp 
+color display station, shows effect of technical innovation in 
+lowering the price of IBM data processing while 
+raising product speed a77d capacity - resulting in greater 
+productivity for users. 
+Red, orange and yellow lines show ratios by which 
+purchase prices have declined. The yellow line, for 
+example, 
+shows that the per-character price of main memory 
+in the new IBM 
+computer is a small fraction of that for 
+another intermediate-size 
+computer, the IBM 
+Systeml^yo 
+Model / j f , introduced in ipyi. 
+Green, turquoise and blue lines show increases in IBM 
+computer processing speed, memory capacity and disk 
+read!write 
+speed. 
+The chart is plotted on a ratio scale to show rates of change 
+over the years. The rates shown are for some of IBM's 
+most widely accepted medium-scale computers and disk stor-
+age units. However, 
+the rates typify the company's 
+overall product 
+line. 
+Data for the chart may be obtained from the 
+IBM Stockholder Relations Department, 
+yiy Fifth 
+Avenue, 
+New York, N.Y. 
+10022. 
+
+
+===== PAGE 3 =====
+Annual Report for the year ended 
+December 31,1979 
+International Business Machines Corporation 
+Contents: 
+2. Highlights of the Year 
+3 Letter to Stockholders: 
+Management comments on the year's financial 
+results, business conditions affecting IBM and signif-
+icant developments within the company. 
+7 Productivity of IBM customers and company 
+operations is enhanced by innovative 
+IBM products and techniques that reduce costs 
+while raising efficiency. 
+19 Stockholder Information 
+IBM DATA PROCESSING 
+zo Report of Management 
+Report of Independent Accountants 
+II Earnings 
+22 Financial Position 
+23 Changes in Financial Position 
+24 Stockholders' Equity 
+25 Notes to Financial Statements 
+31 Five-Year Summary of Operations 
+32 Supplemental Financial Information 
+36 IBM Organization 
+^ 7 Progress Report on other 1979 developments 
+involving IBM employees and business programs 
+40 Directors and Officers 
+y 
+. 
+A - - -
+Bta 
+r 
+.W.-.iP" 
+SPEED/CAPACITY 
+m' 
+•• • 
+31 
+. - V 
+a 
+» ite" 
+• 
+PROCESSING 
+fCHORY 
+DISK 
+
+
+===== PAGE 4 =====
+Highlights of the year: 
+( D o l l a r s in t h o u s a n d s 
+1 9 7 9 
+e x c e p t per share a m o u n t s ) 
+' 9 7 ° 
+At end of year: 
+Gross income from sales, rentals and services 
+Earnings before income taxes 
+U.S. Federal and non-U.S. income taxes 
+Net earnings 
+Per sharet 
+Cash dividends paid 
+Persharet 
+Investment in plant, rental machines and 
+other property 
+tAdjusted for ] 979 stock split. 
+$ 2 ^ 8 6 ^ 7 7 6 
+$ 
+5,553,^59 
+$ 
+z , 5 4 2 , 0 0 0 
+$ 
+3 , 0 1 1 , 2 5 9 
+$ 5.16 
+$ 
+z , 0 0 7 , 5 7 2 
+$ 3 . 4 4 
+$ 
+5 , 9 9 0 , 9 8 Z 
+$ 2 1 , 0 7 6 , 0 8 9 
+$ 
+5 , 7 9 7 , 5 6 8 
+$ 
+2 , 6 8 7 , 0 0 0 
+$ 
+3 , 1 1 0 , 5 6 8 
+$ 5.32 
+$ 
+1 , 6 8 4 , 6 1 2 
+$ 2.88 
+$ 
+4 , 0 4 5 , 5 3 9 
+Total assets 
+Net investment in plant, rental machines and 
+other property 
+Long-term debt 
+Working capital 
+Number of employees 
+Number of stockholders 
+S z 4 , 5 ^ 9 , 9 7 4 
+$ 12,1 93,019 
+$ 
+1,589,358 
+$ 
+4 , 4 0 5 , 8 7 7 
+337,1^9 
+6 9 6 , 9 1 8 
+S 2 0 , 7 7 1 , 3 7 4 
+$ 
+9 , 3 0 2 , 2 2 8 
+$ 
+^85,534 
+$ 
+4 , 5 1 0 , 7 8 9 
+3 ^ 5 , 5 1 7 
+5 8 0 , 5 7 2 
+IBM's Operations: 
+IBM's operations, with very minor exceptions, are in the field of information-handling 
+systems, equipment 
+and services to solve the increasingly complex problems of business, government, 
+science, space exploration, 
+defense, education, medicine and many other areas of human activity. I Bhi's products include data processing 
+machines and systems, information processors, office systems, electric and electronic typewriters, 
+copiers, 
+dictation equipment, educational and testing materials, and related supplies and services. Most products are 
+both leased a.nd sold through IBM's worldwide marketing 
+organizations. 
+
+
+===== PAGE 5 =====
+John R. Opel, President / Frank T. Gary, Chairman of the Board 
+To the Stockholders: 
+The past year was a challenging one for IBM, particularly so because of high inflation and 
+changing market conditions. At the same time, 1979 was a very productive year for the 
+company. We had substantial increases in our order rates and shipments, as well as a higher 
+year-end backlog. To meet demand, we continued a rapid expansion of our facilities. 
+Above all, 1979 was a year in which we made a number of investments for the future. 
+We increased our spending for research and development, and we invested heavily in 
+new plants, equipment and rental machines. 
+Worldwide net earnings for the year ended December 31,1979, amounted to $3,011 
+milhon, compared with $3,111 million for the same period last year. The net earnings equaled 
+$5.16 per share on 583.4 million shares, the average number of shares outstanding during 
+the period after adjustment for the four-for-one stock split effected May 10,1979. This com-
+pared with $5.32 per share on 584.4 million shares, the average number outstanding in 
+1978, adjusted for the stock spHt. 
+Consolidated gross income amounted to $22,863 miUion, compared with $21,076 
+million last year. 
+Net earnings for the quarter ended December 31,1979, amounted to $1,008 million, 
+or $1.73 per share. This compared with $1,015 million, or $1.74 per share, for the same period 
+last year, after adjusting the per-share amount for the stock spHt. Gross income amounted 
+to $6,829 milhon, compared with $6,438 million for the corresponding 1978 period. 
+
+
+===== PAGE 6 =====
+Operations outside the United States for the year 1979, included in consolidated results, 
+showed net earnings of $1,427 million, compared with $1,560 million in 1978. Gross income 
+from those operations was $12,244 million, compared with $11,040 million last year. 
+For the year ended December 31,1979, the company experienced exchange losses 
+of $52 million, compared with gains of $113 milHon last year. Earnings for the fourth quarter 
+include exchange losses of $15 miUion, compared with gains of $14 million in the final 
+quarter of 1978. These gains and losses are principally unrealized and primarily result from 
+the translation of non-U. S. assets and liabilities recorded in local currencies. 
+Shipments of data processing equipment were at a high level throughout 1979, with 
+volumes significantly ahead of 1978. However, for much of the year, there was an increase in 
+the proportion of customers choosing to lease rather than purchase such equipment. Because 
+of this, purchase revenue showed only small increases for both the full year and the fourth 
+quarter, compared to the corresponding 1978 periods. Net earnings for the fourth quarter and 
+for the year 1979 showed modest decreases from the comparable periods of 1978. Among 
+the factors contributing to these decreases were the shift toward leasing, the effects of currency 
+fluctuations, and the growth in costs and expenses resulting from inflation and from the 
+company's ongoing buildup of resources, hiflationary pressures were higher than anticipated 
+in 1979 and are not expected to subside to any great degree in the near future. 
+Consolidated gross income from rentals and services for the year 1979 increased 8.7%. 
+Incoming orders were well above the 1978 volumes, resulting in an increase in the 
+year-end backlog despite the high level of shipments in 1979. 
+Product 
+Innovation 
+In 1979, IBM introduced a variety of new products to help customers become more pro-
+ductive. The IBM 4341 and IBM 4331 processors, delivered around the world during the 
+year, offer important price/performance advantages to users of intermediate-size computers. 
+New models of the IBM 3033 processors give customers added flexibility in meeting large-
+scale processing needs. 
+New office system products-the IBM 6670 information distributor and the IBM 5520 
+administrative system-improve the speed and efficiency of word processing and elec-
+tronic document distribution. The company's most advanced typewriter, the Electronic 
+Typewriter 75, enables users to automate many routine typing tasks. 
+A variety of new computer terminal products, including a new color display, provide 
+versatile, economical ways to meet the needs of many small and large users. New display, 
+printing and data entry products permit direct computer processing in the Japanese and 
+Chinese written languages. 
+Customer Support 
+Innovations 
+IBM has also introduced marketing and service programs that improve productivity for 
+the company and its customers. 
+In addition to our traditional approach of having our sales people call on customers, 
+we are using direct mail and radio advertising to invite customers and prospects to IBM 
+demonstration centers, where they can learn about small computers and buy products off 
+the floor. 
+We are also using telephone selling for some of our products, and overseas we are 
+testing direct sales of typewriters and supplies through IBM retail stores. 
+Eor computer customers who have programming questions or problems, we have estab-
+lished toll-free telephone centers that operate around the clock, seven days a week. 
+To speed the assignment of our customer engineers who service products at customer sites, 
+we are instalHng more than 100 computer dispatch systems in the U.S. and overseas. 
+
+
+===== PAGE 7 =====
+Expansion to Meet Demand 
+To keep pace with the record demand for IBM products, we are rapidly expanding our 
+facilities. More than i i million sq. ft. of plant, laboratory and office space were under 
+construction in the U.S. and abroad at the end of 1979. An additional 4 million sq. ft. were 
+completed during the year. Our manufacturing plant and laboratory space in use world-
+wide has now been expanded by about 17% over the past two years. 
+Our capital expenditures in 1979 amounted to almost $6 billion-about 50% higher than 
+the $4 biUion in 1978. The 1979 total included $4.2 billion for rental machines and $1.8 billion 
+for expansion of facilities. 
+Financing IBM Growth 
+The company's requirement for significant capital investment is expected to 
+continue for the next several years. To help fund this growth, IBM in October, 1979, raised 
+$i biUion through a public offering of notes and debentures, followed in December by a 
+$300 miUion placement of notes with the Saudi Arabian Monetary Agency. Proceeds of these 
+financings will be used for construction of manufacturing facilities and for rental equip-
+ment to meet customer demand. 
+In addition, the company has unused lines of credit of $1,565 million established with 
+a number of U.S. banks. Certain non-U.S. subsidiaries also have available unused 
+lines of credit totaling approximately $800 million. 
+A Promising 
+Future 
+The substantial growth of IBM in 1979-in new product introduction, increased 
+product demand and physical expansion-is a tribute to the creativity and hard work of IBM 
+people in the many countries where we operate. We are deeply grateful for their efforts. 
+We believe that the company is now well positioned for the 1980s. We have the strongest 
+product lines in our history. We think that the demand for IBM products in all parts of the 
+world will continue at high levels. We have the ability to finance our growth on a broad scale. 
+Most important are our talented and dedicated people, who give us confidence that 
+the IBM company will take full advantage of the large potential that is opening up before us. 
+T. J. Watson, Jr., Now U. S. Ambassador 
+In 1979, Thomas J.Watson, Jr., resigned from the IBM Board of Directors to assume 
+the post of United States Ambassador to the Soviet Union, It is difficult to express in full meas-
+ure what Tom Watson has meant to the IBM company as its chief executive officer for 
+15 years and as a member of the Board for over 32 years. We shall surely miss his wise counsel. 
+We know that IBM employees and stockholders in all parts of the world wish him every 
+success in serving his country in a vital mission. 
+January 29,1980 
+by order of the Board of Directors 
+Frank T. Gary 
+Chairman of the Board 
+John R. Opel 
+President 
+
+
+===== PAGE 8 =====
+% 
+h- 
+i f 
+^^ lux" ^ 
+V l l 
+f^**Jl. 
+• • 
+••• • 
+F 
+' 
+F 
+if • • •• • 
+•;. 
+-
+^ r l j ^ f 
+'JUi' 
+U\\ 
+, I 
+' 
+^ 
+s ' 
+> 
+f ; ,. r 
+Wiring pattern of one of 
+ceramic layers in 2-inch-
+square logic module used in the new IBM 4341 processor. 
+Cost and space savings remit from packaging 
+feet of wiring and up to 6,300 logic circuits into each 
+small module. 
+6 
+IHM ip7p Annual Report 
+
+
+===== PAGE 9 =====
+Raising 
+Productivity... 
+Today, much of the world is struggUng with rising prices, declining rates of 
+production and unsettled economies. The problems are complex, and solutions 
+to them are hard to come by. Clearly, however, one solution is to increase 
+productivity-to get more done for less-and in that way to do a better job of 
+meeting the needs of society. 
+Finding more productive ways to do things is what the information industry is all 
+about. Computers and other business machines are the most effective productivity 
+engines of our time. Year after year, technical innovation makes them faster, 
+more reliable and easier to use. And the price keeps going down. Despite years of 
+inflation, the cost of information processing per computation is now only a 
+small fraction of what it was a decade ago. 
+For the U.S. and world economies, this is highly significant. The rising productivity 
+of information processing translates directly into greater productivity for users: 
+Manufacturers can increase production yields while 
+improving quality. 
+Store owners can control complex inventories and avoid 
+both wasteful over-supply and costly out-of-stock conditions. 
+Hospitals can monitor energy use and trim fuel bills. 
+Insurance companies can serve many customers quickly 
+and economically. 
+Farmers can grow and market their crops more efficiently. 
+In almost every area of business., government and science., 
+a similar productive pattern may be found. 
+And each year, as the price of information drops still more, many new users find 
+that they, too, can get more useful work done for less. 
+Pictured on the following pages are some of the productive ways that IBM 
+customers, as well as IBM's own plants, laboratories and offices, are putting 
+information technology to work in all parts of the world. 
+7 HiM ipyp Annual Report 
+
+
+===== PAGE 10 =====
+More Productive Users... 
+A Southwest cotton cooperative uses an IBM com-
+puter network withdisplay 
+terminals to make up-
+to-the-minute market information 
+available 
+to 24,000 cotton farmers in Texas and Oklahoma. 
+For a medical laboratory with 10 branches in Mexico City, 
+an IBM computer makes possible the processing of an 
+average of 4,000 tests given to 1,600 patients daily, with results 
+verified and printed out for patients within 24 hours. 
+8 
+IBM ipyp Annual Report 
+c) 
+IBM ipyp Annual Report 
+
+
+===== PAGE 11 =====
+More Productive Users 
+Personnel of a large California bank can load cash 
+or traveler's checks into cartridges of the new IBM self-
+service teller terminal in advance of evening and weekend 
+use, reducing off-hours clerical afjd accounting costs. 
+A bus company in Hong Kong that transports an 
+average of 2 y2 million passengers a day keeps 1,800 buses 
+rolling with the help of an IBM computer that closely 
+monitors an inventory of 6 million spare parts. 
+Two IBM office systems in the town hall of 
+Casalpusterlengo, 
+Italy, help serve local citizens through 
+more efficient processing of licenses, certificates and 
+other information 7'equired to meet many business and 
+personal needs. 
+A large steel mill in Brazil uses a teleprocessing network 
+and three IBM computers to monitor 
+production, 
+helping make possible an output of more than j 
+million 
+tons of steel a year in over 1,000 different grades. 
+
+
+===== PAGE 12 =====
+More Productive New Products... 
+New IBM ^^JI processor, now being delivered in 
+volimie from IBM plants in the U.S., West Germany 
+and Japan, offers improved performance and relia-
+bility through high-density packaging of memory and 
+logic circuits. 
+New IBM computers and office products offer 
+users improved productivity in many areas of their 
+operations. 
+More Processing per Dollar 
+Shipments of the new intermediate-size 
+IBM 4 3 0 0 processors began in vokune m J979. 
+Featuring the densest packaging of logic and 
+memory circuits yet introduced by IBM, the 
+processors provide both first-time and expe-
+rienced users with significant price/performance 
+advantages. For example, an IBM 4341 with 
+2 million characters of main memory has a lower 
+purchase price and an instruction speed consider-
+ably faster than that of earlier intermediate IBM 
+systems with smaller memory capacity. 
+Memory microminiaturization in the proces-
+sors permits a single inch-square module to 
+store 512,000 bits of information. Such compact 
+circuitry makes the processors easier to service 
+and greatly reduces power, cooling and space re-
+c]uirements.The IBM 4 3 3 r s main memory of 
+I million characters requires less electric power 
+than a 60-watt light bulb. 
+More Storage for Less 
+A new disk unit permits users of the IBM 
+4 3 0 0 processors to attach more than twice the 
+storage capacity available on previous inter-
+mediate IBM systems, at substantially lower cost 
+per character. A single new IBM 3 370 unit 
+can hold more than ¥2 billion characters of 
+information- more than twice the total in the 
+Encyclopedia Britannica's 30 volumes. 
+Big System 'Building Blocks' 
+New models of the large-scale IBM 3033 
+processor offer users a flexible approach to their 
+processing needs. IBM 3033 Group N processors, 
+with either 4 or 8 million characters of memory, 
+can provide 1.3 to 1.8 times the internal per-
+forniance of the IBM ^0^2 processor. The new 
+processors can be expanded in a series of "building 
+block" improvements at the user's location, 
+creating more powerful versions of the IBM ^033. 
+Distributed Processing Enhanced 
+New models of the IBM 8100 information 
+system significantly increase both available main 
+memory and disk storage and also offer improved 
+price/performance. The IBM 8100 is designed 
+primarily to distribute the processing of data eco-
+nomically throughout an organization. 
+'Intelligent Terminal' System 
+Announced in January, 1980, was the IBM 
+5 280 distributed data system, featuring "intelli-
+gent" terminals that can process information 
+locally as well as communicate with a central com-
+puter. Circuitry in the terminals enables them 
+to enter, process and print information at loading 
+docks, branch offices and many other locations. 
+Greater Office Efficiency 
+The new IBM 6670 information distributor, 
+announced by the Office Products Division, 
+combines electronic communication with high-
+speed laser printing for both word processing 
+and computing applications, as well as text pro-
+cessing and copying. The IBM 6670 can be used 
+in conjunction with the IBM Office System 6 family 
+of products, IBM mag card typewriters, other 
+IBM 6670s or suitably programmed computers. 
+Combinations of these products can form 
+information networks, with documents quickly 
+transmitted by telephone. 
+Advanced Text Processing 
+Introduced by the General Systems Division 
+was the IBM 5 5 20 administrative system, which 
+combines advanced text processing with elec-
+tronic document distribution. The system is avail-
+able in four models, with a choice of two display 
+stations, two printers, a magnetic card unit and 
+expandable disk storage. The IBM 5 5 20 enables 
+office personnel to create, store, retrieve, edit and 
+electronically distribute documents that range 
+from single-page memos to multi-page manuals. 
+UiM ipyp Annual Report 
+
+
+===== PAGE 13 =====
+More Productive New Products... 
+Easier Electronic Typing 
+The IBM ElectronicTypewriter 75, the most 
+advanced typewriter yet introduced by IBM, 
+automates many repetitive and time-consuming 
+typing tasks. Designed for the average typing 
+station, it has many features not previously 
+available on IBM typew^riters. Microminiaturized 
+logic and memory circuits permit storage of 
+26 short documents as well as 99 frequently used 
+phrases, repetitive sentences or paragraphs. 
+New Color Terminals 
+A new IBM color display unit plus a new color 
+printer can enhance a wide range of computer 
+applications. The IBM 3 279 color display station 
+can present information in many forms-such 
+as bar and pie charts, line graphs and diagrams-
+in four or seven colors of excellent clarity and 
+brightness. The IBM 3287 color printer uses 
+a cartridge ribbon to provide printed copies in 
+four colors of the same information shown on 
+the display screen. 
+Such color displays can simpUfy and em-
+phasize information in many ways-for example, in 
+presenting sales or financial data, pinpointing 
+inventory shortages or clarifying many business 
+illustrations. The new products were developed at 
+IBM laboratories in Hursley, United Kingdom; 
+Endicott and Kingston, N.Y.; and Raleigh, N . C 
+Low-Cost Display 
+A new low-cost Teletype*-compatible 
+IBM display terminal can be conveniently set up 
+in many locations by a wide range of users. 
+Enhanced "human factors" characteristics of the 
+IBM 3101 include a screen that may be swiveled 
+or tilted to avoid glare from room lighting. 
+Also, the keyboard is movable and may be placed 
+at a comfortable distance and angle from the 
+screen. The terminal operates with both small and 
+large-scale IBM computers. The unit is pro-
+grammed so that the operator can correct minor 
+malfunctions without the aid of an IBM service 
+representative. If more adjustment is needed, cus-
+tomers may return basic elements of the terminal 
+to IBM repair centers. The terminal was developed 
+at the IBM laboratory in Fujisawa, Japan. 
+* T r a d e m a r k of the Teletype C o r p o r a t i o n 
+Versatile Retail Terminals 
+Two new IBM store systems can be adapted 
+by individual customers for maximum productive 
+use. Both can be linked to IBM computers. 
+The IBM 5 260 retail system is primarily for the 
+Enhanced with larger memory in ipyp, the IBM 
+Systemic 8 enables operators at as many as 40 
+display terminals and printers in different parts of an 
+enterprise to process information 
+concurrently. 
+
+
+===== PAGE 14 =====
+first-time data processing user or the retailer 
+with small outlets. Introduced by the General 
+Systems Division, the system has point-of-sale ter-
+minals that can register sales information and 
+also handle applications such as price lookup and 
+sales analysis. Users can "personalize" the system 
+by answering a series of questions about their 
+businesses via the terminal keyboard. 
+The IBM 3680 programmable store system, 
+introduced by the Data Processing Division, 
+is designed for the experienced data processing user 
+operating a chain of many retail outlets, such as 
+drug, variety and convenience stores. The system's 
+terminals can be programmed to process tax 
+computations, provide check approvals and per-
+form other tasks. 
+Processing in Japanese and Chinese 
+IBM products able to process information 
+in the Japanese and Chinese written languages now 
+ofifer greater productivity for many customers. 
+New IBM printing, display and data entry prod-
+ucts, plus extensive new programming, permit 
+direct processing of the graphic symbols, or ideo-
+graphs, of the Japanese and Chinese languages. 
+The new products can be used with many IBM 
+computers. 
+In Japan, previously, considerable manual 
+work has been required to encode the ideographs 
+into phonetic characters and, after processing, 
+to decode into ideographs. Chinese computer users 
+have lacked even a phonetic substitute and have 
+been required to process language information 
+entirely in English. 
+Dictation Flexibility 
+A new pocket-sized, lo-ounce dictation 
+unit broadens the flexibility of IBM customers in 
+meeting many dictation needs.The new IBM 
+executive recorder employs mini-cassettes that pro-
+vide 30 minutes of recording time. 
+Economical Switching System 
+Introduced for marketing in several European 
+countries was the IBM 1750 switching system 
+for handling both voice and data communications. 
+The system can connect up to 760 telephone 
+extensions. It offers an organization more than 80 
+different aids in handling telephone traffic, 
+such as indicating the number of a calling extension. 
+Developed at the IBM laboratory in LaGaude, 
+France, the IBM 1750 is a lower-cost version of the 
+larger IBM 3750 switching system introduced 
+in 1973. 
+1 
+B*^ gIlEB/ajB]2'-3-633 
+3 fS-K 
+as BIfflrB*fflBl8d3«Jlitt«4^-501 
+9 
+S 
+»SJII«;*;Wff5ISffl2339 
+12 
+„ 
+Sm-.'MS 
+,34,® w 
+AA 'ZZ"ZZl— 
+PFi 
+ff2 
+PF3 
+mmmnmBic^i 
+--pfX-
+New IBM system for processing the Japanese and Chinese 
+written languages includes a display with a special 
+keyboard of 2S4 keys for entering and displaying thou-
+sands of complex characters. 
+Among many features of the new IBM Electronic 
+Typewriter 75 are an illmninated margin scale 
+and red message lights (lower left) that simplify machine 
+use for the typist. The word ''Columns," for example, 
+signals the machine's readinessfor automatic typing of 
+tabular material. 
+
+
+===== PAGE 15 =====
+More Productive Ideas... 
+Michael Fagan, Kingston, N. Y., created IBM's 
+Software Inspection Process, which permits early 
+detection of errors in computer programs. 
+Dr. EdwardEichelberger, 
+Kingston, hJ.Y., 
+developed 
+a method of rapidly and accurately testing complex logic 
+chips used in more than 40 IBM computer products. 
+Below: Dr. Joan Mitchell, Yorktown Heights, 
+N.Y., 
+originated and helped develop a simplified 
+experimental 
+data compression technique forfast facsimile trans-
+mission over telephone lines. 
+Above: MicbaelWarner, 
+San Jose, Calif., 
+invented a 
+new disk recording head that raised the readlwrite speed 
+available in IBM disk products to 1.2 
+million 
+characters a second-almost ^0%faster than before. 
+Right: Dr. Siegfried Wiedmann, Boeblingen, West 
+Germany, created design concepts that have raised the 
+performance and reliability of very dense computer 
+circuits used in many IBM products. 
+Left: Rita Mack, Manassas, Va., managed a 
+project that applied advanced new software methods to 
+provide more efficient, 
+higher-qualityprogram-
+ming for the sonar system being developed by IBM for 
+U.S. Navy Trident 
+submarines. 
+
+
+===== PAGE 16 =====
+Left: Dr. Peter Sorokin, Yorktown Heights, 
+N.Y., 
+developed important ways to apply lasers in 
+scientific research. He invented the organic dye laser, 
+widely used to study the behavior of atoms. Recently, 
+he helped develop a new laser technique that 
+produces high-speed ''snapshots'' of chemical reactions. 
+Right: Ernest Kollar, Boulde?^ Colo., helped develop 
+ways to make paper feeding faster and more reliable in the 
+IBM Series III copier and IBM 66^0 information 
+distributor, while also lowering manufacturing costs. 
+Left: Thomas Greaves, Menlo Park, Calif., directed 
+development ofpower management 
+programmingfor 
+the IBM Seriesli computer that has produced 
+sizable energy savings for department stores, hospitals 
+and many other users. 
+Above: 
+Walter Cuby managed a complex effort to insure 
+the timely delivery 
+of advanced computer 
+checkout 
+programs to NASA's Space Shuttle operation in Houston. 
+This highly reliable programming 
+has lowered 
+NASA's 
+computer maintenance 
+costs. 
+Left: Mary Williams, 
+Poughkeepsie, N.Y., 
+directed the 
+development of a means of combining and testing IBM 
+softvoare products before delivery to the user-a 
+method 
+that has significantly 
+rcduced the time, money and 
+personnel cost of installing IBM 
+software. 
+15 
+HIM ipyp Annual 
+Report 
+Above: The leadership of IBMJapa7t''s Shinji Nismtam 
+was vital to development of a computer-controlled news-
+paper production system for automatic handling of 
+typography and photographs in page makeupfor 
+two 
+large Japanese papers. 
+Below: Philippe Riboulet directed the development of 
+computer programsfor automatic storage atid retrieval 
+ofproducts and parts at IBM France's new materials 
+distribution center in Montpellier. 
+
+
+===== PAGE 17 =====
+More Productive Technology... 
+Through simulation of complex circuit functions, 
+IBM's advanced Engineering Design System (EDS) has 
+speeded the development of more than loo IBM 
+products. Over ^0 large IBM computers support EDS 
+Steel printing band of enhanced IBM 3262 low-cost 
+computer printer travels at no inches per second in 
+printing 6jo lines per minute. Developed at 
+Boeblingen, West Germany, and Endicott, N.Y., the 
+new model sells for considerably less than previous 
+comp 
+Experimental IBM silicon chip, 116-inch square, contains 
+^,000 logic switches in the black rectangular area-
+considerably denser than circuitry in present computers. 
+Experiments have shown that such chips can contain 
+10,000 logic switches or 2^0,000 bits of memory. 
+
+
+===== PAGE 18 =====
+
+
+===== PAGE 19 =====
+More Productive Marketing and Service 
+IBM has many new programs that lower 
+marketing and service costs while improving pro-
+ductivity for customers and IBM. 
+I B M Business Computer Centers in more than 
+70 locations in the U.S. and abroad are expanding 
+the marketing of small computers and other prod-
+ucts.The centers offer business and professional 
+people a place to come for demonstrations, educa-
+tion and purchase of products off the floor. 
+I B M retail sales of typewriters and office 
+product supplies are being tested in IBM stores in 
+Buenos Aires and London, with supplies also 
+being sold in Paris. 
+A National Marketing Center has been 
+estabhshed by the Data Processing Division to pro-
+vide customers with coast-to-coast, toll-free 
+telephone information on selected IBM products. 
+The center also arranges for product demon-
+strations and accepts product orders. 
+Installation support centers at 43 locations 
+have been opened for customers of the new IBM 
+4341 and IBM 43 31 processors. 
+Telephone selling of supplies for computer prod-
+ucts is improving customer coverage and sales 
+productivity for the Information Records Division. 
+IBM "Telemarketing" representatives, working 
+at terminals that display customer needs, can 
+handle many accounts in a short period of time. 
+Direct-response advertising-selling by mail 
+and telephone-is being used by the Office Products 
+Division as a supplement to other advertising. 
+Computer-assisted dispatch (CAD) of IBM 
+customer engineers is expediting service of com-
+puters and office products at customer sites. IBM is 
+now well into nationwide installation of close to 
+ICG CAD systems, using the IBM Series/i computer. 
+A display screen shows the dispatcher the IBM 
+customer engineer best able to respond to a service 
+call. The method is much faster and more accurate 
+than the previous manual approach. CAD systems 
+are also being used in IBM operations overseas. 
+Software support centers for use by computer 
+customers have also been established by IBM. 
+At the Field Engineering Division's centers, for ex-
+ample, IBM representatives are the first point 
+of contact for customers who telephone for help 
+with programming problems, information on 
+preventive service or assistance in program installa-
+tion. Toll-free calls may be made at any hour, 
+seven days a week. Many inquiries are resolved 
+quickly in this way, eUminating the need for an IBM 
+representative to visit the customer site. 
+Programming competency centers of the 
+General Systems Division provide a telephone 
+information service that saves time and money for 
+customers and IBM. 
+
+
+===== PAGE 20 =====
+Stockholder Information... 
+The Annual Report is only one of the sources of informa-
+tion available to IBM stockholders and the general public. 
+Stockholders regularly receive the following: 
+Quarterly Reports 
+in April, July and October contain financial results 
+and other news about the company. 
+The Notice of Annual Meeting and Proxy Statement, 
+mailed to each stockholder in March, describes the 
+items of business to be voted on at the Annual 
+Meeting. The Proxy also provides biographies of 
+the Board's nominees for director, their IBM 
+shareholdings, their principal affiliations with other 
+companies or organizations, and other informa-
+tion about the company. 
+The Report of the IBM Annual Meeting, 
+published in June, summarizes the activities at the 
+Annual Meeting, including the Chairman's 
+remarks, questions and answers of general inter-
+est, and the results of voting on items of business. 
+'I^he following additional information may he obtained 
+without charge from the IBM Stockholder Relations 
+Department, yiy Fifth Avenue, New York, N.Y. 
+10022: 
+The Form lo-K Annual Report 
+to the Securities and Exchange Commission pro-
+vides further details on IBM's business, including a 
+list of subsidiaries not contained in the Annual 
+Report. Form 10-K will be available in April. 
+The Form lo-Q Quarterly Report 
+to the Securities and Exchange Commission is 
+available in May, August and November. 
+A Transcript of the Annual Meeting. 
+An IBM Dividend Reinvestment Plan Booklet 
+explains how stockholders may automatically 
+reinvest dividends toward the purchase of 
+additional shares of IBM stock, as well as make 
+optional additional investments for that purpose. 
+IBM Equal Opportunity Programs 
+in the United States are outlined in a document 
+describing programs for women, minorities, 
+handicapped persons and Vietnam-era veterans, 
+as well as reviewing IBM's affirmative action 
+efforts in the community. 
+IBM Business Conduct Guidelines 
+is a booklet sent to IBM employees worldwide 
+describing the ethical and business principles that 
+the company sets for the conduct of its business. 
+It was first issued in 1961.The revised current 
+edition has been translated into 15 languages. 
+IBM U.S. Retirement Plan Information, 
+which is given to all regular U. S. employees, in-
+cludes the principal provisions of the plan, options 
+available, a list of the trustees and a summary 
+report on the plan's financial status. 
+IBM Operations in South Africa 
+are summarized in a report of the company's busi-
+ness in that country. This report contains a state-
+ment of personnel principles and practices to which 
+IBM adheres in doing business in South Africa. 
+This statement has been distributed to IBM 
+employees there. 
+IBM Annual Report translations and recordings 
+are available. The report is translated into 
+French, German and Japanese. An audio cassette 
+recording in English is available for the blind. 
+Service for Deaf Stockholders. 
+The IBM Stockholder Relations Department has a 
+service that enables deaf stockholders who have 
+access to a teletypewriter to communicate with the 
+department's New York City office. Stockholders 
+who wish to use the service should dial the IBM 
+teletypewriter connection number (212) 223-3150 
+between 9 a.m. and 5 p.m., New York time, 
+on any weekday. 
+IBM Stock Transfer 
+The IBM Stockholder Relations Department, 
+located at 717 Fifth Avenue, New York, N.Y. 10022, 
+maintains the stockholder records, transfers stock, 
+and can answer questions regarding stockholders' 
+accounts. Stockholders wishing to transfer 
+stock to someone else or to change the name on 
+a stock certificate should contact the department 
+for transfer instructions. Stock certificates are valu-
+able and should be safeguarded, since replace-
+ment takes time and requires payment of a surety 
+bond premium by the stockholder. If a stock 
+certificate is lost, stolen or destroyed. Stockholder 
+Relations should be notified. Registered mail 
+should be used whenever stock is mailed. 
+The 1980 Annual Meeting 
+of stockholders will be held in the Arie Crown 
+Theatre at McCormick Place, Chicago, III, 
+on Monday, April 28th, at 10 a.m. A notice of the 
+meeting, proxy statement, and proxy voting 
+card will be mailed to stockholders in late March. 
+Left: New ''briefcase'''' computer enables IBM 
+customer engineers to speed diagnostic testing of IBM 
+computer products in the field without the need to rely 
+on the customer's system or a remote IBM computer. 
+New IBM Bus'iness Computer Center in 
+Nashville, 
+Tenn., is one of §0 opened in the U.S. by the General 
+Systetns Division for demonstration, 
+education 
+and sale of small computers and other stipplies. 
+
+
+===== PAGE 21 =====
+Report of 
+Independent Accountants 
+Responsibility for the integrity and objectivity of 
+the financial information presented in this 
+Annual Report rests with IBM management. The 
+financial statements contained herein have 
+been prepared in conformity with generally ac-
+cepted accounting principles, applying certain esti-
+mates and judgments as required. 
+I B M maintains a highly developed system 
+of internal accounting control. It consists, in part, 
+of organizational arrangements with clearly 
+defined lines of responsibility and delegation of 
+authority. We believe this system provides 
+reasonable assurance that transactions are exe-
+cuted in accordance with management authoriza-
+tion, and that they are appropriately recorded, 
+in order to permit preparation of financial state-
+ments in conformity with generally accepted 
+accounting principles and to adequately safeguard, 
+verify and maintain accountability of assets. 
+An important element of the system is a continuing 
+and extensive internal audit program. 
+To assure the effective administration of 
+internal control, we carefully select and train our 
+employees, develop and disseminate written 
+policies and procedures, provide appropriate com-
+munication channels, and foster an environ-
+ment conducive to the effective functioning of 
+controls. We continue to believe that it is essential 
+for the company to conduct its business affairs 
+in accordance with the highest ethical standards, 
+as set forth in the IBM Business Conduct 
+Guidelines. These guidelines, translated into 
+numerous languages, are distributed to employees 
+throughout the world, and reemphasized 
+through internal programs to assure that they are 
+understood and followed. 
+Price Waterhouse & Co., independent ac-
+countants, are retained to examine IBM's financial 
+statements. Their examination is conducted in 
+accordance with generally accepted auditing 
+standards and forms the basis for their report as to 
+the fair presentation, in the financial statements, 
+of the company's financial position, operating 
+results and changes in financial posidon. Their 
+audit procedures include a review of IBM's system 
+of internal accoundng control, and a testing of 
+the accounting procedures and records. 
+The Audit Committee of the Board of Direc-
+tors is composed solely of outside directors, and is 
+responsible for recommending to the Board the 
+independent accounting firm to be retained for 
+the coming year, subject to stockholder approval. 
+The Audit Committee meets periodically and pri-
+vately with the independent accountants, 
+with our internal auditors, as well as with IBM 
+management, to review accounting, auditing, 
+internal accounting controls and financial report-
+ing matters. 
+F r a n k T . G a r y 
+C h a i r m a n of the B o a r d 
+D e a n P. P h y p e r s 
+Sr. V i c e President, F i n a n c e & 
+P l a n n i n g 
+To the Stockholders 
+and Board of Directors of Internarional 
+Business Machines Corporation 
+In our opinion, the accompanying consoli-
+dated financial statements, appearing on pages 21 
+through 31, present fairly the financial position of 
+International Business Machines Corporation 
+and its subsidiary companies at December 31,1979 
+and 1978, and the results of their operations and 
+changes in financial posidon for the years then 
+ended, in conformity with generally accepted 
+accounting principles consistently applied. Also, 
+in our opinion, the five-year comparative con-
+solidated summary of operations presents fairly 
+the financial informadon included therein. 
+Our examinations of these statements were made 
+in accordance with generally accepted audit-
+ing standards and accordingly included such tests 
+of the accounting records and such other 
+auditing procedures as we considered necessary 
+in the circumstances. 
+C o 
+J a n u a r y 
+1 9 , 1 9 8 0 
+N e w Y o r k , N . Y. 
+Price W a t e r h o u s e & 
+C o . 
+
+
+===== PAGE 22 =====
+Consolidated Statement of Earnings 
+for the year ended December 31: 
+1979 
+(Dollars in thousands except per share amounts) 
+Gross Income from Sales, 
+Rentals and Services: 
+Sales 
+Rentals and services 
+Cost of sales 
+Cost of rentals and services 
+Selling, development and engineering, and general 
+and administrative expenses 
+Interest on debt 
+Other income, principally interest 
+Earnings before income taxes 
+Provision for U. S. Federal and non-U. S. income taxes 
+Net Earnings 
+Per share 
+Average number of shares outstanding: 
+1 9 7 9 - 5 8 3 , 3 7 3 , 2 6 9 
+1 9 7 8 - 5 8 4 , 4 2 8 , 5 8 4 
+9 , 4 7 2 , 6 4 9 
+1 3 , 3 9 0 , 1 2 7 
+2 2 , 8 6 2 , 7 7 6 
+3 , 2 6 6 , 6 0 5 
+5 , 1 4 6 , 3 5 3 
+9 , 2 0 5 , 3 6 7 
+1 4 0 , 4 8 7 
+1 7 , 7 5 8 , 8 1 2 
+5 , 1 0 3 , 9 6 4 
+4 4 9 , ^ 9 5 
+5 , 5 5 3 , ^ 5 9 
+2 , 5 4 2 , 0 0 0 
+$ 
+3 , 0 1 1 , ^ 5 9 
+$ 
+5.16 
+8 , 7 5 4 , 7 9 4 
+1 2 , 3 2 1 , 2 9 5 
+2 1 , 0 7 6 , 0 8 9 
+2 , 8 3 8 , 2 2 5 
+4 , 6 4 5 , 8 0 0 
+8 , 1 5 1 , 1 2 9 
+5 5 , 1 7 5 
+1 5 , 6 9 0 , 3 2 9 
+5 , 3 8 5 , 7 6 0 
+4 1 1 , 8 0 8 
+5 , 7 9 7 , 5 6 8 
+2 , 6 8 7 , 0 0 0 
+$ 
+3 , 1 1 0 , 5 6 8 
+5.32 
+
+
+===== PAGE 23 =====
+Consolidated Statement of Financial 
+Position at December 31: 
+1979 
+(Dollars in thousands) 
+Assets 
+Current Assets: 
+Cash 
+Marketable securities, at lower of cost or market .. 
+Notes and accounts receivable, less allowance: 
+1 9 7 9 , $ 1 8 8 , 3 1 8 ; 1978,$174,133 
+Inventories, at lower of average cost or market . . . . 
+Prepaid expenses 
+Plant, Rental M a c h i n e s 
+and O t h e r Property, at cost 
+Less: Accumulated depreciation 
+Deferred Charges and O t h e r Assets 
+Liabilities a n d S t o c k h o l d e r s ' E q u i t y 
+Current Liabilities: 
+U. S. Federal and non-U. S. income taxes 
+Accounts payable and accruals 
+Loans payable 
+Dividend payable 
+Deferred Investment T a x Credits 
+Reserves for Employees' Indemnities and Retirement Plans 
+Long-Term D e b t 
+Stockholders' Equity: 
+Capital stock, par value $1.25 per share 
+Shares authorized, 6 5 0 , 0 0 0 , 0 0 0 
+Issued: 1 9 7 9 - 5 8 3 , 9 7 3 , 2 5 8 ; 1 9 7 8 - 5 8 3 , 5 8 1 , 9 5 8 
+Retained earnings 
+Less: Treasury stock, at cost 
+Shares: 1979 - 378,715; 1978 - 3 4 0 , 5 0 4 
+$ 
+2 9 7 , 8 3 9 
+3 , 4 7 3 , 3 8 4 
+4 , 6 7 1 , 3 1 5 
+1 , 8 4 1 , 7 9 1 
+5 6 6 , 4 3 6 
+2 2 , 7 4 4 , 1 8 8 
+ID,55 1,169 
+$ 1 0 , 8 5 0 , 7 6 5 
+1 2 , 1 9 3 , 0 1 9 
+1 , 4 8 6 , 1 9 0 
+$ M , 5 2 - 9 , 9 7 4 
+1 , 7 1 7 , 6 3 4 
+3 , 7 9 4 , 5 ^ 5 
+9 3 2 , 7 2 9 
+6 , 4 4 4 , 8 8 8 
+1 3 9 , 3 4 9 
+1 , 3 9 5 , - ' 4 4 
+1 , 5 8 9 , 3 5 8 
+3 , 9 7 3 , 9 1 1 
+1 1 , 0 1 2 , 0 3 7 
+1 4 , 9 8 5 , 9 4 8 
+2-4,713 
+1 4 , 9 6 1 , 2 3 5 
+S 2 4 , 5 2 9 , 9 7 4 
+$ 
+2 7 3 , 7 9 9 
+3 , 7 5 6 , 8 8 7 
+4 , 1 3 4 , 4 5 8 
+1 , 5 6 1 , 3 8 2 
+5 9 4 , 3 8 5 
+1 9 , 1 7 5 , 1 7 1 
+9 , 8 7 ^ , 9 4 3 
+$ 10,3 20,9 I I 
+9 , 3 0 2 , 2 2 8 
+1,148,^35 
+^ 0 , 7 7 1 , 3 7 4 
+' , 4 5 9 , 7 1 0 
+3 , 6 0 7 , 3 J 8 
+2 4 1 , 4 8 4 
+5 0 1 , 6 1 0 
+5 , 8 1 0 , 1 2 2 
+1 0 9 , 8 8 2 
+1 , 0 7 2 , 2 2 6 
+2 8 5 , 5 3 4 
+3 , 9 4 2 , 1 6 4 
+9 , 5 7 5 , 4 5 4 
+1 3 , 5 1 7 , 6 1 8 
+2 4 , 0 0 8 
+1 3 , 4 9 3 , 6 1 0 
+$ 2 0 , 7 7 1 , 3 7 4 
+
+
+===== PAGE 24 =====
+Consolidated Statement of Changes in Financial 
+Position for the year ended December 31: 
+1979 
+1978 
+(Dollars in thousands) 
+Source of Working Capital: 
+Net earnings 
+Items not requiring the current use of working capital: 
+Depreciation 
+Net book value of rental machines 
+and other property retired or sold 
+Other 
+Total from operations 
+Proceeds from stock sold or issued under employee plans . . . 
+Long-term borrowings 
+Application of Working Capital: 
+Investment in plant and other property 
+Investment in rental machines 
+Less: Depreciation of manufacturing facilities capitalized in 
+rental machines 
+Increase in deferred charges and other assets 
+Cash dividends paid or payable 
+Reduction of long-term debt 
+Treasury stock purchased for employee plan 
+Capital stock purchased and canceled 
+Decrease in Working Capital 
+Changes in Working Capital: 
+Cash and marketable securities 
+Notes and accounts receivable 
+Inventories and prepaid expenses 
+U.S. Federal and non-US. income taxes 
+Accounts payable and accruals 
+Loans payable 
+Dividend payable 
+Decrease in working capital 
+Working Capital at beginning of year 
+Working Capital at end of year 
+$ 3,011,259 
+1,970,248 
+778,863 
+35^.385 
+6,112,755 
+416,314 
+1,449,505 
+7,978.574 
+1,779,2-5° 
+4 , 2 i i , 7 3 j : 
+5,990,982 
+5,639,90^ 
+337,955 
+1,505,962 
+145,681 
+453,986 
+"8^083^4^ 
+$ 
+(259,463) 
+536,857 
+252,460 
+(257,9M) 
+(187,207) 
+(691,2.45) 
+_ j o ] ^ 6 i o 
+• 7 7 0 4 ^ ) 
+$ 3,110,568 
+1,823,759 
+562,485 
+286,509 
+5,783,32.1 
+341,064 
+74,142-
+6,198,52.7 
+1,322,102 
+^,7^3,437 
+4,045,539 
+M 6 , 3 9 3 
+3,799,146 
+131,786 
+1,763,102 
+44,384 
+373,163 
+440,230 
+6,551,811 
+$ 
+(353,^84) 
+(i,375,943) 
+1,030,109 
+594,075 
+6,515 
+(460,473) 
+(69,077) 
+(78,490) 
+(353,^84) 
+4,864,073 
+$ 4,510,789 
+
+
+===== PAGE 25 =====
+Consolidated Statement of Stockholders' Equity 
+for the year ended December 31: 
+Capital Stock 
+Retained Earnings 
+Treasury Stock 
+Total 
+(Dollars in thousands) 
+1 9 7 8 
+1979 
+Balance, January i, 1978 
+Net earnings 
+Cash dividends declared ($501,610 
+payable M a r c h 10,1979) 
+Capital stock issued under employee plans 
+( 3 0 3 , 9 0 3 shares) 
+Purchases (5,571,100 shares) and sales 
+(5,541,948 shares) of treasury stock under 
+employee p l a n - n e t 
+Capital stock purchased and canceled 
+(6,916,800 shares) 
+T a x reductions applicable to stock related to 
+employee plans 
+Balance, December 31,1978 
+Net earnings 
+Cash dividends declared 
+Capital stock issued under employee plans 
+(391,300 shares) 
+Purchases (6,357,500 shares) and sales 
+(6,319,289 shares) of treasury stock under 
+employee p l a n - n e t 
+Tax reductions applicable to stock related to 
+employee plans 
+Balance, D e c e m b e r 31,1979 
+$ 
+3 , 9 6 1 , 4 7 0 
+17,2.75 
+( 4 6 , 4 4 9 ) 
+9 , 8 6 8 
+3 , 9 4 2 , 1 6 4 
+2 3 , 3 6 6 
+8 , 3 8 1 
+$ 
+3 , 9 7 3 , 9 1 1 
+8 , 6 7 7 , 6 8 0 
+3 , 1 1 0 , 5 6 8 
+( 1 , 7 6 3 , 1 0 2 ) 
+( 5 5 , 9 1 1 ) 
+( 3 9 3 , 7 8 1 ) 
+9 , 5 7 5 , 4 5 4 
+3 , 0 1 1 , 2 5 9 
+( 1 , 5 0 5 , 9 6 2 ) 
+( 6 8 , 7 1 4 ) 
+1 1 , 0 1 2 , 0 3 7 
+( 2 0 , 6 7 7 ) 
+(3,331) 
+( 2 4 , 0 0 8 ) 
+(705) 
+(MiZII) 
+$ 1 2 , 6 1 8 , 4 7 3 
+3 , 1 1 0 , 5 6 8 
+( 1 , 7 6 3 , 1 0 2 ) 
+17,^75 
+(59,^42-) 
+( 4 4 0 , 2 3 0 ) 
+9 , 8 6 8 
+1 3 , 4 9 3 , 6 1 0 
+3 , 0 1 1 , 2 5 9 
+( 1 , 5 0 5 , 9 6 2 ) 
+2 3 , 3 6 6 
+( 6 9 , 4 1 9 ) 
+1 4 , 9 6 1 , 2 3 5 
+
+
+===== PAGE 26 =====
+Significant Accounting Policies 
+Principles of Consolidation: The consoli-
+dated financial statements include the accounts of 
+International Business Machines Corporation and 
+its U.S. and non-U.S. subsidiary companies. 
+Translation of Non-U.S. Currency Amounts: 
+Non-U. S. assets and liabilities are translated 
+to U.S. dollars at year-end exchange rates, except 
+that inventories and plant, rental machines 
+and other property are translated at approximate 
+rates prevailing when acquired. Income and 
+expense items are translated at average rates of 
+exchange prevaiHng during the year, except that 
+inventories charged to cost of sales and deprecia-
+tion are translated at historical rates. Exchange 
+gains and losses are included in earnings currently. 
+Gross I n c o m e : Gross income is recognized 
+from sales when the product is shipped or in 
+certain cases upon customer acceptance, from 
+rentals in the month in which they accrue, and 
+from services over the contractual period or as the 
+services are performed. Rental plans include 
+maintenance service and contain discontinuance 
+and purchase option provisions. Rental terms 
+are predominantly monthly or for a two-year 
+period, with some covering periods up to five years. 
+Depreciation: With minor exceptions, 
+depreciation of U.S. properties is computed using 
+the sum of the years-digits method. Depreciation 
+of non-U. S. properties is computed using either 
+accelerated methods or the straight-line method. 
+Retirement Plans: Current service costs 
+are accrued currently. Prior service costs resulting 
+from improvements in the plans are amortized 
+generally over l o years. 
+Expenses: Marketing expenses and develop-
+ment and engineering expenses are charged 
+against income as they are incurred. 
+Income Taxes: Income tax expense is based 
+on reported earnings before income taxes. 
+It thus includes the effects of timing differences 
+between reported and taxable earnings that arise 
+because certain transactions are included in 
+taxable earnings in other years. Investment tax 
+credits are deferred and amortized as a reduc-
+tion of income tax expense over the average useful 
+life of the applicable classes of property. 
+Non-U.S. Operations 
+1979 
+1978 
+(Dollars in thousands) 
+At end of year: 
+For the year: 
+Net assets employed 
+Current assets 
+Current liabilities 
+Working capital 
+Plant, rental machines and other property, net 
+Deferred charges and other assets 
+Reserves for employees' indemnities and retirement plans. 
+Long-term debt 
+Net assets employed 
+N u m b e r of employees 
+Gross income from sales, rentals and services 
+Net earnings 
+Capital expenditures 
+5 , 8 2 6 , 0 9 6 
+3>6o8,I73 
+2 , 2 1 7 , 9 2 3 
+5 , 4 7 6 , 8 2 5 
+8 3 9 . 4 1 7 
+8 , 5 3 4 . 1 6 5 
+1 , 3 9 5 . 1 4 4 
+1 , 6 8 9 , 2 5 7 
+6 , 8 4 4 , 9 0 8 
+1 4 6 , 8 0 0 
+$ 1 2 , 2 4 4 , 0 6 7 
+$ 
+1 , 4 2 7 , 4 8 1 
+$ 
+2 , 8 0 0 , 3 7 3 
+5 , 6 9 0 , 1 0 4 
+3 , 3 4 5 . 5 6 1 
+2-,344.543 
+4 , 4 2 4 , 5 2 0 
+7 3 7 . 9 1 0 
+7 , 5 0 6 , 9 7 3 
+1 , 0 7 2 , 2 2 6 
+2 0 6 , 0 3 4 
+1 , 2 7 8 , 2 6 0 
+6,^^8,713 
+1 4 4 . 5 9 3 
+$ 1 1 , 0 4 0 , 4 4 2 
+$ 
+1 , 5 6 0 , 1 4 3 
+$ 
+2 , 1 6 2 , 4 8 5 
+Undistributed earnings of non-U.S. subsidiaries 
+included in consolidated retained earnings 
+amounted to $ 5 , 5 2 9 million at D e c e m b e r 31,1979 
+and $ 5 , 0 0 2 miUion at December 31,1978.These 
+earnings are indefinitely reinvested in non-U.S. 
+operations. Accordingly, no provision has 
+been made for taxes that might be payable upon 
+remittance of such earnings. 
+
+
+===== PAGE 27 =====
+Research and Development 
+Research and development expenses 
+amounted to $1,360 million in 1979 and $1,255 
+million in 1978. 
+Retirement Plans 
+The company and its U.S. subsidiaries have 
+trusteed, non-contributory retirement plans, cov-
+ering substantially all regular and part-time 
+employees, for which accrued costs are funded. 
+At December 31,1979, there were 11,715 individu-
+als receiving benefits under the plans. Most sub-
+sidiaries outside the United States have retirement 
+plans under which funds are deposited with trus-
+tees, reserves are provided, or annuities are pur-
+chased under group contracts. The cost of all 
+plans totaled $971 miUion for the year 1979, com-
+pared with $877 million for the year 1978. At 
+December 31,1979, unfunded or unaccrued prior 
+service costs under all plans amounted to 
+approximately $788 million. 
+As of December 31,1979, the actuarially com-
+puted value of retirement benefits vested under 
+the terms of certain plans, which included a 
+significant portion of the above-mentioned prior 
+service costs, exceeded the market value of 
+fund assets and reserves of such plans by approxi-
+mately $190 million. 
+Notes and Accounts Receivable 
+At December 31,1979, notes and accounts 
+receivable include $626 million of installment 
+receivables maturing after one year, net of 
+unearned interest. Of this amount, 6 0 % matures 
+in 1981 and the balance in decreasing amounts 
+through 1984. 
+Taxes 
+1979 
+1978 
+(Dollars in thousands) 
+Provision for U.S. Federal and non-U.S. income taxes 
+Real estate, personal property, state and local franchise 
+(including state income taxes of $127 million in 1979 and 
+$165 million in 1978), social security and other taxes . . . . 
+Total 
+$ 2,542,000 
+1,3 I 5,000 
+3 , 8 5 7 , 0 0 0 
+$ 2,687,000 
+1,1 85,000 
+3 , 8 7 2 , 0 0 0 
+The portion of the provision for US. Federal 
+U.S. operations was $1,23 8 million in 1979 
+operations was $ 1,304 million in j 979 and 
+and non-US. income taxes applicable to 
+and $1,366 miUion in 1978, and to non-US. 
+Marketable Securities 
+$1,321 million in 1978. 
+December 31,1 979 
+December 31,1 978 
+U.S. Government securities 
+$ 1,295,677 
+$ 1,253,204 
+State and municipal securities 
+18,211 
+70,933 
+Time deposits and other bank obligations 
+1,667,912 
+2,003,937 
+Corporate bonds, notes and other fixed-term obligations 
+4 9 1 , 5 8 4 
+4 2 8 , 8 1 3 
+Total 
+$ 3 , 4 7 3 , 3 8 4 
+$ 3,756,887 
+Market value 
+$ 3,475>444 
+$ 3,767,225 
+Plant, Rental Machines and Other Property 
+December 31,1 979 
+December 3 i, 1978 
+Land and land improvements 
+$ 
+568,845 
+$ 
+4 9 6 , 7 1 4 
+Buildings 
+3.536,435 
+2,950,116 
+Factory, laboratory and office equipment 
+4 , 8 9 7 , 3 5 8 
+3 , 9 8 8 , 7 6 0 
+9 , 0 0 2 , 6 3 8 
+7,435>590 
+Less: Accumulated depreciation 
+3,736,268 
+3,211,983 
+5,266,370 
+4 , 2 2 3 , 6 0 7 
+Rental machines and parts 
+J 3 . 7 4 ^ , 5 5 ° 
+11,739,581 
+Less: Accumulated depreciation 
+6,814,901 
+6 , 6 6 0 , 9 6 0 
+6 , 9 2 6 , 6 4 9 
+5,078,621 
+Total 
+$12,193,019 
+$ 9 , 3 0 2 , 2 2 8 
+Rental machines and parts include machines 
+installed with IBM in the amount of $1,509 million 
+at December 31,1979 and $1,3 5 9 million at 
+December 31,1978. Accumulated depreciation for 
+these machines was $1,180 miUion at December 
+31,1979 and $1,108 million at December 31,1978. 
+Depreciation of plant, rental machines and 
+other property charged to costs and expenses 
+amounted to $1,970 million in 1979 and $1,824 
+million in 1978. 
+
+
+===== PAGE 28 =====
+Loans Payable 
+December 3 1 , 1979 
+December 3 1 , 1978 
+(Dollars in thousands) 
+Short-term borrowings: 
+Repurchase obligations secured by marketable securities 
+$ 
+5 5 5 , 3 5 1 
+$ 
+— 
+Other loans 
+3 3 8 , 5 3 8 
+2 0 1 , 7 6 2 
+8 9 3 , 8 8 9 
+2 0 1 , 7 6 2 
+Current portion of long-term debt 
+3 8 , 8 4 0 
+3 9 , 7 2 2 
+Total 
+$ 
+932-,72-9 
+$ 2 4 1 , 4 8 4 
+T h e weighted average interest rate on short-term 
+borrowings at D e c e m b e r 3 1 , 1 9 7 9 , was 13.7%. 
+T h e average balance of such borrowings in 1979 
+was $ 6 6 4 million at a weighted average interest 
+rate of 1 3 . 6 % . T h e largest amount outstanding at 
+any month end during 1979 was $1,392 million. 
+Long-Term Debt 
+International Business M a c h i n e s Corporation: 
+9 V2% notes due 1 9 8 6 
+9 % % debentures due 2 0 0 4 (with sinking fund payments 1985 to 2 0 0 3 ) . . 
+1 0 . 8 0 % notes due 1983 to 1 9 8 6 
+3 ¥ 2 % promissory notes 
+Subsidiaries operating in non-U.S. countries: 
+(11.3% average interest rate at D e c e m b e r 3 1 , 1 9 7 9 ) 
+Less: Unamortized discount, related principally to the 
+9 y 2 % notes and 9 % % debentures 
+Total 
+Annual maturity and sinking fund requirements on 
+long-term debt outstanding at D e c e m b e r 31,1979 are as follows: 
+1 9 8 1 
+$ 
+51,721 
+1 9 8 2 
+3 0 , 9 2 1 
+1 9 8 3 
+1 0 0 , 7 6 0 
+1 9 8 4 
+143.2.75 
+1 9 8 5 
+1 1 5 , 5 0 1 
+1 9 8 6 and b e y o n d 
+1 , 1 5 2 , 1 7 7 
+S I , 5 9 4 , 3 5 5 
+December 3 1 , 1979 
+December 3 1 , 1978 
+5 0 0 , 0 0 0 
+5 0 0 , 0 0 0 
+3 0 0 , 0 0 0 
+1 , 3 0 0 , 0 0 0 
+^94,355 
+1 , 5 9 4 , 3 5 5 
+4 , 9 9 7 
+1,589,358 
+79,500 
+7 9 , 5 0 0 
+2 0 6 , 0 3 4 
+^85,534 
+2-85,534 
+Lines of Credit 
+At D e c e m b e r 31,1979, the company had 
+unused lines of credit available with a number of 
+U.S. banks. These lines of credit permit the com-
+pany to borrow, from time to time, up to an aggre-
+gate of $1,565 million outstanding at any time, 
+at interest rates not to exceed the banks' prime rate. 
+In addition, a number of non-U.S. subsidiaries had 
+available unused lines of credit of approximately 
+$ 8 0 0 milHon. Interest rates on borrowings would 
+vary from country to country depending on local 
+market conditions. About $160 miUion of such 
+unused Hnes require the payment of commitment 
+fees which generally range from Va % to ¥2%. 
+Capital Stock 
+At the Annual Meeting on April 3 0 , 1 9 7 9 , 
+stockholders approved a four-for-one stock split, 
+effective M a y 10,1979. As a result, the number 
+of authorized shares was increased from 
+1 6 2 , 5 0 0 , 0 0 0 (par value $5.00) to 6 5 0 , 0 0 0 , 0 0 0 
+(par value $1.25) and the company issued 
+437,835,574 additional shares of capital stock. 
+All references in the Consolidated Financial State-
+ments and related notes to number of shares, 
+per share amounts, and price per share for periods 
+prior to M a y 11,1979, have been adjusted for 
+this stock split. 
+Stock Purchase Plan 
+The 1976 Employees Stock Purchase Plan 
+enables employees who are not participants in a 
+stock option plan to purchase IBM's capital stock 
+through payroll deductions of up to 10% of their 
+compensation. The price an employee pays for 
+a share of stock is 8 5 % of the average market price 
+on the date the employee has accumulated enough 
+money to buy a share. During 1979, 6,319,289 
+treasury shares were sold to employees for $3 85 
+million. At December 3 1 , 1 9 7 9 , 1 5 , 0 4 0 , 1 1 5 shares, 
+including 8 , 0 0 0 , 0 0 0 reserved unissued shares, 
+remain available for purchase under the Plan. 
+
+
+===== PAGE 29 =====
+Stock Option Plans 
+The stock option plans provide for granting 
+officers and other key employees options 
+to purchase IBM's capital stock at i o o % of the 
+market price on the day of grant. Options have a 
+maximum duration of l o years and may be 
+exercised in four annual installments, commenc-
+ing one year from date of grant. 
+The following table summarizes stock option 
+transactions during 1979: 
+Number of Shares 
+Under 
+Option 
+Balance at 
+January i, 1979 
+• • • io,334,747 
+5,605,424 
+Options granted 
+1,885,568 
+(1,885,568) 
+Options terminated . . , . . . 
+( 4 7 , 5 8 1 ) 
+8,919 
+Options exercised 
+• • 
+(337,619) 
+— 
+Balance at 
+December 31,1979 
+, , • • 1 1 , 8 3 5 , 1 1 5 
+3,72-8,775 
+Exercisable at 
+December 31,1979 . . . . •• 7,561,464 
+Available 
+for Option 
+I B M received $19.2 million for the 3 37,619 shares 
+purchased d u r i n g i 9 7 9 . T h e i i , 8 3 5 , i i 5 shares 
+under option at December 31,1979, are at option 
+prices ranging from $41.60 to $ 8 5 . 4 0 per share. 
+Exchange Gains and Losses 
+Net earnings in 1979 include exchange losses 
+of $5 z million, resulting from fluctuations in the 
+value of the U.S. dollar in relation to other 
+currencies. This consists principally of unrealized 
+losses from the translation of foreign currency 
+assets and liabilities, and compares with exchange 
+gains of $113 million in the year 1978. 
+Rental Expense and Lease Commitments 
+Rental expense amounted to $319 miUion 
+in 1979 and $278 million in 1978. M i n i m u m rental 
+commitments, in millions of dollars, under non-
+cancellable leases for 1980 and thereafter are as 
+follows: 1980, $301; 1981, $ 2 2 6 ; 1982, $166; 1983, 
+$122; 1984, $84; and after 1984, $ 3 6 6 . T h e s e 
+leases are principally for the rental of office pre-
+mises. M a n y of the leases contain renewal options 
+and many provide for the payment of a propor-
+tionate share of maintenance, insurance and taxes 
+in addition to the minimum annual rentals. 
+T h e above amounts exclude minor amounts of sub-
+lease income. 
+Litigation 
+In January, 1969, the Department of Justice 
+filed a civil antitrust complaint against IBM 
+under Section 2 of the Sherman Antitrust Act, 
+charging the company with monopolizing 
+commerce in general purpose digital computers 
+in the United States. Trial of the case began in 
+May, 1975, and is currently in progress. 
+The government continues to seek divestiture 
+relief, requesting that IBM be reorganized into 
+several independent and competing organizations 
+and that IBM be enjoined from continuing its 
+alleged monopolistic practices. 
+T h e lawsuit filed by Greyhound Computer 
+Corporation in 1969, alleging Federal antitrust law 
+violations, is in the pretrial discovery stage for a 
+second trial. An earlier trial of Greyhound's claims 
+in 1972 had resulted in a directed verdict in favor 
+of IBM, but in 1977 the United States Court of 
+Appeals for the Ninth Circuit granted Greyhound's 
+petition for a new trial. Greyhound seeks 
+damages in the amount of $348 million, after tre-
+bling, and injunctive relief. 
+Six private lawsuits instituted against IBM in 
+1973 and 1974, alleging Federal antitrust law 
+violations, remain in progress. T h e plaintiffs in 
+these actions seek damages, trebled in accord-
+ance with the antitrust laws, and in some cases, 
+injunctive relief. 
+T h e four cases which have been tried thus far 
+have resulted in the dismissal of the antitrust 
+claims against IBM. In the California Computer 
+Products case, a District Court order directing 
+a verdict in favor of IBM and dismissing the action 
+was affirmed by the United States Court of 
+Appeals for the Ninth Circuit. California C o m -
+puter Products claimed damages which, after 
+trebling, aggregate $ 3 0 6 million. 
+In the Forro Precision case, $36 million in dam-
+ages, after trebling, were sought. After trial, the 
+antitrust charges against IBM were dismissed, and 
+non-antitrust damage verdicts of $2.7 million for 
+Forro and $.3 million for IBM were entered. Both 
+parties are appealing. 
+M e m o r e x Corporation, on behalf of itself and 
+two of its subsidiaries, sought $3,150 million in 
+damages, after trebling. In a trial of the major por-
+tion of this claim, involving M e m o r e x Corpora-
+tion and a U.S. subsidiary, after the jury was un-
+able to reach a verdict, the District Court entered 
+an order directing a verdict in favor of IBM 
+and dismissing the action. M e m o r e x is appealing 
+the decision. 
+Damages sought in the action brought 
+byTransamerica Computer C o m p a n y total $ 3 9 0 
+million after trebling. After the jury was unable 
+to reach a verdict, the District Court decided the 
+case in IBM's favor. Transamerica is appealing. 
+T h e two other lawsuits, in which the plaintiffs 
+seek damages aggregating $276 million after 
+trebling, remain in the pretrial discovery stage. 
+I B M has denied the charges in all eight of these 
+cases and is vigorously defending each action. 
+An investigation of IBM's business practices by 
+the Commission of the European E c o n o m i c 
+Community, commenced in 1974, continues. 
+No charges have been filed. 
+Quarterly Financial Data (Unaudited) 
+Summarized quarterly financial data (in 
+millions of dollars except for per share amounts) 
+for 1979 and 1978 is as follows: 
+'979 
+Gross 
+Gross 
+Income 
+Profit 
+Net 
+Per 
+Earnings 
+Share 
+First 
+$ 
+5,295 
+: S 
+3,434 
+$ 
+667 
+$ 
+1.14 
+Second 
+5,355 
+3,374 
+667 
+1.15 
+Third 
+5,384 
+3,396 
+669 
+1.14 
+Fourth 
+6,8Z9 
+4,246 
+1,008 
+1-73 
+$ ZZ,863 
+$ 14,450 
+$ 3,01 1 
+$ 
+5.16 
+,978 
+First 
+$ 
+4,432 $ 
+2,868 
+$ 
+589 
+$ 
+1.00 
+Second 
+4,92-1 
+3,184 
+691 
+1.19 
+Third 
+5,285 
+3,443 
+816 
+r.39 
+Fourth 
+6,438 
+4,097 
+1,01 5 
+1-74 
+$ 21,076 $ 13,592 
+$ 3,1 
+" 
+$ 
+5-32 
+
+
+===== PAGE 30 =====
+Geographic Area and 
+Industry Segment Information 
+For purposes of segment reporting, financial 
+information by geographic area and industry 
+segment for the years 1979,1978, and 1977 is sum-
+marized below. 
+It should be recognized in connection 
+with the geographic area and industry segment 
+information, that there exist material interde-
+pendences and overlaps among IBM's operating 
+units. The reported information follows IBM's 
+administrative profit centers, and does not take 
+into account significant intercenter depen-
+dencies and overlaps with respect to engineering, 
+manufacturing, components, technologies 
+and know-how, business expertise, products and 
+customers, to the extent such activities are 
+not reasonably quantifiable or measurable. In addi-
+tion, the allocations made of indirect and 
+common costs, and jointly used assets, involved 
+the extensive use of estimation techniques. 
+Accordingly, the information is provided for pur-
+poses of achieving an understanding of IBM's 
+operations, but may not be indicative of the finan-
+cial results of, or investments in, the reported 
+areas and segments were they independent 
+organizations, nor useful for comparisons with 
+operations of other companies. 
+Geographic Areas 
+1979 
+1978 
+1977 
+(Dollars in millions) 
+United States 
+Gross income —Customers 
+Interarea transfers 
+Total 
+Net earnings 
+Assets at D e c e m b e r 31 
+Europe/Middle East/Africa 
+Gross income —Customers 
+Interarea transfers 
+Total 
+Net earnings 
+Assets at D e c e m b e r 31 
+Americas/Far East 
+Gross income —Customers 
+Interarea transfers 
+Total 
+Net earnings 
+Assets at D e c e m b e r 31 
+Eliminations 
+Gross income 
+Net earnings 
+Assets 
+Consolidated 
+Gross income 
+Net earnings 
+Assets at D e c e m b e r 31 
+In the Europe/Middle East/Africa area, European 
+operations accounted for approximately 9 5 % of 
+gross income in 1979,1978, and 1977. 
+Interarea transfers, consisting principally of 
+completed machines, sub-assembUes and parts, 
+are priced at cost plus an appropriate service 
+charge, applied consistently throughout the 
+world. T h e cost and service charges that relate 
+to rental machines are capitalized and depreciated 
+by the importing area. Interarea accounts receiv-
+$ 1 0 , 6 1 9 
+1,101 
+$ 1 1 , 7 2 0 
+$ 
+1,612 
+$ 1 2 , 6 3 1 
+S 
+8 , 8 3 7 
+5 3 1 
+$ 9,368 
+$ 
+8 , 9 8 7 
+$ 
+3 , 4 0 7 
+4 1 0 
+$ 3,817 
+s 
+355 
+s 
+3,358 
+(2,042) 
+(38) 
+(446) 
+$ 2 2 , 8 6 3 
+$ 
+3 , 0 1 1 
+s 2 4 , 5 3 0 
+$ 1 0 , 0 3 6 
+8 3 0 
+$ 1 0 , 8 6 6 
+$ 
+1 , 5 6 0 
+$ 1 0 , 0 9 7 
+$ 
+7 , 7 7 8 
+39^ 
+$ 
+8 , 1 7 0 
+$ 
+1 , 1 2 4 
+$ 7,876 
+$ 
+3 , 2 6 2 
+3 0 4 
+$ 
+3 , 5 6 6 
+$ 
+4 6 0 
+s 
+3 , 1 4 5 
+(1,5^6) 
+(33) 
+(347) 
+2 1 , 0 7 6 
+2-0,771 
+$ 
+9 , 0 0 8 
+675 
+$ 
+9 , 6 8 3 
+$ 
+1,503 
+$ 1 0 , 0 0 7 
+6 , 3 9 1 
+2 8 4 
+6,675 
+$ 
+6 , 6 5 0 
+$ 
+2 , 7 3 4 
+2-50 
+$ 
+^,984 
+$ 
+3 4 4 
+$ 
+^,593 
+(1,209) 
+(17) 
+(272) 
+$ 18,133 
+$ 
+^,719 
+$ 1 8 , 9 7 8 
+able, the undepreciated portion of service charges, 
+and the net change during the year in undepre-
+ciated service charges, have been eliminated in 
+consolidation. 
+
+
+===== PAGE 31 =====
+Industry Segments 
+1979 
+1978 
+1977 
+(Dollars in millions) 
+Information-Handling Business: 
+Data Processing 
+Gross income —Customers 
+$ 18,338 
+$ 17,074 
+$ 14,765 
+Operating income 
+4,737 
+5 , " 3 
+4,402 
+Assets at December 31 
+17,373 
+13,598 
+10,995 
+Depreciation expense 
+1,683 
+1,552-
+1,521 
+Capital expenditures 
+5,359 
+3,438 
+2,81 1 
+Office Products 
+Gross income —Customers 
+3,849 
+3,390 
+2,824 
+Operating income 
+566 
+381 
+297 
+Assets at December 31 
+3,316 
+3,061 
+2,509 
+Depreciation expense 
+^75 
+260 
+273 
+Capital expenditures 
+608 
+591 
+566 
+Federal Systems 
+Gross income —Customers 
+61Z 
+549 
+4 8 6 
+Operating income 
+3 5 
+Assets at December 31 
+329 
+316 
+286 
+Depreciation expense 
+11 
+I I 
+I 1 
+Capital expenditures 
+16 
+17 
+Other Business 
+Gross income —Customers 
+64 
+63 
+58 
+Operating income 
+6 
+4 
+8 
+Assets at December 31 
+39 
+39 
+33 
+Depreciation expense 
+I 
+I 
+J 
+Capital expenditures 
+J 
+1 
+1 
+Consolidated 
+Gross income — Customers 
+$ zz,863 
+$ 21,076 
+$ 18,] 33 
+Operating income 
+$ 
+5,344 
+$ 
+5,530 
+$ 
+4 , 7 3 4 
+General corporate and interest expense 
+(Z40) 
+(144) 
+(117) 
+Other income, principally interest 
+4 4 9 
+4 1 2 
+475 
+Earnings before income taxes 
+$ 
+5,553 
+$ 
+5,798 
+$ 
+5,092 
+Assets identified to segments 
+$ 21,057 
+$ 17,014 
+$ 13,823 
+Marketable securities 
+3,473 
+3,757 
+5,155 
+Total assets at December 31 
+$ 2 4 , 5 3 0 
+$ 20,771 
+$ 18,978 
+Depreciation expense 
+$ 
+1,970 
+$ 
+1,824 
+$ 
+1,806 
+Capital expenditures 
+$ 
+5,991 
+$ 
+4,046 
+$ 
+3,395 
+IBM's operations, with very minor exceptions, 
+are in the field of information-handling 
+systems, equipment and services. However, for 
+purposes of segment reporting, IBM's 
+information-handling business has been 
+reported as three segments. 
+The above segments are comprised as 
+follows: 
+Data Processing—consists of information-
+handling products and services such as data 
+processing machines and systems, computer 
+programming, systems engineering, education 
+and related services and supplies for commercial 
+and government customers. 
+Office Products—consists of information-
+handling products, systems and services such as 
+electric typewriters, magnetic media typewriters 
+and systems, information processors, document 
+printers, copiers, and related supplies and services 
+for commercial and government customers. 
+Federal Systems —consists of specialized 
+information-handling products and services for 
+United States space, defense and other agencies 
+and, in some instances, other customers. 
+Other—consists of educational, training and 
+testing materials and services for school, home 
+and industrial use. 
+Intersegment transfers of products and 
+services similar to those offered to unaffiliated 
+customers are not material. 
+
+
+===== PAGE 32 =====
+Gross Income by Segment t t 
+1979 
+1978 
+1977 
+1976 
+1975 
+(Percentages of consolidated gross income) 
+Data Processing segment: 
+Equipment 
+Sales 
+26.9% 
+27.7% 
+25.4% 
+23.2% 
+17.7' 
+Rentals and services 
+38.8 
+40.9 
+44-7 
+48.7 
+54.2 
+65.7 
+68.6 
+70.1 
+7 1 . 9 
+71-9 
+Maintenance contracts, program 
+products and supplies 
+Sales 
+2.8 
+2.8 
+3-0 
+Rentals and services 
+I Z . O 
+9-9 
+8.5 
+7-5 
+14.5 
+1 2 . 4 
+I I . 3 
+10.3 
+10.2 
+80.2 
+81.0 
+8 1 . 4 
+82.2 
+82.1 
+Office Products segment 
+Sales 
+9-1 
+8.5 
+8.0 
+7.6 
+7-7 
+Rentals and services 
+7-7 
+7.6 
+7.6 
+7-1 
+7.0 
+16.8 
+16.1 
+1 5 . 6 
+14.7 
+14.7 
+All other segments 
+Sales 
+2.9 
+2.8 
+2.9 
+3.0 
+3-1 
+Rentals and services 
+. 1 
+. 1 
+. 1 
+.1 
+. 1 
+3.0 
+2.9 
+3.0 
+3-1 
+3.2 
+Total 
+100.0% 
+100.0% 
+100.0% 
+100.0% 
+100.o! 
+t t T h i s information should be read in conjunction with the Industry Segments notes on pages 1 9 and 30. 
+rented equipment. Maintenance contracts, program p r o d u a s and supplies consists of maintenance on 
+In the data processing segment, equipment rentals and services includes maintenance service on 
+sold equipment, program products, supplies, parts and other services. 
+Five-Year Comparative Consolidated Summary of Operations: 
+For the year: 
+At end of year: 
+1979 
+1978 
+1977 
+1976 
+i975 
+(Dollars in thousands except per share amounts) 
+Gross income from sales, rentals and services: 
+Sales 
+Rentals and services 
+s 
+9,47^,649 
+1 3 , 3 9 0 , 1 2 7 
+S 
+8,754,794 
+1 2 , 3 2 1 , 2 9 5 
+$ 
+7 , 0 9 0 , 1 5 7 
+11,043,027 
+$ 
+5,959,475 
+10,344,858 
+22,862,776 
+21,076,089 
+1 8 , 1 3 3 , 1 8 4 
+16,304,333 
+Cost of sales 
+3,266,605 
+2,838,225 
+2 , 2 5 6 , 1 3 5 
+1,959,631 
+Cost of rentals and services 
+5,146,353 
+4,645,800 
+4,042,448 
+3,865,813 
+Selling, development and engineering, and 
+general and administrative expenses 
+9,205,367 
+8 , 1 5 1 , 1 2 9 
+7 , 1 7 7 , 0 8 0 
+6,409,315 
+Interest on debt 
+140,487 
+55,175 
+40,350 
+44,950 
+Other income, principally interest 
+449,2-95 
+4 1 1 , 8 0 8 
+475,^43 
+494,469 
+Earnings before income taxes 
+5,553,^59 
+5,797,568 
+5,092,414 
+4,519,093 
+U. S. Federal and non-U. S. income taxes 
+2,542,000 
+2,687,000 
+2,373,000 
+2,121,000 
+Net earnings 
+$ 
+3 , 0 1 1 , 2 5 9 
+$ 
+3 , 1 1 0 , 5 6 8 
+$ 
+2 , 7 1 9 , 4 1 4 
+$ 
+2,398,093 
+Per share t 
+$ 5 . 1 6 
+$5-3^ 
+$4.58 
+$3-99 
+Average number of shares outstanding t . . . 
+583,373,^69 
+584,428,584 
+594,298,448 
+6 0 1 , 7 0 1 , 7 6 8 
+Cash dividends paid 
+$ 
+2,007,57^ 
+$ 
+1 , 6 8 4 , 6 1 2 
+$ 
+1,487,627 
+$ 
+1,203,791 
+Per sharet 
+$3.44 
+$2.88 
+$2.50 
+$2.00 
+Number of shares outstanding t 
+583,594,543 
+5 8 3 , 2 4 1 , 4 5 4 
+589,883,503 
+6 0 2 , 7 7 8 , 1 9 2 
+Net investment in plant, rental machines 
+and other property 
+$ 
+1 2 , 1 9 3 , 0 1 9 
+$ 
+9,302,228 
+$ 
+7,889,326 
+$ 
+6,962,908 
+Long-term debt 
+$ 
+1,589,358 
+$ 
+2 8 5 , 5 3 4 
+$ 
+2.55,776 
+$ 
+2 7 5 , 1 2 7 
+Working capital 
+$ 
+4,405,877 
+$ 
+4 , 5 1 0 , 7 8 9 
+$ 
+4,864,073 
+$ 
+5,838,1^5 
+Number of stockholders 
+696,918 
+5 8 0 , 5 7 2 
+5 8 1 , 5 1 3 
+577,156 
+tAdjusted for 1 979 stock split. 
+31 
+HiM ipyp Annual Report 
+$ 
+4,545.359 
+_ _ 9 , 8 9 I , I 8 2 
+1 4 , 4 3 6 , 5 4 1 
+1,630,978 
+3,7I7>709 
+5,664,897 
+6Z,6O7 
+360,527 
+3,7Z0,877 
+1,731,000 
+$ 
+1,989,877 
+$3-34 
+596,177,708 
+$ 
+968,989 
+$1.63 
+599,378,3^6 
+J 
+6,695,043 
+$ 
+^ 9 5 , " 5 
+$ 
+586,470 
+
+
+===== PAGE 33 =====
+Management's Discussion 
+and Analysis of the Summary of Operations 
+1979 vs. 1978 
+Gross income from worldwide sales, 
+rentals and services was $22,863 million, or 8.5 % 
+above 1978. The worldwide increase in gross 
+income reflects record shipments of products. 
+Data processing gross income amounted to 
+$18,338 miUion, a growth of 7.4%. Although this 
+segment accounts for the largest portion of 
+growth, the office products segment attained a 
+higher rate of growth, increasing by 13.5 % to 
+$3,849 million.Total gross income from U.S. 
+operations was $10,619 million, an increase of 
+5.8% over 1978. Gross income from non-U.S. 
+operations amounted to $12,244 million, or an in-
+crease of 10.9%. This increase was, to some 
+extent, attributable to the effects of currency 
+fluctuations. 
+Gross income from sales increased 8.2% 
+over 1978, with worldwide data processing sales 
+increasing by 5.6% to $6,720 million, and office 
+products by 16.8% to $2,084 miUion. Within data 
+processing sales, purchases of data processing 
+equipment amounted to $6,162 milHon, a 5.5% 
+increase over 1978. A greater proportion of U. S. 
+customers shifted toward leasing of data processing 
+equipment rather than purchase, resulting in a 
+slightly lower level of purchase as compared to 
+1978. Non-U.S. operations, however, did exceed 
+1978 purchase levels and were higher than 
+the U.S. 
+Gross income from worldwide rentals 
+and services increased by 8.7% in 1979, with the 
+data processing segment showing an 8.5 % 
+increase over 1978. Within this segment, data 
+processing equipment rentals and services show 
+a modest increase of 2.9%. Although record 
+lease shipments made on a broad range of products 
+during the year contributed to a substantial 
+buildup of the installed rental base, worldwide 
+price reductions implemented earlier in the year 
+were an offsetting factor. Timing of installations 
+was also a factor, with the bulk of the increase 
+in the installed rental base occurring in the 
+second half of 1979. Gross income from mainte-
+nance, program products and other services con-
+tinued to show substantial year to year growth, 
+exceeding 30%. Oflficeproducts rentals and serv-
+ices increased by 9.9%, reflecting increased 
+maintenance revenue, as well as growth in word 
+processing and copier equipment installations. 
+Cost of sales increased over the prior year by 
+15.1%, compared to an increase of 8.2% in related 
+gross income. There were a number of contribut-
+ing factors. Data processing equipment sales 
+increased only moderately, while lower-margin 
+office products equipment sales increased at 
+a higher rate. Within the data processing segment, 
+margins declined principally because of changes 
+in the mix of products sold and the effects of the 
+substantial worldwide buildups in plant capacity 
+and people in order to deliver higher volumes. 
+Results for office products equipment were simi-
+lar, as the newer word processing systems 
+were shipped in greater numbers in 1979. In 
+addition, overall worldwide costs have been 
+impacted by inflation. 
+Cost of rentals and services increased by 10.8%, 
+a rate slightly higher than the gross income 
+increase of 8.7%. Cost of rentals and services 
+for data processing equipment was impacted by 
+the buildup of manufacturing resources, 
+heavy shipments of new products and the general 
+effects of inflation. The rapid growth of services, 
+which yield lower margins than equipment, 
+further reduced the overall rentals and services 
+margin. Profit margins on office products 
+rentals and services increased, due principally to 
+improved support costs. 
+Selling, development and engineering, and 
+general and administrative expenses, exclusive of 
+exchange gains and losses, referred to below, 
+increased by 10.8 % over 1978. The increase is from 
+higher costs of employee compensation and 
+benefits, which includes those costs associated with 
+the resource buildup needed to support the 
+heavy current and anticipated future shipments. 
+In addition, double-digit inflation in the 
+U.S. and in many other countries in 1979 affected 
+all areas of operating expenses. 
+In terms of the company's buildup, over 
+11,600 people were added worldwide in 1979. 
+This growth followed the addition of over 15,300 
+people in 1978. 
+Foreign currency exchange losses of $5 2 
+million, consisting principally of unrealized losses 
+from the translation of foreign currency assets 
+and liabiHties, were included in 1979 net earnings. 
+This compares with gains of $113 million in 1978. 
+Other income, principally interest on market-
+able securities, increased by $37 million in 1979, to 
+$449 million. Although the average portfolio 
+of marketable securities dechned by approximately 
+$800 million, the effect was more than offset by 
+higher interest rates and the net change in the revalu-
+ation of securities at the lower of cost or market. 
+Interest on debt increased by $85 million, to 
+$140 million in 1979. This is primarily a result of the 
+$1,000 million debt financing in October 1979, and 
+the substantial increases in short-term borrowings. 
+U.S. Federal and non-U.S. income taxes in 1979 
+were 45.8% of earnings before such taxes, and 
+46.3% in 1978. The difference in effective tax rates 
+is principally due to the reduction in the U. S. 
+statutory tax rate from 48% to 46%. 
+Worldwide net earnings amounted to $3,011 
+million, as compared to $3,111 million in 1978, a 
+decrease of 3.2%. Earnings from U.S. opera-
+tions were $1,584 million, a 2.2% increase, while 
+non-U.S. earnings were below 1978, at $1,427 
+million, an 8.5% decrease. 
+1978 vs. 1977 
+Gross income from worldwide sales, 
+rentals and services was $21,076 million, ori6.2% 
+higher than 1977. Total data processing gross 
+income increased by 15.6% to $17,074 million, 
+and accounted for the largest part of the growth in 
+1978. However, total office products gross 
+income of $3,390 million, reflects a higher rate of 
+growth, an increase of 20.1%. Total gross income 
+from U.S. operations was $10,036 million, 
+an increase of 11.4%, while non-U. S. operations 
+amounted to $11,040 million, a 21.0% increase. 
+Although the rates of increase for non-U. S. opera-
+tions are greater than for U S. operations, a large 
+part of the difference in growth rates is attributable 
+to the effects of currency 
+fluctuations. 
+Gross income from sales increased by 23.5% in 
+1978. Data processing sales increased by 24.5% to 
+$6,3 66 million. Purchases of data processing 
+equipment, which are included in this total, 
+amounted to $5,840 million, a 26.9% increase over 
+1977. Purchases of the newer large processors 
+accounted for a significant portion of the increase. 
+Gross income from data processing equipment 
+purchases in non-U.S. operations slightly exceeded 
+that of U.S. operations. Gross income from office 
+products sales increased by 23.9% worldwide. 
+Gross income from rentals and services in-
+creased by 11.6% in 1978. Gross income from data 
+processing rentals and services, which increased 
+by 10.9% to $10,708 million, includes equipment 
+rentals and services, which increased by 6.2% to 
+$8,616 million. Gross income from other data 
+processing rentals and services, including mainte-
+nance of purchased equipment, increased at a 
+substantially greater rate and continues to reflect 
+the worldwide high level of data processing equip-
+ment purchases in recent years. Gross income 
+from office products rentals and services increased 
+by 16.1 % worldwide. 
+Cost of sales in 1978 increased 25.8%, com-
+pared to the increase of 23.5% in related gross 
+income. Cost of sales of data processing equipment 
+increased at a rate higher than the related gross 
+
+
+===== PAGE 34 =====
+income. Among the factors contributing to this 
+were changes in the mix of products sold, and 
+higher costs associated with initial shipments of 
+newer products, as well as the effects of price reduc-
+tions. Cost of sales of office products increased at 
+a slightly lower rate than the related gross income. 
+Cost of rentals and services increased by 14.9%, 
+compared to the increase of 11.6% in related 
+gross income. Cost of rentals and services of data 
+processing equipment increased at a rate com-
+parable to its related gross income. However, 
+office products cost increased at a higher rate than 
+that of gross income. 
+Selling, development and engineering, and 
+general and administrative expenses increased by 
+13.6% in 1978, which was slightly lower than 
+the increase in overall gross income. This reflects 
+higher costs of employee compensation and benefits, 
+a continued worldwide buildup of resources to 
+meet strong customer demands, as well as inflation-
+ary pressures on all operating expenses. 
+Foreign currency exchange gains of $ 113 
+million, consisting principally of unrealized gains 
+from the translation of foreign currency assets 
+and liabilities, were included in 1978 net earnings. 
+This compares with gains of $28 million in 1977. 
+Interest on debt increased by $15 million as a 
+result of borrowings related to non-U. S. operations. 
+Other income, principally interest on market-
+able securities, decreased by $63 million in 1978. 
+The decrease was due to a lower average portfolio 
+of marketable securities and the effect of revaluing 
+certain securities at the lower of cost or market, 
+partially offset by higher interest rates. 
+U.S. Federal and non-U.S. income taxes 
+were 46.3 % of earnings before such taxes in 1978 
+and 4 6 . 6 % in 1977. 
+Worldwide net earnings were $3,111 million, 
+an increase of 1 4 . 4 % over 1977. Earnings from 
+U.S. operations were $1,551 million, a 4 . 0 % 
+increase. Non-U. S. earnings were $ 1 , 5 6 0 million, 
+a Z7.i% increase. As previously mentioned, a large 
+part of the difference in growth rates is attribu-
+table to the effects of currency fluctuations. 
+Cash Dividends 
+Cash dividends totaling $z,oo8 million were 
+paid to stockholders in 1979, compared with 
+$1,685 million in the previous year. 
+The regular quarterly cash dividend, payable 
+M a r c h 1 0 , 1 9 8 0 , will be at the rate of $.86 per 
+share. This dividend will be IBM's 2 6 0 t h con-
+secutive quarterly cash dividend. Cash dividends 
+for the last two years (adjusted for 1979 
+stock split) were as follows: 
+Quarter 
+1979 
+1 9 7 8 
+First 
+$ 
+.86 
+$ 
+.72 
+Second 
+86 
+•72-
+Third 
+86 
+•72. 
+Fourth 
+.86 
+•72. 
+$ 3 . 4 4 
+$ 2.88 
+IBM Stock Prices 
+The high and low prices for IBM's capital 
+stock on the New York Stock Exchange for the last 
+two years (adjusted for 1979 stock split) were 
+as follows: 
+E979 
+Quarter 
+High 
+Low 
+First 
+$ 8 0 . 1 3 
+$ 73-63 
+Second . . . . 80.50 
+72-13 
+Third 
+74-oo 
+65.75 
+Fourth 
+69.50 
+6 1 . 1 3 
+High 
+Low 
+. 6 8 . 2 5 
+$ 5 8 . 8 1 
+6 9 . 0 6 
+5 8 . 6 9 
+7 5 . 8 5 
+6 3 . 7 5 
+7 7 . 5 0 
+6 4 . 0 0 
+Capital Expenditures 
+During 1979, IBM's growing business, together 
+with the company's need to replace obsolete 
+equipment, required a worldwide investment of 
+$5,991 miUion, including $4,212 milhon for rental 
+machines. 
+Retirements, covering obsolete and dismantled 
+equipment, as well as rental machines sold 
+that previously were under lease to customers, 
+amounted to $ 2 , 4 2 2 million in 1979, includ-
+ing $2,210 million of rental machines. These retire-
+ments were charged against amounts provided 
+out of prior and current years' earnings, or against 
+cost of sales. 
+Listed below are the major IBM facilities that 
+were completed or under construction throughout 
+the world during the year. 
+United States 
+Purpose 
+Sq. Ft. 
+Tucson, Arizona 
+Mfg. & Dev. 
+1 , 6 9 5 , 0 0 0 
+t Austin, Texas 
+Mfg. & Dev. 
+1 , 1 8 1 , 0 0 0 
+New York, New York 
+Mktg. 
+1 , 0 3 1 , 0 0 0 
+t Raleigh, North Carolina 
+Mfg. & Dev. 
+9 8 4 , 0 0 0 
+Charlotte, North Carolina Mfg. & Dev. 
+7 5 0 , 0 0 0 
+t Rochester, Minnesota 
+Mfg. & Dev. 
+6 1 5 , 0 0 0 
+t Burlington, Vermont 
+Mfg. & Dev. 
+5 4 2 , 0 0 0 
+Houston, Texas 
+Mktg. 
+4 0 8 , 0 0 0 
+tBoca Raton, Florida 
+Mfg. & Dev. 
+3 4 8 , 0 0 0 
+Franklin Lakes, New Jersey Adm. 
+2 9 5 , 0 0 0 
+St. Louis, Missouri 
+Mktg. 
+2 8 3 , 0 0 0 
+* Southfield, Michigan 
+Mktg. 
+2 6 3 , 0 0 0 
+tFast Fishkill, New York 
+Dev. 
+1 9 0 , 0 0 0 
+*t Armonk, New York 
+Adm. 
+1 8 3 , 0 0 0 
+t Yorktown, New York 
+Adm. & Dev. 
+1 7 5 , 0 0 0 
+t Lexington, Kentucky 
+Dev. 
+1 5 2,000 
+Non-U. S. Countries 
+Toronto, Canada 
+Adm. & Mktg. 
+6 7 8 , 0 0 0 
+* Helsinki, Finland 
+Adm. & Mktg. 
+3 9 9 , 0 0 0 
+t Portsmouth, England 
+Adm. 
+3 6 5 , 0 0 0 
+Marne la Vallee, France 
+Mktg. 
+3 5 6 , 0 0 0 
+tBoeblingen, West Germany Mfg-
+3 3 0 , 0 0 0 
+Buenos Aires, Argentina 
+Mktg. 
+3 2 2 , 0 0 0 
+t Greenock, Scotland 
+Mfg. 
+2 6 6 , 0 0 0 
+* London, England 
+Mktg. 
+2 3 3 , 0 0 0 
+tVimercate, Italy 
+Mfg. 
+2 0 0 , 0 0 0 
+* Hannover, West Germany 
+Wg-
+1 8 5 , 0 0 0 
+*tHavant, England 
+Mfg. 
+1 8 1 , 0 0 0 
+t Essonnes, France 
+Mfg. 
+1 6 7 , 0 0 0 
+*tMontpellier, France 
+Mfg. 
+1 6 7 , 0 0 0 
+* Paris, France 
+Mktg. 
+1 6 6 , 0 0 0 
+t Yasu, Japan 
+Mfg. 
+1 5 0 , 0 0 0 
+Completed in 1979. 
+t Additions to existing facilities. 
+Capital Expenditures: 
+Rental Machines* 
+Plant and Other Property • 
+in millions of dollars 
+1975 
+'76 
+'77 
+'78 
+'79 
+
+
+===== PAGE 35 =====
+Information on Effects of Changing Prices 
+In accordance with the provisions of State-
+ment of Financial Accounting Standards (SEAS) 
+No. 33, Financial Reporting and Changing Prices, 
+certain financial information has been adjusted 
+for the effects of general inflation, utilizing the 
+Constant Dollar method and prescribed price 
+index. T h e objective of SFAS No. 33 is to measure 
+the estimated effects of inflation on business enter-
+prises, inasmuch as it is generally recognized 
+that financial statements prepared under the tradi-
+tional historical cost basis do not adequately 
+reflect the impact of inflation. SFAS No. 33 also 
+calls for information on the effects of changes 
+in specific prices, known as the Current Cost 
+method, which is to be reported in the 1 9 8 0 IBM 
+Annual Report, including comparable 1979 
+information. 
+In terms of the Constant Dollar method as 
+applied to IBM's operations, the restated net assets 
+amount should not be interpreted as a 
+measure of current value. T h e restated net assets 
+and net earnings may also incorrectly imply 
+that costs, although heavily impacted by inflation, 
+have not benefited from the countervailing 
+effects of productivity gains, including technologi-
+cal advances and improved manufacturing 
+processes. It is well known that the industry has 
+substantially reduced the costs of computing 
+power, despite the effects of inflation. It should also 
+be pointed out that the prescribed price index to 
+be used for both U.S. and non-U.S. operations is 
+the U.S. Consumer Price Index for all Urban 
+Consumers (CPI-U), which may not be indicative 
+of the rate of inflation the company has expe-
+rienced in either the U.S. or its non-U.S. subsidiaries. 
+Accordingly, management believes that the restate-
+ment of IBM earnings prepared under the Con-
+stant Dollar method does not properly reflect the 
+effects of inflation on the company. 
+In summary, it is clear that the high rates of 
+inflation have significantly eroded the purchasing 
+power of corporate earnings, including IBM's. 
+It is also evident that inflation raises the effective 
+tax rates on industry. It is generally agreed that 
+there is a need to measure these effects. However, it 
+should be recognized that the methods promul-
+gated to quantify these effects are still experimental 
+in nature, and will need refinements over time. 
+A great deal of education and understanding 
+will be required by preparers and users before 
+gaining acceptance for purposes of measuring the 
+effects of inflation on corporate financial results. 
+1979 Statement of Earnings Adjusted for General Inflation (Constant Dollar) 
+As R e p o r t e d in 
+Financial S t a t e m e n t s 
+Adjusted for 
+General 
+inflation 
+(Dollars in millions except per share amounts) 
+Gross income from sales, rentals and services 
+Cost of sales, rentals and services 
+Expenses and other income 
+Provision for U. S. Federal and non-U. S. income taxes 
+Net earnings 
+Earnings per share t 
+Net assets 
+Loss from decline in purchasing power of net monetary assets. 
+tAdjusted for 1979 stock split. 
+8,413 
+8,897 
+2-,542-
+$ 2Z,863 
+$ 
+3,01 I 
+$ 5.16 
+$ 14,96 I 
+S 9 , 0 8 3 
+8,991 
+$ 22.,863 
+2 0 , 6 1 6 
+s 3-85 
+1 6 , 6 2 4 
+4 5 5 
+The adjusted information was prepared by con-
+verting reported inventory, plant, rental machines 
+and other property, cost of sales, rentals and 
+services, and depreciation expense, into dollars 
+with purchasing power equivalent to average 
+1979 dollars. This was done by applying to the 
+original cost of the applicable assets, the in-
+crease in the CPI-U for the elapsed period from 
+acquisition to 1979. The related depreciation 
+expenses were similarly adjusted and charged 
+against earnings, using the company's established 
+depreciation policies. Gross income and expenses 
+other than depreciation, are not required to be 
+adjusted as they are considered to have occurred 
+proportionately over the year, thus already reflect-
+ing average 1979 dollars. 
+Depreciation charged to restated costs and 
+expenses amounted to $2,343 million, as com-
+pared with reported depreciation of $1,970 million. 
+The loss from decline in purchasing power 
+results from holding net monetary assets during 
+periods of inflation. Net monetary assets 
+include cash and claims to cash, and amounts 
+owed, which are fixed in terms of number of 
+dollars to be received or paid. 
+T h e impact of general inflation on earnings, as 
+presented by the above constant dollar adjust-
+ments, is not deductible for income tax purposes. 
+As a result, after giving effect to these adjust-
+ments, income taxes consume 5 3 . 1 % of earnings 
+as compared to 4 5 . 8 % reported in the financial 
+statements. Although as previously stated, the 
+Constant Dollar method does not properly reflect 
+the effects of inflation on the company, it does 
+give an indication of the significant hidden impacts 
+of income taxes in periods of high inflation and 
+the adverse effects on a company's ability to 
+retain earnings to meet the escalating cost of 
+replacing and expanding its productive capacity. 
+It also emphasizes the need to reconsider 
+national tax policies in order to give recognition 
+to the reality of inflation. 
+
+
+===== PAGE 36 =====
+Five-Year Comparison of Selected Financial Data 
+Adjusted for General Inflation (Constant Dollar) 
+1 9 7 9 
+1978 
+1 9 7 7 
+1976 
+' 9 7 5 
+(Dollars in millions except per share amounts) 
+Gross income from sales, rentals and services 
+Cash dividends paid per share t 
+Market price per share t (at December 31) 
+Average Consumer Price Index for all 
+Urban Consumers (1967 = 100.0) 
+The actual market price of IBM stock at December 3 1, for years 1 9 7 5 to 1 979 
+(adjusted for stock split) w a s $ 5 6 . 0 6 , $ 6 9 . 8 1 , $ 6 8 . 1 5 , $74-5.1 
+$64.63, respectively. 
+tAdjusted for 1 9 7 9 stock split. 
+$ 22,863 
+$3.44 
+$ 
+64.63 
+2 1 7 . 4 
+$ 23,449 
+$3.20 
+$ 
+82.92 
+195-4 
+$ 21,720 
+$2.99 
+$ 
+81.75 
+181.5 
+$ 20,789 
+$2.55 
+$ 
+89.02 
+170.5 
+$ 19,470 
+$2.19 
+$ 
+75.61 
+1 6 1 . Z 
+The information was prepared by applying to 
+the reported amounts for each item for the years 
+1975 to 1978, the rate of change in the average 
+CPI-U from that year to year 1979. Thus, the 
+restated amounts express each prior year item in 
+terms of the purchasing power of average 
+1979 dollars. For example, assuming that the 
+CPI-U properly reflects the declining purchasing 
+power of the dollar, the information in-
+dicates that the reported 1975 gross income of 
+$14,437 rnillion, is the equivalent of $19,470 
+million of purchasing power in 1979 dollars. 
+Replacement Cost Data 
+The company is presently compiling replace-
+ment cost data, which will be included in the 1979 
+Form lO-K Annual Report to the Securides 
+and Exchange Commission. In the future, replace-
+ment cost data will no longer be furnished, 
+as the SEC has rescinded the requirement for those 
+companies providing current cost informa-
+tion under SFAS No. 3 3. As indicated on page 34, 
+the company will provide such information in 
+the 1980 IBM Annual Report. 
+
+
+===== PAGE 37 =====
+IBM Organization 
+To conduct its business throughout the world, 
+IBM is organized into the following 
+groups, 
+divisions and wholly owned subsidiaries: 
+DP Marketing Group 
+Data Processing Division...Has marketing 
+responsibility within the United States and its 
+territories for IBM's information-handling 
+systems, equipment, computer programming, 
+systems engineering, education and other 
+related services to customers w^ho require larger 
+centralized systems as well as customers who 
+require distributed data processing systems. 
+Federal Systems Division...Provides information-
+handling and control systems to the Federal 
+government for seaborne, spaceborne, air-
+borne and ground-based environments. Also 
+participates in applied research and explor-
+atory development. 
+Field Engineering Division... Provides mainte-
+nance and related services for products devel-
+oped and manufactured by or for the 
+DP Product Group and marketed by the Data 
+Processing Division, and support for specified 
+IBM program offerings. Also provides 
+maintenance marketing support and central 
+programming service for assigned products. 
+DP Product Group 
+Data Systems Division... Has worldwide 
+development responsibility for large, complex 
+systems, with primary emphasis on high-
+performance products and associated program-
+ming, plus U. S. manufacturing respon-
+sibility for those systems. The division supplies 
+computer components, including logic and 
+selected memory technologies, used in products 
+that it and other IBM divisions manufacture 
+in the U.S. 
+General Products Division...Has worldwide 
+development and U.S. manufacturing responsi-
+bility for high-performance storage systems, 
+including tape units, disk products and mass stor-
+age systems, as well as nonimpact system 
+printers, program products, programming 
+languages and related programming. 
+System Communications Division... Has 
+worldwide development and U.S. manufac-
+turing responsibility for information-
+handling systems and products that serve a 
+wide range of end-users. These include 
+distributed systems, industry systems, display 
+terminal products, telecommunications 
+systems and related technologies and 
+programming. 
+System Products Division... Has worldwide devel-
+opment responsibility for IBM's intermediate-
+range processors and related programming and 
+for impact printer products and semicon-
+ductor packaging, plus U.S. manufacturing re-
+sponsibility for those hardware products. 
+General Business Group 
+General Systems Division ... Has worldwide prod-
+uct management and development responsi-
+bility, and U.S. manufacturing, marketing and 
+service responsibility, for low-to-moderate-
+price information-handling systems, including 
+systems-related programming. The division 
+also has U.S. manufacturing responsibility for 
+selected office products. 
+Office Products Division...Has worldwide prod-
+uct management and development respon-
+sibility, and U. S. marketing and service 
+responsibility, for electric and electronic type-
+writers, copiers, copier systems, magnetic 
+media typewriters, information processing 
+products, dictation equipment, direct-impres-
+sion composing products and related supplies. 
+The division also has U.S. manufacturing 
+responsibility for electric and electronic type-
+writers, copiers, copier systems and most 
+related supplies. 
+General Business Group/International Division... 
+Has marketing, service, manufacturing 
+and overall performance responsibility for 
+General Systems and Office Products operations 
+in 21 countries in Europe, the Americas and 
+the Far East. 
+General Technology Division... Has worldwide 
+development and U. S. manufacturing 
+responsibility for the component technology 
+requirements of the low-to-moderate-price 
+computers made by the General Systems 
+Division, and products of the Office Products 
+Division. Also supplies selected components 
+to other IBM operating units. 
+Information Records Division...Has U.S. market-
+ing responsibility for magnetic media and disk 
+storage products, as well as U.S. manufactur-
+ing and marketing responsibility for data 
+processing cards, ribbons and other consum-
+able products used in information-handling 
+machines. The division also has worldwide 
+development and manufacturing responsibil-
+ity and U. S. marketing responsibility for bio-
+medical devices and supplies. 
+Other Divisions 
+Real Estate and Construction Division... 
+Manages the selection and acquisition of sites, 
+the design and construction of buildings, 
+and the purchase or lease of facilities for all IBM 
+operations in the U. S. It has responsibility 
+for assessing real estate projects outside the 
+U.S., as well as for IBM's worldwide energy and 
+environmental programs. It also provides facility 
+services to selected headquarters locations. 
+Research Division...Brings scientific understand-
+ing to bear on areas of company interest 
+through basic research and the development 
+of technologies of potential long-range 
+importance. 
+Subsidiaries 
+Science Research Associates, Inc 
+Has world-
+wide development, production and marketing 
+responsibility for a wide range of educa-
+tional materials and services for elementary 
+and secondary schools and colleges, as well as 
+testing and training materials for industry, 
+and educational and leisure-time products for 
+home use by adults and children. 
+IBM World Trade Americas/Far East Corporation 
+...With a territory extending across four 
+continents, this subsidiary is responsible for 
+IBM operations in 44 countries, including 
+Australia, Brazil, Canada and Japan. 
+IBM World Trade Europe/Middle East/Africa 
+Corporation...Through its subsidiary, 
+IBM Europe, located in Paris, it is responsible for 
+IBM operations in 77 countries. 
+IBMWorldTrade Corporation... Provides 
+designated support to IBM WorldTrade organi-
+zational units. 
+
+
+===== PAGE 38 =====
+Progress Report 
+New computer-controlled 
+materials distribution 
+center 
+at IBM France's Montpellierplant 
+reduces costs and 
+improves the handling and transportation of materials, 
+as well as speeding the availability 
+of parts to production 
+lines for computers and data communications 
+products. 
+Plant/Laboratory Expansion 
+Construction of new IBM facilities continues 
+at a high level to meet the customer demand 
+for IBM products. At the end of 1979, more than 
+II million sq. ft. of new space were being built 
+worldwide-of which some 8 million sq. ft. 
+were for manufacturing and product development. 
+Among the facilities under construction 
+or completed during the year were plants and 
+laboratories in Austin,Tex.; Charlotte and 
+Raleigh, N.C.;Tucson, Ariz.; Hannover, West 
+Germany; andWangaratta, Australia; materials 
+distribution centers in Greencastle, Ind., 
+and Montpellier, France; and a management 
+development center in Armonk, N.Y. 
+Major IBM construction projects worldwide 
+are listed on page 3 3. 
+Satellite System Tests 
+Satellite Business Systems, the partnership 
+formed by subsidiaries of The Aetna Casualty and 
+Surety Company, COMSAT General Corpo-
+ration, and IBM, is continuing its preparations for 
+offering commercial services in 1981. 
+During 1980, IBM and SBS will conduct 
+operational field tests of the equipment to be used 
+in SBS's tariffed offerings. The tests will provide 
+experience in installing and operating the complex 
+new equipment needed to provide high-speed 
+digital communications services. 
+SBS is awaiting the results of a rehearing now 
+before the full U. S. Court of Appeals in Washington, 
+D.C., to determine if the Federal Communi-
+cations Commission must hold further antitrust 
+hearings on whether both COMSAT General 
+Corporation and IBM may participate in SBS. 
+More Energy Gains 
+IBM further improved its energy efficiency 
+in 1979 with conservation measures that amounted 
+to a 5 % saving per sq. ft. at major U. S. loca-
+tions, compared with 1978.This reduction brought 
+the company's total U.S. saving from the 1973 
+pre-conservation level to 45%. 
+In the past six years, IBM has conserved 
+enough electricity in the U.S. to meet the needs of 
+3 80,000 homes for a year. Enough oil has been 
+saved to serve 160,000 homes in northern states. 
+In IBM World Trade countries, where con-
+servation has been practiced for many years, the 
+energy savings per sq. ft. at major IBM loca-
+tions from 1973 through 1979 came to 40%. 
+IBM's experience with the use of computers 
+for energy management at its facilities shows 
+typical savings of i o % to 1 5 % through control of 
+electrical, heating and cooling equipment. 
+
+
+===== PAGE 39 =====
+Progress Report 
+Now installed to conserve energy at IBM's new 
+plantUaboratory 
+complex in Tucson, Ariz., 
+are ij tanks 
+totaling j.p million gallons of thermal water storage. 
+Depending on the season, water storage is usedfor either 
+air conditioning or general 
+heating. 
+IBM now has more than 80 such computer 
+systems installed in the company's worldwide 
+operations, with more planned. 
+At IBM's new plant/laboratory complex 
+in Charlotte, N . C , one of the principal boilers has 
+the capability of burning natural gas, fuel oil, 
+coal or any combination. 
+In a new IBM branch office in Tokyo, Japan, 
+heat wheels and pipes are used to transfer building 
+heat or cooling from the exhaust system to warm 
+or cool the incoming outside fresh air. 
+IBM in Video Disc Field 
+A joint venture to develop, manufacture and 
+market video discs and video disc players has been 
+formed by IBM and MCA Inc. The two companies 
+are equal owners of the newly organized Disco-
+Vision Associates. 
+By blending complementary technical and 
+marketing skills, the new organization provides an 
+opportunity to broaden the use of video disc 
+technology in the home entertainment and indus-
+trial education and information fields. 
+The video disc technology permits high-density 
+storage of images and sound on a plastic disc 
+(picture, page 39). A disc player optically scans the 
+recorded information to play out picture and 
+sound on a television set. 
+Space and Defense Programs 
+In 1979, IBM delivered the flight and ground 
+software for NASA's first Space Shuttle orbital 
+mission, scheduled for 1980. IBM has now devel-
+oped more than -f^/i million computer instructions 
+for the shuttle program. 
+During the year IBM also delivered the com-
+mand and control system for the U.S. Navy's first 
+Trident submarine. IBM integrated five major 
+subsystems, consisting of 90 principal pieces of 
+equipment and more than i million computer 
+instructions. 
+N o w starting full-scale tests is the U.S. Navy's 
+new ship/helicopter system for defense against 
+submarines and detection of surface vessels. IBM 
+is the prime contractor for this system and 
+is also supplying a signal processing system for 
+both the helicopters and ships. 
+Biomedical Systems Growth 
+Enhancements of IBM biomedical systems in-
+clude a new pediatric analysis program that 
+enables doctors to use a computer to help analyze 
+heart disorders in infants and other young 
+children. A similar diagnostic program for adults 
+was introduced earlier. 
+These programs are used with IBM's mobile 
+electrocardiograph unit that has a built-in 
+computer to help physicians interpret signals from 
+the heart within minutes at a patient's bedside. 
+Such a rapid computer analysis offers many 
+hospitals a new method for providing around-the-
+clock patient care. 
+Equal Opportunity Programs 
+Emphasis continued in 1979 on worldwide 
+IBM programs that provide equal opportunities in 
+employment, advancement and training. Of 
+the more than 16,000 IBM employees hired in the 
+U.S. during the year, some 36% were women 
+and 19% were minorities. At the end of 1979, the 
+company had 2,000 women managers and 
+2,200 minority managers in the U.S. 
+I B M employees are presently on loan as 
+teachers at 28 predominandy minority colleges. 
+Since 1971, the company has loaned more than 
+2 3 0 employees for this program. 
+I B M support of outside programs for job 
+training of disadvantaged and handicapped per-
+sons was expanded in 1979. M o r e than 300 
+such programs are now receiving company aid in 
+the form of loaned equipment or personnel. 
+In 1979, the company expanded its country-
+wide purchases of products and services 
+from minority entrepreneurs-black, Hispanic, 
+American Indian and Asian. IBM has increased 
+the number of its minority-owned suppliers 
+to more than 500 companies doing more than 
+$40 million worth of business with IBM in 1979. 
+Audio Aid for Blind Typists 
+Blind typists will be better able to edit and 
+revise documents with an IBM typing unit that 
+'speaks" typed information (picture, page 3 9). The 
+new IBM audio typing unit can be attached 
+to any of four IBM magnetic media typewriters. 
+It consists of an audio console, with optional 
+headset, plus a key-pad for operator control. The 
+unit pronounces and spells typed characters, 
+words or lines of text. It verbalizes punctuation 
+and typing position on the page and other-
+wise helps the blind typist function without the aid 
+of a sighted person. 
+The audio responses are created by combining 
+a stored set of basic speech sounds, or phonemes, 
+in accordance with programmed pronuncia-
+tion rules stored in the electronic memory. A voice 
+synthesizer produces sounds that correspond to 
+the typewriter keys touched by the typist. 
+The IBM blood cell separator, shown in the Paramus, 
+N.J. 
+blood center, is coming into widening use in the 
+U.S. and overseas to separate the blood's white cells and 
+platelets to help cancer patients fight infections 
+and hemorrhaging. 
+The separator is now also being used 
+to collect ''neocytes" newborn red blood cells used 
+in treatingpatie^its 
+who are undergoing 
+long-term 
+transfusion therapy. 
+
+
+===== PAGE 40 =====
+Video disc technology in IBATS new joint venture 
+with 
+MCA Inc. plays out recorded picture and sound 
+on a television receiver The player can also locate any 
+one of 
+0 0 picture frames on a disc within 
+five seconds for projection on the screen. 
+The new corrective reading program introduced by SRA, 
+IBM's educational publishing subsidiary, is designed 
+to help teachers improve both the word recognition and 
+comprehension skills of intermediate and secondary 
+school students. 
+New IBM audio typing unit is designed to help 
+blind typists become more self-sufficient and to qualify 
+for additional employment 
+opportunities. 
+
+
+===== PAGE 41 =====
+I B M Corporation 
+Board of Directors: 
+S t e p h e n D. B e c h t e l , J r 
+C h a i r m a n of the c o m p a n i e s of the B e c h t e l g r o u p , S a n F r a n c i s c o , C a l i f . - e n g i n e e r i n g and c o n s t r u c t i o n 
+G e o r g e B . B e i t z e l 
+I B M S e n i o r V i c e President 
+F r a n k T . C a r y 
+C h a i r m a n o f the B o a r d , 
+I B M 
+W i l i i a m T . C o l e m a n , Jr. 
+Partner, O ' M e l v e n y & M y e r s , W a s h i n g t o n , D . C . , L o s A n g e l e s , C a h f . , a n d Paris, F r a n c e - a t t o r n e y s at l a w 
+J o h n M . F o x 
+A g r i b u s i n e s s c o n s u l t a n t a n d retired C h a i r m a n o f the B o a r d , H . P H o o d Inc., B o s t o n , M a s s . - f o o d 
+p r o c e s s i n g and distribution 
+G. K e i t h F u n s t o n 
+R e t i r e d President, N e w Y o r k S t o c k E x c h a n g e 
+C a r l a A n d e r s o n H i l l s 
+Partner, L a t h a m , W a t k i n s & Hills, W a s h i n g t o n , D.C., a n d L o s A n g e l e s , C a l i f , - a t t o r n e y s at l a w 
+A m o r y H o u g h t o n , Jr. 
+C h a i r m a n o f the B o a r d , C o r n i n g G l a s s W o r k s , C o r n i n g , N . Y . 
+J o h n N . I r w i n I I 
+O f C o u n s e l , P a t t e r s o n , Bel k n a p , W e b b & Tyler, N e w Y o r k , N . Y . - a t t o r n e y s at l a w 
+N i c h o l a s d e B . K a t z e n b a c h 
+I B M S e n i o r V i c e P r e s i d e n t & G e n e r a l C o u n s e l 
+T . V i n c e n t L e a r s o n 
+R e t i r e d C h a i r m a n of the B o a r d , 
+I B M 
+R i c h a r d W . L y m a n 
+President, S t a n f o r d University 
+D e a n R . M c K a y 
+I B M S e n i o r V i c e President 
+M a e r s k M c - K i n n e y M o l l e r 
+C h a i r m a n o f the B o a r d , A . P M o l l e r , C o p e n h a g e n , D e n m a r k - o w n e r s o f t h e M a e r s k Fleet 
+W i l l i a m H . M o o r e 
+R e t i r e d C h a i r m a n o f t h e B o a r d , B a n k e r s T r u s t C o m p a n y , N e w Y o r k , N . Y . 
+J . R i c h a r d M u n r o 
+E x e c u t i v e V i c e President, T i m e , Inc., N e w Y o r k , N . Y . 
+J o h n R . O p e l 
+President, I B M 
+Paul J . R i z z o 
+I B M S e n i o r V i c e President 
+W i l l i a m W . S c r a n t o n 
+F o r m e r U . S . A m b a s s a d o r t o the U n i t e d N a t i o n s , f o r m e r G o v e r n o r of P e n n s y l v a n i a 
+I r v i n g S . S h a p i r o 
+C h a i r m a n of the B o a r d , E. I. du Pont de N e m o u r s & C o m p a n y , W i l m i n g t o n , D e l . - c h e m i c a l p r o d u c t s 
+A l b e r t L . W i l l i a m s 
+R e t i r e d President, I B M 
+Board Committees: 
+Executive: 
+Finance: 
+Compensation: 
+Audit: 
+F r a n k T . G a r y , C h a i r m a n 
+G . K e i t h F u n s t o n 
+A m o r y H o u g h t o n , Jr. 
+T . V i n c e n t L e a r s o n 
+W i l l i a m H . M o o r e 
+J o h n R . O p e l 
+Irving S . S h a p i r o 
+W i l l i a m W . S c r a n t o n , C h a i r m a n 
+G e o r g e B.Beitzel 
+J o h n N . Irwin 11 
+D e a n R . M c K a y 
+M a e r s k M c - K i n n e y M o l l e r 
+Paul J . R i z z o 
+S t e p h e n D . B e c h t e l , J r . , C h a i r m a n 
+W i l l i a m T . C o l e m a n , Jr. 
+J o h n M . F o x 
+A m o r y H o u g h t o n , Jr. 
+Irving S . S h a p i r o 
+A l b e r t L . W i l l i a m s 
+C a r l a A n d e r s o n H i l l s , C h a i r m a n 
+R i c h a r d W . L y m a n 
+W i l l i a m H . M o o r e 
+Advisory Board: 
+B r u c e B r o m l e y 
+J o h n C l i f f o r d F o l g e r 
+G e o r g e L . H i n m a n 
+G i l b e r t E. J o n e s 
+G r a y s o n K i r k 
+L o u i s H . L a M o t t e 
+W i l l i a m M c C h e s n e y M a r t i n , Jr. 
+E m a n u e l R . P i o r e 
+Partner, C r a v a t h , S w a i n e & M o o r e , N e w Y o r k , N . Y . - a t t o r n e y s at l a w 
+C h a i r m a n o f t h e B o a r d , F o l g e r N o l a n F l e m i n g D o u g l a s I n c o r p o r a t e d , W a s h i n g t o n , D . C . - i n v e s t m e n t b a n k e r s 
+Partner, H i n m a n , H o w a r d & K a r t e l l , B i n g h a m t o n , N . Y . - a t t o r n e y s at l a w 
+R e t i r e d V i c e C h a i r m a n o f t h e B o a r d , I B M 
+P r e s i d e n t E m e r i t u s , C o l u m b i a University, N e w Y o r k , N . Y . 
+R e t i r e d I B M E x e c u t i v e V i c e President 
+R e t i r e d C h a i r m a n , F e d e r a l R e s e r v e B o a r d , W a s h i n g t o n , D . C . 
+R e t i r e d I B M V i c e President 
+Officers: 
+F r a n k T . C a r y 
+J o h n R . O p e l 
+G e o r g e B . B e i t z e l 
+D e a n R . M c K a y 
+Paul J . R i z z o 
+N i c h o l a s d e B . K a t z e n b a c h . 
+J a c q u e s G . M a i s o n r o u g e . . . 
+R a l p h A . P f e i f f e r , J r . 
+D e a n P. P h y p e r s 
+J o h n F. A k e r s 
+A r t h u r G . A n d e r s o n 
+C l a r e n c e B . R o g e r s , Jr. 
+J o h n E . B e r t r a m 
+C h a r l e s P. B i g g a r 
+L e w i s M . B r a n s c o m b 
+W a l t o n E . B u r d i c k 
+K a s p a r V . C a s s a n i 
+F r a n k J . C u m m i s k e y 
+W a l l a c e C . D o u d 
+R o b e r t B . D u n l o p 
+W i l l i a m W . E g g l e s t o n 
+B o b O . E v a n s 
+. C h a i r m a n o f t h e B o a r d 
+. President 
+. Sr. V i c e President 
+. Sr. V i c e President 
+. Sr. V i c e President 
+. Sr. V i c e President & G e n e r a l C o u n s e l 
+. Sr. V i c e President 
+, Sr. V i c e President 
+. Sr. V i c e President, F i n a n c e & 
+I ' l a n n i n g 
+. V i c e President & G r o u p E x e c u t i v e 
+V i c e President & G r o u p E x e c u t i v e 
+. V i c e President & G r o u p E x e c u t i v e 
+. V i c e President 
+. V i c e President 
+. V i c e President 
+. V i c e President 
+. V i c e President 
+V i c e President 
+. V i c e President 
+. V i c e President 
+• V i c e President 
+. V i c e President 
+P. M a r t i n F o l e y 
+V i c e President 
+V i c t o r J . G o l d b e r g 
+V i c e President 
+R a l p h E . G o m o r y 
+V i c e President 
+J e r r i e r A . H a d d a d 
+V i c e President 
+J o h n B . J a c k s o n 
+V i c e President 
+Paul W K n a p l u n d 
+V i c e President 
+Allen J . K r o w e 
+V i c e President 
+D a v i d E . M c K i n n e y 
+V i c e President 
+C h a r l e s E . M c K i t t r i c k , J r 
+V i c e President 
+T h e o d o r e C . P a p e s , Jr. 
+V i c e President 
+Francis G . R o d g e r s 
+V i c e President 
+J o h n F. W i l l i a m s 
+V i c e President 
+J . R i c h a r d Y o u n g 
+V i c e President 
+J o h n H . G r a d y 
+S e c r e t a r y 
+F r a n k A . M e t z , Jr. 
+C o n t r o l l e r 
+C . A r t h u r N o r t h r o p 
+T r e a s u r e r 
+W a l l a c e R . D u B o i s 
+A s s i s t a n t C o n t r o l l e r 
+N e l s o n L . M c E l h a t t e n 
+A s s i s t a n t C o n t r o l l e r 
+J o h n H . S t e w a r t 
+A s s i s t a n t C o n t r o l l e r 
+J a m e s J . F o r e s e 
+A s s i s t a n t T r e a s u r e r 
+B r u c e E . L a n g t o n 
+A s s i s t a n t T r e a s u r e r 
+
+
+===== PAGE 42 =====
+Division and Subsidiary 
+Chief Executives: 
+C . M i c h a e l A r m s t r o n g . 
+J o h n E . B e r t r a m . . . . . . . 
+C h a r l e s P . B i g g a r 
+F r a n k J . C u m m i s k e y . . . 
+W i l l i a m W . E g g l e s t o n . 
+P . M a r t i n Foley 
+R i c h a r d A . G i e s e n . . . . 
+R a l p h E . G o m o r y 
+J o h n B . J a c k s o n . . 
+Allen J . K r o w e 
+. . . 
+President, D a t a P r o c e s s i n g Div. 
+President, D a t a S y s t e m s Div. 
+President, Field E n g i n e e r i n g Div. 
+President, G e n e r a l B u s i n e s s 
+G r o u p / I n t e r n a t i o n a l Div. 
+President, G e n e r a l P r o d u c t s Div. 
+President, G e n e r a l S y s t e m s Div. 
+President, S c i e n c e R e s e a r c h 
+A s s o c i a t e s , Inc. 
+D i r e c t o r of R e s e a r c h 
+President, F e d e r a l S y s t e m s Div. 
+President, S y s t e m C o m m i m i c a t i o n s Div. 
+J a c k D. K u e h l e r 
+President, S y s t e m P r o d u c t s Div. 
+T h o m a s M . L i p t a k 
+President, G e n e r a l T e c h n o l o g y Div. 
+J a c q u e s G . M a i s o n r o u g e 
+C h a i r m a n , I B M W o r l d T r a d e C o r -
+p o r a t i o n , a n d C h a i r m a n , I B M W o r l d 
+T r a d e E u r o p e / M i d d l e E a s t / A f r i c a 
+C o r p o r a t i o n 
+R a l p h A . P f e i f f e r , J r 
+C h a i r m a n , 
+I B M W o r l d T r a d e 
+A m e r i c a s / F a r E a s t C o r p o r a t i o n 
+Everett H . V a n H o e s e n 
+President, I n f o r m a t i o n R e c o r d s Div. 
+J o h n E W i l l i a m s 
+President, R e a l E s t a t e and 
+C o n s t r u c t i o n Div. 
+J . R i c h a r d Y o u n g 
+President, O f f i c e P r o d u c t s Div. 
+I B M World Trade 
+Americas/Far East 
+Corporation 
+Board of Directors: 
+T h o m a s J. B a t a 
+Jill K . C o n w a y 
+M o r t o n E h r l i c h 
+T h o m a s M o v i n g 
+W a r r e n C. H u m e 
+R y o i c h i K a w a i 
+D o n a l d R . K e o u g h 
+T e r r y R . L a u t e n b a c h 
+D a v i d C . M o o r e 
+R a l p h A . P f e i f f e r , J r . .' 
+C l a r e n c e B. R o g e r s , Jr. 
+T a k e o S h i i n a 
+A l e x a n d e r B. T r o w b r i d g e , Jr. 
+G u s t a v o J. V o l l m e t 
+R i c h a r d C . W a r r e n 
+G o r d o n R . W i l l i a m s o n 
+. . . . 
+B e r t r a m H . W i t h a m 
+, C h i e f E x e c u t i v e , B a t a S h o e O r g a n i z a t i o n , T o r o n t o , C a n a d a 
+, President, S m i t h C o l l e g e , N o r t h a m p t o n , M a s s . 
+S e n i o r V i c e President, E a s t e r n A i r l i n e s , Inc., M i a m i , Fla. 
+, President, M o v i n g A s s o c i a t e s , Inc., N e w Y o r k , N . Y . 
+R e t i r e d I B M S e n i o r V i c e President 
+President, K o m a t s u , L i m i t e d , T o k y o , J a p a n 
+V i c e C h a i r m a n , T h e C o c a - C o l a C o m p a n y , A t l a n t a , G a . 
+President, I B M W o r l d T r a d e A m e r i c a s / F a r E a s t C o r p o r a t i o n 
+R e t i r e d President, T r a n s c o n t i n e n t T e l e v i s i o n C o r p o r a t i o n , N e w Y o r k , N . Y . 
+C h a i r m a n of the B o a r d , I B M W o r l d T r a d e A m e r i c a s / F a r E a s t C o r p o r a t i o n , a n d I B M S e n i o r V i c e President 
+I B M V i c e President &C G r o u p E x e c u t i v e 
+President, I B M J a p a n , L i m i t e d 
+President, N a t i o n a l A s s o c i a t i o n of M a n u f a c t u r e r s , W a s h i n g t o n D . C . 
+President, C e n t r a l El P a l m a r , S.A., C a r a c a s , V e n e z u e l a 
+R e t i r e d I B M V i c e President 
+V i c e President, I B M G e n e r a l B u s i n e s s G r o u p / I n t e r n a t i o n a l D i v i s i o n 
+R e t i r e d 
+I B M T r e a s u r e r 
+I B M World Trade 
+E u r o p e / M i d d l e East/ 
+Africa Corporation 
+B o a r d of Directors: 
+J o h n F. A k e r s 
+A r t h u r G. A n d e r s o n . . . . 
+W a l t h e r A . B o e s e n b e r g . 
+T o r e B r o w a I d h 
+K a s p a r V C a s s a n i 
+Billy C . C h r i s t e n s e n . . . . 
+T h e Earl of C r o m e r 
+J o s e p h F . C u l l m a n ^rd . . . 
+F r a n k J. C u m m i s k e y 
+Pierre L. G o u s s e l a n d 
+. . . . 
+R o b e r t W M u b n e r 
+G i l b e r t E . J o n e s 
+J a c q u e s G . M a i s o n r o u g e . 
+T h e o d o r e C. P a p e s , Jr. 
+. . 
+B a r t M . S t e v e n s 
+O t t o S t u r z e n e g g e r 
+, I B M V i c e President & G r o u p E x e c u t i v e 
+I B M V i c e President & G r o u p E x e c u t i v e 
+President and G e n e r a l M a n a g e r , I B M G e r m a n y 
+V i c e C h a i r m a n of the B o a r d , S v e n s k a H a n d e l s b a n k e n , S t o c k h o l m , S w e d e n , and C h a i r m a n of the B o a r d , I B M S w e d e n 
+, A d m i n i s t r a t e u r , D i r e c t e u r G e n e r a l , I B M E u r o p e S. A., a n d I B M V i c e President 
+, V i c e P r e s i d e n t a n d G e n e r a l M a n a g e r , I B M W o r l d T r a d e C o r p o r a t i o n and 
+V i c e President, I B M W o r l d T r a d e E u r o p e / M i d d l e E a s t / A f r i c a C o r p o r a t i o n 
+. F o r m e r C h a i r m a n of the B o a r d , I B M United K i n g d o m , L i m i t e d 
+C h a i r m a n of the E x e c u t i v e C o m m i t t e e , Philip M o r r i s , Inc., N e w Y o r k , N . Y . 
+President, I B M G e n e r a l B u s i n e s s G r o u p / I n t e r n a t i o n a l Div., and I B M V i c e President 
+C h a i r m a n , A m a x , Inc., G r e e n w i c h , C o n n . 
+R e t i r e d I B M S e n i o r V i c e President 
+R e t i r e d V i c e C h a i r m a n of the B o a r d , 
+I B M 
+C h a i r m a n of the B o a r d , I B M W o r l d T r a d e E u r o p e / M i d d l e E a s t / A f r i c a C o r p o r a t i o n , a n d I B M S e n i o r V i c e President 
+D i r e c t e u r G e n e r a l , I B M E u r o p e S. A., and I B M V i c e President 
+R e t i r e d I B M S e n i o r V i c e President 
+P r e s i d e n t a n d C h a i r m a n , C i b a - G e i g y , U S A , Ardsley, N.Y. 
+Science Research 
+Associates, Inc. 
+B o a r d of Directors: 
+R a l p h A . B a r d , J r . 
+R i c h a r d A . G i e s e n 
+W a y n e M . H o l t z m a n . . , 
+R o b e r t W . H u b n e r 
+M . T h o m a s J a m e s 
+D e a n R . M c K a y 
+A d e l e S m i t h S i m m o n s . 
+I n v e s t m e n t M a n a g e r , C h i c a g o , ill. 
+President, S c i e n c e R e s e a r c h A s s o c i a t e s , Inc. 
+P r e s i d e n t , T h e H o g g F o u n d a t i o n f o r M e n t a l H e a l t h , A u s t i n , T e x . 
+R e t i r e d I B M S e n i o r V i c e President 
+President, S p e n c e r F o u n d a t i o n , C h i c a g o , 111. 
+I B M S e n i o r V i c e President 
+President, H a m p s h i r e C o l l e g e , A m h e r s t , M a s s . 
+I B M s t o c k is t r a d e d on the N e w Y o r k S t o c k E x c h a n g e , 
+o t h e r e x c h a n g e s in the United States, a n d e x c h a n g e s in A u s t r i a , 
+B e l g i u m , C a n a d a , E n g l a n d , F r a n c e , J a p a n , S w i t z e r l a n d , 
+the N e t h e r l a n d s a n d West G e r m a n y . 
+GS05-0056-02 
+PRINTED IN USA 
+I n t e r n a t i o n a l B u s i n e s s M a c h i n e s C o r p o r a t i o n 
+S t o c k h o l d e r R e l a t i o n s D e p a r t m e n t 
+Stock Transfer Offices: 
+I n t e r n a t i o n a l B u s i n e s s M a c h i n e s C o r p o r a t i o n 
+S t o c k h o l d e r R e l a t i o n s D e p a r t m e n t 
+T r u s t G e n e r a l du C a n a d a 
+Wells F a r g o B a n k , N . A . 
+N a t i o n a l T r u s t C o m p a n y , L i m i t e d 
+Registrars: 
+M o r g a n G u a r a n t y T r u s t C o m p a n y of N e w Y o r k 
+T h e First N a t i o n a l B a n k of C h i c a g o 
+M o n t r e a l T r u s t C o m p a n y 
+C r o c k e r N a t i o n a l B a n k 
+Arnwnk, N.Y. 10^04 
+yiy Fifth Avenue, NewYork, N.Y. 10022 
+yiy Fifth Avenue, NewYo!-k, N.Y. 10022 
+One IBM Plaza, Chicago, III. 60611 
+10 St. James Street West, Montreal, Quebec, Canada H2Y 1L4 
+464 California Street, San Francisco, Calif. P4104 
+21 King Street East, Toronto, Ontario, Canada M^C iB^ 
+J 0 West Broadway, New York, N.Y. loois 
+One First National Plaza, Chicago, III. 606/0 
+777 Dorchester Boulevard West, Montreal, Quebec, Canada HjB 4A8 
+IS King Street West, Toronto, Ontario, Canada M^H 1B4 
+sfis Market Street, Suite 2800, San Francisco, Calif. 
+p4ioj 
+
+
+===== PAGE 43 =====
+International 
+Business Machines 
+Corporation 
+ArmonkjN.Y. 
+10504 
+j 
+- ^ 
+- '.i. 

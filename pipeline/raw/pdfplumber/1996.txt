@@ -1,0 +1,2366 @@
+
+
+===== PAGE 1 =====
+. .MU ; ., " l i n v e n tr „ "I g U i d c" «T iw "I d e v e l o p:
+l i r i k . "„ 1 d r e a m, - i s t u d y ." s a f e g u a r d . -1 b i l l ! i . " I e x p l o r e: 1 c r t a i t.
+tl "I r e p a i r ." I t l i m k.
+IBM Annual Report 1996
+
+===== PAGE 2 =====
+J.
+"
+What do you do?
+It's often the first question asked when people meet. It estabhshes common gromid. It gets to the
+center of liow we define ourselves, how we conduct our life's work, our pastimes.
+At IBM, it's a question we frequently ask our customers. And in many ways, it's the most impor-
+tant one, especially now, at this moment when all of us are rushing forward into a networked world.
+That's because the benefit of all this connectivity — to people, to the world's enterprises, to
+knowledge - isn't in the technology, as dazzling as it may be. It's in how we apply it, how we use it to
+vastly improve the way we work, learn, buy, sell, entertain and communicate. The things that fill
+our lives. The things we do. Every day.
+
+===== PAGE 3 =====
+Dear Fellow Investors:
+L
+^ ast year I told you that the transformation of IBM had j)ro- Perhaps the most encouraging sign that our strategies
+gressed to the point where it was time for everyone in the are taking hold is the broad base of our growth and our
+company to focus on our strategic vision — a networked continued strength in businesses that represent the great-
+world that transforms the way people work, interact, est long-term growth potential:
+learn and do business. - Services revenue increased 25 percent to nearly $16
+I said our vision wasn't some slogan or a flashy-but- billion — the fourth consecutive year services grew more
+improbable dream. Rather, it was our view, grounded in than 20 percent. We signed contracts worth $27 billion in
+decades of experience, of where technology and com- 1996. The total value of professional services business
+merce around the world were headed, and that we would already booked for 1997 and beyond in areas like systems
+help our customers use network computing to improve integration and outsourcing of customers' data center
+C> try
+what they do and how they do it. operations is more than $38 billion.
+And, I said, implementing this strategic vision would - Software revenue grew 3 percent, driven largely by
+fuel future IBM growth. strong sales of Lotus and Tivoli products. Revenue from
+We are indeed growing. For the second consecutive Tivoli's flagship systems management products was
+year, IBM reported record revenue — $75.9 billion, up 6 per- greater in the fourth quarter of 1996 than for all of 199s.
+cent. Revenue increased 9 percent after adjusting for the The installed base of Lotus Notes doubled for the second
+effects of currency, our highest rate of growth since 1985. consecutive year to a total of about 9 million.
+Our earnings, however, were essentially flat, exclud- - We continued to improve the competitiveness of our
+ing one-time charges associated with acquisitions last hardware lines, from the new Aptiva S Series for the
+year and in 1995. We're not happy with flat earnings. home to large-scale enterprise servers (mainframes).
+There were two primary problems: Our European busi- In fact, shipments of mainf rame computing power grew
+ness was weak, and our semiconductor business was buf- 50 percent. We were the first major company to introduce
+feted by factors largely outside our control, especially a network computer - the IBM Network Station, a new
+declining memory chip prices. kind of desktop device that provides access to networked
+We ended the year with more than $8 billion in cash — applications and processing power while dramatically
+and that's after $6 billion in capital expenditures to reducing the cost of desktop computing.
+strengthen our existing businesses; $1 billion for acquisi- - Our PC business, after several lackluster years,
+tions like Tivoli, a leader in systems management soft- righted itself Shipments expanded significantly world-
+ware, and Edmark, a leading maker of education software wide and we grew share. Our storage business also refb-
+for children; and nearly $6 billion to repurchase IBM com- cused itself and turned in an exceptional performance,
+mon stock. particularly in hard disk drive sales.
+Our stock price rose 66 percent in 1996. As a result, our - We continued to grow rapidly in the world's emerg-
+ultimate report card, IBM's market value, grew $27 billion ing markets. Last year we became the leading PC vendor
+last year. That brings the total increase since our major in China. Our operations in Central Europe and Russia
+restructuring in 1993 to more than $50 billion. have built a network of more than 1,000 business partners.
+As part of the $4.7 billion IBM invests in research and development, we support projects and
+programs that further our understanding of how the world and the universe work, and explore
+phenomena that may one day lead to advanced information technologies.
+
+===== PAGE 4 =====
+LOUIS V. GERSTNER. JR.
+Chuirniaii and C'hiel'Executive Offieer
+To further fuel growlh, we hired more than 26,000 where a CEO might be tempted to announce some bold
+peo])le last year, and we will hire thousands more in 1997. new direction. I'm going to resist the temptation and report
+Our total workforce grew to 241,000 at the end of 1996, up to you that I believe we should stay the course. To be sure,
+from 225,000 in 1995. Td like to add liere that I am very oiu" transformation is far from complete. We must and we
+happy - and proud - tliat our transformation has created will pick up the pace and intensity of everything we do.
+jol) growtli. But I believe that we have made enormous progress
+For the second consecutive year we increased our capi- over the last four years — in part because of the grit and
+tal exi)enditures, nearly all of it for strategically important determination and talent and teamwork of IBM employ-
+areas like expanded disk drive manufacturing capacity. ees, and also because we set a strategic direction for the
+We also spent S4.7 billion on research and development. company that was right for us, right for our industry and,
+I note here that for the fourth year in a row, IBM received most importantly, right for our customers.
+more U.S. patents than any other company, and we sur- I have met with thousands of customers, and through-
+])asse(l our own record for patents awarded in any year. out 1996, the single most-asked question I got was:
+This says something good about our futiu-e. "Exactly what is network computing and is it something
+Even as we grow we are relentlessly continuing to I should be paying attention to?"
+fine-tune our operations to improve our efficiency and It sure is.
+])roductivity, mostly through our reengineering efforts. The term says it all. Network computing is a new
+Overall, it was a solid year. model of computing based on networks, most notably the
+Now, it's at this point in annual letters to shareholders Internet. It is not the same as merely hooking computers
+SI-:R\ 1: \R ROOM TI'MIM-RA N KI Atoms, by nature, are a lively lot. At room temperature they tend to jitter and jump. But now, IBM researchers
+in Zurich have discovered a way to move individual molecules at room temperature (rather than in a deep freeze). With this advance, molecules
+can potentially be used to build the ultimate in miniaturized structures, such as computers measured in nanometers (1 millionth of a millime-
+ter). To demonstrate their technique, they constructed the world's smallest abacus. Individual molecules sen/ed as the abacus' beads.
+
+===== PAGE 5 =====
+64.1 71.9 75.9 3.0 4.2 5.4 3.1 4.7 5.9 32.0 28.8 28.3
+94 95 94 95 96 94 95 96
+NET CAPITAL TOTAL EXPENSES AS A
+REVENUE EARNINGS INVESTMENTS PERCENTAGE OF REVENUE
+($ in billions) ($ in billions) (S in billions) (after adjustmeuls)
+together so they can talk to each other. We've been doing institutions. Networks within companies - they're called
+that for a long time. "intranets" — enable employees to work faster and
+Rather, network computing is a big change in how smarter as teams, unencumbered by time zones and bor-
+computing is used and where it takes place. ders. Networks also improve efficiency and speed
+It changes where computing takes place because it between a company and its suppliers, distributors, retail-
+shifts most of the work - the processing, the data, the ers and other business partners. And by setting up a sin-
+applications - from desktop machines to computers, gle storefront on the Internet, a company can offer its
+called "servers," laboring behind the scenes in the net- goods and services to millions of potential buyers. We call
+work. This saves customers a lot of money because they all of this electronic business - "e-business."
+don't have to replace desktop computers and desktop soft- What's the value of a wired world? What will these
+ware every time a new upgrade comes along. All of that connected millions of people (soon to be a billion!) do?
+can be done once, on the server. This also gives our busi- What will they want? What will they j)ay for?
+ness customers greater control of their critical business The answer, we believe, is: all the things people do
+data because the information is no longer distributed — every day. Buy things and sell things. Renew driver
+sometimes haphazardly - over hundreds or thousands of licenses. Bank and pay bills. Explore literature. Learn,
+individual PCs. teach, work together, access entertainment. Make money.
+Network computing changes how computing is used In other words, people will value applications - interac-
+because it connects tens of millions of people to other tive, transaction-intensive applications that enable them
+people, to information and to the world's businesses and to get meaningful things done.
+NKw MAI M It took two years of non-stop number crunching — but when the bits had settled, a
+massively parallel computer and a team of IBM researchers had identified an elusive atomic
+particle called a "glueball." The calculation was the largest single numerical feat in the history
+of computing, and the first instance of a particle being discovered by a computer.
+
+===== PAGE 6 =====
+(Dollars in millions except per share amounts)
+For the year: 1996 1995
+Revenue 75,947 71,940
+Earnings before income taxes 8,587 7,813
+Income taxes 3,158 3,635
+Net earnings 5,429 4,178
+Per share of common stock 10.24 723
+Cash dividends paid on common stock 686 572
+Per share of common stock 1.30 1.00
+hivestment in plant, rental machines and other property 5,883 4,744
+Average number of common shares outstanding (in millions) 528 569
+At end of year:
+Total assets 81,132 80,292
+Net investment in plant, rental machines and other property 17,407 16,579
+Working capital 6,695 9,043
+Total debt 22,829 21,629
+Stockholders' equity 21,628 22,423
+Number of employees in IBM/wholly owned subsidiaries 240,615 225,347
+Number of common stock holders 622,594 668,931
+The driving force behind the creation of most applica- were the first to embrace e-business with applications 5-
+tions - and certainly of the best applications - is cus- that helped people do what they want to do.
+tomers who have decided to seek competitive advantage We're adapting and enabling every hardware and soft-
+by fundamentally changing the way they work. ware product in our portfolio for "the Net." Today, all our
+Think about it: If a billion people are going to do online server platforms, from PC servers to supercomputers, are
+banking, banks have to change the waj they deal with web servers and offer price/performance competitive
+their customers. If a billion people are going to access edu- with any in the industry. Together with Tivoli, we're
+cation, universities have to change the way they teach. If enabling multi-platform systems management across the
+workers inside an enterprise are going to use an intranet to corporate infrastructure and out to the web. All our key
+change how they work (and not just look at online newslet- software products - for example, databases and transac-
+ters), that enterprise has to change how it operates. tion systems — are web-enabled. Our Lotus team contin-
+If all this happens — and I believe it will, but not as ues to innovate and extend its lead in groupware. More
+quickly as some in our industry predict — the Information important, Notes and Domino have become the platform
+Revolution will be as important and all-encompassing as of choice for building Internet applications.
+the invention of the printing press and the Industrial All of this work to transform enterprise computing is
+Revolution. really important to our customers. Some 70 percent of the
+Every day we see new leaders emerge in specific world's business information is already managed by IBM
+industries — not because they are the biggest or have the databases. IBM transaction processing software handles
+most money and the best traditions, but because they more than 20 billion mission-critical business transactions
+r\i.K(;>, . (iNsi Ml' 111.- How much energy does it take to move a bit (the smallest unit of information handled by a computer)?
+"None," says IBM researcher Dr. Rolf Landauer, who published a paper that outlines how the energy and matter used in sending infor-
+mation need not be "thrown away" at the receiving end. That means, Laudauer posits, they can be recycled.
+
+===== PAGE 7 =====
+a day. We're working to make these systems stronger and What makes me most optimistic, however, is that with-
+more scalable to handle the incredible workload network in the corridors of IBM, this is all energizing stuff We have
+computing will generate. a lot of bright people who have the wherewithal to make a
+We are also inventing new technologies for the wired difference - who understand the stakes, the demands, the
+world, beginning with the innovations needed to make pace. We are energized not because we like doing the same
+technology more secure, more reliable, and much easier old things, but because we can apply our whole array of
+to use. resources and smarts to an entirely new set of challenges.
+But if you really want to track IBM's moves and We understand that leadership is not a birthright.
+progress in the networked world, look first to the e-busi- There is only one way to claim it — or reclaim it — and that
+ness solutions we are building for, and with, our cus- is to take it.
+tomers. Solutions require more than raw technology. They I am convinced that IBM people, working side by side
+are combinations of hardware, software and services that with our customers, will do it.
+we integrate to attack a customer's business issues. Many
+are covered in the pages of this Annual Report. As I mentioned in my letter last year, this networked
+Backed with $i billion of our R&D funds, more than world is not without its problems. It raises imj)ortant pub-
+70,000 IBM professionals are developing solutions with lic policy issues like ])rivacy, security and access lor all.
+some of our largest customers in 11 industries. At the Technology can help resolve some of these issues.
+same time, we're working with more than 45,000 busi- We're developing new technologies - encryption software
+ness partners to develop e-business solutions for small is one example — and we're working with government
+and mid-sized businesses. leaders and others in oiu" industry to reach agreement on
+The networked world is also creating huge demand how best to use them.
+for services, our fastest-growing business. Customers But I also l^elieve responsible pulilic ])olicy can only be
+want help in everything from consulting and systems developed through vigorous, open discussion. And since
+6. integration to network services and education. We have the networked world will touch everyone — ])arents.
+more than 90,000 people in services. We hired 15,000 in business])eo])le, educators, students and citizens - it s
+1996 alone. important that we all speak up.
+Our industry is about to crack the trillion-dollar mark. IBM has established a website (www.ibm.com/
+We see the industry growing by about $400 billion - to ibm/publicaffairs) where we offer thoughts on - and pro-
+$1.2 trillion in the next four years. About half of that pose solutions to - many of these issues, from personal
+growth — $200 billion — will be driven by network com- privacy and security to the effects ol'technology on educa-
+puting. And the majority of that growth will be in solu- tion and health care. I hope you'll visit the website and join
+tions and services. in the debate.
+Those are big stakes.
+And I like the cards in IBM's hand. The industry is
+coming back our way, to our traditional strengths, to the
+things that IBM does best - solving customer problems
+with innovative technology. We have the right strategics
+and are focused on them and have committed resources -
+people and money — to implementing them.
+LOUIS V, GERSTNER, JR.
+Chairman and Chief Executive Officer
+iMFFusE iNTERSTi-LLAK BANDS It's 3 puzzle of cosmic proportion: many of the universe's bright, young stars seem to be missing light in
+certain colors of the spectrum - diffuse interstellar bands (if you're up on your astro-physical lingo). Two IBM scientists now propose that
+hydrogen, the most common molecule in the universe, is the culprit - scattering the light in a process similar to what makes the Earth's sky
+seem blue. Their model may help astronomers explain unusual light emissions in the known universe. (You mean the sky's not really blue?)
+
+===== PAGE 8 =====
+Konatsu Kenji, Minako Sakai, Shizuka Takashima
+passenger traffic agents, Japan Airlines, Tokyo
+Japan delivered by way of a website. Just click. www.jal.co.jp - built by JAL and IBM on an longer). JAL's system is up and running, serv-
+And peruse a flight schedule. Click. Get infor- ambitious three-month timeline (integrating ing and pleasing thousands of customers
+mation about tours. Click. Book your reserva- Internet-based systems into existing reserva- every month.
+tion (even select your seat). Welcome to tion systems is a task that usually takes far
+
+===== PAGE 9 =====
+Now that tens of millions of people are connected, what's next?
+Make
+k. I direct. I act. I host. I process. I order. I check. I record. I instruct. ; dance. I orchestrate. I co:--.ose. ' ker cp-'r. : support, connect. I photograph. I drive. I edit. I landscape. I explore. I solve. I produce. I neg
+A
+year ago, hallway conversations started with, "If the At IBM, we're developing technologies to enable Net- showroom lloor via the Internet. Electronic applications based on the power of Lotus Notes and Domino - that give
+Internet takes off..." Today, the conversations start quite based electronic commerce. More than that, we're helping are whisked away, and approvals returned in minutes wholesalers a complete system for electronic commerce.
+differently: "How can we make money on the Net?" thousands of Inisinesses make their first strategic moves rather than in the hours, or days, it traditionally takes. Our World.Registry service issues digital certificates
+Ponder the facts: There are more than 40 million peo- onto the Net: The Net makes it easy to handle routine tasks, loo. For that verify the identities of all parties involved in an
+ple connected to the Net - and their numbers are climb- The Net means convenience. For instance, in 1996, IBM example, it's changing how people interact with govern- online transaction.
+ing fast. Unquestionably, consumers on the Net are a worked with Charles Schwab to build a wel)-l)ased l:)ro- ments. From Ontario, Canada, to Copenhagen, IBM sys- IBM is working with entities large and small to
+large, untapped market. Yet they're only part of the pic- kerage service, so customers can execute stock trades tems let citizens renew their driver licenses, register their bring efficiency to the procurement process. The gov-
+ture. By connecting companies to other companies, the from home. vehicles, ap])]y for jol:)S, and get up-to-date information, all ernment of Singapore, as just one example, adopted
+Net is also reshaping business-to-business commerce - The Net lets our customers efficiently reach out to their on the Net, without having to wait in a single line. IBM technology to streamline its civil service's pur-
+it's an opportunity that's 10 times larger, in fact, than the customers. In Noveml)er, L.L. Bean's enhanced website, Similar transformations are shaking up business-to- chasing processes - from catalog searches, to placing
+consumer market. In total, electronic commerce purchas- based on IBM's Net.Cornmerce software, came online in business transactions. orders, to post-order tracking.
+es are forecast to exceed $300 billion by the year 2000. time for the holidays. More than just a website, it con- With work under way in 24 laboratories worldwide, In the last couple of years, we've seen business pioneers
+What's going on? The Net is an efficient way to set up a nects to an intelligent inventory database. As consumers IBM is developing key technologies and infrastructures make their move to the Net. In 1997, we think the Net is
+retail outlet within a mouse-click reach of every consumer. click to place an order, the most up-to-date information is that will bring efficiency and security to business-to- going to reach the heart of the business world.
+Suddenly, the Davids of business have a way to slay the fed to them, drawing on the latest inventory information business commerce. Mainstream businesses. We'll be there with them.
+Goliaths of business. Companies can open new markets about what colors, sizes and items arc in stock. CommercePoint is an end-to-end IBM solution that
+with brainpower and processing power, not just manpower. It can complement traditional sales processes. IBM's ensures security through the whole buying and selling
+And entrepreneurial teams can strike from nowhere to Auto Loan Exchange solution is changing the way cars arc process. It includes services such as World Distributor -
+capture market share. financed. Customers can apply for a loan right from the
+In May, we announced IBM Cryptolope containers. Cryptolopes seal intellectual property In October, we partnered with American Express to pilot smart cards for ticketless air travel. No paper
+in a digital package so people can buy and sell content securely over the Internet boarding pass. No delay. Passengers proceed directly to the gate after showing identification.
+
+===== PAGE 10 =====
+It's 2 a.m. You're in pursuit of a particular docu- built with IBM. Drawing on the strength of Lotus You place your order (it's tracked through the
+ment for some research you're doing. What to Notes and Domino, KR SourceOne lets you whole process by Notes). Your request is sent to
+o^nrwMcalians nm^nf enj] do? If you're a Knight-Ridder customer, you turn instantly search an online catalog of more than the appropriate archive, your document is
+rwvofBpw fiuWi»h«ij. fuim* »
+to the Internet, to a research tool Knight-Ridder 1.5 million business and research documents. retrieved and sent to your e-mail address.
+knight-ridder.cc
+
+===== PAGE 11 =====
+kjfrGlf^rti^f manage. I speak.
+Online bandits. Hackers. Impostors. In the wired ness to secure electronic commerce transactions. technology companies. It ensures that buyers are,
+world, just like the real world, there are some bad Working with IBM, they've developed a system in fact, who they claim they are. That vendors get
+seeds. Just ask Danish Payment Systems. Their based on the international Secure Electronic paid for goods they sell. And that every aspect of
+job has been to process 300 million card transac- Transaction (SET) technology developed by the transaction - from customer information to
+tions each year. They're now expanding their busi- MasterCard, VISA, IBM, and other tinancial and card number - is kept completely secure.
+
+===== PAGE 12 =====
+I
+t used to be that managing a team meant bringing in some transaction system." It connects people to people, and Last year, that void was filled with Lotus Domino. It s a affectionately in industry lingo as "fat clients" - decked
+comfortable chairs, desk lamps, an experienced manager people to knowledge. web-application server that extends Notes applications to out with full-blown applications. On the other end are
+- and witnessing productivity soar. For the first time. Notes made it possible for companies the Internet, to intercompany networks and intracompany customers who want to use very "thin clients" - lean net-
+Today, it's not so easy to facilitate and accelerate teamwork across the enter- networks. Now a company can build virtually any kind of work computers that depend on the network and servers
+Teams span buildings, sometimes oceans. They're far prise. To streamline processes (from submitting expense application. It's instantly deployable on the company net- to bear the burden of work. And there will be a whole
+more fleeting - squadrons are assembled to attack an reports to building aircraft engines). To share ideas, docu- work, and making it accessible on the Internet - so outside range of systems in between. Lotus is making software for
+issue, then redeployed once the mission is accomplished. ments, findings, research. Suddenly, things thai took days partners can use it - recjuires only a few lines of code. the whole spectrum.
+And many include partners, vendors and suppliers. could be done in hours. The idea caughl on, and millions Clearly, Notes and Domino appeal to customers - and Lotus recently announced a set of Java-based produc-
+hi such a world, networks can be a team leader's secret of customers ado])ted Notes. by the looks of it, to competitors, as v/ell. Some are scram- tivity components that work seamlessly with Notes appli-
+weapon. They can provide the physical connection Then along came the Internet - and ihc network com- ])ling to put together Notes-like and Domino-like offer- cations and web browsers. The idea is to create small,
+between people. But teams need more than that; they puting model for business. The Internet represented a ings. But, as you'd exj)ect from the team whose original efficient tools tailored to very specific tasks - writing,
+need tools to enhance and support the way people work way to connect team members. C()mpany-t()-comj)any thinking spurred a whole new model of computing a sending e-mail, keeping a schedule, conferencing. Users
+together They need groupware. networks built on Internet standards (but protected by decade ago, Lotus is not standing still. will be able to draw on these tools while working in a
+When we merged with Lotus in 1995, we gained a the security of corporate firewalls) represented a break- IBM and Lotus strongly believe there is no such thing Notes application or browsing the web.
+valuable team of inventors who pioneered groupware through way to connect teams within one company to as one-solution-fits-all, and that's particularly true in These next-generation tools will enable people to
+more than a decade ago. Lotus Notes is a "human- teams within another. But, there was one thing missing - groupware. On one end, there will be customers who work together even more effectively. Across time zones.
+the groupware to help people do what they do. want to use fully loaded personal computers - known And borders. To think together, work topether and create.
+int. I arrange. I compete. I listen. I instruct. I mend. I study. I govern. I harvest. I read. I promise. I build. I calculate. I explore. I dance. I serve. I illustrate. I s alyze. I coach. I run. I process. I protect. I record. I construct. I draw. I manage. I speak. I direct. I defend. I talk. I negotiate. I communicate. I act. I coor
+U n i te
+14- 15-
+What's the best way to get everyone to work together?
+In July, we unveiled the WOMplex, The "WOM" stands for Web Object Manager, a unique and powerful In October, Lotus debuted Weblicator, which brings world-class replication technology to standard web browsers.
+IBM technology that enables websites to serve nnillions of visitors in a highly customized way Users can download copies of websites and browse them later without being connected to the Internet.
+
+===== PAGE 13 =====
+*
+heal. I create. I innovate. I think. I program. I teach. I resea Frder. I cook. I critique. I si I drive. I dream. I play. I advertise. I check. I thi
+\
+r. 55
+iki
+» \ ' i
+» V V /
+vs.
+-X. ^
+X
+'////M. n, .. i
+mm/A
+- ^ m i l x^ I
+V - .m iw ' h ! •/.• // -J •
+, ' Val^tminnoo SSilmmeeoonni, -- ^ '.
+Team leader Patrick Veronica and two mateaj
+" - fruit vendor,'Rome, Jtaly
+Capespan International, Cape Town, South Africa ^ i
+Fruit is picl<ed in a quiet orchard in South Africa. International is the company that makes sure it European fruit vendors. From fruit growers to
+Over the next few weeks, it traverses the equator, arrives without a blemish (Valentino is pretty agents to people like Valentino, everyone knows
+and is delivered into the experienced hands of choosy). This is accomplished through the IBM where a shipment is, at any given time. Handoffs
+Valentino, who has been selling fruit for 45 years Global Network, which connects Capespan to 80 run like clockwork, so fruit arrives when it's at the
+in Rome's Campo dei Fiori market. Capespan fruit agents who work with some 3,500 height of flavor.
+
+===== PAGE 14 =====
+• wo
+'"/{ci:
+e catch tKe bad guys
+rt. I sell. I instigate. I connect, i design. I organize. I produce. I dance. I sew. I judge. I plan. I fly. I edmitt.. II ccooin sult. I photograph. I landscape. I chart. I assist. I
+m
+#
+Frank McElligott
+Beth Chaney
+officers, Piano, Texas, police department
+azmBBZE Piano, Texas, was just named one of America's information about criminal records, crime neighboring police departments - so that all
+10 safest cities. Its population is skyrocketing, reports, mug shots and gang activity That data officers in the region have the latest informa-
+yet crime is down. The local police intend to can be pulled up by investigators from their tion to fight crime.
+keep it that way, They've worked with IBM to workstations or at the crime scene on a laptop.
+create a sophisticated intranet that stores vital And it's shared, thanks to the network, with
+Plan.
+
+===== PAGE 15 =====
+d. 1 drive. I sculpt. I check. I shop. I process. I research. I support. I strategize.
+Ipt.
+Grupo Vitro makes glass. Glass for blenders, calls. Mounds of paperwork. Faxes, lots of having to fill out paperwork (they can even
+Glass of every shape and size. It's a compli- faxes. Until last year. By setting up an check on the progress of orders). This has
+cated operation. Hundreds of suppliers. "extranet" for its customers, Grupo Vitro has reduced Grupo Vitro's costs because a lot less
+Thousands of products. Thousands of cus- eliminated a lot of complexity. Customers can management time is spent pushing paper. And
+tomers. And to manage it? Hours of phone place orders directly over the internet without customers get around-the-clock service.
+
+===== PAGE 16 =====
+ENGINEERING SOLUTIONS
+What's the best way to take advantage of the Net?
+G et there.
+ler. I cook. I critique. I sing. I sculpt. I organize. I produce. I dance. I edit. I judge. I plan. I fly. I edit. I consult. I photograph. I landscape. I chart. I assist. I ca ruct. I heal. I innovate. I communicate. I program. I speak. I sing. I play. I defend. I drive. I sculpt. I check. I shop. I process. I research. I support. I strategize. I ;
+I
+f you're a consumer, it's easy to join the networked world: to tackle them. They focus on specihc industries — finance, Latin America and Europe are developing programs with - For example, in 1996, 16 banks and IBM came
+Get a web browser, and get connected. manufacturing, health care, petroleum, education, insur- IBM Global Campus. together to form the Integrion Financial Network to
+If you run a business, it's a bit more complex. Do you ance - and they're fluent in the language of each. — With the energy network exchange service from deliver home banking to more than half of the retail
+want to use the Net to sell your goods or services? Provide Sometimes customers come to us with a very specific IBM and Siemens, electric utility companies use the banking population in North America.
+better customer service? Align internal teams with out- problem. For instance, last May, North America's National Internet to post "wanted" and "for sale" ads for electric — Last year, we opened World Avenue, an online shop-
+side vendors? Hockey League asked us to find a way to leverage one of transmission capacity. ping mall designed to help retailers get on the Net more
+The hard part is, to achieve any of these you probably its most critical assets - information. The solution? A - IBM Health Data Network solutions connect health quickly and more affordably than they could on their own.
+have to change how your business thinks. Old models out, website (www.nhl.com) designed by IBM that will use care professionals, hospitals and insurance companies in In all these cases, our solutions teams worked with
+new models in. And you already have quite an investment IBM Digital Library technology to archive photos, video a single network that streamlines paperwork and customers to develop the strategic plan. Of course, once a
+in technology that you can't (and don't want to) throw out. clips, scores, plus a wealth of NHL statistics on virtually improves the health care every patient gets. To date, we smart plan is in place, there is still more work to do. The
+In the process of building some of the world's most every factor that affects the outcome of a game. While connect more than 4,000 physicians and more than 600 solution must be built, managed and maintained. Which
+depended-on systems, we've learned customers basically they're logged on, visitors can also purchase NHL mer- hospitals and clinics - and their patients - with Health is why there are more than 90,000 IBM professionals in
+have two choices: i) Start with the bits, bytes, hardware chandise, thanks to IBM e-commerce technology. With Data Network solutions. our services business. They handle everything needed to
+and software of network computing - and work backward nearly 3 million hits a day, the site is becoming a Sometimes we build solutions that bring many players build a solution from the ground up - from integrating
+to a solution. 2) Start with core business issues, and work significant revenue generator. We consult on thousands of within an industry together We help establish common piece parts, to testing the solution, maintaining it, and
+your way outward. these kinds of unique problems every year. frameworks and standards. Our role as an adviser gives us training people how best to take advantage of it. We can
+The second works far better. Which is how the 70,000 Sometimes we fill a need within an industry: a vantage point to find solutions to problems all organiza- also outsource solutions altogether. These services are in
+professionals in our solutions teams approach their work. - For instance, IBM's Global Campus solution helps tions within an industry face: high demand. IBM services revenue has grown by more
+They ask a lot of questions about a customer's business colleges and universities imleash the power of networks. than 20 percent each year for the last four years in a row.
+problems, and then develop the right technology strategies Currently, 36 universities in the United States, Australia,
+In August, we opened an online laboratory to give the world free test drives of new IBM web In December, we introduced the SecureWay Key Management Framework, a collection of applications,
+technologies. When software from the alphaWorks site (www.alphaWorks.ibm.com) hits the services and cryptographic engines that help make the Internet safe for electronic commerce.
+market as a real product, the wired world's feedback is built in.
+
+===== PAGE 17 =====
+Research. Exploration. Drilling. When you're out into a common database. Teams log on to our costs, yet doesn't compromise their competi- well can save upward of $6 million. Multiply
+here, missteps cost millions. IBM's Petrobank PetroConnect solution on the Internet and tive advantage. The result is they're able to that over the entire oil-producing region, and
+and PetroConnect solutions are helping com- download new data sets and archived data. make better decisions about where and how to you can start to see just how much this solu-
+panies share the insights they've gained Companies have found cooperating on these drill without having to embark on costly explo- tion is changing the world.
+through exploration eftorts. Information goes activities dramatically reduces data acquisition ration themselves. Avoiding an unnecessary
+
+===== PAGE 18 =====
+w * ^
+A world-renowned outfitter of gear and appar- now buy L.L. Bean merchandise - boots, ping experience that lets you choose colors,
+el for the outdoors, LL Bean has always been sweaters and jackets to brave the elements. sizes and styles - with up-to-the-minute
+extraordinarily dedicated to its customers. This As you place your order, the website draws on knowledge of what's in stock.
+year, LL Bean worked with IBM and took that inventory information stored in a smart data-
+dedication online. At www.llbean.com you can base. The result is a friendly customized shop-
+
+===== PAGE 19 =====
+T^rzirai®. a
+Architecture professor Thomas Fowler believes Thomas' work is part of a larger effort in the emic institutions in the country, the university
+that self-discovery is the best way to learn California State University system, CSU is tak- intends, by the year 2000, to be not merely on
+architectural design. He has pioneered web- ing advantage of IBM's Global Campus solu- the technology curve - but far in front of it.
+based curricula that architects can take - any- tion to build the virtual classroom of tomorrow,
+time, anywhere - to continue their education. Aspiring to be one of the most innovative acad-
+
+===== PAGE 20 =====
+What do the world's best network sohitions have in common?
+N e v er
+i/iew. I document. I train. I mobilize. I experiment. I bank. I trade. I safeguard. I inspire. I illustrate. I pioneer. I report. I investigate. I coordinate. I experience ^gl | compose. I remedy. I understand. I deliver. I educate. I guide. I believe. I revolutionize. I transmit. I compete. I contribute. I assemble. I unite. I ir
+c
+26. onsider the beauty of the Net. You're sitting at a PC run- microprocessor-based mainframes, the S/390 Parallel will help customers conduct business through the secure. In September, we began a pilot program with 27-
+ning Windows. Or UNIX. Or OS/2. MacOS. Or even a Enterprise Server. With twice the performance of our Internet, intranets and local networks. MasterCard using Secure Electronic Transaction (SET)
+web-enabled TV. You click (say, to view a flight schedule previotis high-end server, it can be linked to other S/390 - We have ported our CICS transaction processing technology The software secures credit card transactions
+to Paris). Your request is sent over the Net, across the systems to deliver more than 10,000 MIPS (millions of software to run on all leading platforms. over the Internet.
+world, where another PC, a mainframe or a supercom- instructions per second). - With our acquisition of Tivoli last year, we've Primary invention. IBM is investing in industry stan-
+puter is awakened. And your schedule appears. - In June, we announced the AS/400 Advanced extended our strength in host-based systems manage- dard technologies that will make the wired world thrive.
+Now, there are a couple of very neat things about this Series that supports Lotus Notes and provides easy ment to multiplatfbrm distributed systems. Standards like Java. Its elegant promise — "write once,
+(beside the fact you're going to Paris). Internet access. - In September, we introduced OS/2 Warp 4, which run everywhere" — means developers can create network
+For one, by way of the Internet, now virtually any two - In October, we introduced new RS/6000 servers, incorporates Netscape Navigator, Sun's Java technology applications easily, without having to splinter program-
+systems in the world can talk to each other. Another including Internet-ready systems equipped with Notes and IBM's speech-recognition software. ming resources across development platforms. We will
+benefit: the PC on your desk no longer has to shoulder all and electronic-commerce software. Storage. More than 40 years ago, IBM invented mag- invest more than $200 million in the next few years to
+the work. It doesn't have to do all the processing. Or store - Garnering several awards, including PC World's netic disk storage. Today, our lead extends firom the small- make Java ready for enterprises. We have work under
+all the data. Or run its own applications. That can all hap- "Best Enterprise Server" award, our PC server family est storage devices (which reside in tiny portable comput- way in 19 development laboratories with more than 1,000
+pen on the other side of the Net - on the server. grew aggressively in 1996. ers) to massive storage systems (which safely house the programmers all over the world. We are building Java
+At IBM, we're working on the full range of technolo- Enterprise software. Our strategy here has been to open world's largest digital libraries). Through an alliance with into all our operating systems, working with Sun to
+gies for the networked world. Most of our work is behind up our offerings, so they run not only on IBM hardware, Storage Technology Corp. last year, we've greatly speed Java's performance, building development tools
+the scenes, in the network, on servers. but also on other industry-leading hardware and software strengthened our position in large-scale storage systems. and creating a library of Java programs.
+Enterprise servers. In 1996, IBM made much progress platforms, including Windows NT Security. Before people and enterprises embrace net-
+on this front: - In 1996, we introduced a beta version of an entirely works as carriers of their communications and records,
+— In September, we introduced our third generation of new kind of database, our DB2 Universal Database, that they must have confidence that their information is
+In December, IBM set a new world record in magnetic data-storage density — 5 billion bits of data per In July, the U.S. Department of Energy contracted IBM to build a really big computer - in fact, the world's
+square inch — the equivalent of 312,500 double-spaced typewritten pages (a stac[< 104 feet high) in one fastest supercomputer. Capable of performing more than 3 trillion calculations per second (3 terafiops),
+square inch of disk surface. Drives of this density should appear within three to five years. the RS/6000 SP will simulate nuclear explosions, reducing the need for live nuclear tests.
+
+===== PAGE 21 =====
+<
+p /
+lew. I document. I train. I mobilize Iment. I bank. I trade. I safeguard. I inspire. I illustrate. I p'ioneer.-I report. I improvise. I^for idcast. I save. I persuade. I market. I help. I deliver. I educate. I guide. IJ^|i|||^M^|9Vraoilvuotliuotnioinziez.e. II ttrraannssmmiitt.. II ccoomm^^^^l^. ® coritelbute. I assemble. I unite. I interviev\^. I sig
+We wor h o u rs a day.
+rio' i s 1
+ft
+Advanced Systems Development Corporation (ASDC) IBM emerging markets softv\/are development team
+Beijing, China Seattle, Washington
+rsnmi aitti
+Consider it an intercontinental tag-team. Tine components. A particularly notable pair: our University joint venture) pick up where their
+race is on to establish Java as a worldwide development team in Seattle and the one in Seattle colleagues left off, continuing the
+standard for developing network applications. Beijing. The Seattle team works during the day development effort — without missing a beat — /r
+Which is why we have 1,000 developers in 19 on Java-based software. When its day ends, halfway around the globe,
+labs working on key Java architectures and programmers at ASDC (an IBM-Tsinghua
+i A4 A^K ^
+
+===== PAGE 22 =====
+m
+mXim
+^ m m.
+m
+VSl'
+w e ^ m a Ke c a rs i n ie
+rsftegize. I mo I drive. I engineer. I '
+\7t
+Matthias K|hn
+team leader, , and architect to Mercedes-Benz AG
+Stefan Gl|6ner
+team leader, l^ercedes-Benz AG
+Stuttgart, Gelnany
+When people think network, they think ot we're developing a new network computing in-car network. In the near future, these sys-
+offices, They think of universities. But few architecture for Mercedes-Benz' next-genera- tems will draw information from the Internet
+think of cars. Mercedes did. And asked IBM to tion cars. All the major systems - engine, and other communication networks. Drivers
+start a joint development project in coopera- lights, climate control, security, navigation and will get real-time traffic reports and weather
+tion with Daimler-Benz Research. Together, communication — will talk to each other via an conditions, and send and receive messages.
+
+===== PAGE 23 =====
+7 • :'--». f' \^fmf mI'
+Robert Lowden
+digital background painter on Prince of Egypt, DreamWorks SKG, Universal City, California
+The team at DreamWorks isn't bound by tradi- DreamWorks system they call Nile. Thousands find every asset DreamWorks creates, The
+tional Hollywood ways of tininking. The anima- of those assets are interwoven and processed system is the backbone of DreamWorks'
+tors there, as one example, work in both tradi- to create a final motion picture. DreamWorks Digital Studio - by far, the most advanced of
+tional film media and digital media - but every- and IBM are working together to integrate Nile its kind in Hollywood.
+thing ends up as a digital asset on a with IBM's Digital Library to store, archive and
+
+===== PAGE 24 =====
+r
+Xooo]o ls should conform to the way people work, not the other - Last September, we launched the world's first net- A sizable portion of our $4.7 billion R&D budget is tries. Our MedSpeak/Radiology technology, for instance,
+way around. As we approach the day when information work computer — the IBM Network Station — a device dedicated to create this kind of world, including usability saves radiologists time and boosts their productivity.
+technology touches the lives of hundreds of millions of streamlined and optimized for the Net. For about $700, it's testing and interface design research. With the largest R&D budget in our industry, we can
+people, using the technology must be as natural as picking the most affordable way for businesses to offer network We're developing online agent technologies to take - and do - invest in exploration. Most of this research is
+up a phone or popping a bank card into an ATM. access on a large scale. easc-of-use to the next level. Lotus Notes agents already directly applicable to our business. Some, at least at the
+Digital appliances. We're creating a whole new range of — We're building embedded microelectronics for a handle mundane tasks such as filing documents, sending outset, appears unrelated to what we do. We've learned
+easy-to-use and affordable end-user devices: whole range of digital devices, multimedia kiosks, televi- e-mail and researching topics. Our web browser agent that this work often ends up being quite relevant.
+- In 1996, the ThinkPad 560 hit the market. At 4.1 sion set-top boxes and mobile systems. We continue to helps people steer clear of traffic-jammed sites. Other Surprisingly so. You'll see the fruits of these explorations
+pounds (1.86 kilograms), it's one of the lightest notebook advance our MPEG technologies that bring clear, vibrant IBM agents alleviate e-mail overload. They sort the this year — and for many years to come.
+computers around, yet it sports one of the largest, video to the desktop. incoming items and take action.
+sharpest screens. Putting the user in control. As the network becomes Other R&D teams work on human-centered inter-
+- We extended our Aptiva line of computers. The more pervasive, it will become even less visible. People faces. In October, we introduced VoiceType Simply
+sculptural Aptiva S Series is the first home computer that won't think about being "online" or "offline" — they 11 just Speaking, software that allows users to open an applica-
+lets people place the monitor and the media drives on go about life, and the Net will play an active role. tion, dictate a memo or edit a document without touching
+their desk, and tuck the tower someplace out of the way. a kevl)oard. Also, in 1996, we shipped more advanced ver-
+sions of our speech recognition product for specific indus-
+understand. I share. I deliver. I educate. I guide. I believe. I revoiut = .-.n' . t: ^ save. ' pei'S -a-Hp t obilize. I experiment. I bank. I trade. I safeguard. I inspire. I illustrate. I pioneer. I report. I believe. I revolutionize. I assemble. I believe. I unite, I inl
+Make it easy
+32. 33
+What's the best way to make technology useful?
+IBM researchers have demonstrated technologies that allow an "electronic wallet" to receive pages, Think of yourself as a human modem. IBM Personal Area Network technology uses the electrical conductivity
+act as a universal credit card, scan in a receipt, transmit messages or be used as a phone. Future of the human body to transmit data, Using a small transmitter and a receiving device, two people can
+applications: it would allow someone to enter and start a car, pay a toll and transmit information to exchange information, such as an electronic business card, with a handshake.
+another person without removing the wallet from a pocket.
+
+===== PAGE 25 =====
+Kim Johnson Gross writes books. Boo[<s computer they use. Their Aptiva S Series has It even enabled her to go on an online book
+about how to simplify life. One secret: Fill your been used for homework, researching topics tour — without ever having to leave the house.
+day with objects that are beautiful, yet extraor- on the Internet for a term paper, writing client Not bad for a little black box on its first month
+dinarily useful. Kim, her husband and their two proposals, balancing several budgets, and writ- on the job.
+kids live that thinking every day, down to the ing more than a chapter or two of Kim's books.
+
+===== PAGE 26 =====
+safeguard. I trJu', it improvise, laj^pn. I serv^PFadminister. I broadcast. I save. I persuade. I market. I he
+/
+C!!
+/
+EdmarK maKes kids' software - brain-building by the people who count most. Kids. Every cational software. This year, Edmark became
+programs that teach kids the critical art of year, Edmark spends countless hours in user an IBM company We're proud to have them as
+thinking. And even though the company is tests with kids, from kindergartners to part of the family
+staffed with educators, engineers and experts teenagers, soliciting their feedback, ideas and
+of all types, they always put things out to a vote criticism — all in the pursuit of building top edu- T«cb Edmarfc
+uuDor* Product
+
+===== PAGE 27 =====
+What's a corporations responsil)ility to the world?
+G i ve
+coordinate. I experience. I discover. I imagine. I compose. I remedy. I understand. I share. I deliver. I educate. I guide. I illustrate. I pioneer. I report. I improvis (r administer. I broadcast. I save. I persuade. I market. I help. I deliver. I educate. I guide. I believe. I revolutionize. I transmit. I compete. I contribute. I asser
+I
+36, n the beginning, IBM had a fairly basic goal; to run a busi- In ravaged Tuzla, Bosnia-Herzegovina. IBM cstab- But perhaps our most enduring efforts are in educa- - In Chicago and the state of West Virginia, IBM teams 37-
+ness that helped our customers run theirs. In those early lished a computer training center to help women who lost tion. In March, in the United States, IBM hosted the help educators use the World Wide Web as an online
+years, we also cemented a few basic credos that symbolized families to the war. Ninety women per quarter use IBM National Education Summit. Attended t)y the nation's resource for implementing science and math reforms.
+our corporate culture: Respect. Reverence for thoughtful personal computers and ThinkPads to build computer lit- governors, business leaders and President Glinton. the - In Cincinnati, IBM is creating an entirely new online
+works. And giving back. Giving back our time. Giving eracy and something more: the skills to give back, to pass summit addressed ways to raise national education stan- learning system to help students work at their own pace.
+back financial and technical help to the communities that new-found knowledge on to others. Similar job-train- dards and achievement. Our Reinventing Education ini- - Ill Dallas, we re working with educators to build the
+where we work and raise our families. And giving back to ing programs help people build more productive lives in tiative ])uts states and large school svstems on the leading nation's first integrated math and science software cur-
+the people who need our help the most. Australia, Spain and South Afnca. edge of technologv so they can help students meet ricula to foster critical thinking and problem solving
+We've never wavered. In a world blessed with many Through the IBM Environmental Research Program, tougher academic standards. We have committed $35 mil- through hands-on science.
+generous companies and benevolent enterprises, IBM is the company has provided $16 million in technology lion to hel]) school systems remove the barriers to stu- In February 1997, IBM eml)arked on the second phase
+the largest corporate contributor. Over the last decade, grants to 14 universities and research institutions that dent achievement. Our involvement goes far beyond of the program - Reinventing Education 2 - building on
+IBM has contributed more than $1.3 billion to nonprofit are studying global environmental problems. At the "checkbook ])hilanthropy" — we are actively involved all our experience in helping raise achievement in the U.S.
+organizations, schools and universities - close to 4 million Australian Institute of Marine Scicncc, researchers use with each of these school systems, helping address its ])ublic school system.
+hours of volunteer time in the United States alone, and IBM visualization software to enhance conservation of core challenges. Of course, funding is only part of the solution. You
+millions more hours around the world. coral reefs. At the University of Chile, researchers use Here are a few of the major projects underway with need people. And you also need time. Last year, IBM
+This basic commitment to being a responsible corpo- IBM technology in the struggle to protect valuable agri- some of the most innovative schools in the nation: employees were once again generous, lending their sup-
+rate citizen touches every IBM office, plant and laboratory cultural land in the country's arid subtropics. In Belgium, -In Broward County, Florida, the school district makes })ort and their thinking to some particularly vexing prob-
+all over the globe - in 163 countries, to be exact. at the University of Liege, teams use IBM systems to better use of data about test scores, scheduling and lems. A comfortable sign that even though many things
+study water contamination in coastal/river basins and to staffing - at both school and district levels. The system about our company are transforming, our values endure.
+help formulate strategies to protect water quality. integrates data and presents it in an easy-to-analyze for-
+mat, enabling, for the first time, quick decision making.
+
+===== PAGE 28 =====
+ave. I persuade. I market. I help. I train. I mobilize. I experiment I bank I trade. I safeguard. I inspire. I give. I perforBjj.-^ monitor. I d I improvise. 1 inform. I serve. I administer. I broadcast. I save
+"We teach our computers to read.
+Judy Zaikin's fourth-grade class
+Barton Elementary School, Philadelphia, Pennsylvania
+It is inspiring to see young minds learn to tai<e jumbled. Context, lost. At Barton Elementary advanced voice-recognition technology pio-
+abstract letters and turn them into words, School - in a school district that's part of neered
+words into sentences, and sentences into IBM's Reinventing Education effort - kids who in IBM's research labs. Students read
+thoughts. But for some, learning to read, for need help are getting it from an IBM software aloud to their online tutor. Along the way, the
+whatever reason, turns sour. Words remain program. "Watch Me Read" takes advantage of tutor coaches them, gently corrects them and
+rewards them.
+
+===== PAGE 29 =====
+[ofk. I dream. I create. I write. I sculpt. I harvest. I manage. I paint. I explore. I learn. I study. I pretend. I research. I protect. We think. I sell. I buy. I shop. I list
+t IBM, we strive to lead in the creation, development and
+manufacture of the industry's most advanced information
+technologies, including computer systems, software,
+networking systems, storage devices and microelectronics.
+We translate these advanced technologies into value
+for our customers through our professional solutions and
+services businesses worldwide.
+
+===== PAGE 30 =====
+42. Report of Management
+4 3. Report of Independent Accountants
+44. Management Disciission
+56. Consolidated Financial Statements
+Earnings
+Financial Position
+Cash Flows
+Stockholders' Equity
+60. Notes To Consolidated Financial Statements
+60. A Significant Accounting Policies
+62. B Accounting Changes
+63. C Inventories
+63. D Plant, Rental Machines and Other Property
+64. E Investments and Sundry Assets
+64. F Debt
+6 6, G Taxes
+68. H Selling and Advertising
+68, I Research. Development and Engineering
+69. .J Interest on Debt
+69. K Other Liabilities and Environmental
+69. L Contingencies
+70. M Customer Financing
+N Rental Expense and Lease Commitments 41.
+73- 0 Stock-Based Compensation Plans
+7^- P Stock Repurchases
+76. Q Retirement Plans
+78. R Nonpension Postretirement Benefits
+79- S Lines of Credit
+80. T Sale and Securitization of Receivables
+80. U Financial Instruments
+82. V Subsequent Event
+82. w Segment Information
+84. X Geographic Areas
+86. Five-Year Comparison of Selected Financial Dat:
+86. Selected Quarterly Data
+87. Stockholder hrformation
+88. Board of Directors and IBM Management
+
+===== PAGE 31 =====
+Responsibility for the integrity and objectivity of the financial information presented in this Annual Report rests with
+IBM management. The accompanying financial statements have been prepared in conformity with generally accepted
+accounting principles, applying certain estimates and judgments as required.
+IBM maintains an effective internal control structure. It consists, in part, of organizational arrangements with clearly
+defined lines of responsibility and delegation of authority, and comprehensive systems and control procedures. We
+believe this structure provides reasonable assurance that transactions are executed in accordance with management
+authorization, and that they are appropriately recorded, in order to permit preparation of financial statements in
+conformity with generally accepted accoimting principles and to adequately safeguard, verify and maintain account-
+ability of assets. An important element of the control environment is an ongoing internal audit program.
+To assure the effective administration of internal control, we carefully select and train our employees, develo]) and
+disseminate written policies and procedures, provide appropriate communication channels, and foster an environ-
+ment conducive to the effective functioning of controls. We believe that it is essential for the company to conduct its
+business affairs in accordance with the highest ethical standards, as set forth in the IBM Business Conchict Guidelines.
+These guidelines, translated into numerous languages, are distributed to employees throughout the world, and
+reemphasized through internal programs to assure that they are understood and followed.
+Price Waterhouse LLP, independent accountants, is retained to examine IBM's financial statements. Its acconi])any-
+ing report is based on an examination conducted in accordance with generally accepted auditing standards, including
+a review of the internal control structure and tests of accounting procedures and records.
+The Audit Committee of the Board of Directors is composed solely of outside directors, and is resj)onsil)le lor rec-
+ommending to the Board the independent accounting firm to be retained for the coming year, subject to stockholder
+approval. The Audit Committee meets periodically and privately with the independent accountants, with our inter-
+nal auditors, as well as with IBM management, to review accounting, auditing, internal control structure and financial
+reporting matters.
+42.
+Louts V. GERSTNER , JR. G. RICHARD THOMAN
+Chairman of the Board and Senior Vice Prc.sidcnt and
+Chief Executive Officer Chief Financial Officer
+
+===== PAGE 32 =====
+To the Stockholders and Board of Directors of International Business Machines Corporation:
+In our opinion, the accompanying consolidated linancial statements, appearing on pages 56 through 85, present
+fairly, in all material respects, the financial position of International Business Machines Corporation and its sub-
+sidiaries at December 31,1996 and 1995, and the results of their oj)crations and their cash flows for each of the three
+years in the period ended December 31,1996, in conformity with generally accepted accounting principles. These finan-
+cial statements are the res])onsibility of the company's management; our responsibility is to exj)ress an opinion on these
+financial statements based on our audits. We conchicted our audits of these statements in accordance with gener-
+ally acce])ted auditing standards, wliich require that we plan and perform the audit to obtain reasonable assurance about
+whether the financial statements are free of material misstatement. An audit includes examining, on a test basis, evi-
+dence supporting the amounts and disclosures in the financial statements, assessing the accounting principles used
+and significant estimates made by management, and evaluating the overall financial statement presentation. We
+believe that our aiidits provide a reasonable basis for tlie 0])inion expressed above.
+I'rici-: W'A I 1. R n O t'S I I,
+1177 Avoniie ol'llu' Americas
+.\Vw York. NV 10036
+January 20, 1997
+43-
+
+===== PAGE 33 =====
+Overview
+IBM's financial performance in 1996 reflects continued progress towards its strategic goals of revenue growth, an
+expanded portfolio of industry-specific customer solutions, especially through network computing, and an increas-
+ingly competitive cost and expense structure.
+The company reported record revenue of nearly $ 76 billion, 30 percent net earnings growth over 1995 and ended the
+year with over $ 8 billion in cash. The company also continued to align itself for strategic growth by investing almost
+$ 20 billion in critical high-growth and advanced technology businesses, research and development, acquisitions
+and repurchases of its common shares.
+The growth in revenue was principally due to the continued transition of revenue mix to the company's high-
+growth businesses. Revenue from services, personal computers and distributed software offerings grew strongly year
+over year At the same time, while System/390* revenue declined due to pricing pressures, its total installed base grew
+nearly 25 percent, well above the 14 percent growth rate of just two years ago as customers continued to move to inte-
+grated network solutions.
+The company's results were also affected adversely by the continued weakness of the European economy and the con-
+tinued strengthening of the U.S. dollar. Without the currency effect, year-to-year revenue growth would have been
+9 percent compared with the reported growth of 6 percent.
+Looking Forward
+While excellent progress was made in 1996, the company must continue to implement strategic actions to further
+improve its competitiveness. These actions include an on-going focus on revenue growth and stable net income
+margins, while at the same time maintaining a strong balance sheet and cash flows for long-term growth.
+44
+
+===== PAGE 34 =====
+Results oi Operations
+(Dollars in millions except per share amounts) 1996 1995 1994
+Revenue $ 75,947 $ 71,940 $ 64,052
+Cost 45,408 41,573 38,768
+Gross profit 30,539 30,367 25,284
+Gross profit margin 40.2% 42.2% 39.5%
+Total expense 21,952 22,554 20,129
+Net earnings before income taxes $ 8,587 $ 7,813 $ 5,155
+Net earnings $ 5,429 $ 4,178 $ 3,021
+Net earnings per share of common stock $ 10.24 $ 7.23 $ 5.02
+Revenue grew 5.6 percent as reported and 8.6 percent when currency impacts are removed. This increase was primarily
+driven by the high-growth areas of the company's product portfolio: services, personal computers and distributed soft-
+ware offerings including those from Lotus Development Corporation (Lotus) and Tivoli Systems, Inc. (Tivoli).
+The following table provides the company 5i percent of revenue by category:
+1996 1995 1994
+Hardware sales 47.8% 49.5% 50.5%
+Services 20.9 17.7 15.2
+Software 17.2 17.6 17.7
+Maintenance 9.2 10.3 11.3
+Rentals and financing 4.9 4.9 5.3
+Total 100.0% 100.0% 100.0%
+The overall gross profit margin at 40.2 percent decreased 2.0 points from 1995, following a 2.7 point increase in 1995
+over 1994. The 1996 decline was primarily a result of the company's continued shift to the higher growth sources of
+45
+revenue, most notably, services and personal computers. These businesses have lower gross profit margins than the
+company's more traditional high-end hardware offerings. The increase in 1995 was primarily driven by improved mar-
+gins in hardware sales resulting from cost improvements across most major product lines.
+The following table is provided for informational purposes only, to exclude the effects of certain items on the com-
+pany's net earnings.
+(Dollars in millions except per share amounts) 1996 1995 1994
+Net earnings after tax as reported $ 5,429 4,178 3,021
+Purchased in-process
+research and development (pages 54 and 55) 1,840
+435
+Effects of Federal Systems Company (FSC) sale (page 55) (248)
+Software amortization change _ 192
+Adjusted net earnings $_ 5,864 6,018 $ 2,965
+Adjusted net earnings per share of common stock _$_ 11.06 10.46 4.92
+•Reclassified lo conlorm to 1996 preseiilation.
+
+===== PAGE 35 =====
+Hardware Sales
+(Dollars in millions) 1996 1995 1994
+Revenue $ 36,316 $ 35,600 $ 32,344
+Cost 23,396 21,862 21,300
+Gross profit $ 12,920 $ 13,738 $ 11,044
+Gross profit margin 35.6% 38.6% 34.1%
+Information on revenue by classes of similar products or services is included in note W, "Segment Information," on
+pages 82 and 83. The product trends addressed in this discussion and in that disclosure are indicative, in all mater-
+ial respects, of hardware sales activity.
+Revenue from hardware sales increased 2.0 percent from 1995, following an increase of 10.1 percent in 199s from
+1994. Gross profit dollars from hardware sales decreased 6.0 percent from 1995, following an increase of 24.4 per-
+cent in 1995 from 1994.
+Revenue from servers decreased 1.4 percent from 1995, following a 9.0 ])ercent increase versus 1994. The 1996 decrease
+was primarily driven by lower revenue from System/390, although total delivery of mainframe computing power,
+including shipments placed with end-users through both operating leases and service offerings, increased
+49 percent as measured in MIPS (millions of instructions per second) versus last year. The Systcm/390 revenue
+decrease was partially offset by higher revenue from AS/400*, RISC System/6000* and personal computer servers.
+The 1995 increase reflected higher revenue across all server products when compared to 1994 levels.
+Personal system client revenue grew 13.8 percent from 1995, following a 15.1 percent increase in 1995 fi-om 1994. The
+1996 increase was driven by higher revenue from personal computers, especially consumer products, partially offset
+by lower revenue from RISC System/6000. The 1995 increase over 1994 resulted from higher revenue across all
+personal system client products.
+4 6. Storage products revenue, including products sold primarily through the Original Equipment Manufacturer (OEM)
+channel, decreased 4.1 percent in 1996 fi"om 1995, following an increase of 4.8 percent in 1995 from 1994. The decline
+in 1996 is a result of lower revenue associated with high-end storage products due to continuing price competition.
+This decrease was partially offset by strong revenue growth in hard disk drive (HDD) storage and tape products
+when compared to 1995 levels. These product areas in 1996 accounted for more revenue than high-end storage prod-
+ucts. The 1995 increase versus 1994 was primarily driven by strong growth in HDD storage products, partially offset
+by lower revenue from high-end storage and tape products.
+OEM hardware revenue declined 9.1 percent in 1996 versus 1995, following a 35.5 percent increase in 1995 over 1994. The
+1996 decrease was driven by lower semiconductor revenue due to continuing industry-wide pricing pressures.
+
+===== PAGE 36 =====
+The decrease in the 1996 hardware sales gross profit margin was driven by the mix of revenue to lower gross profit
+])rodncts, such as personal computers, and by lower OEM semiconductor margins. The increase in the 1995 hardware
+gross profit margin was driven by improved gross profit mai-gins on System/390, personal computers, RISC
+System/6ooo servers and OEM products. The overall hardware sales margin continues to be adversely impacted
+by pricing pressures across all products.
+Services
+(Dollars in millions) 1996 1995 1994
+Revenue $ 15,873 12,714 9,715
+Cost 12,647 10,042 7,769
+Cross profit $ 3,226 2,672 1,946
+Cross profit margin 20.3% 21.C 20.0%
+Services revenue increased 24.8 percent in 1996 from 1995 and 30.9 percent in 1995 over 1994. These increases are pri-
+marily in the areas of managed operations of systems and networks, systems integration design and development,
+availability services and consulting engagements. In 1996, the company signed services contracts worth more than
+$ 27 billion. To meet I he growing demands in its services businesses, the company hired more than 15,000 new
+employees while maintaining a consistent level of gross profitability.
+Software
+(Dollars in millions) 1996 199s 1994
+Revenue 13,052 $ 12,657 11,346
+Cost 4,082 4,428 4,680
+Ciross profit $ 8,970 $ 8,229 $ 6,666
+Cross profit margin 68.7% 6 5.0% 58..
+Software revenue increased 3.1 percent in 1996 Irom 1995, following an increase of 11.6 percent in 1995 from 1994.
+The increase in 1996 was driven by distributed software offerings including Lotus Notes*, cciMail* and systems
+management software fi-om Tivoli, partially offset by lower host-based computer software revenue associated with
+System/390 and AS/400. The increase in 1995 was primarily due to revenue from Lotus products in the second half
+of 1995, after the acquisition.
+Software gross profit dollars increased 9.0 percent in 1996 fj-om 1995, following an increase of 23.4 percent in 1995 from
+1994. The increase in 1995 fi-om 1994 was affected by a change in the amortization period for software products in 1994.
+Excluding the effect of this change, the gross profit dollars would have increased 18.2 percent. The increase in gross
+profit dollars in Ijoth 1996 and 1995 driven primarily by the company's continuing shift towards a more iterative soft-
+ware development })rocess. As a result, a larger percentage of software development spending was expensed, and less was
+capitalized ($ .3 billion in 1996, compared to $ .8 billion in 1995), yielding lower costs of amortization.
+
+===== PAGE 37 =====
+Maintenance
+(Dollars in millions) 1996 199s 1994
+Revenue $ 6,981 $ 7,409 $ 7,222
+Cost 3,659 3,651 3,635
+Gross profit $ 3,322 $ 3,758 $ 3,587
+Gross profit margin 47.6% 50.7% 49.7%
+Maintenance revenue decreased 5.8 percent in 1996 from 1995, following an increase of 2.6 percent in 1995 fi-om 1994.
+Gross profit dollars decreased 11.6 percent, following an increase of 4.8 percent in 1995 from 1994. Revenue and gross
+profit margins in 1996 were lower due to continued price reductions.
+Rentals and Financing
+(Dollars in millions) 1996 199s 1994
+Revenue $ 3,725 $ 3,560 $ 3,425
+Cost 1,624 1,590 1,384
+Gross profit $ 2,101 $ 1,970 $ 2,041
+Gross profit margin 56.4% 5 5.4% 59.6%
+Rentals and financing revenue increased 4.6 percent in 1996 from 1995, following an increase of 3.9 percent in 1995 over
+1994. In both 1996 and 1995, revenue increased as new originations of operating leases for high-end products outpaced
+the expiration of older leases. The mix of operating lease originations and hardware sales of these products remained con-
+stant year to year Gross profit dollars increased 6.6 percent from 1995, following a decline of 3.4 percent in 1995 from 1994.
+The increase was primarily a result of higher margins on operating leases and lower interest rates. The decrease in
+1995 was a reflection of both declining volumes and rental prices on high-end products. The financing results are dis-
+cussed in more detail in note M, "Customer Financing," on pages 70 through 72.
+
+===== PAGE 38 =====
+Operating Expenses
+(Dollars in millions) 1996 1995 1994
+Selling, general and administrative $ 16,854 $ 16,766 $ 15,916
+Percentage of revenue 22.2% 2 3.3% 24.8?
+Research, development and engineering $ 4,6 54 $ 4.170 $ 4,363
+Percentage of revenue 6.1% 5.8% 6.85
+Purchased in-process research and development $ 435 $ 1,840
+'Reclassified to conforiii to 1996 ])rcsentation.
+Selling, general and administrative (SG&A) expense remained essentially flat in 1996 compared to 1995. The com-
+pany's shift towards investments in more variable based high-yield programs, such as advertising, business partner
+programs, expenditures associated with new acquisitions and investments and its continued focus on reducing fixed
+iniirastructure costs yielded a 1.1 point improvement in the expense to revenue ratio in 1996. The 1996 and 1995 results
+included $ 669 million and $ 626 million, respectively, associated with infi-astructure reductions. The 1995 results also
+included a one-time gain of $ 175 million due to the settlement of certain contracfual obligations resulting from the 1994
+FSC sale. The company continues to focus on productivitv, reengineering, expense controls and prioritization of
+spending in order to maintain competitive expense to revenue levels.
+Research, development and engineering expense increased 11.6 percent in 1996 from 1995, following a decrease of
+4.4 percent in 1995 from 1994. The increase in 1996 is primarily a result of the company's change in the software devel-
+opment process as discussed in the Software section on page 47. hi addition, the on-going activities of Lotus and Tivoli
+are included in 1996 results, as compared to 1995 which included only Lotus activity from July to December 1995.
+Purchased in-process research and development in 1996 and 1995 was primarily associated with the Tivoli and Lotus
+acquisitions, respectively.
+49.
+Provision for Income Taxes
+The provision for income taxes resulted in an effective tax rate of 37 percent for 1996, as compared to the 1995 effective
+tax rate of 47 percent. Without the effect of expensing the purchased in-process research and development with no
+corresponding tax effect, the 1996 and 1995 effective tax rates would have been 35 percent and 38 percent, respectively.
+The reduction in the 1996 tax rate is due to the company's continued expansion into markets with lower effective tax rates,
+as well as the use of foreign tax credits to offset the tax effect of dividend repatriation from non-U.S. affiliates.
+The company accounts for income taxes under Statement of Financial Accounting Standards (SFAS) 109, 'Accounting for
+Income Taxes," which provides that a valuation allowance should be recognized to reduce the deferred tax asset to the
+amount that is more likely than not to be realized. In assessing the likelihood of realization, management considered
+estimates of fiiture taxable income, which are based primarily on recent financial performance.
+
+===== PAGE 39 =====
+Fourth Quarter
+For the quarter ended December 31,1996, the company had revenue of $ 23.1 bilhon, a 5.6 percent increase over the
+same period of 1995. Net earnings in the fourth quarter were $ 2,023 niilhon ($ 3.93 per common share), compared to
+net earnings of $ 1,711 milhon ($ 3.09 per common share) in the fourth quarter of 1995.
+Fourth-quarter revenue increased in the United States, Asia-Pacific and Latin America, and dechned in Canada.
+Specifically, revenue from the United States increased 12.1 percent year over year to $ 8.8 billion. Revenue from the
+company's Europe, Middle East, and Africa unit was $ 8.1 billion, essentially flat from 1995 to 1996. Asia-Pacific rev-
+enue grew 6.2 percent to $ 4.3 billion, while revenue in Latin America was $ 1.1 billion, an increase of 3.9 perccnt.
+Revenue from Canada declined 2.4 percent to $ .8 billion.
+Currency had an approximately 3 percentage point negative impact on the company's revenue results in the fourth
+quarter. This compares with an approximately 2 percentage point positive revenue effect in the fourth quarter of
+1995. At constant currency in the fourth quarter of 1996, European revenue would have grown 3 pcrcent and Asia-
+Pacific revenue would have increased 14 percent.
+Hardware sales revenue was $ 11.7 billion, an increase of 1.7 percent compared to the fourth quarter of 199$. I\rsonal
+computer revenue grew year over year in both commercial and consumer categories. AS/400, storage product and net-
+working hardware revenue also increased. System/390 and OEM hardware revenue declined, while RISC System/6000
+revenue was essentially flat.
+Services revenue was $ 5.0 billion, an increase of 22.3 percent compared to the fourth quarter of last year. This
+increase reflects the continued strength across the company's services categories, including managed operations of
+systems and networks, systems integration design and development and availability services.
+Software revenue grew 3.9 percent year over year to $ 3.7 billion. The increase was driven by strong growth of Lotus
+and Tivoli distributed software products, offset by lower host-based computer software revenue.
+50.
+Maintenance revenue decreased 5.8 percent from 1995's fourth quarter, due to continuing competitive ])ricing ])res-
+sures. Rentals and financing grew 9.4 percent from 1995's fourth quarter due to increased operating leases of
+high-end products.
+The company's overall gross profit margin was 40.3 percent in the fourth quarter, compared to 41.7 percent in the same
+period of 1995. This decrease was a result of the continuing shift of revenue to lower margin offerings including
+services and personal systems.
+Total expenses declined 2.3 percent year over year, while the expense-to-revenue ratio decreased from 29.8 percent
+to 27.8 percent. This decline reflects the continuing efforts to shift toward investments in more variable based spend-
+ing programs and reductions in infrastructure expenditures.
+
+===== PAGE 40 =====
+Financ ial Condition
+The company for the third consecutive year generated over $ lo biUion in cash flow fi-oni operations which funded
+significant investments in plant, rental machines and other property, strategic acquisitions, such as Tivoli and Object
+Technology hiternational, hic., as well as common share repurchases. The companv ended 1996 with $ 8.1 billion in
+cash, u]) $ .4 billion fi-om year-end 1995.
+The company has access to global funding sources. During 1996, the company issued debt in a variety of geogra-
+phies to a diverse set of investors. Significant fimding was issued in the United States, Japan and Europe. Funding was
+obtained across the range of debt maturities from short-term commercial paper to long-term debt. In December
+1996, the company issued $ 850 million of debt which matures in 100 years. More information about company debt
+is provided in note F, "Debt," on pages 64 and 65.
+hi December 1993, the company entered into a $ 10 billion committed global credit facility to enhance the liquidity
+of funds. This facility was amended in March 1996, and extended to March 2001. As of December 31,1996, $ 9.4 bil-
+lion was unused and available.
+At year-end 1996, the conipany had an outstanding balance of $ 1.1 billion of assets under management fi-om the secu-
+ritization of loans, leases and trade receivables, compared to the year-end 1995 level of $ 1.2 billion. The company
+retains access to additional funds through securitization, as discussed in note T, "Sale and Securitization of
+Receivables," on page So.
+The rating agencies continued their review of the company's debt. In December 1996, Fitch Investors Service
+upgraded its credit ratings for the company and its rated subsidiaries' senior long-term debt to AA- from A+. Fitch
+also upgraded the company's ])referred stock to A+ from A. They continue to rate conmiercial paper at F-I+.
+In Januarv 1997, Standard and Poor's revised its outlook on the company and its rated subsidiaries to positive firom sta-
+ble and affirmed its ratings of senior debt at A, commercial paper at A-1, and preferred stock at A-.
+Moody's Investors Service rates the senior long-term debt of the company and its rated subsidiaries as Al, the com-
+mercial pa])er as Prime-I, and the company's preferred stock as "af."
+Duff & Phelps rates the company and its rated subsidiaries' senior long-term debt as A+, commercial paper as
+Duff I, and the company's preferred stock as A.
+
+===== PAGE 41 =====
+Cash Flows
+The company's cash flows from operating, investing and financing activities as prescribed by generally accepted
+accounting principles and reflected in the Consolidated Statement of Cash Flows on page 58, are summarized in the
+following table:
+(Dollars in millions) 1996 1995 1994
+Net cash provided from (used in):
+Operating activities $ 10,275 $ 10,708 $ 11,793
+Investing activities (5,723) (5,052) (3,426)
+Financing activities (3,952) (6,384) (6,412)
+Effect of exchange rate changes
+on cash and cash equivalents (172) 65 106
+Net change in cash and cash equivalents $ 428 $ (663) $ 2,061
+Working Capital
+At Dc ccilibcr p:
+(Dollars in millions) 1996 199s
+Current assets $ 40,695 $ 40.691
+Current liabilities 34,000 31,648
+Working capital $ 6,695 $ 9.04 3
+Current ratio 1.20:1 1.29:1
+The company continued to maintain a strong current ratio of 1.20 to 1. Current assets remained essentially flat due
+to aggressive inventory and accounts receivable management. The company's overall inventories declined $ .5 billion
+driven primarily by inventory management process improvements, particularly in personal computers. While trade
+52. accounts receivable was essentially unchanged from December 31,1995, collections improved, resulting in a nearly
+$ 1 billion reduction, which offset record fourth-quarter revenue.
+Current liabilities were higher primarily due to increases in short-term debt associated with customer fmancing. Short-
+term borrowings were used to take advantage of generally more favorable interest rates.
+Investments
+The company's investments for plant, rental machines and other property were $ 5.9 billion for 1996, an increase of
+$ 1.1 billion from 1995. The increase reflects continued investment in the company's rapidly growing services busi-
+ness, particularly management of customers' information technology, as well as storage products and the advanced
+technology area of microelectronics.
+In addition to software development expenses included in research, development and engineering, the company
+capitalized $ .3 billion of software costs during 1996 versus $ .8 billion capitahzed in 1995. Amortization of capital-
+ized software costs amounted to $ 1.4 billion for 1996, a decrease of $ .3 billion from 1995.
+Investments and sundry assets were $ 21.6 billion at the end of 1996, an increase of $ 1.0 billion firom 1995, primarily the
+result of increases in prepaid pension assets, the company's investment in business alliances and goodwill associated
+with strategic acquisitions, primarily Tivoli. See note E, "Investments and Sundry Assets," on page 64 for additional
+information.
+
+===== PAGE 42 =====
+Debt and Equity
+(Dollars in millions 1996
+"Core" debt 2,202 1,907
+Customer financing debt 20,627 19,722
+Total debt 22,829 $ 21,629
+Stockholders" equity $ 21,628 $ 22,423
+Dcbt/capitalization 51.4% 49.1%
+"Core" debt/capitalization 10.7% 8.5%
+Customer financing debt/ecjuity 6.3:1 6.3:1
+Total debt increased $ 1.2 billion from year-end 1995, driven by an increase of'$ .9 billion in debt to support the growth
+in customer linancing assets and $ .3 billion in "core" debt. The company's "core" debt to capitalization ratio is at a con-
+servative 10.7 percent and the customer linancing debt to ecpiity has been maintained at 6.3 to 1.
+Stockholders' ecjuity declined percent to $ 21.6 billion from December 31,1995. The company's strong net earn-
+ings were reduced by the company's significant common share repurchases, dividend payments and the stronger
+dollar effect on the company's foreign net assets. See page 159, "Consolidated Statement of Stockholders' Equity,"
+for additional inlbrmation.
+Currency Rale Fluctuations
+Since a])proximately 84 percent of the company's non-U.S. revenue was derived from affiliates operating in local
+currency environments, the companv's results are affected by changes in the relative values of non-U.S. currencies
+to the U.S. dollar. Worldwide currencies weakened versus the U.S. dollar in 1996, which resulted in assets and liabil-
+ities denominated in local currencies being translated into fewer dollars. The currency rate changes also resulted in
+an unfavorable impact on revenue of approximately 3 percent in 1996, compared to a favorable impact in 1995 and 1994 S3-
+of 4 percent and 2 percent, respectively.
+In high-inflation environments, primarily parts of Latin America, translation adjustments are reflected in period
+income, as required by SEAS 52, "Foreign Currency Translation." Generally, the company minimizes currency risk
+in these countries by linking prices and contracts to U.S. dollars, by financing operations locally and through for-
+eign currency hedge contracts.
+The com])any uses a variety of financial hedging instruments to minimize currency risks related to customer financ-
+ing transactions and the repatriation of dividends and royalties. Further discussion on currency and hedging appears
+in note U, "Financial Instruments," on pages 80 through 82.
+
+===== PAGE 43 =====
+Financing Risks
+Customer financing is an integral part of the company s total worldwide offerings. Financial results of customer
+financing can be found in note M, "Customer Financing," on pages 70 through 72. Inherent in customer financing are
+certain risks: credit, interest rate, currency and residual value. The company manages credit risk through compre-
+hensive credit evaluations and pricing practices. To manage the risks associated with an uncertain interest rate
+environment, the company pursues a funding strategy of substantially matching the terms of its delM with the terms
+of its assets. Currency risks are managed by denominating liabilities in the same currency as the assets.
+Residual value risk is managed by developing projections of future equipment values at lease inception, reevalu-
+ating these projections periodically, and effectively deploying remarketing capabilities to recover residual values and
+potentially earn a profit. In 1996 and 1995, the remarketing effort generated profits. The following ta])le de])icts
+an approximation of the unguaranteed residual value maturities for the company's sales-type leases, as well as a
+projection of net book value of operating leases at the end of the lease terms as of December 31.1994,199s and 1996.
+The following table excludes approximately $ 50 million of estimated residual value associated with non-
+information technology equipment.
+Tola! Run Ou t of 1996 Rcsidu; li Value B; ilaiu't'
+(Dollars in millions) 1994 199 s 1996 1997 1998 1999 2000 and
+beyond
+Sales-type leases $ 535 $ 470 $ 471 $ 130 $ 15 5 $; 160 $ 26
+Operating leases 140 295 480 160 165 140 15
+Total residual value $ 675 $ 765 $ 951 $ 290 $ 320 $; 300 $ 4 1
+Acquisitions and Divestitures
+On March 1,1996, the company acquired all outstanding shares of Tivoli for approximately $ 800 million ($ 716 mil-
+lion in net cash). On July 5,1995, the company acquired all outstanding shares of Lotus for a})proximately $ 3.2 billion
+5 4- ($ 2.9 billion in net cash). The company engaged a nationally recognized, independent appraisal firm to express an opin-
+ion on the fair market value of the assets of each of the acquisitions to serve as a basis for allocation of the jnirchasc
+price to the various classes of assets. The company allocated the total purchase prices as follows:
+1996 199s
+(Dollars in million.s) Tivoli 1.01 US
+Tangible and intangible net assets $ 140 $ 1,157
+Purchased in-process research and development 417 1,840
+Goodwill 280 540
+Deferred tax liabilities related to identifiable intangible assets (37) (291)
+Total $ 800 $ 3,24 6
+Purchased in-process research and development represented the value of software products still in the develop-
+ment stage and not considered to have reached technological feasibility.
+
+===== PAGE 44 =====
+In addition, the ac quisition of Object Technology International, Inc., resulted in a valuation of purchased in-process
+research and development amounting to $ 18 million, bringing the total amount of purchased in-process research
+and development in 1996 to $ 43s million. In accordance with applical)le accounting rules, the $ 435 million was
+expensed upon ac([uisition in the first quarter of 1996 and the $ 1,840 million was expensed upon acquisition in
+the third ciuarter of 199"^.
+The sale of FSC to Loral Corporation lor $ 1.503 billion in cash had a closing date of March 1,1994, and was ef fective
+januarv 1.1994. This transaction resulted in an after-tax net gain of $ 248 million ($ .43 per common share) in the com-
+pany's first-ciuarter 1994 results. In the Iburth (|uarter of 1995, the company recorded a befbre-tax gain of $ 175 million
+due to the conclusion of contractual obligations between the company and floral Corporation.
+Emplovees
+Percentage Changes
+1996 199s 1994 i996^9S 199S-94
+IBM/wholly owned subsidiaries 240.615 225,347 219,839 6.8 2.5
+Less than wholly owned subsidiaries 28,03 3 26,868 2 3,200 4.3 15.8
+(\)mplementary 37,000 38,000 3 5,000 (2.6) 8.6
+As of December 31, 1996, emplovees of IBM and its wholly owned subsidiaries increased 15,268 from 1995 mainly
+due to hiring in high-growth areas of the business - services, personal computers and Lotus, as well as expansion in
+emerging geographic markets and accjuisition of business entities such as Tivoli.
+The moderate growth in less than wholly owned subsidiaries was due primarily to investments in the company's grow-
+ing worldwide services business, as well as in emerging geographic markets such as China.
+The company s complementary work force comprises ecjuivalent fiill-time employees hired luuler temporary, part-time
+and limited-term employment arrangements to meet specific business needs in a flexible and cost-effective manner.
+
+===== PAGE 45 =====
+(Dollars in millions except per share amounts)
+For the year ended December 31; Notes 1996 1995* 1994
+Revenue:
+Hardware sales $ 36,316 $ 35,600 $ 32,344
+Services 15,873 12,714 9,715
+Software 13,052 12,657 11,346
+Maintenance 6,981 7,409 7,222
+Rentals and financing M 3,725 3,560 3,425
+Total revenue 75,947 71,940 64,052
+Cost:
+Hardware sales 23.396 21,862 21,300
+Services 12,647 10,042 7,769
+Software 4,082 4,428 4,680
+Maintenance 3,659 3,651 3,635
+Rentals and financing 1,624 1,590 1,384
+Total cost 4 5,408 41,573 38,768
+Gross profit 30.5 3 9 30,367 25,284
+Operating expenses:
+Selling, general and administrative H 16,8 54 16,766 15,916
+Research, development and engineering I 4.6 54 4,170 4,363
+Purchased in-process research and development I 435 1,840 -
+Total operating expenses 21,943 22,776 20,279
+Operating income 8,596 7,591 5,005
+Other income, principally interest 707 947 1,377
+Interest expense J 716 725 1,227
+Earnings before income taxes 8,587 7,813 5,155
+Provision for income taxes G 3,158 3,635 2,134
+Net earnings 5,429 4,178 3,021
+56.
+Preferred stock dividends and transaction costs 20 62 84
+Net earnings applicable
+to common shareholders $ 5,409 $ 4,116 $ 2,9 37
+Net earnings per share of common stock $ 10.24 $ 7.23 $ 5.02
+Average number of common shares outstanding;
+1996-528,352,094; 1995 - 569,384,029; 1994- 584,958,699
+'Reclassified to conform to 1996 presentation.
+The notes on pages 60 through 85 are an integral part of this statement.
+
+===== PAGE 46 =====
+(Dollars in millions)
+At December 51: Notes 1996 1995
+Assets
+Current assets:
+Cash and cash equivalents $ 7,687 $ 7,259
+Marketable securities u 450 442
+Notes and accounts receivable - trade, net of allowances 16,515 16,4 50
+Sales-type leases receivable 5,721 5,961
+Other accounts receivable 931 991
+hiventories c 5,870 6,323
+Prepaid expenses and other current assets 3,521 3,265
+Total current assets 40,695 40,691
+Plant, rental machines and other property D 41,893 43,981
+Less: Accumulated depreciation 24,486 27,402
+Plant, rental machines and other propertv - net 17.407 16,579
+Software, less accumulated amortization
+(1996, $12,199; 1995, $ 11,276) 1.435 2,419
+Investments and sundrv assets E 21,595 20,603
+Total assets $ 81.132 $ 80,292
+Liabilities and Stockholders" Equity
+Current liabilities:
+Tixes $ 3,029 $ 2,634
+Short-term debt F 12,957 11,569
+Accounts payable 4,767 4,511
+Compensation and benefits 2,950 2,914
+Deferred income 5,640 3,469
+Other accrued expenses and liabilities 6,657 6,551
+Total current liabilities 34.000 31,648
+Long-term debt F 9,872 10,060 57-
+Other liabilities K 14,005 14,354
+Deferred income taxes G 1.627 1,807
+Total liabilities 59,504 57,869
+Contingencies L
+Stockholders" equity:
+Preferred stock, par value $.01 per share -
+shares authorized: 150,000,000
+shares issued: 1 996 - 2,610,711; 199 5 - 2,610,711 P 253 253
+Common stock, par value $1.2 5 per share -
+shares authorized: 750,000,000
+shares issued: 1996 - 509,070,542; 1995 - 548,199,013 P&V 7,752 7,488
+Retained earnings 11,189 11,630
+Translation adjustments 2,401 3,036
+Treasury stock, at cost (shares: 1996 - 1,089,5 3 3; 1995 - 424,583) (135) (41)
+Net unrealized gain on marketable securities 168 57
+Total stockholders" c(|uity 21.628 22,423
+Total liabilities and stockholders' equity $ 81,132 ),292
+
+===== PAGE 47 =====
+(Dollars in millions)
+For the year ended December 31: 1996 1995 199-1
+Cash flow from operating activities:
+Net earnings $ 5,429 $ 4,178 $ 3,021
+Adjustments to reconcile net earnings to cash
+provided from operating activities:
+Depreciation 3,676 3,9 55 4,197
+Amortization of software 1,336 1,647 2,098
+Effect of restructuring charges (1,491) (2,119) (2,772)
+Purchased in-process research and development 435 1,840
+Deferred income taxes 11 1,3 92 825
+Gain on disposition of fixed and other assets (300) (3 39) (11)
+Other changes that (used) provided cash:
+Receivables (650) (5 30) 653
+Inventories 196 107 1,518
+Other assets (980) (1,100) 187
+Accounts payable 319 659 305
+Other liabilities 2,294 1,018 1,772
+Net cash provided from operating activities 10,275 10,708 11,79 3
+Cash flow from investing activities:
+Payments for plant, rental machines and other property (5,883) (4,744) (3.078)
+Proceeds from disposition of plant, rental machines
+and other property- 1,314 1,561 900
+Acquisition of Lotus Development Corporation - net - (2,880) -
+Acquisition of Tivoli Systems, Inc. - net (716) - -
+Investment in software (29 5) (82 3) (1,361)
+Purchases of marketable securities and other investments (1,613) (1,315) (3,866)
+Proceeds from marketable securities and other investments 1,470 3,149 2,476
+Proceeds from the sale of Federal Systems Company - ~ L503
+Net cash used in investing activities (5,723) (5,052) (3,426)
+Cash flow from financing activities:
+Proceeds from new debt 7,670 6,6 36 5,335
+Short-term borrowings less than 90 days - net (919) 2,557 (1,948)
+Payments to settle debt (4,992) (9,460) (9,445)
+Preferred stock transactions - net - (870) (10)
+Common stock transactions - net (5,005) (4,656) 318
+Cash dividends paid (706) (591) (662)
+Net cash used in financing activities (3,952) (6,384) (6,412)
+Effect of exchange rate changes on cash and
+cash equivalents (172) 65 106
+Net change in cash and cash equivalents 428 (66 3) 2.061
+Cash and cash equivalents at January 1 7,259 7,922 5,861
+Cash and cash equivalents at December 31 $ 7,687 $ 7,259 $ 7,922
+Supplemental data:
+Cash paid during the year for:
+Income taxes $ 2,229 $ 1,453 $ 649
+Interest $ 1,563 $ 1,720 $ 2,132
+
+===== PAGE 48 =====
+Net
+(Dollars in n.illions) Unrealized
+Gain on
+Preferred C'omnio'i Retained Translation Treasury Marketable
+Stock Stock Earnings Adjustments Stock Securities Total
+1994
+Stockholders" equity,January 1-1 994 $ 1,091 $ 6,980 $ 10,009 $ 1,658 $ - $ - $ 19.738
+Net earnings 3,021 3,021
+Cash dividends declared - conunon stock (585) (585)
+Cash dividends declared - preferred stock (84) (84)
+Preferred stock purchased and retired
+(] OS,000 shares) (10) 00)
+Common stock issued under empfoyee
+plans (6,120.25 5 shares) 318 318
+Conunon slock issued to U.S. pension
+plan fiind (67 1,030 shares) 39 39
+Purchases (1,401,740 shares) and sales
+(934.91 9 shares) of treasury stock
+under employee plans - net (9) (34) (4 3)
+Tax reductions - employee plans 5 5
+Other 1,014 1,014
+Stockholders ecjuity. December 3 1,1 994 1,081 7.342 12,352 2,672 (34) 23,413
+-
+199s
+Net earnings 4.178 4,178
+Cash dividends declared - common stock (572) (572)
+Cash dividends declared - preferred stock (20) (20)
+Common stock j)urchased and retired
+(50,906,300 shares) (655) (4,209) (4,864)
+Preferred stock purchased and retired
+(8,5 34,289 shares) (828) (42) (870)
+59-
+Common stock issued under employee
+plans (4.27 1,948 shares) 279 279
+Purchases (4,662,047 shares) and sales
+(4,706.964 shares) of'treasury stock
+under employee plans - net (57) (7) (64)
+Conversion of'debentures (6,65 3,1 2 1 shares 471 471
+Tax reductions - employee plans 51 51
+Other 364 57 421
+Stockholders" eciuity, December 31.1995 253 7,488 11,630 3,036 (41) 57 22,423
+1996
+Net earnings 5,429 5,429
+Cash dividends declared - common stock (686) (686)
+Cash dividends declared - preferred stock (20) (20)
+Common stock purchased and retired
+(48,975,700 shares) (710) (5,046) (5,756)
+Common stock issued under employee
+plans (9,847,229 shares) 811 (13) 798
+Purchases (4,4 5 7,166 shares) and sales
+(3,792,2 16 shares) of treasury stock
+under employee plans - net (105) (94) (199)
+Tax reductions - employee plans 163 163
+Other (63 5) 111 (524)
+Stockholders equity, December 31,1996 $ 253 $ 7,752 $ 11,189 $ 2,401 $ (135) $ 168 $21,628
+
+===== PAGE 49 =====
+A Significant Accounting Policies
+Principles of Consolidation
+The consolidated financial statements include the accounts of International Business Machines Corporation and
+its majority owned subsidiary companies. Investments in business entities in which IBM does not have control, but
+has the ability to exercise significant influence over operating and financial policies (generally 20-50 percent own-
+ership), are accounted for by the equity method. Other investments are accounted for by the cost method.
+Use of Estimates
+The preparation of financial statements in conformity with generally accepted accounting principles requires man-
+agement to make estimates and assumptions that affect the amounts reported in the consolidated financial statements
+and accompanying disclosures. Although these estimates are based on management's best knowledge of current events
+and actions the company may undertake in the future, actual results ultimately may differ from the estimates.
+Revenue
+Revenue from hardware sales or sales-type leases is recognized when the product is shipped. Revenue from one-
+time-charge licensed software is recognized when the program is shipped with an appropriate deferral for post-contract
+customer support. This defierral is earned over the support period. Revenue from monthly software licenses is rec-
+ognized as license fees accrue; from maintenance and services over the contractual period or as the services arc
+performed; from rentals and operating leases, monthly as the fees accrue; and from financing at level rates of return
+over the term of the lease or receivable. Revenue is reduced for estimated customer returns and allowances.
+Income Taxes
+Income tax expense is based on reported earnings before income taxes. Deferred income taxes reflect the impact of tem-
+porary differences between assets and liabilities recognized for financial reporting purposes and such amounts
+6o.
+recognized for tax purposes. In accordance with SEAS 109, 'Accounting for Income Taxes," these deferred taxes are
+measured by applying currently enacted tax laws.
+Translation of Non-U.S. Currency Amounts
+Assets and liabilities of non-U.S. subsidiaries that operate in a local currency environment are translated to U.S.
+dollars at year-end exchange rates. Income and expense items are translated at average rates of exchange prevail-
+ing during the year. Translation adjustments are accumulated in a separate component of stockholders' equity.
+Inventories and plant, rental machines and other non-monetary assets and liabilities of non-U.S. subsidiaries and
+branches that operate in U.S. dollars, or whose economic environment is highly inflationary, are translated at
+approximate exchange rates prevailing when acquired. All other assets and liabilities are translated at year-end
+exchange rates. Inventories charged to cost of sales and depreciation are translated at historical exchange rates. All
+other income and expense items are translated at average rates of exchange prevailing during the year. Gains and
+losses that result from translation are included in earnings.
+
+===== PAGE 50 =====
+Financial Instruments
+In the normal course of business, the company enters into a variety of derivative financial instruments solely for
+the purpose oi'currency exchange rate and interest rate risk management. Refer to note U, "Financial Instruments,"
+on pages 80 though 82 for descriptions of these financial instruments, including the methods used to account for them.
+In assessing the fair value of its financial instruments, both derivative and non-derivative, the company uses a vari-
+ety of methods and assumptions, which are based on market conditions and risks existing at each balance sheet date.
+Quoted market prices or dealer quotes for the same or similar instrument were used for the majority of marketable
+securities, long-term investments and long-term debt. Other techniques, such as option pricing models, estimated
+discounted value of future cash flows, replacement cost and termination cost, have been used to determine fair value
+for the remaining financial instrvunents. These values represent a general approximation of possible value and may
+never actually be realized.
+Cash Equivalents
+All highly liquid investments with a maturity of three months or less at date of purchase are carried at fair value and
+considered to be cash equivalents.
+Inventories
+Raw materials, work in process and finished goods are stated at the lower of average cost or market.
+Depreciation
+Plant, rental machines and other property are carried at cost, and depreciated over their estimated useful lives using
+the straight-line method.
+Software
+61.
+Costs related to the conceptual formulation and design of licensed programs are expensed as research and develop-
+ment. Costs incurred subsequent to establishment of technological feasibility to produce the finished product are
+capitalized. The annual amortization of the capitalized amounts is the greater of the amount computed based on
+the estimated revenue distribution over the products revenue-producing lives, or the straight-line method, and is
+applied over periods ranging up to four years. Periodic reviews are performed to ensure that unamortized program
+costs remain recoverable from future revenue. Costs to support or service licensed programs are charged against
+income as incurred, or when related revenue is recognized, whichever occurs first.
+Retirement Plans and Nonpension Postretirement Benefits
+Current service costs of retirement plans and postretirement healthcare and life insurance benefits are accrued in
+the period. Prior service costs rcsvdting from amendments to the plans are amortized over the average remaining ser-
+vice period of employees expected to receive benefits.
+
+===== PAGE 51 =====
+Goodwill
+Goodwill is charged to earnings on a straight-line basis over the periods estimated to be benefited, ciirrently not
+exceeding five years.
+Common Stock
+Common stock refers to the $ 1.25 par value capital stock as designated in the company's Certificate of Incorporation.
+Net earnings per common share amount is computed by dividing earnings after deduction of preferred stock divi-
+dends and transaction costs by the average number of common shares outstanding in the period.
+B Accounting Changes
+The company implemented new accounting standards in 1996,1995 and 1994. None of these standards had a mate-
+rial effect on the financial position or results of operations of the company.
+In 1996, the company adopted the American Institute of Certified Public Accountants Statement of Position (SOP)
+96-1, "Environmental Remediation Liabilities." This SOP provides authoritative guidance on the recognition, mea-
+surement, display and disclosure of environmental remediation liabilities.
+In 1996, the company implemented the disclosure-only provisions of SFAS 123, 'Acco\inting for Stock-Based
+Compensation." See note O, "Stock-Based Compensation Plans," on pages 73 through 75 for further information.
+In June 1996, the Financial Accounting Standards Board issued SFAS 125, 'Accounting for Transfers and Servicing
+of Financial Assets and Extinguishments of Liabilities." This standard provides accounting and reporting standards
+for transfers and servicing of financial assets and extingvushments of liabilities. While the standard requires imple-
+mentation in 1997, the company is already generally in compliance.
+Effective January 1,1995, the company implemented SFAS 114, "Accounting by Creditors for Impairment of a Loan "
+62,
+and SFAS 118, 'Accounting by Creditors for Impairment of a Loan - Income Recognition and Disclosures." These
+standards prescribe impairment measurements and reporting related to certain loans.
+The company implemented SFAS 116, 'Accounting for Contributions Received and Contributions Made," effective
+January 1,1995. This standard requires that the fair value of contributions, including unconditional promises to
+give, be recognized as expense in the period made.
+In 1995, the company implemented SFAS 121, 'Accounting for the Impairment of Long-Lived Assets and for Long-
+Lived Assets to Be Disposed Of." This standard prescribes the method for asset impairment evaluation for long-lived
+assets and certain identifiable intangibles that are either held and used or to be disposed of The company was gen-
+erally in conformance with this standard prior to adoption.
+
+===== PAGE 52 =====
+In 1995, the company adopted the American histitute of Certified PubUc Accountants SOP 93-7, "Reporting on
+Advertising Costs." This SOP provides guidance on financial reporting of advertising costs in annua! financial state-
+ments. The company was generally in conformance with this SOP prior to adoption. See note H, "Selling and
+Advertising," on page 68 for additional disclosure on advertising expenses.
+Effective January 1, 1994, the company implemented SEAS 115, 'Accounting for Certain hivestments in Debt and
+Equity Securities." This standard addresses the accounting and reporting for investments in equity securities that have
+readily determinable fair values and for all investments in debt securities. See note U, "Financial histnmients " on pages
+80 though 82 for further information.
+C Inventories
+At December 31:
+(Dollars in millions) 1996 1995
+Finished goods $ 1,413 $ 1,241
+Work in process 4,377 4,990
+Raw materials 80 92
+Total $ 5,870 $ 6,32 3
+D Plant. Rental Macliines and Other Property
+At December 51:
+(Dollars in millions) 1996 1995
+Land and land improvements $ 1,208 $ 1,348
+Buildings 12,07 3 12,653
+Plant, laboratory and office equipment 24,824 26,658
+38,10S 40,6 59
+LLeessss:: AAccccmmnnuullaatteedd ddeepprreecciiaattiioonn 22,935 25,604
+15,170 15,055 63,
+Rental machines 3,788 3,322
+Less: Accumulated depreciation 1,551 1,798
+2,2 37 1,524
+Total $ 17,407 $ 16,579
+
+===== PAGE 53 =====
+E Investments and Sundry Assets
+At December 31:
+(Dollars in millions) 1996 1995
+Net investment in sales-type leases* 13,345 14,007
+Less: Current portion - net 5,721 5,961
+7,624 8,046
+Deferred taxes 3,246 3,376
+Prepaid pension cost 3,324 2.535
+Non-current customer loan receivables 2,622 2,390
+Installment payment receivables 830 844
+Investments in business alliances 884 509
+Goodwill, less accumulated amortization
+(1996, $1,300; 1995, $913) 1,067 870
+Other investments and sundry assets 1,998 2,03 3
+Total $ 21,595 20,603
+'These leases relate principally to IBM equipment and are generally for terms ranging from three to five years. Net investment in sales-lvpe leases
+includes unguaranteed residual values of approximately $471 million and $470 million at December 31, 1996 and 1995. respectivelv, and is rellected
+net of unearned income at these dates of approximatelv $2,000 million and $2,100 million, respectivelv. Scheduled maturities of mininuim lease
+payments outstanding at December 31, 1996. expressed as a percentage of the total, are approximatelv as follows: 1997. 47 percent: 1998. 30 percenl ;
+1999, 16 percent; 2000, 5 percent; and 2001 and beyond, 2 percent.
+F Debt
+Short-term debt
+At December 31:
+(Dollars in millions) 1996 199 s
+Commercial paper 6,069 4,93 3
+Short-term loans 3,966 3,755
+Long-term debt: Current maturities 2,922 2,881
+64.
+Total 12,957 1,569
+The weighted-average interest rates for commercial paper at December 31, 1996 and 1995. were approximately 5.6 percent and 5.7 percent, respectively.
+The weighted-average interest rates for short-term loans at December 31, 1996 and 1995, were approximately 5.7 ])ercent and 6.6 percent. res])cctivcly.
+
+===== PAGE 54 =====
+Long-term debt
+At December 31:
+(Dollars in millions) Maturities 1996 1995
+U.S. Dollars:
+Debentures:
+7% 2025 600 600
+7% 204 5 150 150
+7-1/8% 2096 850
+7-1/2% 2013 550 550
+8-3/8% 2019 750 750
+Notes:
+S-1/2% to 7-1/2% 1997-2002 3,025 3,02 5
+7-1/2% to 9-1/2% 1997-2000 174 186
+Medimn-terni note program: 6J average 1997-2009 1,851 1,730
+Other U.S. dollars: S.9% to 8.9% 1997-2012 3 30 416
+8,280 7,407
+Other currencies (average interest rate
+at December 31,1996, in parentheses):
+Japanese yen (2.8%) 1997-2014 4,028 4,149
+Swiss francs 1996 43
+Canadian dollars (11.0%) 1997-1999 5 431
+French francs (10.1%) 1997-2002 282 358
+Australian dollars (6.7%) 1997-1998 44 320
+Other (11.6%) 1996-2017 188 256
+12,827 12,964
+Less: Net miamortized discount 33 23
+12,794 12,941
+Less: Current maturities 2,922 2,881
+Total $ 9,872 $ 10,060 6s,
+Annual maturities in millions of dollars on long-term debt outstanding at December 31, 1996, are as follows: 1997, $2-92^: 1998, $1,462: 1999, $1,469;
+2000. $2..(78: 2001. $386: 2002 and beyond. $£|.iio.
+
+===== PAGE 55 =====
+G Taxes
+(Dollars in millions) 1996 1995 1994
+For the year ended December 31:
+Earnings before income taxes:
+U.S. operations 3,02 5 2,149 1,574
+Non-U.S. operations 5,562 5,664 3,581
+8,587 7,813 5,155
+The provision for income taxes by geographic
+operations is as follows:
+U.S. operations 1,137 1,538 654
+Non-U.S. operations 2,021 2,097 1,480
+Total provision for income taxes $ 3,158 $ 3,635 2,134
+The components of the provision for income
+taxes by taxing jurisdiction are as follows:
+U.S. federal:
+Current 727 49
+Deferred 83 1,075 74
+810 1,160 12 3
+US. state and local:
+Current 158 65 68
+Deferred (35 3)
+(19 5) 65 68
+Non-U.S.:
+Current 2.262 2,093 1,192
+Deferred 281 317 751
+2,543 2,410 1,943
+66.
+Total provision for income taxes 3,158 3,635 2,134
+Social security, real estate, personal property
+and other taxes 2,584 2,566 2,465
+Total taxes $ 5,742 $ 6,201 4,599
+The effect of tax law changes on deferred tax assets and liabilities did not have a significant impact on the company's
+effective tax rate.
+
+===== PAGE 56 =====
+The significant components of activities that gave rise to deferred tax assets and habihties inchided on the bal-
+ance sheet were as follows:
+Deferred Tax Assets
+At December 31:
+(Dollars in millions) 1996 1995*
+Employee benefits $ 3,5 54 $ 3,374
+Capitalized research and development 1,478 1,772
+Restructuring charges 1,323 2,003
+Asset impairments 1,304 1,424
+Alternative minimum tax credits 1,016 859
+Deferred income 993 306
+General business credits 4 52 452
+Foreign tax loss carryforwards 368 303
+Equity alliances 340 407
+Intracompany sales and services 194 325
+State and local tax loss carryforwards 166 2 36
+Depreciation 123 172
+Foreign tax credits - 1,183
+Other 2,411 2,46 3
+Gross deferred tax assets 13,722 15,279
+Less: Valuation allowance 2,2 39 3,868
+Net deferred tax assets $ 1 1,483 $ 11,411
+Deferred Tax Liabilities
+Sales-tvpe leases $ 3,126 $ 2,898
+Retirement benefits 1,967 1,919
+Depreciation 1,702 1,787
+Software costs deferred 648 967
+Other 1,465 1,320
+Gross deferred tax liabilities $ 8,908 $ 8,891
+'Reclassified to conform to 1996 presentation.
+The estimated reversal periods for the largest deductible temporary differences are: Employee benefits — 1 to 30
+years; Capitalized research and development — 1 to 7 years; Restructuring — 1 to 5 years.
+The valuation allowance applies to U.S. federal tax credits, state and local net deferred tax assets and net operating
+loss carryforwards, and net operating losses in certain foreign jurisdictions that may expire before the company can uti-
+lize them. The net change in the total valuation allowance for the year ended December 31,1996, was principally due
+to the use of available foreign tax credits in conjunction with the repatriation of dividends from foreign subsidiaries and
+any resulting benefit in the current year was substan tially reduced by the additional tax cost associated with the div-
+idend repatriation. It is reasonably possible that the deferred tax asset valuation allowance could continue to decrease
+in the near term, depending on the company's ability to generate sufficient taxable income in multiple tax jurisdictions.
+
+===== PAGE 57 =====
+The consolidated effective income tax rate was 37 percent in 1996, 47 percent in 1995 and 41 percent in 1994.
+A reconciliation of the company's effective tax rate to the statutory U.S. federal tax rate is as follows:
+For the year ended December 31: 1996 1995 1994
+Statutory rate 35% 3 5% 3 5%
+Foreign tax differential 2 2 5
+State and local 1 1 1
+U.S. valuation allowance (6) (2)
+Other 3 2 -
+Effective rate before purchased in-process
+research and development 35% 38% 41%
+Purchased in-process research and development 2 9 -
+Effective rate 37% 47% 4T%
+For tax return purposes, the company has available tax credit carryforwards of approximately $ 1,673 million, of
+which $ 1,016 million have an indefinite carryforward period, $ 184 million expire in 1999 and the remainder there-
+after. The company also has state and local and foreign tax loss carryforwards, the tax effect of which is $ 534 million.
+Most of these carryforwards have an indefinite carryforward period.
+Undistributed earnings of non-US. subsidiaries included in consolidated retained earnings amounted to $ 12,111 mil-
+lion at December 31, 1996, $ 12,565 million at December 31,1995 and $ 11,280 million at December 31,1994. These
+earnings, which reflect full provision for non-US. income taxes, are indefinitely reinvested in non-US. operations or
+will be remitted substantially free of additional tax.
+H Selling and Advertising
+68.
+Selling and advertising expenses are charged against income as incurred. Advertising and promotional expense included
+in SG&A expense amounted to $ 1,569 million, $ 1,315 million and $ 977 million in 1996,1995 and 1994. respectively.
+I Research. Development and Engineering
+Research, development and engineering expenses amounted to $ 4,654 million in 1996, $ 4,170 million in 1995 and
+$ 4,363 million in 1994. Expenditures for product-related engineering included in these amounts were $ 720 mil-
+lion, $ 783 million and $ 981 million in 1996,1995 and 1994, respectively.
+Expenditures of $ 3,934 million in 1996, $ 3,387 million in 1995 and $ 3,382 million in 1994 were made for research
+and development activities covering basic scientific research and the application of scientif ic advances to the devel-
+opment of new and improved products and their uses. Of these amounts, software-related activities were $ 1,726
+million, $ 1,157 million and $ 793 million in 1996,1995 and 1994, respectively.
+Purchased in-process research and development was $ 435 million and $ 1,840 million, for 1996 and 1995, respectively.
+
+===== PAGE 58 =====
+J Interest on Debt
+Interest paid and accrued on borrowings of the company and its subsidiaries amounted to $ 1,565 million in 1996, $ 1,600
+million in 1995 and $ 2,006 million in 1994. Of these amounts, $ 31 million in 1996, $ 23 million in 1995 and $ 20 million
+in 1994 were capitalized. The remainder was charged to cost of rentals and financing, and interest expense. The
+year-to-year decrease in interest expense was primarily a result of lower average interest rates which were 7.0 per-
+cent, 7.2 percent and 8.0 percent in 1996,1995 and 1994, respectively.
+K Other Liabilities and Environmental
+Other liabilities consists principally of accruals for nonpension postretirement benefits for U.S. employees and
+indemnity and retirement plan reserves for non-U.S. employees. More detailed discussion of these liabilities appears
+in note R, "Nonpension Postretirement Benefits," on pages 78 and 79, and note Q, "Retirement Plans," on pages 76
+through 78. In addition, accruals associated with prior year infrastructure reduction actions amounted to $ 2.8 bil-
+lion at December 31,1996.
+In addition, the company continues to participate in environmental assessments and cleanups at a number of loca-
+tions, including operating facilities, previously owned facilities and Superfimd sites. The company accrues for all
+known environmental liabilities lor remediation cost when a cleanup program becomes probable and costs can be rea-
+sonably estimated. Estimated environmental costs associated with post-closure activities, such as the removal and
+restoration of chemical storage facilities and monitoring, are accrued when the decision is made to close a facility. The
+amounts accrued, which do not reflect any insurance recoveries, were $ 244 million and $ 223 million at December
+31,1996 and 1995, respectively.
+The amounts accrued do not cover sites that are in the j)reliminary stages of investigation where neither the com-
+pany's percentage of responsibility nor the extent of cleanup required has been identified. Also excluded is the cost
+of internal environmental protection programs that are primarily preventive in nature. Estimated environmental costs
+are not expected to materially impact the financial position or results of the company's operations in future peri-
+ods. Elowever, environmental cleanup ])eriods arc protracted in length, and environmental costs in future periods are
+69.
+subject to changes in environmental remediation regulations.
+L Contingencies
+On February 25, 1993, a consolidated and amended class action complaint was filed against the company in the
+United States District Court for the Southern District of New York alleging violations of Section 12 of the Securities
+Act of 1933 and Section 10 of the Securities Exchange Act of 1934. The complaint alleges, among other matters, that
+the company disseminated false and misleading statements concerning its financial condition and dividends during
+certain periods of 1992, as a result of which plaintiffs were injured in connection with their purchases of IBM stock
+during the period of September 30, 1992, through December 14, 1992. The plaintiffs seek money damages. On
+February 3,1997, Judge Jed S. Rakoff issued an order granting the company's motion for summary judgment in this
+case in its entirety. The company does not believe that the ultimate outcome of this matter will have a material
+effect on its results of operations or its financial position.
+
+===== PAGE 59 =====
+M Customer Financing
+The primary focus of IBM's worldwide customer financing offerings is to support customers in their acquisitions of
+the company's products and services. This support is provided both by IBM and through its financing subsidiaries,
+the results of which are presented in this note in a consistent manner.
+The following schedules reflect the financial position, net earnings and cash flows for customer financing in compar-
+ison to the company's consolidated results with customer financing results reflected on an equity basis. This involves
+presenting within a single line item the investment and related return from customer financing as reflected in the
+company's consolidated financial statements. For the statement of financial position, customer financing's assets net
+of related liabilities, and after elimination of applicable intracompany transactions, are shown separately as a single line
+item, Investment in customer financing. Ehminations primarily pertain to internal mark-ups to fair value on equipment
+held on operating leases. With respect to the statement of earnings, net earnings for customer f inancing before applic-
+able taxes and after elimination of related intracompany transactions, are included in the line description, Other income.
+The provision for income taxes for customer financing is based on the statutory income tax rate of each countrv, calculated
+on a separate return basis. For the statement of cash flows, certain cash flow acti\'ities are reclassified to be consistent with
+the classification of such activities reflected in the company's Consolidated Statement of Cash Flows. Such reclassifications
+primarily pertain to cash flow activity related to financing receivables.
+Because customer financing is different in nature from the company's manufacturing, development and services
+businesses, management believes that the aforementioned type of comparative disclosure enhances the under-
+standing and analysis of the consolidated financial statements.
+70.
+
+===== PAGE 60 =====
+Statement of Financial Position
+IBM with
+At December 31: Customer Financing
+Customer Financing on an Ecjuity Basis
+(Dollars in millions) 1996 1995' 1996 1995*
+Assets:
+Cash and cash equivalents $ 1,433 $ 808 $ 6,254 $ 6,4 51
+Notes and accounts receivable - - 10,063 10,981
+Net investment in capital leases 13,430 14,096 - -
+Working capital financing receivables 4,030 3,886 - -
+Loans receivable 6,428 5,481 - -
+Inventories 98 87 5,788 6,2 52
+Plant, rental machines and other
+property, net of accuni. depreciation 3,988 2,924 15,229 15,101
+Other assets 2,386 1,564 15,010 14,501
+Investment in customer financing - - 5,613 4,768
+Total assets $ 31,79 3 $ 28,846 $ 57,957 $ 58,054
+Liabilities and stockholders' equity:
+Taxes, accrued expenses and
+other liabilities $ 7,915 $ 5,992 $ 34,127 $ 33,724
+Debt 20,627 19,722 2,202 1,907
+Total liabilities 28,542 25,714 36,329 35,63 1
+Stockholders' equity/invested capital 3,2 51 3,132 21,628 22,42 3
+Total liabilities and
+stockholders" equity $ 31,793 $ 28,846 $ 57,957 $ 58,054
+"Rcrlassil'ied to conform to 1996 presentation.
+Statement of Earnings 71.
+IBM wit :h
+For the vear ended December 31: Customer Financing
+Customer Financii ig on an Ecjuitv Basis
+(Dollars in millions) 1996 199s 1994 1996 1995 1994
+Finance and other income:
+Finance income $ 2,048 $ 2,110 $ 2,026 ^ $ $
+Rental income, net 509 415 338 590 469 589
+Sales 809 1,001 1,160 71,798 67,588 59,991
+Other income 320 367 93 3 1,381 1,473 1,423
+Total finance and other income 3,686 3,89 3 4,4 57 73,769 69,530 62,003
+Interest and other costs and expenses 2,426 2,782 3,245 65,182 61,717 56,848
+Net earnings before
+income taxes 1,260 1,1 1 1 1,212 8,587 7,813 5,155
+Provision for income taxes 531 428 505 3,158 3,635 2,134
+Net earnings $ 729 $ 683 $ 707 JS 5,429 $ 4,178 $ 3,021
+
+===== PAGE 61 =====
+Statement of Cash Flows
+For the year ended December 31: IBM witli
+Customer Financing
+Customer Financing on an Equity Basis
+(Dollars in millions) 1996 1995 1994 1996 19 9 S 1994
+Net cash provided from
+operating activities $ 5,314 $ 3,712 $ 2,669 $ 8,217 $ 9,250 $ 8,393
+Net cash used in
+investing activities (5,544) (3,968) (249) (3,4 35) (3,338) (2,446)
+Net cash provided firom (used in)
+financing activities 872 (198) (3,294) (4,824) (6,186) (3,118)
+Effect of exchange rate changes
+on cash and cash equivalents (17) (42) 82 (15 5) 107 24
+Net change in cash and cash
+equivalents 625 (496) (792) (197) (167) 2,85 3
+Cash and cash equivalents at
+January I 808 1,304 2,096 6,4 51 6,618 3,765
+Cash and cash equivalents at
+December 31 $ 1,433 $ 808 $ 1,304 $ 6,254 $ 6,4 51 $ 6,618
+Customer financing debt at December 31, 1996, consisted of borrowings with external financial institutions of
+$ 14,127 million and intracompany borrowings of $ 6,500 million. Intracompany borrowings are made pursuant to loan
+agreements between the parties at interest rates approximating market rates.
+Customer financing earnings yielded a return on average invested capital of 22.7 percent in 1996, compared to 22.6 per-
+cent in 1995. Included within these results are intracompany services and fees received for tax benefits provided to the
+company resulting from tax deferrals generated by financing transactions. Such fees are eliminated from the Consolidated
+72. Statement of Earnings. The 1994 earnings included income resulting from IBM Credit Corporation's litigation settle-
+ment with Comdisco, Inc., and from IBM Credit Corporations sale of IBM Credit Investment Management Corporation.
+
+===== PAGE 62 =====
+N Rental Expense and Lease Coniniilinents
+Rental expense, including amounts charged to inventories and fixed assets and excluding amounts previously reserved,
+was $ 1,210 million in 1996, $ 1,14s million in 1995 and $ 1,276 million in 1994. The table below depicts gross mininmm
+rental commitments under non-cancelable leases, amoimts related to vacant space which the company had previ-
+ously reserved and sublease income commitments. These amounts generally reflect activities related to office space.
+Beyond
+(Dollars in millions) 1997 1998 1999 2000 2001 2001
+Gross rental conmiitments $ LI29 $ 1,005 ;S 888 $ 761 ;5 580 $ 1,722
+Vacant space 322 283 231 215 167 438
+Sublease income conmiitments 119 110 96 84 66 129
+O Stock-Based Compensation Plans
+The comj)any applies Accounting Principles Board (APB) Opinion 25, 'Accounting for Stock Issued to Employees," and
+related Interpretations in accounting for its stock-based compensation plans. A description of the terms of the company's
+stock-based compensation plans follows:
+Lonp-Term Performance Plan
+Incentive awards are provided to officers and other key employees under the terms of the IBM 1994 Long-Term
+Performance Plan (the "Plan"), which was approved by stockholders in April 1994. The Plan is administered by the
+Executive Compensation and Management Resources Committee of the Board of Directors. The committee deter-
+mines the type and terms of the award to be granted, including vesting provisions. Awards may include stock options,
+stock appreciation rights (SARs), restricted stock, cash, stock or any combination thereof The number of shares
+tliat may be issued mider the Plan for awards granted wholly or partly in stock during the five-year term of the
+Plan is 29.1 million, which ap})roximated 5 perccnt of the outstanding common stock as determined on February
+10,1994. Prior to April 25,1994, awards were issued under the IBM 1989 Long-Term Performance Plan. There were
+73-
+approximately 13.0 million. 21.0 million and 27.8 million unused shares available for granting under the 1994 Long-
+Term Performance Plan as of December 31,1996,199^ and 1994, respectively
+Awards under the Plan resulted in compensation expense of $ 203.9 million, $ 106.3 niillion and $ 139.1 million, that
+was included in net earnings before income taxes, in 1996, 1995 and 1994, respectively. Such awards include those
+that settle in cash, such as SARs, and restricted stock grants.
+
+===== PAGE 63 =====
+Stock Option Grants
+Stock options granted under the Plan allow the purchase of IBM's common stock at loo percent of the market price
+on the date of grant and typically expire lO years from the date of grant. The following table summarizes option
+activity of the Plan during 1996,1995 and 1994:
+1996 1995 1994
+Wtd. Avg. Wtd. Avg. Wtd. Avg.
+Exercise No. of Shares Exercise No. of Shares Exercise No, of Shares
+Price under Option Price under Option Price under Option
+Balance at January I $ 78 34,282,903 $ 68 34,063,317 $ 83 29,260,724
+Options granted 126 7,679,529 77 6,468,702 54 6,86 3,219
+Options exercised 71 (9,651,311) 51 (3,695,789) 44 (235,044)
+Options terminated 121 (1,593,460) 103 (2,553,327) 91 (1,825,582)
+Balance at December 3 1 $ 88 30,717,661 $ 78 34,282,903 $ 68 34,063,317
+Exercisable at December 3 1 $ 83 15,301,922 $ 91 19,176,410 $ 103 16,666,537
+The shares under option at December 31,1996, were at the following exercise prices:
+Options
+Options Outstandin|: Currently Exercisablt
+Wtd, Avg, Wtd. Avg. Wtd, Avg,
+No. of Exercise Contractual No. of Exercise
+Exercise Price Range Options Price Life (in years) Options Price
+$ 43-99 18,570,322 $ 64 7 10,678,1 1 1 $ 65
+$ 100-139 1 1,398,198 122 7 3,890,671 117
+$ 140 & over 749,141 160 2 733,140 160
+30,717,661 15,301,922
+lA-
+IBM Employees Stock Purchase Plan
+The IBM Employees Stock Purchase Plan (ESPP) enables substantially all regular employees to purchase full or
+fractional shares of IBM common stock through payroll deductions of up to 10 percent of eligible compensation.
+The price an employee pays is 85 percent of the average market price on the last day of an applicable pay period.
+During 1996,1995 and 1994, employees purchased 3,230,928; 4,479,340 and 6,576,030 shares, all of which were trea-
+sury shares, for which $ 324 million, $ 344 million and $ 350 million was paid to IBM, respectively.
+There were approximately 20.1 million, 23.3 million and 15.1 million reserved unissued shares available for purchase,
+as previously approved by stockholders, at December 31,1996,1995 and 1994, respectively.
+
+===== PAGE 64 =====
+Pro Forma Disclosure
+In applying APB Ojiinion 25, no expense was recognized for slock options granted under the Plan and for employee
+stock purchases under the ESPP. Beginning in 1995, SFAS 123, "Accounting for Stock-Based Compensation," required
+that a lair market value of all awards of stock-based compensation be determined using standard techniques and
+that pro forma net earnings and earnings per share be disclosed as if the resulting stock-based compensation amounts
+were recorded in the Consolidated Statement of Earnings as follows:
+1996 1995
+(Dollars in millions cxccpl per share amounts) As reported Pro forma As reported Pro forma
+Net earnings applicable to common shareholders $ 5,409 $ 5,267 $ 4,116 $ 4,020
+Net earnings per share of connnon stock $ 10.24 $ 9.97 $ 7.2 3 $ 7.06
+The a])ove pro forma amounts, for purposes of SFAS 123, reflect the j)ortion of the estimated fair value of awards
+earned in 1996 and 199"^. The aggregate fair value of awards granted is earned ratably over the vesting or service
+period and is greater than that included in the pro forma amounts.
+The company used the Black-Scholes model to value the stock options granted in 1996 and 1995. The weighted aver-
+age assumptions used to estimate the value of the o])tions included in the pro forma amounts, and the weighted
+average estimated fair value of an o])tion granted are as follows:
+1996 1995
+Term (years)* 5/6 5/6
+Volatility** 22.0% 21.0%
+Risk-free interest rate (zero coupon U.S. Treasury note) 6.0% 7.0%
+f)ividend yield 1.2% 2.0%
+Weighted average lair value $40 $23
+75-
+'()|)li()M term is based on tax Ineciilivc options (i; years) and non-tax incentive o])tions (6 vears).
+"To determine volatility tlie company measured the daily price changes of I he stock over tiie most recent 5 and 6 year periods.
+P Stock Reourchases
+In 1996 and 1995, 'h*-' Board of Directors authorized the company to purchase up to $ 13.5 billion of IBM common
+stock. During 1996 and 1995, the company repurchased 49,465,200 common shares at a cost of $ 5,810 million and
+50.906,300 common shares at a cost of $ 4,864 million, respectively. The repurchases resulted in a reduction of
+$ 61,831,500 and $ 63,632,875 in the stated capital (par value) associated with common stock in 1996 and 1995, respec-
+tively. The repurchased shares were retired and restored to the status of authorized but unissued shares. At December
+31, 1996, approximately $ 2.8 billion of Board authorized repurchases remained. The company plans to purchase
+shares on the open market from time to time, depending on market conditions.
+During 1995, the IBM Board of Directors authorized the company to purcliasc all of its outstanding Series A 71/2 per-
+cent preferred stock depositary shares. The company repurchased 8,534,289 shares at a cost of $ 870 million during
+1995, which resulted in a reduction of $ 85,343 "i the stated capital (par value) associated with preferred stock. The
+repurchased shares were retired and restored to the status of authorized but unissued shares. No shares were repur-
+chased in 1996. The company plans to purchase remaining shares on the open market and in private transactions from
+time to time, depending on market conditions.
+
+===== PAGE 65 =====
+Q Retirement Plans
+The company and its subsidiaries have defined benefit and defined contribution retirement plans covering substantially
+all regular employees. The cost of the defined contribution plans was not material. The aggregate worldwide cost of the
+defined benefit plans for 1996,1995 and 1994 was $ (137) million, $ 165 million and $ 678 million, respectively, as follows:
+Net Periodic Pension Cost
+U.S. p]an Non-U.S. Plans
+1996 1995 1994 1996 199 s 1994
+Expected long-term rate of
+return on plan assets 9.25% 9.2 5% 9.5% 6.5-10% 6.2 5-10% 5.5-9%
+(Dollars in millions)
+Service cost $ 412 $ 315 $ 542 $ 378 $ 386 ;$ 467
+Interest cost on the projected
+benefit obligation 2,125 2,098 2,03 3 1,292 1,325 1,107
+Return on plan assets:
+Actual (4,849) (5,500) 327 (2,543) (1,848) 329
+Deferred 2,148 2,958 (2,826) 1,075 403 (1,540)
+Net amortizations (121) (12 3) (6 5) 28 12 19
+Settlement (gains)/curtailment losses - - - (102) 128 269
+Net periodic pension cost $ (285) $ (252) $ 11 $ 128 $ 406 $ 651
+Total net periodic pension
+cost for all non-US. plans $ 148 $ 417 $ 667
+Net periodic pension cost is determined using the Projected Unit Credit actuarial method. Settlement gains in 1996
+reflect principally the transfer of assets to defined contribution plans upon election by the employees in certain
+countries. Curtailment losses in 1995 and 1994 resulted from the significant reductions in the expected years of
+future service caused by termination programs and represent the immediate recognition of associated prior service
+76. cost and a portion of previously unrecognized actuarial losses.
+In 1994, the company introduced a non-qualified U.S. Supplemental Executive Retirement Plan (SERP) effective January
+1,1995, vsfhich will be phased in over three years. The SERl^, which is unfiinded, provides eligible executives defined pen-
+sion benefits outside the IBM Retirement Plan, based on average earnings, years of service and age at retirement. At
+December 31,1996 and 1995, the projected benefit obligation was $ 93 million and $ 82 million, respectively. The net
+unrecognized costs of the SERP were $ 57 million and $ 64 million, and the amounts included in the Consolidated
+Statement of Financial Position were pension liabilities of $ 36 million and $ 18 million as of December 31,1996 and
+1995, respectively. These amounts are in addition to the U.S. retirement plan financial information included herein.
+
+===== PAGE 66 =====
+NOTES TO CONSOLi DATED FINANCIAL STATEIVIENTS
+Iiitcrnatior lal Business Machines C<) rporation and Subsidiary Companies
+The table below provides infbrmatioi:i on the status of the U.S. and material non-US. defined benefit retirement plans:
+Eunded Status
+U.S. Plan Non-US. Plans
+1996 1995 1996 1995
+Assiunj)tions:
+Discount rate 7.75% 7.25% 4.5-8.5% 4.5-9.0%
+Long-term rate of
+compensation increase 5% 5% 2.3-6.5% 1.5-6.5%
+(Dollars in millions)
+Actuarial present value of benefit obligations:
+Vested benefit obligation $ (26,355) $ (26,413) $ (17,380) $ (17,788)
+Accumulated benef it obligation $ (27,698) $ (28,070) $ (18,273) $ (18,771)
+Projected benefit obligation $ (29,729) $ (30,2 3 5) $ (19,739) $ (20,294)
+I^lan assets at fair value 34,281 31,209 20,808 19,693
+Projected benefit obligation less
+than (in excess of) plan assets 4,552 974 1,069 (601)
+Unrecognized net (gain) loss (1,421) 1,976 (1,539) (4 36)
+Unrecognized prior service cost 193 230 248 267
+Unrecognized net asset established
+atjanuary 1,1986 (1,052) (1,193) (110) (143)
+l^repaid pension cost (pension liability)
+recognized in the Consolidated
+Statement of Einancial Position $ 2,272 $ 1,987 $ (332) $ (913)
+The U.S. plan's projected benefit obligation decreased in 1996 primarily as a result of; a change in the discount rate 77-
+assumption, as required under SEAS 87, "Employers' Accounting for Pensions," which decreased the projected ben-
+efit obligation by approximately $ 1,700 million. The effect on the company's results of operations and financial
+position from changes in the estimates and assimiptions used in computing pension expense and prepaid pension cost
+or pension liability is mitigated by the delayed recognition provisions of SEAS 87 with the exception of the effects of
+settlement gains, curtailment losses and early terminations, which are recognized immediately.
+It is the comjjany's practice to fin:id amoimts for pensions sufficient to meet the minimum requirements set forth in
+applicable employee benefit laws and with regard to local tax laws. Additional amounts are contributed from time to
+time when deemed appropriate by the company. Liabilities for amounts in excess of these funding levels are accrued
+and reported in the company's Consolidated Statement of Einancial Position. The assets of the various plans include
+corporate equities, government securities, corporate debt securities and income-producing real estate.
+
+===== PAGE 67 =====
+U.S. Plan: U.S. regular, full-time and part-time employees are covered by a noncontributory plan which is Rmded by com-
+pany contributions to an irrevocable trust fimd, which is held for the sole benefit of employees. In 1994, company
+announced major changes to the plan that took effect in 1995. Under a new fornmla, which is being phased in over five years,
+retirement benefits will be determined based on points accumulated for each year worked and final average compensa-
+tion period. To preserve benefits of employees close to retirement, service and earnings credit will continue to accrue
+under the prior formula through the year 2000, and upon retirement, these employees will receive the benefit fi-om
+either the new or prior formulas, whichever is higher. Benefits become vested upon the completion of five years of ser-
+vice. The number of individuals receiving benefits at December 31,1996 and 199$, was 101,293 ^iT'tl 92,133- respectively.
+Non-U.S. Plans: Most subsidiaries and branches outside the U.S. have retirement plans covering substantially all reg-
+ular employees, under which fimds are deposited under various fiduciary-type arrangements, annuities are purchased
+under group contracts or reserves are provided. Retirement benefits are based on years of service and the employees
+compensation, generally during a fixed number of years immediately prior to retirement. The ranges of assumptions
+used for the non-US. plans reflect the different economic environments within various countries.
+R Nonpension Postretirement Benefits
+The company and its U.S. subsidiaries have defined benefit postretirement plans that provide medical, dental and life
+insurance for retirees and eligible dependents. Plan cost maximums for those who retired prior to January 1,1992, will
+take effect beginning with the year 2001. Plan cost maximums for all other employees take effect upon retirement.
+The table below provides information on the status of the US. plans:
+Funded Status
+1996 199s
+Assumed discount rate 7.7 S% 7.25%
+(Dollars in millions)
+Accumulated postretirement benefit obligation:
+Retirees (5,4 54) (5,661)
+Fully eligible active plan participants (512) (704)
+Other active plan participants (487) (6 5 3)
+Total (6,4 53) (7,018)
+Plan assets at fair value 559 886
+Accumulated postretirement benefit obligation in
+excess of plan assets (5,894) (6,132)
+Unrecognized net loss 378 718
+Unrecognized prior service cost (902) (660)
+Accrued postretirement benefit cost recognized
+in the Consolidated Statement of Financial Position $ (6,418) (6,074)
+The accumulated postretirement benefit obligation was determined by application of the terms of medical, dental
+and life insurance plans, including the effects of established maximums on covered costs, together with relevant actu-
+arial assumptions. These actuarial assumptions included a projected healthcare cost trend rate of 6 percent. In 1996, the
+accumulated postretirement benefit obligation decreased by $ 565 million primarily from the change, as required by
+SFAS 106, "Employers' Accounting for Postretirement Benefits Other than Pensions," in the assumed discount rate.
+
+===== PAGE 68 =====
+The effect of a i percent annual increase in the assumed heahhcare cost trend rate would increase the accumulated
+postretirement benefit obligation at December 31,1996, by approximately $ 27 million; the 1996 annual costs would
+not be materially affected.
+It is the company's practice to fund amounts for postretirement benefits with an independent trustee, as deemed
+appropriate from time to time. The plan assets include various domestic fixed income securities. The accounting
+for the plan is based on the written plan.
+Net periodic postretirement benefit cost for U.S. retirees for the years ended December 31 included the following
+components:
+1996 1995 1994
+Expected long-term rate of return on plan assets 9.2 5% 9.2 5% 9.5%
+(Dollars in millions)
+Service cost 43 40 51
+Interest cost on the accumulated
+postretirement benefit obligation 478 520 512
+Actual return on plan assets (68) (198) 22
+Net amortizations and deferrals (87) (7) (163)
+Net periodic postretirement benefit cost 366 355 422
+Certain of the company's non-U.S. subsidiaries have similar plans for retirees. However, most retirees outside the
+United States are covered by government-sponsored and administered programs, and the obligations and cost of
+these programs are not significant to the company.
+S Lines olCredit
+79-
+The company maintains a $ 10.0 billion committed global credit facility. Unused committed lines of credit from this
+global facility and other existing committed and imcommitted lines of credit at December 31,1996, were $ 13.9 billion,
+compared to $ 14.6 billion at December 31,199$. Interest rates on borrowings vary from country to country depend-
+ing on local market conditions.
+
+===== PAGE 69 =====
+T Sale and Securitization of Receivables
+At year-end 1996, the company had a net balance of $ 1.1 billion in assets under management from the securitiza-
+tion of loans, leases and trade receivables, compared to $ 1.2 billion at year-end 1995. The company received total
+cash proceeds of approximately $ 4.0 billion and $ 3.4 billion in 1996 and 1995, respectively, from the sale and securi-
+tization of these receivables and assets. No material gain or loss resulted from these transactions. Recourse amounts
+associated with the aforementioned sales and securitization activities are expected to be minimal and adequate
+reserves are in place to cover potential losses.
+U Financial Instruments
+The following presents information on certain significant on- and off-balance sheet financial instruments, includ-
+ing derivatives.
+Financial Instruments On-Balance Sheet (excluding derivatives)
+Financial assets with carrying values approximating fair value include cash and cash equivalents, marketable secu-
+rities, notes and other accounts receivable and other investments. Financial liabilities with carrying values
+approximating fair value include accounts payable and other accrued expenses and liabilities, as well as short-term
+and long-term debt.
+The following table summarizes the company's marketable securities and other investments, all of which were con-
+sidered available for sale.
+Marketable securities and other investments
+At December 31: Carrying Value
+(Dollars in millions) 1996 1995
+Current marketable securities:
+U.S. government securities $ 108 $ 222
+Time deposits and other bank obligations 283 9 3
+Non-U.S. government securities and
+other fixed-term obligations ^ 127
+Total $ 450 $ 442
+Non-current marketable securities:*
+U.S. government securities $ 99 $
+Time deposits and other bank obligations 127 97
+Non-U.S. government securities and
+other fixed-term obligations 155 IJ^
+Total $ 381 $ 169
+Other investments:
+Alliance investments on cost method $ 320 $ 128
+'Included within Investments and sundry assets on the Consolidated Statement of Financial Position.
+
+===== PAGE 70 =====
+Financial Instruments Off-Balance Sheet (excluding derivatives)
+IBM has guaranteed certain loans and financial commitments of affiliates. The fair market values of these financial
+guarantees were $ 787 million and $ 794 million at December 31,1996 and 1995, respectively. Additionally, the com-
+pany is contingently liable for commitments of various ventures to which it is a party, certain receivables sold with
+recourse and other contracts. These commitments, which in the aggregate were approximately $ 400 million and
+$ 200 million at December 31,1996 and 1995, respectively, are not expected to have a material adverse effect on the com-
+pany's f inancial position or results of operations.
+The company's dealers had unused lines of credit available from IBM for working capital financing of approximately
+$ 2.1 billion and $ 1.0 billion at December 31,1996 and 1995, respectively.
+Derivative Financial Instruments
+The following table sununarizes the notional vahie, carrying value and fair value of the company's derivative finan-
+cial instruments on and off the balance sheet. The notional value at year end provides an indication of the extent of
+the company's involvement in such instruments, but does not represent exposure to market risk.
+At Dc'ccinbcr 31. 1996 At December 31. 1995
+Notional Carrying Fair Notional Carrying Fair
+(D(dlars in millions) Valne Value Value* Value Value Value*
+Interest rate and currency contracts $ 18,700 $ (70) $ (117) $ 13,600 $ (88) $ (161)
+Option contracts 10.100 92 8j 4,800 1_8 4A_
+Total $ 28,800 $ 22 $ (36) $ 18,400 $ (70) $ (120)
+Bracketed amounts arc liabilities.
+'The e.sliniatc<i fair value ol'derivatives both on- and off-halance sliect at December 31. 1996 and 1995. consists of assets of $258 million and $153 million
+and liabilities of 529.?) million and $273 million, respectively.
+The majority of the company's derivative transactions relates to the matching of liabilities to assets associated with its
+worldwide customer financing business. The company issues debt, using the most efficient capital markets and prod-
+ucts, which may result in a currency or interest rate mismatch. Interest rate swaps or currency swaps are then used to
+match the interest rates and currencies of its debt to the related customer financing receivables. These swap con-
+tracts are principally one to five years in duration. The company uses an internal regional center to manage the cash
+of its subsidiaries. This regional center principally uses currency swaps to convert cash flows in a cost-effective man-
+ner, predominantly for the company's European subsidiaries. The terms of the swaps are generally less than one year
+Interest and currency rate differentials accruing under interest rate and currency swap contracts related to the cus-
+tomer financing business are recognized over the life of the contracts in interest expense, and the effects of contracts
+related to intracompany funding are recognized over the life of the contract in interest income. When the terms of
+the underwriting instrument are modified, or if it ceases to exist for whatever I'eason, all changes in fair value of the
+swap contracts are recognized in income each period until they mature.
+
+===== PAGE 71 =====
+Additionally, the company uses derivatives to limit its exposure to loss resulting from fluctuations in
+foreign currency exchange rates on anticipated cash transactions between foreign subsidiaries and the parent
+company. The company receives significant dividends, intracompany royalties and net payments for goods and ser-
+vices from its non-U.S. subsidiaries. In anticipation of these foreign currency flows, and given the volatility of the
+currency markets, the company selectively employs foreign currency options to manage the currency risk. The
+terms of these instruments are generally less than one year.
+For purchased options that hedge anticipated transactions, gains and losses are deferred and recognized in other
+income in the same period that the underlying transaction occurs, expires or is otherwise terminated. At December
+31,1996 and 1995, there were no material deferred gains or losses. The premiums associated with entering into option
+contracts are generally amortized over the life of the options and are not material to the company's results. Unamortized
+premiums are included in prepaid assets. All written options are marked to market monthly and are not material to
+the company's results.
+The company has used derivative instruments as an element of its risk management strategy for many years.
+Although derivatives entail a risk of non-performance by counterparties, the company manages this risk by estab-
+lishing explicit dollar and term limitations that correspond to the credit rating of each carefully selected counterparty.
+The company has not sustained a material loss from these instruments nor does it anticipate any material adverse effect
+on its results of operations or financial position in the future.
+V Subsequent Event
+On January 28,1997, the IBM Board of Directors declared a two-for-one common stock split, subject to the approval
+of stockholders of an increase in the number of common shares authorized from 750 million to 1,875 million.
+The record date for the split is currently expected to be on or after May 9,1997, with distribution of the split shares
+to follow on or after May 27,1997.
+W Segment Information
+IBM is in the business of providing customer solutions through the use of advanced information technologies. The
+company operates primarily in the single industry segment that creates value by offering a variety of solutions that
+include, either singularly or in some combination, services, software, systems, products, financing and technolo-
+gies. The schedule on page 83 shows revenue by classes of similar products or services. Financial information by
+geographic area is summarized in note X, "Geographic Areas," on pages 84 and 85.
+For purposes of classifying similar information technology products, general purpose computer systems that oper-
+ate on a large class of applications are classified as processor servers when the systems are simultaneously used by
+multiple users at one time, or as clients when the systems are used by one user at a time. Servers include the
+System/390, AS/400, RISC System/6000 and personal computer server products. Personal systems clients include per-
+sonal computers and RISC System/6000 client products. Other clients include display-based terminals and consumer
+and financial systems. Storage consists of externally attached direct access storage devices, tape storage devices and
+HDD storage files sold to external customers. Other peripherals consists of advanced function printers and telecom-
+munication devices. OEM hardware consists primarily of revenue from the sale of semiconductors.
+
+===== PAGE 72 =====
+These hardware classes of products represent groupings that perform similar functions, as opposed to the com-
+plete spectrum of products associated with IBM's product divisions. Accordingly, they do not represent the full range
+of any division s offerings, which could include related peripherals, software and maintenance.
+Services re])resents a wide range of service offerings including consulting, education, systems integration design and
+development, managed operations of systems and networks and availability services. Software includes applications
+and systems software for both host and distributed systems. Maintenance consists of separately billed charges for main-
+tenance. Financing and other is composed primarily of financing revenue and products and supplies not otherwise
+classified.
+Some products logically fit in more than one class and are assigned to a specific class based on a variety of factors. Over
+time, products tend to overlap, merge into or split from existing classes as a result of changing technologies, market
+perceptions and/or customer use. For example, market demand may create requirements for technological enhance-
+ments to permit a peripheral product to be functionally integrated with a display, a telecommunication device and
+a processor to form a workstation. Such interchangeability and technological progress tend to make year-to-year
+comparisons less valid than they would be in an industry less subject to rapid change.
+I'levenue by Classes of Similar I^roducts or Services
+Consolidated U.S. Onlv
+(Dollars in millions) 1996 199s' 1994' 1996 1995* 199.1'
+Information technology:
+Processors:
+Servers** $ 12,421 $ 12,597 $ 1 1,553 $: 4,365 :$ 4,464 $ 3,958
+Clients:
+Personal systems** 12,747 11,199 9,7 31 5,090 4,401 4,046
+Other clients** 1,178 1,478 1,538 429 480 463
+Peripherals:
+Storage** 4,632 4,828 4,608 2,390 1,970 1,767
+Other peripherals** 2,304 2,085 2,006 860 764 810
+OEM hardware 2,697 2,968 2,191 1,738 1,975 1,285
+Services 15,873 12,714 9,715 6,129 4,606 3,709
+Software 13,052 12,657 11,346 4,377 4,117 3,926
+Maintenance 6,981 7,409 7,222 2,525 2,618 2,648
+Financing and other 4,062 4,005 4,142 1,492 1,394 1,506
+Total $ 75,947 $ 71,940 $ 64,052 :$ 29,395 $ 26,789 $ 24,118
+'Rtclassifietl to conform to 1996 presentation.
+"Hardware only, includes applicable rental revenue, exclude.s functions not embedded, software and maintenance.
+
+===== PAGE 73 =====
+X Geographic Areas
+Sales and services in the United States and Canada are managed as a single enterprise. However, in compliance with
+SFAS 14, "Financial Reporting for Segments of a Business Enterprise," the United States is reported as a separate
+geographic area. Canadian operations are included in the 'Americas" area.
+Non-US. subsidiaries operating in local currency environments account for approximately 84 percent of the company's
+non-US. revenue. The remaining 16 percent is from subsidiaries and branches operating in U.S. dollars or in highly
+inflationary environments.
+In the Europe/Middle East/Africa area, European operations accounted for approximately 95 percent of revenue in
+1996,1995 and 1994.
+Interarea transfers consist principally of completed machines, subassemblies and parts and software. Machines, sub-
+assemblies and parts are generally transferred at an intracompany selling ])rice. Software transfers represent license
+fees paid by non-US. subsidiaries. The intracompany selling price that relates to fixed asset transfers is capital-
+ized and depreciated by the importing area.
+84.
+
+===== PAGE 74 =====
+(Dollars in millions) 1995 1994
+United States
+Revenue - Customers 29,395 26,789 24,118
+Interarea transfers 10,196 10,553 6,336
+Total $ 39,592 37,342 30,454
+Net earnings 1,782 599 969
+Assets at December 3 1 39,724 38,584 37,156
+Europe/Middle East/Africa
+Revenue - Customers 25,280 25,238 23,034
+Interarea transfers 2,4 55 2,530 1,787
+Total 27,7 35 27,768 24,821
+Net earnings 1,474 2,271 1,086
+Assets at December 3 1 21,732 24,066 25,816
+Asia Pacific
+Revenue - Customers 14,752 13,892 11,365
+Interarea transfers 2,781 2,698 1,876
+Total 17,533 16,590 13,241
+Net earnings 1,466 1,098 567
+Assets at December 3 1 12,152 12,789 12,619
+Americas
+Revenue - Customers 6,520 6,021 5,535
+Interarea transfers 5,123 5,333 4,257
+Total 11,643 11,354 $ 9,792
+Net earnings 578 324
+Assets at December 3 1 8,123 7,530 7,783
+Eliminations
+Revenue (20,5 56) (21,114) (14,256)
+Net earnings 129 (114) (99)
+Assets (599) (2,677) (2,283)
+Consolidated
+Revenue 75,947 71,940 64,052
+Net earnings 5,429 4,178 3,021
+Assets at December 3 1 81,132 80,292 81,091
+
+===== PAGE 75 =====
+Five-Year Comparison of Selected Financial Data
+(Dollars in millions except per share amounts) 1996 1995 1994 1993 1992
+For the year:
+Revenue $ 75,947 $ 71,940 $ 64,052 $ 62,716 $ 64,523
+Net earnings (loss) before
+changes in accounting principles 5,429 4,178 3,021 (7,987) (6,865)
+Per share of common stock 10.24 7.2 3 5.02 (14.02) (12.03)
+Effect of accounting changes* - - - (114) 1,900
+Per share of common stock - - - (.20) 3.33
+Net earnings (loss) 5,429 4,178 3,021 (8,101) (4,965)
+Per share of common stock 10.24 7.2 3 5.02 (14.22) (8.70)
+Cash dividends paid on common stock 686 572 585 905 2,765
+Per share of common stock 1.30 1.00 1.00 1.58 4.84
+Investment in plant, rental machines
+and other property 5,883 4,744 3,078 3,232 4,698
+Return on stockholders' equity 24.8? 18.5% 14.3% - -
+At end of year:
+Total assets $ 81,132 $ 80,292 $ 81,091 $ 81,113 $ 86,705
+Net investment in plant, rental machines
+and other property 17,407 16,579 16,664 17,521 21,595
+Working capital 6,695 9,04 3 12,112 6,052 2,955
+Total debt 22,829 21,629 22,118 27,342 29,320
+Stockholders' equity 21,628 22,423 23,413 19,738 27,624
+'1993. postemployment benefits; 1992. income taxes.
+!6,
+Selected Quarterly Data
+(Dollars in millions except per share and stock prices)
+Net Per Share Comnioii 1 Stock
+Gross Earnings Earnings Stock P rices**
+Revenue Profit (Loss) (Loss) Divi idends High Low
+1996
+First quarter $ 16,559 $ 6,769 $ 774 $ 1.41 $ .25 $ 128.88 $ 83.13
+Second quarter 18,183 7,191 1,347 2.51 .35 120.88 96.13
+Third quarter 18,062 7,258 1,285 2.4 5 .35 127.88 89.13
+Fourth quarter 2 3,14 3 9,321 2,02 3 3.93 .35 166.00 123.13
+Total $ 75,947 $ 30,539 $ 5,429 $ 10.24* $ 1.30
+1995
+First quarter $ 1 5,735 $ 6,664 $ 1,289 $ 2.12 $ .25 $ 85.13 $ 70.25
+Second quarter 17,531 7,631 1,716 2.97 .2 5 99.38 82.25
+Third quarter 16,754 6,921 (538) (.96) .2 5 114.63 91.63
+Fourth quarter 21,920 9,151 1,711 3.09 .2 5 102.38 87.75
+Total $ 71,940 $ 30,367 $ 4,178 $ 7.2 3* $ 1.00
+*The sum of the quarter's earnings per share does not equal the year--to-date earnings per share due to changes in average share calculations. This
+is in accordance with prescribed reporting requirements.
+**The stock prices reflect the high and low prices for IBM's common stock on the New York Stock Exchange composite tape for the last two years.
+
+===== PAGE 76 =====
+IBM Siockliolcler ScrviLcs Animal Moctino "IBM and the Environment" reports on IBM's
+Stockholders with questions about their The IBM Annual Meeting of Stockholders will environmental, safety and energy programs.
+accounts should contact: be held on Tuesday, April 29,1997, at 10 a.m.
+First Chicago Trust Company at the Dallas Convention Center "Valuing Diversity: An Ongoing
+ol'New York 650 South Griffin St. Commitment" reviews IBM's philosophy on
+Mail Suite 4688 Dallas, Texas workforce diversity, equal opportunity,
+P.O. Box 2530 affirmative action and work/life balance.
+Jersey City. New Jersey IBM Slock Programs, both within IBM and in the
+07303-2530 IBM common stock is listed on the New York community, that promote opportunities for
+(888) rBM-6700 Stock Exchange, on other exchanges in the women, minorities, people with disabilities,
+Stockholders residing outside the United United States and around the world. and Vietnam-era and disabled
+States, Canada and Puerto Rico should call veterans are also discussed.
+(201) 324-0405. IBM on ihc Internel
+Stockholders can also reach First Chicago Topics featured in this Annual Report can be (lencral Inlbrnialion
+Trust Company via the Internet at: found via the IBM home page on the Internet For answers to general questions about IBM
+shares@inlb.ibm.com at http://www.ibm.com. Financial results, from within the continental United States,
+news on IBM products, services and other call (800) 426-4968; from outside the conti-
+Mearing-impaired stockholders with access activities can also be Ibtmd via that address. nental United States, call (520) 574-4600.
+to a telecommunications device (TDD) can
+communicate directly with First Chicago Literalure lor IBM Stockholders Corjiorate Off icc.s
+Trust Company ol'New York by calling The Ibllowing literature on IBM is available International Business Machines Corporation
+(201) 222-4489. without charge from One Old Orchard Road
+First Chicago Trust Company of New York Armonk, New York 10504
+1F)M Inve.slor Services Mail Suite 4688 (914)765-1900
+The Investor Services Program brochure P.O. Box 2530
+outlines a number of services provided Jersey City, New Jersey ® The IBM Annual Report is printed on
+lor IBM stockholders and potential IBM 07303-2530 recycled paper and is recyclable.
+investors, including the reinvestment of (201) 324-0405.
+dividends, direct purchase and the 'AIX, Aptiva, AS/400, CICS, CommercePoint,
+Cryptolope, DB2, DBa/Universal Database,
+deposit of IBM stock certificates for The Form 10-K Annual Report and Form
+Global Campus. IBM, IBM Global Network,
+safekeeping. Call (888) 421-8860 for a copy 10-Q Quarterly Reports to the SEC provide Mwave, Net. Commerce, OS/2, Petrobank,
+of the brochure. additional information on IBM's business. PetroConnect, RISC System/6000, RS/6000,
+S/390, ThinkPad, VoiceType, "World Avenue,
+Investors residing outside the United States, The 10-K is issued in April; 10-Q reports are
+"World Distributor and World.Registry are trade-
+Canada and Puerto Rico should call released in May, August and November marks of International Business Machines
+(212) 220-4169. Corporation. Domino, Lotus and Lotus Notes are
+trademarks of Lotus Development Corporation.
+An audiocassette recording of the 1996
+cc:Mail is a trademark of cc:Mail, Inc. a subsidiary
+,St()c kholder Coiiumiiik ation.s Annual Report is available for sight-impaired of Lotus Development Corporation. Tivoli and
+Stockholders in the United States and Canada stockholders. TME is a trademark of Tivoli Systems, Inc.
+can get quarterly financial results, listen to a Edmark is a trademark of Edmark Corporation.
+Mac OS is a trademark of Apple Computer. Inc.
+summary of Mr Gerstner's Annual Meeting IBM Credit Corporation's Annual Report is
+Windows and "Window NT are trademarks of
+remarks and hear voting results Irom the available in April. Microsoft Corporation. Netscape Navigator is a
+meeting by calling (800) IBM-7800. Callers can trademark of Netscape Communications
+Corporation. Java is a trademark of Sun
+also request printed copies of the information
+Microsystems, Inc. UNIX is a trademark in the
+via mail or fax. Stockholders residing outside United States and other countries licensed exclu-
+the United States, Canada and Puerto Rico sively through X/OPEN Company Limited.
+should call (402) 573-9861. MasterCard is a trademark of MasterCard
+International Incorporated. VISA is a trademark
+of VISA International.
+Stockholders with other requests
+may write to:
+IBM Stockholder Relations
+IBM Corporation
+One Old Orchard Road
+Armonk, New York 10504
+Printed in U.S.A. G507-0501-02
+
+===== PAGE 77 =====
+BOARD OF DIRECTORS AND IBM MANAGEMENT
+Board of Directors
+Cathleen Black Nanncrl O. Keohaiie Alex Trotnuin
+President President Chairman and
+Hearst Magazines Duke University Chief Executive Officer
+Ford Motor Company
+Harold Brown Charles F. Knight
+Counselor Chairman. Lodewijk C. van Wachcui
+Center for Strategic and International Studies Chief Executive Officer and President Chairman of the Supervisory Board
+and General Partner Emerson Electric Co. Royal Dutch Petroleum Company
+Warburg, Pincus & Company Lucio A. Nolo Charles M. Vest
+Juergen Dorniann Chairman and C'hief Executive Officer President
+Chairman of the Management Board Mobil Corporation Massachusetts Institute of Technology
+Hoechst AG
+John B. Slaughter
+Louis V. Gerstj^er, Jr. President
+Chairman of the Board and Occidental College
+Chief Executive OHlcer
+IBM
+IBM Management
+Corporate Headciuarters Personal Systems and Technology Group Frank Moss
+President, Chief Executive Officer
+Louis V. Gerstner, Jr. Robert M. Stephenson Tivoli Systems, hic.
+Chairman of the Board and Senior Vice President and Cirouj) Executive and (Jcneral Manager
+Chief Executive Officer Anthony E. Santelli IBM Systems Management Division
+J. Thomas Bouchard General Manager
+Jeffrey Papows
+Senior Vice President IBM Printing Systems C-ompany
+President
+Muman Resources
+Bob E. Dies Lotus Development Corporation
+J. Bruce Flarreld Cteneral Manager
+Michael D. Zisman
+Senior Vice President IBM Network Computer Division
+Executive Vice President. Strategy
+Strategy
+James A. Firestone Lotus Development Corporation
+David R. Carlueci General Manager
+Vice President IBM ('onsumcr Divisioii Sales and Services
+Business Transformation
+Lutz F. Hahne Ned C. Lautenbach
+Paul M. Horn General Manager Senior Vice President and Group Executive
+Senior Vice President IBM Networking Hardware Division
+Elio Catania
+Research
+Samuel J. Palmisano General Manager
+Lawrence R. Ricciardi General Manager IBM Latin America
+Senior Vice President and General Counsel IBM Personal Computer Company
+88. W^illiani A. Elherinoton
+Christopher G. Caine William E. McCracken General Vlanager
+Vice President Ck-neral Manager IBM Europe. Middle East and Africa
+Governmental Programs Sales and Service
+Peter T. Rowley
+IBM Personal (Computer Company
+John E. Hickey (icneral Manager. Industries
+Vice President, Assistant General Counsel James T. Vanderslice IBM Europe. Middle East and Africa
+and Secretary General Manager Lvu io Stanca
+IBM Storage Systems Division
+Marshall C. Phelps, Jr. General Manager
+Vice President, Intellectual Property Global Marketing Operations
+Server Group
+and Licensing
+Robin W. Sternbergh
+Nicholas M. Donofrio
+G. Richard Thoman General Manager
+Senior Vice President and Group Executive
+Senior Vice President and Global General Business
+Chief Financial Officer Michael J. Attardo David M. Thomas
+General Manager
+Lee A. Dayton General Manager
+IBM Microelectronics Division
+Vice President Global Industries
+Corporate Development and Real Estate Mark F. Bregnian Alfred J. Amoroso
+General Manager Ck-neral Maiuiger
+John R.Joyce
+IBM RS/6000 Division Global Insurance Industry
+Vice President and Controller
+Linda S. Sanford Robert M. Mowe
+W. W^ilson Lowery. Jr.
+General Manager (icneral Manager
+Chairman, IBM Credit Corporation and
+IBM System/390 Division Global Banking, Finance and
+General Manager
+Securities Industries
+IBM Customer Financing William M. Zeiller
+General Manager Greg FL Lock
+Jeffrey D. Serkes IBM AS/400 Division General Manager
+Vice President and Treasurer
+Global Manufacturing Indtistries
+David B. Kalis Software Group John W. Thom})son
+Vice President John M. Thompson General Manager
+Communications Senior Vice President and Group Executive IBM North America
+Abby F. Kohnstamrn
+Irving Wladawsky-Herger Robert C. Timpson
+Vice President
+General Manager General Manager
+Corporate Marketing
+IBM Internet Division IBM Asia Pacific
+Mark W. Elliott Kakutaro Kitashiro
+General Manager General Manager
+Worldwide Software Sales and Marketing IBM Japan
+J. Michael Lawrie Dennie M. Welsh
+General Manager General Manager
+IBM Personal Software Products Division IBM CUobal Services
+Steven A. Mills
+General Manager
+IBM Software Solutions Division
+
+===== PAGE 78 =====
+Y
+ouVe read the 1996 IBM Annual Report. Now experience it.
+Visit www.ibm.com/AnnualReport/1996, the IBM interactive
+Annual Report on the World Wide Web. You can:
+- Read Lou Gerstner's letter to investors in seven languages.
+- Download financial information into spreadsheets.
+- Review key financial numbers in convenient,
+easy-to-read bar charts.
+- Create your own charts of IBM's recent financial history
+with the website's built-in charting device.
+And if financial information is a mystery to you, visit the Guide
+to Understanding Financials - www.ibm.com/FinancialGuide -
+a resource that explains basic financial statements and terrns.
+
+===== PAGE 79 =====
+"I tinker." !
+"T f! " " • " ' 'J
+(iC1y eA Ix Ay*p lo' r^^e. J[ CCCjlC. "I pretend."
+T ^ f kC T ^
+-I train: "I communicate." J- ^ Kyk. \ ^ •
+I arrange." ^^ "Ti rr
+t^ea•ch'." "II rjeuud gaei: r r" T ^ 1 ledCl.'i^sVo-.tlrvaveelr. UTi ^c i^ Cl.''
+"I orchestrate." 'I manage."
+1 c o m p o s e.

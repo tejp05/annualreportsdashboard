@@ -1,0 +1,26 @@
+# JWT signing keys -- NEVER commit private keys
+server/keys/
+
+# Node modules
+server/node_modules/
+
+# Python virtual environments (large; recreate with the steps in pipeline/README)
+.venv/
+.venv-marker/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Local Claude Code settings (machine-specific); keep launch.json
+.claude/settings.local.json
+
+# Debug page renders used for visual verification -- large and regenerable
+# via pipeline/render.py; provenance is recorded in pipeline/data/provenance.json
+pipeline/data/_review/
+
+.env
+agent/.venv/
+
+# PDF scan archive (2.5GB); exceeds GitHub's push size limit, kept out of this remote's history
+Intern Project- Annual Reports/

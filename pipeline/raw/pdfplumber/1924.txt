@@ -1,0 +1,176 @@
+
+
+===== PAGE 1 =====
+INTERNATIONAL
+BUSINESS MACHINES
+CORPORATION
+THIRTEENTH ANNUAL REPORT
+FOR THE YEAR ENDED
+DECEMBER THIRTY-FIRST
+1924
+
+===== PAGE 2 =====
+
+
+===== PAGE 3 =====
+Thirteenth Annual Report
+OF THE
+International
+Business Machines
+Corporation
+For the year ended
+December Thirty-first
+1924
+
+===== PAGE 4 =====
+BOARD OF DIRECTORS
+•GEORGE W. FAIRCHILD, Chairman
+Willis H. Booth John W. Herbert
+Drury W. Cooper George A. Post
+Edward Cornell Joseph E. Rogers
+Charles R. Flint Charles Smith
+A. Ward Ford Christopher D, Smithers
+Oscar L. Gubelman Thomas J. Watson
+Samuel M. Hastings Rollin S. Woodruff
+EXECUTIVE AND FINANCE COMMITTEE
+* George W. Fairchild John W. Herbert
+Charles R. Flint Christopher D. Smithers
+Oscar L. Gubelman Thomas J. Watson
+OFFICERS
+THOMAS J. WATSON . . President and General Manager
+*GEORGE W. FAIRCHILD Vice-President
+JOSEPH E. ROGERS Vice-President
+WILLIAM F. BATTIN . . . Treasurer and Comptroller
+JOHN G. PHILLIPS Secretary
+•Deceased
+Transfer Agents Trustee and Registrar
+EMPIRE TRUST COMPANY GUARANTEE TRUST COMPANY
+New York of New York
+
+===== PAGE 5 =====
+To THE STOCKHOLDERS:
+Your directors submit herewith income and surplus account for
+the year 1924, together with consolidated balance sheet as of December
+31, 1924, with auditors' certificate attached.
+The net income for the year, before Federal Taxes, but after provid-
+ing for full depreciation ($979,810.35), and development and patent
+expenses ($315,659.86), was $2,425,337.36, compared with $2,161,375.17,
+for the year 1923, being an increase of $263,962.19.
+Net current assets totaled $6,811,288.33, compared with $6,723,
+354.97, at the close of 1923, an increase of $87,933.36, the current assets
+being over five times the current liabilities.
+In February, 1924, the dividend rate was increased from $1.50 per
+share quarterly to $2.00 per share quarterly.
+During the year the company retired and cancelled bonds of a par
+value of $103,500.
+The factory at Sindelfingen, Germany, began production of goods
+during 1924, and the Paris factory is expected to start production
+during 1925.
+
+===== PAGE 6 =====
+International Business Machines Corporation
+and
+Subsidiary Companies
+C O N S O L I D A T ED B A L A N CE S H E ET AS OF D E C E M B ER 31, 1 9 24
+ASSETS LIABILITIES
+CURRENT: I CURRENT:
+Cash $1,124,476.56
+Notes and accounts payable,
+Notes and accounts receivable $4,143,786.06 accrued items, etc $931,202.55
+Less Reserve for doubtful
+accounts 344,349.92 3,799,436.14 Dividend payable
+Inventories ' 3,562,962.18 $8,486,874.88 January 10, 1925 301,354.00
+Accrued interest on bonds. 168,030.00
+Federal Taxes (Estimated) . 275,000.00 $1,675,586.55
+SINKING FUND:
+Cash in hands of Trustee for
+redemption of Bonds called
+for payment 2,826.60 BONDED INDEBTEDNESS:
+Computing - Tabulating - Record-
+DEFERRED: ing Co. collateral trust, sinking
+Commissions advanced salesmen fund bonds due 1941 . . .. $7,000,000.00
+on unfilled orders, etc. less
+reserve $290,309.88
+Less Redeemed and cancelled
+$1,396,500.00 5,603,500.00
+Prepaid insurance, taxes, etc. 139,219.47 429,529.35
+INVESTMENTS (BOOK VALUES) . . 1,071,509.48 RESERVE FOR CONTINGENCIES 446,101.09
+PLANT PROPERTY, EQUIPMENT, MA- CAPITAL STOCK AND SURPLUS OF
+CHINES, PATENTS AND GOOD-WILL,
+SUBSIDIARY COMPANIES, not
+PER BOOKS, after deducting sur-
+plus of Subsidiary Companies owned 263,437.62
+acquired at organization . . .. $27,072,186.02
+DECLARED CAPITAL ($13,784,425.00)
+Less Reserves for depreci-
+ation and amortization 7,427,214.68 19,644,971.34 AND SURPLUS represented by 150,
+688 shares of Capital Stock with-
+out par value 21,647,086.39
+TOTAL $29,635,711.65 TOTAL $29,635,711.65
+iu
+
+===== PAGE 7 =====
+International Business Machines Corporation
+and Subsidiary Companies
+; SUMMARY OF CONSOLIDATED
+11 INCOME, SURPLUS AND DECLARED CAPITAL
+lij For the Year Ended December 31, 1924
+NET PROFIT OF SUBSIDIARY COMPANIES after writing j'i
+down inventories of raw materials to cost or market, • ^
+whichever was lower, and deducting maintenance '
+and repairs of plants and equipment, provision for
+doubtful accounts, the proportion of net profit j !
+applicable to unacquired shares, and expenses of !;
+International Business Machines Corporation $4,069,749.46
+Less: j;'
+Deoreciation of plants, equipment and rental ; •
+machines $979,810.35
+Development and patent expenses 315,059.86 1,294,870.21
+Less: $2,774,879.25 |
+Interest on bonded indebtedness and borrowed |l:
+money 849,541.89
+NET INCOME FOR YEAR 1924 $2,425,887.36
+Deduct: Dividends as follows: !!;
+No. 36—$2.00 Paid April 10, 1924 $301,354.00 j|i
+No. 37—$2.00 Paid July 10, 1924 301,354.00 l|i
+No. 88—$2.00 Paid Oct. 10, 1924 301,354.00 ili
+No. 89—$2.00 Due Jan. 10, 1925 301,354.00 1,205,416.00 jj:
+M'
+BALANCE BEFORE DEDUCTIONS $1,219,921.36 I;
+Deductions: 1;
+Amortization of patents 74,265.41 ii'
+Federal Income Taxes 1924 (Estimated) 200,000.00 274,265.41 |
+SURPLUS FOR YEAR 1924 $ 945,655.95 ||
+DECLARED CAPITAL AND SURPLUS, JANUARY 1, 1924 20,701,430.44 i;
+ii'
+
+===== PAGE 8 =====
+NEW YORK CHICAGO
+AUDIT COMPANY BUILDING NEW YORK LIFE BUILDING
+72-74 PINE STREET 39 SOUTH LA SALLE ST.
+To the Stockholders of the
+INTERNATIONAL BUSINESS MACHINES CORPORATION:
+We have made a general audit of the books and accounts of the
+INTERNATIONAL BUSINESS MACHINES CORPORATION, and its Subsidiary-
+Companies, for the year ending December 31, 1924.
+We certify that the Consolidated Balance Sheet and Related Sum-
+mary of Consolidated Income, Surplus and Declared Capital presented
+herewith, are true Exhibits of the accounts and that, in our opinion,
+they correctly set forth the financial condition of the INTERNATIONAL
+BUSINESS MACHINES CORPORATION AND SUBSIDIARY COMPANIES as of
+December 31,1924, and the results from operations for the period stated.
+Very truly yours
+THE AUDIT COMPANY OF NEW YORK
+A. W. DUNNING, H. I. LUNDQUIST,
+President. Secretary.
+
+===== PAGE 9 =====
+
+
+===== PAGE 10 =====
+V ^
+» ,
+/ t h-—
+
+===== PAGE 11 =====
+^ ^ y 1 ^ « ' ' I"-

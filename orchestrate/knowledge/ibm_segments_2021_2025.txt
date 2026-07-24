@@ -1,0 +1,22 @@
+IBM REVENUE BY SEGMENT, FY2021-FY2025 (US$ millions, external revenue)
+Current four-segment taxonomy (Software / Consulting / Infrastructure / Financing,
+plus Other), which exists only from FY2021 after the Kyndryl spinoff (Nov 2021).
+BASIS: FY2021-2023 on the then-historical basis; FY2024-2025 on the 2025 basis
+(Q1 2025 reclassified some revenue between Software and Consulting, totals unchanged).
+
+FY2021 (basis: historical; source report page 2022:p19): Software $23,426 million ($23.4 billion), Consulting $17,844 million ($17.8 billion), Infrastructure $14,188 million ($14.2 billion), Financing $774 million, Other $1,119 million ($1.1 billion). Total revenue $57,351 million ($57.4 billion).
+FY2022 (basis: historical; source report page 2023:p19): Software $25,037 million ($25.0 billion), Consulting $19,107 million ($19.1 billion), Infrastructure $15,288 million ($15.3 billion), Financing $645 million, Other $453 million. Total revenue $60,530 million ($60.5 billion).
+FY2023 (basis: historical; source report page 2023:p19): Software $26,308 million ($26.3 billion), Consulting $19,985 million ($20.0 billion), Infrastructure $14,593 million ($14.6 billion), Financing $741 million, Other $233 million. Total revenue $61,860 million ($61.9 billion).
+FY2024 (basis: 2025-reclassified; source report page 2025:p18): Software $27,085 million ($27.1 billion), Consulting $20,692 million ($20.7 billion), Infrastructure $14,020 million ($14.0 billion), Financing $713 million, Other $243 million. Total revenue $62,753 million ($62.8 billion).
+FY2025 (basis: 2025-reclassified; source report page 2025:p18): Software $29,962 million ($30.0 billion), Consulting $21,005 million ($21.0 billion), Infrastructure $15,718 million ($15.7 billion), Financing $737 million, Other $63 million. Total revenue $67,535 million ($67.5 billion).
+
+FY2025 GROSS MARGIN BY SEGMENT (external gross margin %, from the 2025 report):
+- Software: 83.5%
+- Consulting: 28.1%
+- Infrastructure: 58.6%
+- Financing: 45.3%
+
+Earlier segment taxonomies (e.g., 2015-2020: Cognitive Solutions, Global Business
+Services, Technology Services & Cloud Platforms, Systems, Global Financing;
+1990s-2000s: Hardware, Software, Global Services, Global Financing) are NOT in
+this knowledge base.

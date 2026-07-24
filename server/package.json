@@ -1,0 +1,17 @@
+{
+  "name": "wxo-embed-server",
+  "version": "1.0.0",
+  "description": "JWT signing server for watsonx Orchestrate embedded chat",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "node-rsa": "^1.1.1",
+    "uuid": "^9.0.0"
+  }
+}

@@ -1,0 +1,358 @@
+
+
+===== PAGE 1 =====
+INTERNATIONAL
+BUSINESS MACHINES
+CORPORATION
+THIRTY-SECOND ANNUAL REPORT
+F OR T HE Y E AR E N D ED
+DECEMBER T H I R T Y - F I R ST
+1943
+The sole purpose of this report is to give present stock-
+holders information about their Corporation. This report
+is not a representation, prospectus or circular in respect
+of any stock of any corporation and is not transmitted in
+connection with any sale or offer to sell or buy any
+stock of security now or hereafter to be issued or with
+any preliminary negotiation for such sale.
+
+===== PAGE 2 =====
+•"'••ItiS'-;.iiWf.'.Tl'S'"/ - •; •• •
+
+===== PAGE 3 =====
+Thirty-Second Annual Report
+OF THE
+International
+Business Machines
+Corporation
+mm
+XCHIHf^
+For the year ended
+December Thirty-First
+1943
+WORLD HEADQUARTERS BUILDING
+590 MADISON AVE. - - ' NEW YORK
+
+===== PAGE 4 =====
+International Business Machines Corporation
+BOARD OF DIRECTORS
+John L. Barton Abraham L. Kellogg
+Willis H. Booth Charles A. Kirk
+Drury W. Cooper Frederick W. Nichol
+Sherman M. Fair child John G. Phillips
+A. Ward Ford Charles Smith
+Norvin H. Green Christopher D. Smithers
+Augustine L. Humes John L. Stainton
+Thomas J. Watson
+EXECUTIVE AND FINANCE COMMITTEE
+Willis H. Booth Charles A. Kirk
+Drury W. Cooper Frederick W. Nichol
+Norvin H. Green Christopher D. Smithers
+Thomas J. Watson
+OFHCERS
+Thomas J. Watson
+Frederick W. Nichol . Vice-President
+and General Manager
+Charles A. Kirk . ,
+, in Charge of Manufacturing
+Roy Stephens . . .
+Ruth M. Leach , .
+John G. Phillips , ,
+Albert L. Williams , .
+Mary P. Schultz , ,
+Harrison K. Chauncey
+Garland B. Briggs .
+Transfer Agenl Registrar and Trustee
+EMPIRE TRUST COMPANY GUARANTY TRUST COMPANY
+New York of New York
+
+===== PAGE 5 =====
+To the Stockholders:
+Your directors submit for the information of stock-
+holders Consolidated Income and Earned Surplus Account
+for the year 1943, together with Consolidated Balance
+Sheet of the domestic companies and the Canadian sub-
+sidiary company as of December 31, 1943, with the
+Auditor's Certificate attached.
+The results of the year's operations were as follows:
+Net Profit Before U. S. Federal and Cana-
+dian Income and Excess Profits Taxes.. $36,974,884.62
+U. S. Federal and Canadian Income and
+Excess Profits Taxes—Estimated (After
+Deducting Post-War Credits of $2,658,-
+000.00) 27,770,000.00
+Net Profit for the year, added to Earned
+Surplus $ 9,204,884.62
+Deductions From Earned Surplus:
+Renegotiation Settlement for 1942 (Net
+After Deducting Tax Credits) 360,813.67
+$ 8,844,070.95
+Cash Dividends Paid 6,224,289.00
+$ 2,619,781.95
+Transfer from Earned Surplus to Capi-
+tal Stock Account for Stock Dividend 1,592,492.53
+Net Amount By Which Surplus Increased $ 1,027,289.42
+The net profit for 1942 after taxes and renegotiation
+settlement equalled $8.40 per share on the 990,116 shares
+then outstanding. In 1943, the Company added 49,430
+shares through a stock dividend, making a total of 1,039,546
+shares on which the net profit after taxes for 1943 was $8.85
+per share.
+
+===== PAGE 6 =====
+The net profit for 1943 of $36,974,884.62 before taxes
+compares with $25,019,755.49 for the year 1942 (after
+renegotiation settlement as described in letter to stock-
+holders dated February 8, 1944), an increase of $11,955,-
+129.13.
+Included in the total taxes of $27,770,000.00 is $22,482,-
+000.00 Excess Profits Taxes after deducting post-war
+credits of $2,658,000.00. These credits are carried on the
+Balance Sheet under "Other Assets" pending payment
+by the Government after the war, the total of such credits
+being $3,981,189.02 as of December 31, 1943.
+The net profit of $9,204,884.62 after taxes compares
+with $8,318,941.82 for 1942 (after renegotiation settle-
+ment), an increase of $885,942.80.
+The net profit for the year 1943 is after provision for
+voluntary renegotiation of war contracts made with the
+United States Government computed in the same manner
+as was accepted by the Government for the year 1942,
+Cash dividends totaling $6,224,289.00 were paid during
+the year, representing four quarterly cash dividends of
+$1.50 per share. In addition, a stock dividend of 5 per cent
+(51,897 shares) was declared in November, 1943, and
+issued January 28, 1944, to stockholders of record Jan-
+uary 14, 1944.
+In 1941, the year the United States entered the war,
+the Company started making provision from earnings for
+wartime uncertainties and the period of readjustment
+which will follow as a natural result of the war. In 1941,
+$500,000.00 was provided; in 1942, $1,500,000.00; and in
+1943, $4,000,000.00. These provisions, together with the
+$1,000,000.00 provided from Surplus and carried at De-
+cember 31,1942 as a reserve for contingencies, comprise at
+December 31, 1943 a Reserve for After-War Adjustments
+and Contingencies of $7,000,000.00.
+A cash dividend of $175,000.00 was received in De-
+cember 1943, on the Corporation's holdings of 100,000
+shares of the Class "B" capital stock of the Hobart Manu-
+facturing Company.
+During 1943 there was invested $11,700,921.54 in Rental
+Machines, Plant and Equipment and Land and Buildings.
+
+===== PAGE 7 =====
+Dismantled and obsolete equipment amounting to $2,722,-
+326.81 was written off and charged against reserves pro-
+vided out of prior and current years' earnings.
+The Corporation is substantially engaged in the manu-
+facture of munitions for the United States Government.
+In 1943 the Corporation's plant at Poughkeepsie, New
+York received the Army-Navy "E" for "high achieve-
+ment in the production of war materials" and the plant at
+Endicott, New York received the White Star award,
+having received the "E" award in 1942.
+In recognition of the outstanding performance of their
+duties in connection with plant protection, the Army
+Guidon Award has been presented to the guard forces at
+the Company's plants at Endicott, New York, and
+Washington, D. C.
+During 1943 our Research and Engineering Departments
+worked on forty-nine different important projects for the
+U. S. Army, Navy and Air Forces. Satisfactory progress
+also was made in carrying on improvements in the Com-
+pany's regular products as well as in new developments
+for the post-war period.
+As of this date, 26 per cent of our men are serving in
+the armed forces of the United States. Of these men in
+service, 23 per cent are commissioned officers. Our women
+are serving in every branch of service open to them.
+A notice, proxy statement and form of proxy for the
+annual meeting of stockholders to be held April 25, 1944,
+will be sent to stockholders on or about April 3,1944.
+By Order of the Board of Directors,
+THOMAS J. WATSON,
+President.
+March 21, 1944
+
+===== PAGE 8 =====
+International Business Machines Corporation
+and Domestic and Canadian Subsidiary Companies
+C O N S O L I D A T ED B A L A N CE S H E ET AS AT D E C E M B ER 31, 1943
+A s s E T s L I A B I L I T I ES A ND C A P I T AL
+CURRENT ASSETS:
+Cash, Including $4,803,952.90 of Advances CURRENT LIABILITIES:
+by U. S. Government in Restricted Bank
+Accounts Payable and Accruals $20,216,565.75
+Accounts $18,244,362.83
+U. S. Treasury Securities (At Cost) 7,000,000.00 U. S. Federal and Canadian Income and Excess Profits
+Notes and Accounts Receivable $13,552,176.35
+Taxes—Estimated 29,988,877.68
+Less: Reserve for Doubtful Accounts .. 432,868.67 13,119,307.68
+Accounts Receivable ($11,186,91^.90) and f Advance Payments on Government Contracts 14,910,735.51
+Unreimbursed Expenditures on Muni-
+tions Contracts 27,124,741.66 Mortgage Payable on Property at 308 Fifth Avenue,
+Inventories—Valued at Average Cost 6,585,052.89 $72,073,465.06 New York, N.Y.... 77,500.00 $65,193,678.94
+DEFERRED ASSETS:
+Prepaid Insurance, Taxes, etc 1,762,131.69
+GENERAL COMPANY WELFARE FUND:
+Stock of International Business Machines
+Corporation (6,024 Shares) 253,788.19 BONDED INDEBTEDNESS:
+Real Estate and Equipment—Less Reserve 252,158.72 505,946.91 Ten-Year 2M% Sinking Fund Debentures-
+INVESTMENTS AND ADVANCES: Due October 1, 1951 17,000,000.00
+Net Foreign Assets, and Securities of and
+Advances to Foreign Subsidiaries and
+Branches*
+In Enemy-Controlled Countries 14,002,787.34
+In Other Countries Where Exchange is RESERVES:
+Blocked 425,985.06 For General Company Welfare 505,946.91
+14,428,772.40 For After-War Adjustments and Contingencies. 7,000,000.00 7,505,946.91
+Less: Reserve 14,428,771.40 1.00
+All Other Countries 4,716,844.29
+The Hobart Manufacturing Company—
+100,000 Shares Class "B" Stock—at Cost 4,141,566.83
+Other Investments 507,924.57 9,366,336.69 CAPITAL STOCK—WITHOUT PAR VALUE , 33,490,916.43
+Represented by 1,039,546 Shares
+OTHER ASSETS:
+U. S. Treasury and Canadian Excess Profits Issued and Outstanding
+Tax Post-War Credits—Estimated 3,981,189.02
+FACTORIES, OFFICE BUILDINGS AND OTHER
+PROPERTY IN U. S. AND CANADA (At Cost):
+Land 2,676,298.20
+Buildings 15,114,833.55 EARNED SURPLUS 31,005,087.02
+17,791,131.75 (Including Undistributed Surplus of Canadian and Other
+Less: Reserve for Depreciation and Foreign Subsidiaries $3,123,421.58)
+Amortization 4,128,862.20 13,662,269.55
+Subject to a Charge of $1,671,958.49 in Respect of Stock
+Plant and Office Equipment, Rental Ma-
+chines and Parts 89,999,695.41 Dividend Payable January 28, 1944, to Stockholders
+Less: Reserve for Depreciation and of Record January 14, 1944.
+Amortization ' 47,484,957.75 42,514,737.66 56,177,007.21
+PATENTS AND GOODWILL 12,698,111.92
+Less: Reserve for Amortization. 2,368,559.20 10,329,552.72
+$164,195,629.30 $154,195,629.30
+*Except for enemy-controlled <snd other countries where exchange is blocked, all foreign net current assets and deferred charges The Consolidated Balance Sheet includes net current assets of the Canadian Subsidiary in the amount of $407,045.91 and
+have been converted at the quoted rate of exchange on December 31,1943, other foreign assets and liabilities at the approximate other net assets of that subsidiary in the amount of $3,150,344.53.
+rate prevailing when acquired or incurred, and net current foreign earnings at the approximate monthly closing rate of exchange. Albert L. Williams, Controller
+
+===== PAGE 9 =====
+International Business Machines Corporation
+and Subsidiary Companies
+CONSOLIDATED INCOME AND EARNED SURPLUS ACCOUNT
+For Year Ended December 31, 1943
+Gross Income from Sales, Service and Rent-
+als in United States and Canada $134,894,067.26
+LESS:
+Cost of Sales, Service and Rentals, and
+Operating Expenses (Exclusive of De-
+preciation and Amortization) $82,509,159.47
+Depreciation of Rental Machines, Depre-
+ciation and Amortization of Plant and
+Equipment 11,240,151.84
+Provision for After-War Adjustments and
+Contingencies 4,000,000.00
+Development and Engineering Expenses.. 1,254,402.40
+Amortization of Patents 100,000.00
+Interest on Debentures 382,500.00 99,486,213.71
+35,407,853.55
+ADD:
+Net Income from and Undistributed Net
+Profits of Foreign Subsidiaries and
+Branches in Countries not Subject to
+Enemy-Control or Blocked Exchange,
+not Consolidated $950,543.91
+Royalties from Foreign Licensees 303,381.67 1,253,925.58
+Hobart Manufacturing Co.—Dividend... 175,000.00
+Other Income 138,105.49 1,567,031.07
+NET PROFIT BEFORE U. S. FEDERAL AND
+CANADIAN INCOME AND EXCESS PROFITS
+TAXES 36,974,884.62
+LESS:
+Provision for U.S. Federal and Canadian
+Income and Excess Profits Taxes—Esti-
+mated (Including $22,482,000.00 Excess
+Profits Taxes After Deducting Post-War
+Credits of $2,658,000.00) 27,770,000.00
+NET PROFIT FOR THE YEAR, AFTER ESTI-
+MATED U. S. FEDERAL AND CANADIAN IN-
+COME AND EXCESS PROFITS TAXES 9,204,884.62
+EARNED SURPLUS, JANUARY 1, 1943 . 29,977,797.60
+TOTAL 39,182,682.22
+LESS:
+Renegotiation Settlement for 1942 (Net
+After Deducting Tax Credits) 360,813.67
+Dividends for Year 1943:
+Cash Dividends 6,224,289.00
+Stock'Dividend—49,430 Shares, Involv-
+ing Transfer from Earne(i Surplus to
+Capital Stock Account of 1,592,492.53 8,177,595.20
+EARNED SURPLUS, DECEMBER 31, 1943 $31,005,087.02
+The foregoins Consolidated Income Account is subject to review by the War Contracts Price Adjustment Board, but the
+Gross Income and Net Profit as stated are after provision for voluntary renegotiation of war contracts made with the United
+States Government computed in the same manner as was accepted by the Government for the year 1942.
+The Consolidated Income Account includes undistributed earnings of the Canadian Subsidiary in the amount of $342,235.66.
+
+===== PAGE 10 =====
+R. G. RANKIN «Sc CO.
+CERTIFIED PUBLIC ACCOUNTANTS
+CHICAGO. LUU. HOME OFFICE
+WASHINGTON, D. C. 30 BROAD STREET
+NEW YORK
+To the Stockholders of the
+INTERNATIONAL BUSINESS MACHINES CORPORATION:
+We have examined the Consolidated Balance Sheet of the Inter-
+national Business Machines Corporation and Domestic and Canadian
+Subsidiary Companies as of December 31, 1943 and the Consolidated
+Income and Earned Surplus Account for the year then ended. We
+have reviewed the system of internal control and the accounting pro-
+cedures of the domestic companies and, without making a detailed
+audit of the transactions, have examined accounting records of the
+domestic companies and other supporting evidence to the extent we
+deemed appropriate.
+We accepted, after review, the report of independent auditors on
+the accounts of the Canadian Subsidiary and the available financial
+statements, mainly the company's own statements supplemented by
+cabled information, on the accounts of non-consolidated foreign sub-
+sidiaries and branches located in countries other than enemy con-
+trolled and countries where exchange is blocked. Our examination
+was made in accordance with generally accepted auditing standards
+applicable in the circumstances and included all procedures which we
+considered necessary, except that it was impracticable to obtain con-
+firmation on all accounts due from the United States Government but
+we satisfied ourselves by other means as to the substantial accuracy
+of such accounts.
+In our opinion, the accompanying Consolidated Balance Sheet and
+related Consolidated Income and Earned Surplus Account fairly
+present the financial condition of the International Business Ma-
+chines Corporation and Domestic and Canadian Subsidiary Com-
+panies as at December 31, 1943 and the results of operations for the
+year ended on that date, in conformity with generally accepted
+accounting principles applied on a basis consistent with that of the
+preceding year.
+R. G. RANKIN & CO.
+Certified Public Accountants
+
+===== PAGE 11 =====
+fsl',
+hk
+'
+",11®! 'I'-'"'''
+r'' 9 i • •' . .
+I R -"
+
+===== PAGE 12 =====
+'A"'
+\
+- t
+A •
+*
+'x
+•y-
+Jf'"
+V
+t
+> N
+7 ' ' ''"'J
+/
+
+===== PAGE 13 =====

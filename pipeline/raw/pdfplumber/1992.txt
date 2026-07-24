@@ -1,0 +1,2781 @@
+
+
+===== PAGE 1 =====
+1992 Annual Report
+
+===== PAGE 2 =====
+IBM is an emerging federation of companies whose business
+is providing advanced information services, products, and tech-
+nologies. We create value by offering the most comprehensive
+and competitive choices to satisfy the information needs of
+business, society, and individuals.
+Expanded in scope through alliances, ventures, and partner-
+ships, our global community of companies is committed above
+all to customer satisfaction. Our common goals are to exceed
+the expectations of our customers — to help them succeed,
+inform, educate, or entertain — and to pursue the best interests
+of all who have a stake in IBM through the value we create
+and the values we live by.
+1 Letter to Stockholders
+6 The IBM Corporation in the '90s
+7 IBM Credit Corporation, IBM Research
+8 IBM Asia Pacific
+9 IBM Europe/Middle East/Africa
+10 IBM Latin America
+11 IBM North America
+12 Personal Systems
+14 Application Business Systems
+16 Enterprise Systems
+18 Networking Systems
+20 Programming Systems
+22 Application Solutions
+24 ADSTAR
+26 Pennant Systems
+28 Technology Products
+30 Alliances and Partnerships
+31 IBM and Its Communities
+32 Financial Report
+Organization
+Stockholder Information
+
+===== PAGE 3 =====
+(Dollars in millions except per share amounts) 1992 1991*
+For the Year:
+Revenue $ 64,523 $ 64,766
+Earnings before income taxes $(9,026) $ 118
+Income taxes $(2,161) $ 716
+Net earnings before changes in accounting principles $(6,865) $ (598)
+Per share $(12.03) $ (1.05)
+Effect of changes in accounting principles^ $ 1,900 $ (2,263)
+Per share $ 3.33 $ (3.96)
+Net earnings $ (4,965) $ (2,861)
+Per share $ (8.70) $ (5.01)
+Cash dividends paid $ 2,765 $ 2,771 Financial Highlights
+Per share $ 4.84 $ 4.84
+Investment in plant, rental machines and other property $ 4,698 $ 6,502
+Average number of shares outstanding (in millions) 571 572
+At End of Year:
+Total assets $ 86,705 $ 92,473
+Net investment in plant, rental machines and other property $ 21,595 $ 27,578
+Working capital $ 2,955 $ 7.018
+Total debt $ 29,320 $ 26,947
+Stockholders' equity $ 27,624 $ 36,679
+Number of regular, full-time employees 301,542 344,396
+Number of stockholders 764,630 772,047
+*Restated for the American Institute of Certified Public Accountants Statement of Position,
+"Software Revenue Recognition."
+"^"1992, cumulative effect of Statement of Financial Accounting Standards (SPAS) 109,
+"Accounting for Income Taxes"; and 1991, transition effect of SPAS 106, "Employers' Accounting
+for Postretirement Benefits Other Than Pensions."
+Revenue Dividends • Net Earnings Earnings per Share
+90 91 92 89 90 91 92 88 89 90 91 92
+6< ^
+Csl CNT
+J II
+Cover:
+IBM's evolving structure
+is a continuum of companies,
+each with its own goals
+and responsibilities, working
+to create value in market-
+places around the world.
+
+===== PAGE 4 =====
+During 1992, the changes that are fundamentally reshaping the
+worldwide computer industry accelerated. Customers showed a growing
+preference for smaller computers and open systems, and placed
+growing value on software, services, and integration skills. The increas-
+ing pace of our participation in these opportunities was not enough
+to offset generally weakened business conditions around the
+world and severe competitive pressure on revenue, price, and profit
+across our hardware businesses, especially large systems and
+personal computers.
+As a result, revenues declined and earnings from operations were down
+sharply. And, in December, I reported to you that we took additional
+restructuring charges to account for further reductions in our work force
+and manufacturing capacity.
+Those are the facts surrounding the financial results in this report.
+About 1992, we are mindful of one fact above all: IBM's financial perform-
+ance was not acceptable to us or to our stockholders.
+To improve IBM's competitiveness and profitability, we are taking the
+aggressive action required by the rapidly changing marketplace,
+competitive, and financial realities we face - reallocating resources to
+growth businesses, reducing costs, increasing the autonomy of our
+business units.
+g
+Reflecting changing customer preferences and marketplace demand, focuron i
+our Marketing and Services companies are increasing the resources they growth areas «
+dedicate to consulting, systems integration, and related services. <
+
+===== PAGE 5 =====
+During 1992, revenue from sources other than hardware accounted for
+48 percent of IBM's total, up from 43 percent the year before. Services
+revenue grew 32 percent year-to-year, outpacing industry growth.
+IBM's services business is close to becoming the largest in the world,
+and we did become the largest professional services company in
+Europe in 1992.
+The investment decisions we are making in our Manufacturing and
+Development businesses reflect the marketplace shift from larger
+to smaller computers, and the reality that industry-standard building
+blocks are increasingly becoming the norm.
+We are reallocating resources from maturing businesses, and increasing
+our investments in the growth areas of client/server computing, net-
+working, RISC technology and multimedia, together with the essential
+software that underpins all of these areas. While overall spending is
+being reallocated and reduced, our 1993 investments in research, devel-
+opment, and engineering will maintain IBM's leadership. We expect
+our time-to-market and returns will benefit from the synergies of common
+building blocks and sharper focus.
+Reducing costs Advances in technology are placing more function, power, and memory
+in ever-smaller chips and devices. At the same time, customers have
+established world-class quality at competitive prices as the starting
+requirement to earn their business; and providing world-class value is
+essential for winning the race. The combination means unrelenting
+pressure on costs and on capacities.
+During 1992, we reduced IBM's worldwide work force by more than
+40,000 people, for a reduction of more than 100,000 since 1986.
+P5
+I In parallel, we have eliminated layers of management, reduced support
+< and overhead staff, and moved people into revenue-producing jobs.
+
+===== PAGE 6 =====
+And, since 1985, ten out of 40 plants have been
+taken out of our manufacturing base. These
+and other actions helped to produce a decline in
+IBM's operating expenses last year.
+Capital spending, reduced by more than $1 bil-
+lion in 1992, will be reduced further this year.
+Expenses will decline by well over $1 billion.
+The restructuring actions we announced last
+December are already under way and will result
+in a further work force reduction of at least
+25,000 people in 1993.
+When we complete the manufacturing capacity
+actions announced at the same time, primarily
+John F. Akcrs, chairman
+in our Technology Products and large systems businesses, we of the hoard (left),
+with Jack D. Kuchler,
+will have reduced IBM's manufacturing space by about 55 percent
+vice chairman.
+since 1985, and achieved a better balance between manufactur-
+ing capacity and marketplace demand.
+In a diverse and fast-moving industry, with thousands of specialized Increasing autonomy
+of individual
+competitors, clear focus and speed to market are essential for business units
+competitive advantage. Increasingly, and at a faster pace, each IBM
+business is shaping itself to the marketplace disciplines of its
+own customers, its own competitors, and individual measures of
+financial performance and returns. For example, our IBM Personal
+Computer Company, facing fierce price competition, was estab-
+lished as a smaller and more fully integrated business last fall. It
+introduced a fully revamped product line and shipped more units
+worldwide in the fourth quarter than in any previous quarter in
+IBM's history, and began 1993 by continuing to refresh its products 3
+c
+c
+in rapid cycles.
+
+===== PAGE 7 =====
+Pennant Systems, our printer business, exceeded its objectives for cash
+and return on assets in its first year. In 1993, it will extend its dedicated
+U.S. sales force to a dedicated sales force worldwide.
+Broadening their reach into the original equipment manufacturer
+(OEM) marketplace, our Manufacturing and Development business units
+together generated more than $1 billion in revenue, a year-over-year
+increase of 65 percent.
+In the pages of this report, each of our businesses describes its progress.
+Our ADSTAR storage products unit also reports its financial highlights,
+as does Federal Systems, Integrated Systems Solutions Corporation, and
+our worldwide customer financing activities.
+As we continue to create more autonomous and responsive busi-
+nesses, we are creating greater financial and investment fiexibility for
+IBM, including varying forms of ownership. Each business must be
+competitive in its own right - sufficiently independent so that the possi-
+bility of separate ownership can be evaluated against the tests of
+business logic and the prospects for enhancing stockholder value. And,
+certain of our businesses are already well along the path to more
+independent operation.
+The value of any individual business, and of IBM as an enterprise,
+depends on leadership in creating and applying the information services
+and technologies that customers value most.
+Customers will choose IBM because an individual product or serv-
+ice is first, or best, or unique - and also because of the satisfaction they
+can expect from a relationship with IBM and our unique ability to
+Pi
+I integrate the solutions, the services, the linkages, and essential tech-
+< nologies they need.
+
+===== PAGE 8 =====
+There is no easy way through this period of wrenching transition
+for IBM. Prompt, decisive action is essential to improve the profitability
+of each of our businesses and the company as a whole. The long-
+term health of the business, and the interests of all those with a stake
+in it, requires choices - sometimes, very difficult choices.
+That is the case with the decision by the Board of Directors to reduce the
+dividend on IBM's common stock. This action came only after serious
+deliberation and careful consideration of IBM s earnings and the invest-
+ments required for the ongoing needs of our businesses, as well as
+our intention to pay an appropriate return to stockholders. After weigh-
+ing all of these factors, and taking into account the need to maintain
+IBM's strong financial position, the Board decided to act in the best long-
+term interests of the company and its stockholders.
+As you know, the Board has also accepted my recommendation that
+the selection process begin for a new chief executive officer of IBM. Much
+work remains to be done to improve the profitability of IBM's business
+performance, and I am convinced that now is the right time to identify
+new leadership to speed the company's success.
+IBM has serious challenges ahead as we deal with the velocity of change in
+our industry, compounded by unsettled worldwide business environments.
+Nevertheless, we are confident in the long-term strategy for our company
+- confident that redirecting our resources to growth areas, unleashing
+the creativity and energy of the people in our business units, and speeding
+our restructuring will result in a more competitive and successful IBM.
+D5
+John F. Akers, Chairman of the Board g
+January 26,1993 ^
+
+===== PAGE 9 =====
+The IBM Corporation in the '90s
+Unique businesses, combined strengths
+Many companies are computer makers. Others are software developers,
+systems integrators, networking specialists, or service companies.
+IBM is each of these, and more - a federation of businesses dedicated to
+helping customers work smarter, faster, and better. We do this with
+technology and talent - advanced products and services, matched with a
+unique understanding of how they can help, even inspire people to
+think, innovate, educate, or entertain.
+Our new business structure, now in its second year, has given IBM
+greater flexibility for change and growth. Our principal businesses -
+marketing and services organizations and an array of manufacturing and
+development units - represent the industry's broadest spectrum of
+expertise and technologies, brought together for customers in more than
+140 countries. In the past year, each business has become more focused
+and more responsive to its customers. The corporations challenge is
+to orchestrate this federation, to balance our businesses' greater auton-
+omy with the advantages of their combined strengths. This includes
+a continuing examination of alternative forms of ownership.
+These businesses, in turn, are responsible to the corporation for meet-
+ing specific financial goals, measuring up in areas such as quality and
+customer satisfaction, and maintaining the high business standards
+that have made IBM a respected name among customers, investors, and
+employees for decades. Individually, each of our businesses brings
+distinct advantages to the marketplace. Together, they bring to customers
+I an unmatched combination of technology and talent. Unique busi-
+« nesses, combined strengths - that is today's IBM, qualified as no other
+g to integrate information services and products.
+
+===== PAGE 10 =====
+IBM Credit Corporation, IBM Research
+Two of IBM s special strengths
+Created little over a decade ago, IBM Credit Corporation today stands Headquarters:
+Stamford, Connecticut
+among the leaders of U. S. financing companies in assets (more than
+Assets: $11.5 Billion
+Employees: J,120
+$11 billion), profits (more than $219 million, up 9.5 percent over 1991),
+and profitability (19 percent return on equity in 1992). Also in 1992,
+IBM Credit originated financing for $8.6 billion worth of products and
+sold used IBM equipment worth $743 million. Customer satisfaction
+has increased and so has IBM Credits market participation. For the fifth
+consecutive year, the proportion of IBM shipments financed by IBM
+Credit increased. IBM Credit employs sound risk-management practices
+and maintains a strong balance sheet. Existing financings will yield
+future revenue to IBM of more than $3.7 billion. Its mission of helping
+customers in the United States acquire IBM products and services
+sharpens IBM's competitive edge.^
+IBM Research Division is a principal contributor to the technical leader- Headquarters:
+Yorktown Heights, New York
+ship of IBM's products and technologies and is responsible for a third Employees: 3,139
+of IBM's 30,000 patents worldwide. It pioneered magnetoresistive
+technology for IBM hard disk drives. Its strides in parallel processing
+promise to put supercomputing power and speed on desktops. It is
+making breakthroughs in speech recognition and is advancing the
+convergence of computers with telephones, television, and other media.
+Last year, IBM Research contributed key features to the ThinkPad*
+notebook computer fine, produced TRACKPOINT II* as an easier way for
+people to navigate their computer screens, and created the world's
+most-used multimedia kiosk system for Seville's World Exposition, a
+prototype for the "technopolis" or electronic city of the future.
+'IBM's worldwide customer financing is presented on page 48. Pi
+13
+ISole: In this descriptive portion of tiie Annual Report, we report revenue for IBM's marketing and services units by geographic region,
+and the manufacturing and development units by products and services.The total for all these revenue figures is greater than c c
+<
+the actual revenue total for IBM as a result of this dual display. The combined revenue of the company's four marketing and services
+units equals IBM's revenue. Revenue figures shown here, except for ADSTAR'S, are commercial prices, that is, they are based on what
+end-user customers pay for IBM's products and services. ADSTAR'S revenue is presented as that of a "stand-alone" wholesale company.
+
+===== PAGE 11 =====
+Helping customers with services and solutions
+IBM Asia Pacific increased revenue 4 percent in 1992 despite weakened
+economies in Japan (which accounts for 70 percent of its revenue),
+Korea, Australia, and some Southeast Asia nations. An emphasis on
+market segmentation, growth businesses, greater delegation to
+country management, and tight control of expenses and assets helped
+IBM Asia Pacific's profitability.
+Revenue^ Throughout this region of 18 countries and half the world s popu-
+Empioyees: 28,310 latlou, IBM is rcdircctiug its resources to focus more on the customer
+and to broaden its base by significantly expanding offerings in services,
+software, and customer financing. Customer satisfaction improved
+across IBM Asia Pacific.
+Alliances, joint ventures, agents, dealers, and other business partners
+produced more than 30 percent of IBM Asia Pacific's revenue and
+augmented the company's resources by nearly 50 percent.
+To respond faster and more fully to customer needs in Japan, separate
+IBM Japan marketing companies now focus on services, small- and
+medium-sized businesses, and large customers. Also, in 1992, IBM Japan
+formed a Customer Financing Division and established an Open
+Systems Center to support customers operating in a wide range of com-
+munication environments. Similar Open Systems Centers are being
+established throughout IBM country organizations in Asia.
+A new, wholly owned subsidiary in China, and a joint venture in
+P5
+13 India - both fast-growth markets - should help keep IBM Asia Pacific
+a
+< a on its fast track.
+
+===== PAGE 12 =====
+IBM Europe/Middle East/Africa
+In the midst of a disrupted European
+economy, IBM Europe/Middle East/Africa
+(EMEA), which had a revenue decline,
+accelerated a transformation throughout
+its larger country operations and intensified
+its focus on new areas of opportunity. In a cam-
+paign for growth in rapidly changing and highly
+competitive markets, EMEA further reduced overhead and created
+llexible, fast-moving, and accountable field business units focused on
+Asia Pacific
+industry segments. Europe/Middle
+East/Africa
+The eflbrt is paying off in services (revenue up 22 percent over 1991) and
+software (up 7 percent). In the process, IBM has become the largest
+professional services organization in Europe, with revenue of $2.3 billion,
+and the company has won major facilities management contracts
+across the continent. And customer satisfaction improved in key areas
+such as customer support and application software.
+EMEA's overall midrange business increased, growing in the expanding Headquarters: Paris
+Revenue: $25.0 Billion
+UNIX**-based workstation market with the RISC System/6000* and Employees: 66,090
+maintaining share with the market-leading AS/400* family of products.
+EMEA, worldng with business partners, is moving aggressively into the
+high-growth market of small- and medium-sized companies, with
+dedicated resources focused on niche solutions using state-of-the-art
+marketing techniques. With all these changes, and plans for a further
+Di
+reduction in expenses this year, EMEA is sharpening its competitiveness
+to improve profitability in an uncertain economic climate.
+
+===== PAGE 13 =====
+Growth and adjustment in the Americas
+IBM Latin America, with year-to-year revenue growth of 7 percent,
+is among the fastest growing of IBM's business units. This region
+of 20 nations, with a combined trillion-dollar GNP and 400 million
+people, is an area of political and economic volatility. But trade liberal-
+ization, deregulation, and privatization have begun, and IBM Latin
+America is ready for them.
+MrBeasInt New York ^^ reorganizing into smaller, more flexible teams that specialize in
+complctc solutious for spccific busincsscs and industries. A Venezuelan
+Revenue: $2.9 Billion
+Employees: 8,164 ^ ^ ^^
+bank, for instance, attributes a one-year doubling in business to IBM
+services and technology.
+By segmenting markets and leveraging the sldlls of its people through
+alliances, IBM Latin America is a key participant in the burgeoning
+markets of services, consulting, and customer financing. Services
+revenue grew 70 percent over 1991, and financing showed a 13 percent
+increase.
+The customer is paramount in IBM Latin America, which ties the com-
+pensation of all its employees - from marketing to maintenance and
+administration - in part to customer satisfaction results. Last year, IBM
+ranked first among its competitors in the region in customer satisfaction.
+Its dedication to excellence was recognized by national quality awards to
+IBM plants in Brazil and Mexico. A promising outlook for continued
+economic improvement in this part of the world offers IBM Latin America
+cc;
+healthy prospects for growth.
+
+===== PAGE 14 =====
+IBM North America is becoming a federation of increasingly
+independent businesses pursuing new growth opportuni- •
+ties, improving efficiency, and becoming more specialized in
+sldlls, services, and products. Although revenue was essentially flat
+compared to 1991, there were encouraging signs of growth in key areas.
+Emerging as a world-class provider of services and software solutions,
+IBM North America has offerings from application design to consulting
+to systems integration. Its services business grew 38 percent over 1991
+and accounted for $4 billion in revenue. Consultants based throughout
+Latin America
+the United States help customers plan and manage their information I North America
+technology strategies.
+Integrated Systems Solutions Corporation (ISSC), IBM's wholly Headquarters:
+White Plains, New York
+owned U.S. subsidiary for information technology services, now holds Revenue: $26.9 Billion
+Employees: 77,044
+more than 40 major contracts that will continue to yield significant
+revenue to IBM over the next decade. Advantis, a new ISSC venture with
+Sears, Roebuck and Co., provides voice and data networldng services
+to more than 1 million users.
+IBM Canada delivered positive results in 1992, increasing revenue
+and customer satisfaction. Also in 1992, the company took a controlling
+interest in Information Systems Management (ISM), Canada's largest
+facilities management enterprise. Across the United States, highly skilled
+marketing and services teams fan out from some 60 trading areas,
+staying close and more responsive to customers.
+Pi
+03
+3
+C
+G
+<
+
+===== PAGE 15 =====
+Reclaiming leadership
+Last year was a difficult one for the personal computer segment of IBM
+Personal Systems, with intense price competition and accelerating
+product introductions. Personal Systems restructured its PC business
+in the third quarter to streamline and better integrate its develop-
+ment and marketing teams worldwide. In the fourth quarter, IBM Personal
+Systems began to regain PC market share and strengthen its financial
+performance as a business.
+snil^rivlw York ^^^ IBM Personal Computer Company, created in September and off to
+Somers, New York
+Revenue: $9.8 Billion a fast start, manages our PC business worldwide. Within weeks of its
+Employees: 13,838
+formation the IBM PC Company introduced more than 80 new products -
+many conceived, manufactured, and shipped in fewer than six months.
+Fourth-quarter PC unit sales were IBM's best ever: nearly 1.4 million, up
+40 percent over 19918 final quarter. IBM's OS/2* 2.0 made its debut a
+year ago and was quickly recognized by several industry publications as
+the technological leader among PC operating systems. By year's end,
+more than 2 million units of OS/2 had been shipped.
+In the advanced workstation business, the IBM RISC System/6000 and
+its UNIX-based operating system, AIXt continued their steady growth, as
+they have since their introduction in 1990. Workstation hardware
+revenue increased approximately 30 percent over 1991.
+In early 1993, IBM Personal Systems and IBM Application Solutions
+created Fireworks Partners. The new unit will foster development
+of advanced multimedia applications and services for both commercial
+cd
+03 and consumer markets.
+3
+a
+c
+<
+
+===== PAGE 16 =====
+In the four corners of the world, 1BM Personal Systems' products help individuals
+and businesses solve problems, work better, and achieve their goals.
+3
+C
+C
+c
+
+===== PAGE 17 =====
+IBM Application Business Systems
+Strength and depth in the midrange
+IBM Application Business Systems (ABS) develops and manufactures
+the most popular and financially successful midrange computer systems
+in tfie world. In December 1992, ABS shipped its 200,000th AS/400
+computer - while 300,000 of its predecessor systems, the System/36 and
+System/38, remain in active use.
+ABS s success is built on the breadth of applications - now at 20,000 -
+available for the AS/400 line; the ease of customizing applications;
+continuous product enhancements; and continuous quality improve-
+ments to ABS s line of 14 processors and associated operating system.
+Headquarters: Since 1988, the reliability of the AS/400 family has improved more than
+Somers, New York
+Revenue: $4.5 Billion 20-fold, and the quality of its operating system software has improved
+Employees: 5,498
+six-fold, while time-to-market has been halved, and price/perform-
+ance has shown gains of 30 percent a year.
+The AS/400 system, known throughout the industry for its responsive-
+ness to user needs, high customer satisfaction, and unparalleled
+quality, has been cited by numerous trade publications and was named
+DATAMATION magazines "overall product of the year" for 1992.
+ABS will continue to open the AS/400 line to industry standards,
+enhancing its growing use in client/server computing and fully exploit-
+ing the opportunity to attract new customers among small- and
+medium-sized businesses.
+
+===== PAGE 18 =====
+cd
+
+===== PAGE 19 =====
+IBM Enterprise Systems
+Best in the business
+Its a changing world for Enterprise Systems (ES), maker of IBM's
+large processors (ES/9000*) and their operating systems (MVS, VM, VSE,
+AIX/ESA*). East year, Enterprise Systems held its industry lead in
+large mainframe computers, although demand for those systems declined,
+as did ES revenue.
+Headquarters: Mainframe comDutcrs and their related software continue to be vitally
+homers, JNew York ^ ^
+important for thousauds of our customers with complex information
+Revenue: $12.7 Billion
+Employees: 14,528 ^ _ , . ^
+requirements. Many computing environments, for example, rely on large
+systems for their high capacity and reliability.
+New applications for large systems are also emerging as customers
+expand the scope of their information management and incorporate
+leading-edge technologies, such as multimedia and image processing.
+For instance, one second of full-motion video on a multimedia
+terminal requires information equivalent to 24,000 printed pages, or
+a full-sized encyclopedia.
+IBM Enterprise Systems is aggressively investing in these new oppor-
+tunities, while developing the System/390* as the best foundation
+for large, distributed computing and client/server environments. At the
+same time. Enterprise Systems continues to protect its customers'
+investments in large systems as they evolve from yesterday s computing
+environment to tomorrow s.
+Qi
+
+===== PAGE 20 =====
+I BlVl Enterprise Systems helps manage the eomjjlex
+global operations ol onr customers everywhere.
+PETRONAS
+C A S S A T f f ' l B M R M ro
+DI VERONA VICENMBELLUNOEANCONA
+A l a mo
+Hoechst
+Rent A Car
+<Z>
+o^OBANK OF SCOTLAND
+HongkongBank
+INDUSTRIA MEXICANA
+National
+COCOBANK
+" E H Y u n o ni
+Westminster
+Bank
+n
+C a n a da T r u st
+0 BANK OF THE PHILIPPINE ISLANDS
+snecma newell
+W i te
+USK
+ABN'AMRO Bank
+I\/or,nr^oaro LI BANCAPOPOLARE
+J.Van Breda & C ^ l^inO e di VARESE
+C
+d
+ACME BOOT COMPANY <
+
+===== PAGE 21 =====
+Tying it all together
+IBM Networldng Systems (NS) is one of the worlds major competitors in
+networking, the fast-growing business of helping people and com-
+panies collect, share, and manage information and ideas across corridors
+or across oceans.
+Though revenue was essentially flat in 1992, NS broadened market partici
+pation and accelerated delivery of products to the marketplace. To
+ensure maximum focus on customer requirements, NS organized into
+seven business segments, each with responsibility for a particular
+set of hardware or software products, from local area networks to voice-
+enhanced solutions.
+Headquarters: Networldng Systems redirected its product line from a mainframe-
+Staines, England
+Revenue: $5.3 Billion centered environment to an increasingly network-based world
+Employees: 9,198
+that emphasizes local area networks (LAN), client/server computing, and
+open multivendor networking — all areas of high growth. It is investing
+significantly in these expanding fields while maintaining its lead
+in maturing networldng market segments.
+NS s "Networldng Blueprint" gives customers a simple guide for enlarg-
+ing and enhancing their networks as technology develops, freeing
+customers to concentrate on their businesses rather than their networks.
+To further broaden its base and increase revenue, IBM Networking
+Systems is rapidly expanding in the area of OEM marketing. Its leading-
+edge Token Ring LAN products, for instance, are sold to more than
+40 vendors, and the popular Customer Information Control System
+(CICS*) for transaction processing is also being licensed to other com-
+puter companies.
+
+===== PAGE 22 =====
+IBM Networking Systems helps customers manage the flow of information to
+anywhere it's needed—around the world or just around the corner.
+pn;
+CO
+/ V ; I I I II t » » »i I f 1 ti » » IBlTTQ c
+a
+
+===== PAGE 23 =====
+IBM Programming Systems
+People power translates into customer power
+One of the world s largest software businesses, IBM Programming
+Systems increased revenue in 1992 and improved quality and value across
+its line of products and services.
+Headquarters: Programming Systems relies on its programmers, information developers,
+Somers, New York
+Revenue: $2.7 Billion architects, and support people who develop software for large and
+Employees: 7,090
+midrange systems and workstations. Their work helps customers manage
+data, improve and simplify application development, and perform
+office systems functions like electronic mail, document preparation, and
+filing. DATABASE 2* (DB2*), software that allows customers to access
+and manage a variety of systems and tasks, was highlighted by Corporate
+Computing magazine as a product that will make a crucial difference
+in the way companies seek a competitive advantage in 1993.
+Programming Systems' software manufacturing team creates,
+customizes, packages, and distributes software ranging from computer
+operating systems to multimedia applications on compact discs.
+Market-driven quality has changed the way IBM Programming Systems
+develops and manufactures its software. Development time has been
+shortened significantly, with many products now on a 12-month
+cycle. And to capitalize on the expanding opportunities in workstations
+and client/server computing. Programming Systems already devotes
+nearly half of its development resources to these fast-growing markets.
+o
+CL,
+
+===== PAGE 24 =====
+
+
+===== PAGE 25 =====
+IBM Application Solutions
+Helping customers improve performance and profits
+To help IBM's marketing and services companies find solutions for
+customers in industries as diverse as aerospace and chemicals, IBM
+Application Solutions manufactures and delivers a broad range of appli-
+cation-specific hardware, software, and services. These offerings
+address customer requirements in areas such as computer-integrated
+manufacturing, operational image processing, point-of-sale, check
+processing, and business reengineering.
+Headquarters: Application Solutions helps customers apply information technology
+White Plains, New York
+Revenue: $1.9 Billion where they value it most - in running their operations. It develops
+Employees: 6,911
+offerings that integrate services, software, and hardware for specialized
+markets such as banking, manufacturing, and distribution. Last
+year, Application Solutions set a new standard with a comprehensive
+image processing offering that permits banks to fully automate check
+processing with greater speed and accuracy.
+Revenue declined in 1992 - but by reducing investments, cutting expenses,
+and trimming assets, Application Solutions improved its business per-
+formance over 1991. It is restructuring to move decision maldng closer to
+where work is done, and compensating employees on business results.
+Launched in 1992, the IBM Consulting Group is a major new Application
+Solutions venture through which 1,500 professionals provide management
+and operational consulting to clients worldwide. Their expertise helps
+customers decide how best to employ information technology to improve
+performance, productivity, and profits.
+Pi
+3
+C
+a
+<
+
+===== PAGE 26 =====
+Our cu stomers produce a wide variety of goods
+and services with the help of IBM AppUcation Solutions.
+PS
+^ \ V' . mith
+
+===== PAGE 27 =====
+ADSTAR
+Expanding the capacity to do business
+The information storage industry - magnetic disks and tapes, optical
+disks, and storage management software - is one of the most intensely
+competitive businesses in the world, and ADSTAR is the industry's
+technological leader. But deep discounting throughout the industry put
+strong pressures on ADSTAR S 1992 business. Financial highlights appear
+on page 46 of this report.
+Headquarters: ADSTAR is delivering important industry "firsts" by offering the highest
+San Jose, California
+Revenue: $6.1 Billion capacity and reliability available in magnetic disk and tape storage
+Employees: 15,776
+products. Two 3995 Optical Library Dataservers attached to a single con-
+troller can store 82 million pages of computer output. ADSTAR also
+was the first to ship in volume a storage subsystem employing the new
+RAID (Redundant Array of Independent Disks) technology, which
+assures customers uninterrupted access to data. ADSTAR s systems-
+managed storage software products offer customers productivity and
+cost-effectiveness.
+These and other superior products strengthen ADSTAR s decision to
+move aggressively into the OEM market, in which 1992 revenue increased
+significantly over that of the previous year.
+ADSTAR is maintaining technology leadership, shortening time-
+to-market, and sharply improving quality. High-end storage devices
+had a 14-fold quality improvement in two years, and the mean
+time-to-failure of the new 3.5-inch disk drive improved five-fold.
+Note: ADS PAR'S revenue is presented as that of a stand-alone wholesale company.
+Pi
+CQ
+
+===== PAGE 28 =====
+ADSTAR'S Icadino-cdoe storaoc doviccs arc
+ific modern equivalent ol libraries, large and small.
+
+===== PAGE 29 =====
+Maldng a good impression
+Pennant Systems is responsible for large and midrange printers, along
+with related software and services. Pennant is a model of IBM's
+smaller, more nimble organizations - focused on the business of print-
+ing, displaying, and managing forms and documents.
+iicadquaitcrs: Pcnuaut Systcms brought a sharpened focus to products and
+INorwalk, Connecticut ^ o i i
+scrviccs that had prcviouslv been associated with systems sales. While
+Revenue: $2.3 Billion
+Employees: 1,883 . ^ . '' . . ..
+revenue declined slightly, Pennant made significant improvements
+in asset management. Customer satisfaction improved, too, as Pennant
+responded to the demand for ways to manage forms and documents
+productively without an avalanche of paper.
+Key to Pennants strategy is Advanced Function Printing* (AFP*),
+an IBM-developed presentation architecture permitting documents and
+forms - text, images, and graphics - to be viewed, stored, retrieved,
+printed, and moved between displays and fax machines with superb reso
+lution. AFP is open: it will work on any platform, any time, anywhere,
+including local area networks.
+In 1993, Pennant Systems expects to fully integrate its services offerings,
+refresh its product line, further enhance AFP, and continue to extend
+its own sales and service force.
+Pi
+
+===== PAGE 30 =====
+s
+riSCHES NACHT6ESANG
+f
+1
+• ¥ / • W W
+l^vS-ncctl ^ W W W
+.) t. Up.^/ l.lfj
+W W
+1 ^
+W
+'qbcdefghijka^
+ftw cir fro wol
+fcitt
+ftU mr-t fitarm^r.4,-*
+,„!ic ai : u v . w x - y . z -q
+t5 p/i a uf m ^'-f Sm t^li
+Uijj mobii m^ I, tj^
+^^ a <» ./ej ut-ffj
+[ -7 3 t* b^n&biTlaV^ii
+Nothing, Trim Jaid my uncle
+Toby, mufing h^me-^oU'niCDnA
+" '^'Jyf^^i'r 'IP
+Whiin a man is free—creil the Cor-
+foral, giving a flourilh with liis flick
+aura- thus
+taken
+head,
+is ill.
+Toby
+loufc*
+or r. f
+icrty.
+tiing.
+Pennant
+Systems
+1 !
+
+===== PAGE 31 =====
+IBM Technology Products
+Creating and delivering advanced technology
+Until a year ago, IBM Technology Products, by and large, had only one
+customer - IBM. Little known outside IBM and the semiconductor
+industry,Technology Products is the worlds most advanced developer
+and manufacturer of microelectronics - the logic chips, memory
+chips, and packaged subsystems that enable computers to process and
+store information.
+Headquarters: With thousauds of Datcuts in forcc worldwide, IBM Technology Products
+bomers, iNew York ^
+Employees: 38,092 [q au iuuovativc prcscncc in the industry and the first to develop and
+produce four consecutive generations of memory chips.
+Technology advances continue to sweep more and more power and
+function onto integrated circuits.These strides, coupled with higher pro-
+ductivity gained through IBM's market-driven quality initiative, have
+resulted in excess manufacturing capacity. Technology Products is
+utilizing this capacity by aggressively seeking customers outside IBM.
+This effort is gaining momentum and, in 1992,Technology Products
+doubled its OEM sales.
+To accelerate technological advances and reduce cost and risk. Technol-
+ogy Products has entered important alliances. IBM and Siemens are
+jointly establishing a manufacturing capability for 16-megabit memory
+chips in Europe. Technology Products is also working with Siemens to
+develop 64-megabit memory chips, and with Siemens and Toshiba to
+develop 256-megabit memory chips for the turn of the century. PowerPC*
+microprocessors, based on IBM's RISC architecture, are being developed
+P5
+CS with Apple and Motorola, and will soon be on the market.
+C
+C
+
+===== PAGE 32 =====
+IBM Technology Products delivers power in many
+forms to both IBM and non-IBM customers.
+Pi
+«
+C
+c
+
+===== PAGE 33 =====
+Alliances and Partnerships
+Partners
+The rush of new technology, the expense of staying on the leading edge,
+the demands of customers, and worldwide competition have required
+IBM and other high-tech companies to form a wide range of alliances
+and partnerships.
+The costs of developing the 256-million-bit memory chip (in a
+three-way pact with Siemens and Toshiba) may reach a billion dollars.
+With these stakes, sharing costs, risk, and knowledge is essential.
+In a decade, IBM has moved from a do-it-all-yourself, inwardly directed
+company to an enterprise that reaches out for new ideas and approaches
+that mesh with its own talents and strengths. Today, IBM has more
+than 20,000 business partnerships worldwide and more than 500 equity
+alliances with agents, dealers, distributors, software firms, services
+companies, and manufacturers.
+The quest to satisfy customers has blurred traditional competitive
+boundaries. Apple Computer is IBM's partner inTaligent to develop
+object-oriented software, and in Kaleida to create multimedia standards.
+Hewlett-Packard and IBM are developing and manufacturing high-
+speed fiber-optic communications components. Wang and Mitsubishi
+sell IBM systems under their logos, and Digital Equipment is a partner
+in offering business recovery services.
+Alliances not only divide high development and production costs, but
+also reduce critical time-to-market, pool scarce human skills, pro-
+PS
+I vide access to new markets and distribution channels, fill product gaps,
+< and - most of all - help IBM get to the customer first, with the best.
+
+===== PAGE 34 =====
+The business of helping
+IBM is dedicated to continuing its investments in the cities and towns
+where we live, work, and raise families around the world. It helps make us
+a stronger business.
+When IBM helps to fund child-care and elder-care programs across the
+United States, we are helping our children and parents, as well as
+those of others, making us more dedicated and productive employees.
+When our retirees in the United Kingdom apply their sldlls to com-
+munity needs, or when we help artists with disabilities exhibit their work
+in 12 European countries, we're enriching our communities and ulti-
+mately ourselves.
+When we support environmental research, its because we all breathe
+the same air and drink the same water. When we support education and
+job-training programs, the Idds we help will someday help us.
+IBM's values came to life when catastrophic storms last year swept away
+homes and devastated property from Florida to Guam. Not only did
+IBM contribute to relief operations, but it opened its offices to dozens of
+displaced customers so they could continue operations until their
+buildings were habitable.
+Helping others helps business and wins IBM worldwide respect.
+Pi
+
+===== PAGE 35 =====
+32 Report of Management Responsibility for the integrity and objectivity
+33 Report of Independent Accountants of the financial information presented in
+34 Management Discussion this Annual Report rests with IBM management.
+The accompanying financial statements have
+Consolidated Financial Statements been prepared in conformity with generally
+40 Earnings accepted accounting principles, applying certain
+41 Financial Position estimates and judgments as required.
+42 Cash Flows
+43 Stockholders' Equity IBM maintains an effective internal control
+structure. It consists, in part, of organizational
+Notes to Consolidated Financial Statements arrangements with clearly defined lines of
+44 Significant Accounting Policies responsibility and delegation of authority, and
+45 Accounting Changes comprehensive systems and control procedures.
+46 Information on Selected Businesses We believe this structure provides reasonable
+50 Restructuring Actions assurance that transactions are executed
+51 Marketable Securities in accordance with management authorization,
+Plant, Rental Machines and Other Property and that they are appropriately recorded,
+Inventories in order to permit preparation of financial
+Investments and Sundry Assets statements in conformity with generally accepted
+52 Long-Term Debt accounting principles and to adequately safe-
+Short-Term Debt guard, verify, and maintain accountabihty
+53 Taxes of assets. An important element of the control
+55 Research, Development and Engineering environment is an ongoing internal
+56 Interest Cost audit program.
+Other Liabilities
+Rental Expense and Lease Commitments To assure the effective administration of inter-
+Long-Term Performance Plan nal control, we carefully select and train our
+57 Stock Purchase Plan employees, develop and disseminate written poli-
+Stock Repurchase Programs cies and procedures, provide appropriate com-
+58 Retirement Plans munication channels, and foster an environment
+60 Nonpension Postretirement Benefits conducive to the effective fu nctioning of con-
+61
+Lines of Credit trols. We believe that it is essential for the company
+Financial Instruments to conduct its business affairs in accordance
+63 Segment Information with the highest ethical standards, as set forth in
+65 Geographic Areas the IBM Business Conduct Guidelines. These
+3
+C 66 Five-Year Comparison of Selected Financial Data guidelines, translated into numerous languages,
+<C
+Selected Quarterly Data are distributed to employees throughout the
+
+===== PAGE 36 =====
+Report of Independent Accountants
+To the Stockholders and Board of Directors
+of International Business Machines Corporation
+world, and reemphasized through internal In our opinion, the accompanying consolidated
+programs to assure that they are understood financial statements, appearing on pages 40
+and followed. through 65, present fairly in all material respects
+the financial position of International Business
+Price Waterhouse, independent accountants, Machines Corporation and its subsidiaries at
+are retained to examine IBM's financial statements. December 31,1992 and 1991, and the results of their
+Their accompanying report is based on an operations and their cash flows for each of the
+examination conducted in accordance with gen- three years in the period ended December 31,1992,
+erally accepted auditing standards, including a in conformity with generally accepted accounting
+review of the internal control structure and tests principles. These financial statements are the
+of accounting procedures and records. responsibility of the company's management; our
+responsibility is to express an opinion thereon
+I'he Audit Committee of the Board of Directors based on our audits. We conducted our audits of
+is composed solely of outside directors, and is these statements in accordance with generally
+responsible for recommending to the Board the accepted auditing standards which require that we
+independent accounting firm to be retained plan and perform the audit to obtain reasonable
+for the coming year, subject to stockholder assurance about whether the financial state-
+approval, rhe Audit Committee meets periodi- ments are free of material misstatement. An audit
+includes examining, on a test basis, evidence
+cally and privately with the independent
+supporting the amounts and disclosures in the
+accountants, with our internal auditors, as well
+financial statements, assessing the accounting
+as with IBM management, to review account-
+principles used and significant estimates made by
+ing, auditing, internal control structure, and
+management, and evaluating the overall financial
+financial reporting matters.
+statement presentation. We believe that our
+audits provide a reasonable basis for the opinion
+expressed above.
+John F. Akers
+Chairman of the Board As discussed in the note on accounting changes on
+pages 45 and 46, the company changed its methods
+of accounting for income taxes and software
+revenue in 1992 and nonpension postretirement
+Frank A. MetzJr.S
+Senior Vice President, benefits in 1991. We concur with these changes.
+Finance and Planning
+yU-^tJL/ a
+Price Waterhouse
+153 East 53rd Street, New York, N.Y. 10022
+SRetired in 1993 January 26,1993
+
+===== PAGE 37 =====
+Results of Operations to a 20.7 percent decline in 1991 from 1990.
+Sales revenue from non-U. S. operations reflected
+The financial results achieved in 1992 were not a decrease of 11.2 percent, following a 12.4
+acceptable to the company or its stocldiolders. percent decrease in 1991 from 1990.
+They reflect the fundamental changes that are
+occurring within the industry, including Revenue from processors decreased 6.9 per-
+ongoing hardware pricing pressures and shifts cent in 1992.This decrease was primarily driven
+6% ^0
+to smaller systems. These factors are com- by the System/390 processors. The Application
+6% 7% 7%
+pounded by the weak business and economic System/400 products revenue declined slightly,
+10% 9% conditions throughout the world. primarily in non-U.S. operations.
+12%
+11% Worldwide revenue in 1992 totalled $64.5 bil- Personal Systems workstations revenue declined
+14%
+12%
+lion, .4 percent below 1991. Revenue in the 7.3 percent, reflecting the severe price compe-
+U.S. was $24.6 billion, .8 percent above 1991, fol- tition the PS/2* product set experienced in 1992.
+16%
+lowing a 9.9 percent decrease in 1991 from The RISC System/6000 workstation continued
+17%
+1990. Non-U. S. operations generated revenue of to enjoy robust growth in its revenue.
+$39.9 billion, down 1.1 percent from 1991,
+following a decline of 3.6 percent from 1990. The revenue generated from storage products
+decreased 12.9 percent in 1992. The decrease was
+The company's operations generated $2.6 a result of significant price competition across
+64%
+billion in earnings before taxes, restructuring most storage products.
+57%
+52%
+charges, and the cumulative effect of State-
+ment of Financial Accounting Standards (SFAS) Revenue from sources other than hardware
+109, "Accounting for Income Taxes." After sales accounted for approximately 48 percent of
+the effects of taxes and restructuring charges, the company's revenue, compared to 43 per-
+but before the cumulative effect of SFAS 109, net cent in 1991, and 36 percent in 1990. Services
+90 91 92 earnings were negative $6.9 billion ($12.03 per revenue continued to show strong growth in all
+share) compared with negative $598 million areas, increasing 31.7 percent over 1991 to
+Revenue
+($1.05 per share) in 1991. After the effect of the $7.4 billion. This is the second straight year when
+(in millions)
+adoption of accounting changes in 1992 and services revenue growth has exceeded 30 per-
+• Rentals and Financing
+1991, net earnings in 1992 were negative $5.0 cent. Software revenue in 1992 was $11.1 billion,
+N Services
+• Maintenance billion ($8.70 per share) compared with negative an increase of 5.8 percent over 1991. Maintenance
+• Software $2.9 billion ($5.01 per share) in 1991, and $6.0 revenue was $7.6 billion in 1992, an increase
+• Sales
+billion ($10.42 per share) in 1990. The 1990 earn- of 3.0 percent over 1991. Rentals and financing
+ings were not impacted by restructuring revenue was $4.7 billion in 1992, an increase
+charges or accounting changes. of 11.9 percent over 1991. The increase was driven
+primarily by growth in the company's world-
+Revenue wide financing activities.
+Pi
+Revenue from sales was $33.8 billion, a decrease
+3
+c of 9.0 percent from 1991. Sales revenue from
+c
+U.S. operations declined 5.1 percent, compared
+
+===== PAGE 38 =====
+Information on industry segments and classes of Selling, general and administrative expense
+similar products or services is included on page amounted to $19.5 billion in 1992, a decrease of 8.7
+64. The product revenue trends demonstrated percent from 1991. Research, development and
+in that disclosure are indicative, in all material engineering expense decreased 1.8 percent
+respects, of hardware sales activity. to $6.5 billion in 1992. These decreases reflect
+the benefits from the company's restructur-
+Gross Profit ing actions and cost control programs.
+Total gross profit amounted to $29.5 billion
+or a decrease of 9.9 percent from 1991. Gross profit The provision for income taxes was negative
+margins, driven by hardware pricing pressures $2,161 million in 1992, and $716 million in 1991.
+and the company's shift to sources of revenue The eflective tax rate of 24 percent in 1992
+other than hardware sales, have declined to 45.6 was principally due to the limited recognition of
+percent in 1992, from 50.5 percent in 1991, and certain deferred tax assets relating to the 1992
+55.4 percent in 1990. restructuring charges, along with the high
+effective tax rate on earnings in certain non-U. S.
+Sales gross profit declined $4.5 billion from 1991, operations. Excluding the effects of restructur-
+as its gross profit margin declined 8.3 points ing charges, the normalized effective tax rate
+to 41.6 percent. Software gross profit increased was 46 percent. This compares to an effective tax
+$546 million over 1991. Its gross profit margin rate in 1991 of 607 percent which was princi-
+increased 1.5 points to 64.7 percent in 1992. pally due to the company's inability to recognize,
+Services gross profit increased $250 million, under SE\S 96, certain deferred tax assets that
+while its gross profit margin was down 1.1 points resulted mainly from the 1991 restructuring
+to 17.7 percent. Maintenance gross profit grew charges, along with the higher effective rate on
+$170 million in 1992 and its margin was 55.1 per- earnings in certain non-U. S. operations.
+cent, up slightly from 1991. Rentals and financing Excluding the effects of restructuring, the 1991
+gross profit showed growth of $260 million, normalized effective tax rate was 41 percent.
+while the gross profit margin had a slight decline 90 91 92
+to 58.0 percent. Changes in Accounting Principles
+Research,
+Effective January 1,1992, the company imple-
+Dcvclopmenl
+Operating Expenses and Other mented SEVS 109.The cumulative effect and Engineering
+Kxpenses
+In 1992, restructuring charges have been iden- of adopting this statement, which is discussed
+(in millions)
+tified as a separate category on the Consolidated further on page 45,resulted in a one-time benefit
+Statement of Earnings, and 1991 restructuring to net earnings for 1992 of $1,900 million for
+charges have been reclassified for comparability the recognition of previously unrecognized tax
+purposes. Restructuring charges reflect the benefits.
+expense associated with work force reductions,
+facility consolidations, capacity reductions, and SFAS 109 provides for the recognition of deferred
+other related actions to streamline the company. tax assets if realization of such assets is more
+Restructuring charges amounted to $11.6 billion likely than not. In assessing the likelihood of
+in 1992, and $3.7 billion in 1991. Further discus- realization, management has considered various
+sion relative to these charges appears on page 50. factors, which include recent operating results,
+
+===== PAGE 39 =====
+committed spending reductions, and the ments to enhance high-end systems. The
+availability of tax planning strategies that could high growth areas include consulting services;
+be implemented to realize deferred tax assets. systems integration and related services;
+Available tax alternatives include capital- client/server computing; networking; RISC tech-
+ization for tax purposes of software expen- nology; multimedia; and related software.
+ditures. This strategy could be implemented, if
+necessary, to realize various tax credit carry- The company's capital expenditures for plant,
+forwards prior to their expiration dates. rental machines and other property were
+approximately $4.7 billion in 1992, a decrease in
+On January 1,1992, the company also imple- excess of $1.0 billion from 1991. In addition to
+mented the American Institute of Certified Pub- software development costs included in research,
+lic Accountants Statement of Position on development and engineering expense, the
+software revenue recognition. The change had company capitalized $1.8 billion of software pro-
+minimal impact on 1992 and prior years' con- duction costs, a decrease of 13.1 percent from
+solidated financial statements, which have been 1991. This decrease was primarily due to a change
+restated. This change is discussed further on made during 1992, in which the company began
+page 45. to capitalize application software costs later
+in the development process. Amortization of capi-
+Fourth Quarter talized software costs amounted to $2.1 billion
+For the quarter ended December 31,1992, in 1992, an increase of $.5 billion, primarily
+worldwide revenue was $19.6 billion, an 11.0 per- as a result of the company's shortening of the
+cent decrease compared with $22.0 billion for lives over which capitalized application software
+the fourth quarter of 1991. Net earnings before is amortized.
+taxes and without the effects of the restruc-
+turing charges would have been $265 million. As a result of the capacity-reduction actions
+With the effects of taxes and restructuring announced during 1992, net plant, rental
+charges, net earnings were negative $5.5 billion machines and other property decreased $6.0
+($9.57 per share). Fourth-quarter 1991 net billion.
+earnings, after restructuring charges, were neg-
+ative $1.5 billion ($2.55 per share). Investments and sundry assets increased
+9.6 percent to $21.3 billion in 1992, primarily due
+to an increase in deferred taxes resulting from
+Financial Condition the company's adoption of SFAS 109.
+Investments Working Capital
+During 1992, the company continued to make Working capital, the excess of current assets over
+investments to ensure the steady flow of new and current liabilities, declined from $7.0 billion
+innovative customer solutions essential to at December 31,1991, to $2.9 billion at December
+its long-term growth. The company continued to 31,1992.
+redirect its investment streams into higher
+growth opportunities, while maintaining invest-
+
+===== PAGE 40 =====
+Current assets decreased $1.3 billion, due to The company has accrued for environmental
+reductions of $2.6 billion in accounts receivable matters which include the estimated costs of the
+and $1.5 billion in inventory. These decreases cleanup of Superfund and other waste sites.
+were partially offset by a $2.4 billion increase in The total amount of the accrual is not signifi -
+prepaid and other current assets, due to tem- cant to the company's financial position.
+porary tax timing differences associated with the
+restructuring accruals, and an increase in Currency Rate Fluctuations
+cash equivalents of $.6 billion. As European currencies weakened toward the
+end of 1992, assets and liabilities denominated in
+Current habilities increased $2.8 bilhon to local currencies translated to fewer dollars.
+$36.7 billion in 1992, reflecting growth in short- Net assets in local currency environments, in
+term debt that was used to fund work force which the company conducts approximately
+reductions and customer financing activities. 90 percent of its non-U. S. business, decHned by
+$1.2 bilhon, primarily in Europe. Changes
+Other accrued expenses and liabilities increased in net worth arising from these currency fluctua-
+$1.7 billion to $9.2 billion at December 31, f992, tions are accumulated in the Translation
+primarily for employee separations resulting from Adjustments component of Stockholders' Equity.
+work force reduction actions. In 1991, translation adjustments to equity
+were not significant.
+Noncurrent Liabilities
+l^ong-term debt declined from $f3.2 billion at In the high inflation environments of Latin
+December 31,199f, to $12.9 billion at December America, translation adjustments are reflected
+31,1992. In 1992, IBM issued $1,650 million in in period income, as required by SFAS 52,
+new notes. Under this offering the company 'Foreign Currency Translation." Wherever pos-
+issued $900 million of 6^8 percent five-year notes sible, the company minimizes currency risk
+and $750 million of 7'A percent ten-year notes, in these countries by linking prices to dollars
+rhe net proceeds from this sale, together with and by financing operations locally.
+other funds, were used to retire $1,710 million of
+convertible debentures and notes which, The company is, to a great degree, protected
+beginning in 1993, will result in annual interest from currency risk by manufacturing and devel-
+expense savings of approximately $29 million. oping a significant portion of its product
+line in non-U. S. countries, so that costs reflect
+The company's long-term debt is presently local economic conditions. Also, financial
+rated Aa2 by Moody's and AA- by Standard & hedging instruments are used to minimize cur-
+Poor's. These ratings were changed from rency risks related to the repatriation of divi-
+Aaa in March 1992, by Moody's and from AAA in dends and royalties from non-U. S. subsidiaries.
+January 1993, by Standard & Poor's.
+o
+Currency rate variations did not have a material a,
+effect on the company's operating results or
+3
+cash flows in 1992 or 1991. a
+<c
+
+===== PAGE 41 =====
+Liquidity manages credit risk through comprehensive
+Management expects that the funds required credit evaluations and pricing practices. In order
+to continue the level of investments necessary to to minimize the interest rate and currency
+ensure the company's competitiveness, as well risks associated with offering financing to our
+as funds used to pay dividends, and to purchase customers worldwide, the company generally
+IBM capital stock from time to time, will be matches liability and asset maturities and
+largely generated from normal operations. To the ensures that the current cost of funding is
+extent that amounts generated from operations reflected in pricing of new transactions. Cus-
+need to be supplemented by new capital sources tomer financing debt consisted of borrowings
+and borrowing, it will be done consistent from external institutions of $19.4 billion
+with management s intent to continue to main- and intracompany borrowings of $3.0 billion.
+tain a strong capital structure.
+Residual value risk is managed by developing
+As of December 31,1992, the company and its realistic projections of future equipment values
+subsidiaries had available committed and uncom- at lease inception, reevaluating these projec-
+mitted unused lines of credit with a number of tions periodically, and by effectively deploying
+U.S. and non-U.S. banks, permitting borrowings, remarketing capabilities to not only recover
+primarily short-term, up to an aggregate of residual values but also to earn a profit. In 1992,
+approximately $6,950 million. the remarketing effort generated profits.
+On January 26,1993, the company declared a The company continues its focus on available
+quarterly cash dividend of $.54 per share nonfinancing free cash flow as well as net
+on common stock payable March 10,1993, versus free cash flow, which is defined as that which is
+the former quarterly dividend of $1.21. available for return to stockholders. Free
+cash flow includes all sources of cash and is
+Financing Strategy reduced by uses such as capital expen-
+Customer financing is an integral part of the ditures. The company's net free cash flow
+company's total offerings to its customers world- improved to $1.3 billion in 1992.
+wide. Whether operating through separate
+subsidiaries specializing in customer financing The company's nonfinancing free cash
+or through its regular operating subsidiaries, flow improved to $2.8 billion in 1992, and was
+customer financing maintains strong growth and reduced by $1.5 billion to support customer
+yields a solid return on investment. In 1992, financing. The company believes that the returns
+the worldwide customer financing assets were and strategic importance of customer financ-
+$32.4 billion, an increase of 2.0 percent over ing continue to ju stify the investment of
+the previous year. The financial results of cus- nonfinancing free cash flow.
+tomer financing can be found on page 48.
+Inherent in customer financing are certain
+unique risks: credit, interest rate, currency, and
+residual value. In today's environment, the
+most serious of these is credit risk. The company
+
+===== PAGE 42 =====
+Employees Looking Forward
+As of December 31, 1992, IBM and wholly owned IBM continues to take aggressive actions to
+subsidiaries employed 301,542 persons on a meet the difficult challenges ahead. The
+regular, full-time basis, down 42,854 from 1991, company will continue to intensify its focus on
+71,747 from 1990, and more than 105,000 from key growth areas, increase the autonomy
+the peak level reached in 1986. In 1992, the com- of its business units, and further reduce costs
+pany continued to form business entities to during 1993. Additional resources are being-
+enhance elKciency. Some of these entities, while allocated to services and software as well
+not wholly owned, are fully consolidated into as other growth areas, including networking,
+the company's financial statements/rhe number client/server computing, and multimedia.
+of regular, full-time employees of these con-
+solidated entities, not included in the ligures Phe company has announced it will reduce its
+above, amounted to 6,468 at December 31, 1992, work force by at least 25,000 employees in
+and 157 at December 31, 1991/l'his increase 1993. Phe company will reduce expenses by well
+resulted primarily from the new IBM business over $1.0 billion in 1993 and capital spending
+ventures, Advantis and Information Systems will continue to be reduced. IBM continues to
+Management Corporation. rebalance its manufacturing capacity.The
+59%
+company has reduced manufacturing space by
+54'
+Phe company complements its work force by 40 percent since 1985; this will increase to 55
+52%
+the use oi students and various other temporary, percent when the additional actions announced
+part-time, and limited-term employment in December 1992 are completed.
+arrangements designed to meet specilic business
+needs in a flexible and efhcient manner.These 41%
+46%
+48%
+employment arrangements included the equiva-
+lent of approximately 29,000 persons in 1992,
+down about 4,000 from 1991, and 5,000 from 1990. 86 92
+Employees
+Regular, ]\ill-Tinie
+HIS.
+I Non-US.
+1986 = Peak During Year
+1991-92 = ]3ecembcr 31
+
+===== PAGE 43 =====
+(Dollars in millions
+except per share amounts) For the year ended December 31: 1992 1991*+ 1990*
+Revenue:
+Sales $ 33,755 $ 37,093 $ 43,959
+Software 11,103 10,498 9,865
+Maintenance 7,635 7,414 7,198
+Services 7,352 5,582 4,124
+Rentals and financing 4,678 4,179 3,785
+64,523 64,766 68,931
+Cost:
+Sales 19,698 18,571 19,401
+Software 3,924 3,865 3,118
+Maintenance 3,430 3,379 3,302
+Services 6,051 4,531 3,315
+Rentals and financing 1,966 1,727 1,579
+35,069 32,073 30,715
+Gross Profit 29,454 32,693 38,216
+Operating Expenses:
+Selling, general and administrative 19,526 21,375 20,709
+Research, development and engineering 6,522 6,644 6,554
+Restructuring charges 11,645 3,735 —
+37,693 31,754 27,263
+Operating Income (8,239) 939 10,953
+Other Income, principally interest 573 602 495
+Interest Expense 1,360 1,423 1,324
+Earnings before Income Taxes (9,026) 118 10,124
+Provision for Income Taxes (2,161) 716 4,157
+Net Earnings before Changes in Accounting Principles (6,865) (598) 5,967
+Effect of Changes in Accounting Principles'®' 1,900 (2,263) —
+Net Earnings $ (4,965) $ (2,861) $ 5,967
+Per Share Amounts:
+Before Changes in Accounting Principles $(12.03) $ (1.05) $ 10.42
+Effect of Changes in Accounting Principles* 3.33 (3.96) —
+Net Earnings $ (8.70) $ (5.01) $ 10.42
+Average Number of Shares Outstanding:
+1992-570,896,489; 1991-572,003,382; 1990-572,647,906
+*Restated for the American Institute of Certified Public Accountants Statement of Position, "Software Revenue
+Recognition."
+^Reclassified to conform with 1992 presentation.
+* 1992, cumulative effect of Statement of Financial Accounting Standards (SFAS) 109, "Accounting for Income Taxes";
+and 1991, transition effect of SFAS 106, "Employers' Accounting for Postretirement Benefits Other Than Pensions."
+The notes on pages 44 through 65 are an integral part of this statement.
+
+===== PAGE 44 =====
+(Dollars in millions) At December 31: 1992 1991*
+Assets
+Current Assets:
+Cash $ 1,090 $ 1,171
+Cash equivalents 3,356 2,774
+Marketable securities, at cost, which approximates market 1,203 1,206
+Notes and accounts receivable—trade, net of allowances 12,829 15,391
+Sales-type leases receivable 7,405 7,435
+Other accounts receivable 1,370 1,491
+Inventories 8,385 9,844
+Prepaid expenses and other current assets 4,054 1,657
+39,692 40,969
+Plant, Rental Machines and Other Property 52,786 55,678
+Less: Accumulated depreciation 31,191 28,100
+21,595 27,578
+Investments and Other Assets:
+Software, less accumulated amortization (1992, $8,531; 1991, $6,950). 4,119 4,483
+Investments and sundry assets 21,299 19,443
+25,418 23,926
+$ 86,705 $ 92,473
+Liabilities and Stockliolders' Equity
+Current Liabilities:
+Taxes $ 979 $ 2,449
+Short-term debt 16,467 13,716
+Accounts payable 3,147 3,507
+Compensation and benefits 3,476 3,241
+Deferred income 3,316 3,472
+Other accrued expenses and liabilities 9,352 7,566
+36,737 33,951
+Long-Term Debt 12,853 13,231
+Other Liabilities 7,461 6,685
+Deferred Income Taxes. 2,030 1,927
+Total Liabilities 59,081 55,794
+Stockholders' Equity:
+Capital stock, par value $1.25 per share—shares authorized: 750,000,000
+Issued: 1992 -571,791,950; 1991-571,349,324 6,563 6,531
+Retained earnings 19,124 26,983
+Translation adjustments 1,962 3,196
+Treasury stock, at cost (shares: 1992-356,222; 1991-331,665) (25) (31)
+27,624 36,679
+$ 86,705 $ 92,473 f3l
+——^— — c
+* Restated for the American Institute of Certified Public Accountants Statement of Position, "Software Revenue <
+Recognition." o^
+The notes on pages 44 through 65 are an integral part of this statement. §
+w
+
+===== PAGE 45 =====
+(Dollars in millions) For the year ended December 31: 1992 1991*+ 1990*-
+Cash Flow from Operating Activities:
+Net earnings (4,965) $(2,861) $ 5,967
+Adjustments to reconcile net earnings to
+cash provided from operating activities:
+_
+Effect of changes in accounting principles . . . (1,900) 2,263
+Effect of restructuring charges 8,312 2,793 (843)
+Depreciation 4,793 4,772 4,217
+Amortization of software 1,466 1,564 1,086
+(Gain) loss on disposition of investment assets. 54 (94) 32
+Other changes that provided (used) cash —
+Receivables 1,052 (886) (2,077)
+Inventories 704 (36) 17
+Other assets (3,396) 5 (3,136)
+Accounts payable (311) 384 293
+Other liabilities 465 (1,179) 1,916
+Net cash provided from operating activities 6,274 6,725 7,472
+Cash Flow from Investing Activities:
+Payments for plant, rental machines and other property. . . . (4,751) (6,497) (6,509)
+Proceeds from disposition of plant, rental machines
+and other property 633 645 804
+Investment in software (1,752) (2,014) (1,892)
+Purchases of marketable securities and other investments . . (3,284) (4,848) (1,234)
+Proceeds from marketable securities and other investments. 3,276 5,028 1,687
+Net cash used in investing activities (5,878) (7,686) (7,144)
+Cash Flow from Financing Activities:
+Proceeds from new debt 10,045 5,776 4,676
+Payments to settle debt (10,735) (4,184) (3,683)
+Short-term borrowings less than 90 days — net 4,199 2,676 1,966
+Proceeds from (payments to) employee stock plans — net. (90) 67 (76)
+Payments to purchase and retire capital stock - (196) (415)
+Cash dividends paid (2,765) (2,771) (2,774)
+Net cash provided from (used in) financing activities 654 1,368 (306)
+Effect of Exchange Rate Changes on Cash and Cash Equivalents (549) (315) 131
+Net Change in Cash and Cash Equivalents .... 501 92 153
+Cash and Cash Equivalents at January 1 3,945 3,853 3,700
+Cash and Cash Equivalents at December 31 4,446 $ 3,945 $ 3,853
+Supplemental Data:
+Cash paid during the year for:
+Income taxes 1,297 $ 2,292 $ 3,315
+Interest 3,132 $ 2,617 $ 2,165
+*Restated for the American Institute of Certified Public Accountants Statement of Position, 'Software Revenue
+Recognition."
+tReclassified to conform with 1992 presentation.
+The notes on pages 44 through 65 are an integral part of this statement.
+
+===== PAGE 46 =====
+Capital Retained Translation Treasury
+(Dollars in millions) Stock Earnings Adjustments Stock Total
+1990*
+Stockholders'Equity, January 1,1990 $6,341 $ 30,208 $1,710 $(7) $ 38,252
+Net earnings 5,967 5,967
+Cash dividends declared (2,774) (2,774)
+Capital stock issued under employee plans
+(686,159 shares) 47 47
+Purchases (7,346,528 shares) and sales
+(7,194,647 shares) of treasury stock under
+employee plans—nct+ (117) (18) (135)
+Capital stock purchased and retired
+(3,842,924 shares) (43) (372) (415)
+Tax reductions—employee plans 12 12
+Translation adjustments 1,599 1,599
+Stockholders'Equity, December 31,1990 6,357 32,912 3,309 (25) 42,553
+1991*
+Net earnings (2,861) (2,861)
+Cash dividends declared (2,771) (2,771)
+Capita] stock issued under employee plans
+(1,857,904 shares) 172 172
+Purchases (7,306,058 shares) and sales
+(7,201,997 shares) ol treasury stock under
+employee plans—net"'" (125) (6) (131)
+Capital stock purchased and retired
+(2,127,400 shares) (24) (172) (196)
+Tax reductions—employee plans 26 26
+Translation adjustments (113) ('13)
+Stockholders'Equity,December 31,1991 6,531 26,983 3,196 (31) 36,679
+1992
+Net earnings (4,965) (4,965)
+Cash dividends declared (2,765) (2,765)
+Capital stock issued under employee plans
+(442,581 shares) 26 26
+Purchases (8,097,681 shares) and sales
+(8,073,124 shares) of treasury stock under
+employee plans—net (129) 6 (123)
+Tax reductions—employee plans 6 6
+Translation adjustments (1,234) (1,234)
+Stockholders'Equity, December 31,1992 $6,563 $19,124 $ 1,962 $(25) $27,624
+*Restated for the American Institute of Certified Public Accountants Statement of Position, "Software Revenue
+Recognition."
+tNumber of shares purchased and sold restated to conform with 1992 presentation.
+The notes on pages 44 through 65 are an integral part of this statement.
+c
+c
+C
+
+===== PAGE 47 =====
+Significant Accounting Policies Revenue
+Revenue is recognized from sales or sales-
+Principles of Consolidation type leases when the product is shipped; from
+The consolidated financial statements include software when the program is shipped, as
+the accounts of International Business monthly license fees accrue, or over the term of
+Machines Corporation and its U.S. and non-U.S. the post-contract customer support arrange-
+subsidiary companies. Investments in busi- ment; from maintenance and services over the
+ness entities in which IBM does not have control, contractual period, or as the services are
+but has the ability to exercise significant performed; from rentals under operating leases
+influence over operating and financial policies in the month in which they accrue; and from
+(generally 20 percent ownership or greater), financing at level rates of return over the term of
+are accounted for by the equity method. Other the lease or receivable.
+investments are accounted for by the
+cost method. Software
+Costs related to the conceptual formulation and
+Translation of Non-U. S. Currency Amounts design of licensed programs are expensed as
+For non-U.S. subsidiaries that operate in research and development. Costs incurred sub-
+a local currency environment, assets and liabili- sequent to establishment of technological
+ties are translated to U.S. dollars at year-end feasibility to produce the finished product are
+exchange rates. Income and expense items are generally capitalized. The annual amortiza-
+translated at average rates of exchange pre- tion of the capitalized amounts is the greater of
+vailing during the year. Translation adjustments the amount computed based on the estimated
+are accumulated in a separate component of revenue distribution over the products' revenue-
+stocldbolders' equity. For non-U.S. subsidiaries producing lives, or the straight-line method,
+and branches that operate in U.S. dollars or but not in excess of six years. Costs to support
+whose economic environment is highly inflation- or service licensed programs are charged against
+ary, inventories and plant, rental machines and income as incurred, or when related revenue is
+other property are translated at approximate rates recognized, whichever occurs first.
+prevailing when acquired. All other assets and
+liabilities are translated at year-end exchange Depreciation
+rates. Inventories charged to cost of sales Plant, rental machines and other property
+and depreciation are translated at historical rates. are carried at cost, and depreciated over their
+All other income and expense items are trans- estimated useful lives using the straight-
+lated at average rates of exchange prevailing line method.
+during the year. Gains and losses that result from
+translation are included in earnings. Goodwill
+Goodwill is amortized on a straight-line basis
+over the periods estimated to be benefited, cur-
+rently not exceeding five years.
+
+===== PAGE 48 =====
+Retirement Plans and Nonpension Accounting Changes
+Postretirement Benefits
+Current service costs of retirement plans and In 1992, the company implemented Statement of
+postretirement health-care and hfe insurance Financial Accounting Standards (SFAS) 109,
+benefits are accrued currently. Prior service 'Accounting for Income Taxes." This statement
+costs resulting from improvements in the plans superseded the previous accounting standard for
+are amortized over the average remaining income taxes, SFAS 96, which the company
+service period of employees expected to receive adopted in 1988. Under SFAS 109, the company
+benefits. I n years prior to 199f, the estimated recognizes deferred tax assets if it is more likely
+costs ol nonpension postretirement benefits than not that a benefit will be realized.
+were accrued principally at retirement.
+The cumulative effect of this accounting
+Selling Expenses change, which resulted in recognizing previously
+Selling expenses are charged against income as unrecognized tax benefits for years prior to
+incurred. January f, f992, increased net earnings for 1992
+by $1,900 million, or $3.33 per share. Income
+Income Taxes taxes for f991 and 1990 have not been restated
+Income tax expense is based on reported for this change. Further discussion is included
+earnings before income taxes. Deferred income on pages 53 through 55.
+taxes reflect the impact of temporary differ-
+ences between the amounts of assets and The company implemented the American
+liabilities recognized for financial reporting Institute of Certified Public Accountants State-
+purposes and such amounts recognized for tax ment of Position on software revenue recog-
+purposes. In accordance with Statement nition, effective January 1,1992.The State-
+of Financial Accounting Standards (SFAS) 109, ment of Position resulted in a change to the
+these deferred taxes are measured by company's revenue recognition practice for one-
+applying currently enacted tax laws. In years time charge arrangements that include post-
+prior to 1992, deferred taxes were accounted contract customer support (PCS) to recognize
+for in accordance with SFAS 96. revenue over the PCS period. Prior to implemen-
+tation, the company accrued certain PCS costs
+Inventories upon shipment. 1 he change had minimal impact
+Raw materials, work in process, and finished on 1992 and prior years' consolidated financial
+goods are stated at the lower of average cost or statements which have been restated.
+market.
+The company implemented SFAS 106, "Employ-
+Cash Equivalents ers' Accounting for Postretirement Benefits
+All highly liquid investments with a maturity of Other rhan Pensions," on the immediate recog-
+three months or less at date of purchase are nition basis eflfective as of January 1,1991.
+considered to be cash equivalents. This statement requires that the cost of these
+benefits, which are primarily health-care
+benefits, be recognized in the financial
+
+===== PAGE 49 =====
+statements during the employee s active working worldwide customer financing activity is also
+career. The company's previous practice was presented. Financial information on these
+to accrue these costs principally at retirement. businesses is reported on pages 46 through 49.
+Further discussion is included on page 60.
+ADSTAR
+In November 1992, the Financial Accounting ADSTAR develops and manufactures storage
+Standards Board issued SFAS 112, "Employers' systems and subsystems as well as direct access
+Accounting for Postemployment Benefits," which storage devices (DASD) for a range of pro-
+requires that the costs of benefits provided to cessors, from high-end mainframes to laptops.
+employees after employment but before retire- Other products are DASD controllers, mag-
+ment be recognized in the financial statements on netic tape subsystems, optical storage, and
+an accrual basis. It is expected that implementa- systems managed storage software. Financial
+tion of this statement will not result in a material information, before and after effects of restruc-
+charge to earnings in the year of adoption. turing, is provided below.
+(Dollars in millions) 1992
+Information on Selected Businesses At End of Year:
+Total assets $ 4,020
+The computer industry is in a time of fun- For the Year:
+Revenue* $ 6,111
+damental transition, and the velocity of change
+is increasing. Responding to these market- Earnings before income taxes:
+Before restructuring $ 440
+place shifts, the company began 1992 by setting
+After restructuring $ (275)
+in motion comprehensive changes that are
+Net earnings:
+redefining IBM from a single, centralized com- Before restructuring $ 247
+pany into a network of more competitive After restructuring $ (265)
+businesses that will be increasingly free stand- Return on assets'*" 6.0%
+ing: each more independent, fast, and focused
+Employees 15,776
+on the markets it serves; responsive to its
+*Includes intracompany revenue of $5,669 million.
+customers and accountable for its results. New
+^Calculated with net earnings before restructuring.
+management systems are in place and the
+company intends to publish information relative
+Worldwide distribution of products is through
+to these businesses or groupings of these
+IBM marketing and services companies
+businesses in the 1993 annual report.
+for IBM customers, and its worldwide original
+equipment manufacturer distribution net-
+The 1992 financial performance summaries
+work and sales force.
+are disclosed for ADSTAR, Integrated Systems
+Solutions Corp., and Federal Systems. Intra-
+o
+a. company activities are recorded at transfer
+prices that substantially reflect the transactions
+of a stand alone business. In addition to the
+schedule for the financing subsidiaries, IBM total
+
+===== PAGE 50 =====
+Integrated Systems Solutions Corp. (ISSC) Federal Systems
+ISSC, which began operating during 1991, offers Federal Systems markets specialized products and
+information technology services that provide services to the defense, space and other federal agen-
+enterprise solutions including systems integra- cies of the U.S. and several non-U. S. governments.
+tion, consuhing, business recovery services, Financial information, before and after ett'ects
+voice and data networking, systems operations, of restructuring, is provided below.
+and apphcations software development. ISSC
+(Dollars in millions) 1992 1991* 1990^
+otters services to both external customers and
+internal IBM customers in the United States. At End of Year:
+'ibtal assets $ 973 $ 1,053 $ 1,209
+Financial information is provided below.
+For the Year:
+(Dollars in millions) 1992 Revenue''^ $2,191 $ 1,989 $ 1,965
+At End of Year: Earnings before
+'Ibtal assets $ 1,700 income taxes:
+Before restructuring . . $ 127 $ 120 $ 111
+For the Year:
+After restructuring . . . $ 108 $ 70 $ 111
+Revenue* $ 1,835
+Net earnings:
+Earnings before income taxcs+ $ 49 Before restructuring . . $ 83 $ 78 $ 73
+After restructuring . . . $ 71 $ 46 $ 73
+Net earnings+ $ 30
+Return on assets* . 8.2% 6.9% 5.9%
+Return on assets 2.8%
+Employees 10,798 10,963 12,138
+Employees—ISSC 7,204
+Advantis 3,070
+*Restated to conform with 1992 presentation for
+10,274 restructuring and cost of capital.
+•'•Includes intraeompany transfers of $26 million for 1992,
+*Inclu(les intraeompany revenue of $1,178 million. $37 million for 1991, and $42 million for 1990.
++Not impacted directly by restructuring. ^Calculated with net earnings before restructuring.
+As of December 1,1992, IBM and Sears, Roe- During 1992, Federal Systems Company was
+buck and Co. formed Advantis, a networldng formed combining Federal Systems Marketing and
+services joint venture. IBM, through ISSC, owns Federal Systems. Federal Systems Marketing
+a majority interest in the new company. Advantis offers commercially available IBM information
+is consolidated in the IBM and ISSC financial technology products to various U.S. government
+statements; Advantis has total assets of approxi- agencies, and its results are not included in
+mately $1 billion at December 31,1992.The the above schedule.
+effect of Advantis on return on assets has been
+weighted to reflect one month of operations.
+Pi
+3
+C
+C
+<
+
+===== PAGE 51 =====
+Customer Financing The provision for income taxes included in cost
+The primary focus of IBM s worldwide custo- and expenses is based on the statutory income
+mer financing business is to support customers tax rate of each country, calculated on a separate
+in their acquisitions of IBM's products and return basis.
+services. This support is provided through financ-
+ing subsidiaries with operations in 12 countries, The following schedule reflects the worldwide
+and from operations in those countries where customer financing financial position and
+the company does not maintain a separate results for 1992.
+financing subsidiary, such as Canada, Germany,
+(Dollars in millions) 1992
+Italy, and Japan. The resuhs of customer
+financing in all countries are presented in a At End of Year:
+Total assets $ 32,371
+consistent manner.
+Liabilities:
+The company's total debt at December 31,1992, Debt $ 22,397
+Other 6,662
+was $29,320 milhon, and consisted of customer
+financing debt of $22,397 million and nonfinanc- $ 29,059
+Invested capital 3,312
+ing debt of $6,923 million. Customer financing
+debt consisted of borrowings directly with exter- Total liabilities and invested capital $ 32,371
+nal financial institutions of $19,422 million
+For the Year:
+and intracompany borrowings of $2,975 million Financing and other income $ 4,925
+at market rates of interest. These borrowings are
+Cost and expenses 4,353
+backed by formal intracompany loan agreements.
+Net earnings after taxes $ 572
+Other liabilities represent amounts due Return on invested capital 17.1%
+to affiliates, current and deferred income taxes,
+and miscellaneous accruals. Amounts due to
+affiliates primarily represent trade payables aris-
+ing from the purchase of equipment for term
+leases, installment payment agreements, and soft-
+ware licenses, with payment terms comparable
+to those offered to IBM's external customers.
+Included within the customer financing results
+are intracompany services and fees received
+for tax benefits provided to the company resulting
+from tax deferrals generated by financing
+transactions.
+
+===== PAGE 52 =====
+Financing Subsidiaries in countries in which the company does not
+'I'he following schedule discloses selected have a financing subsidiary is not included in the
+financial information for the company's financing following schedule. In September 1991, IBM
+subsidiaries which primarily engage in customer Japan acquired Computer Systems Leasing Ltd.
+financing activities. IBM Credit Corporation (CSL), and converted this subsidiary into a
+accounts for more than 75 percent of the net earn- division in July 1992. For comparability purposes,
+ings of the financing subsidiaries. ! hese wholly 1991 Financing Subsidiaries information
+owned subsidiaries are consolidated in the com- has been restated to exclude CSL since it is not
+pany's financial statements. Financing activity reflected in 1992 subsidiary information.
+(Dollars ill millions) At December 31: 1992 1991
+financing Subsidiaries: Financial Position
+Assets:
+(>ash and cash equivalents $ 927 $ 771
+Receivables —net 3,394 3,621
+Net investment in sales-type leases 9,191 9,410
+Kquipment under operatinj^ leases—net 2,057 2,178
+Other 636 586
+Total Assets $ 16,205 $16,566
+l.iabilities and Stockholder's Equity:
+Short-term debt $ 5,979 $ 5,806
+Delerred taxes and accruals 1,366 985
+Dueto II5M and alliliates 1,682 2,510
+Long-term debt 5,309 5,672
+Stockholders equity 1,869 1,593
+Total Liabilities and Stockholders l^quity $ 16,205 $ 16,566
+(Dollars in millions) For the year ended December 31: 1992 1991 1990
+Financing Subsidiaries: Earnings
+I'inancing and other income $2,701 2,250 1,992
+I ntercst and other expenses 2,234 1,870 1,649
+Provision lor income taxes 181 149 112
+Net earnings $ 286 $ 231 $ 231
+cc;
+
+===== PAGE 53 =====
+Restructuring Actions In the fourth quarter the company announced
+and recorded charges totalling $6.0 billion
+The company has taken a series of actions as a result of further capacity and work force
+to further reduce costs, expenses, and capacity. reduction actions. Manufacturing capacity
+Restructuring charges totalHng $11.6 billion actions, primarily in the Technology Products,
+($8.3 billion after taxes or $14.51 per share) were Enterprise Systems, and ADS'PAH businesses,
+recorded during 1992. totalled $2.9 billion before taxes. The company
+will reduce its work force by at least 25,000
+In the third quarter the company announced employees during 1993. The cost of these
+worldwide capacity reductions that focused pri- actions will total approximately $3.1 billion
+marily on assets, such as machinery and before taxes.
+equipment, buildings, and some related employee
+relocations, which totalled $2.6 billion In 1991, restructuring charges totalling
+before taxes. $3.7 billion ($2.9 billion after taxes or $5.03 per
+share) were recorded, rhese charges were
+Also in the third quarter the company shortened associated with work force reductions and relo-
+the lives over which certain software is amor- cations, facility consolidations, and other
+tized and reevaluated the recoverability of that related items.
+software in accordance with the shortened
+lives. The cost of these actions totalled $.7 billion
+before taxes.
+The company also recorded in the third quarter
+charges of $1.1 billion before taxes for a
+portion of the approximately 20,000 additional
+employee departures in 1992, which exceeded
+the December 1991 estimate. In the fourth
+quarter, $1.2 billion before taxes was recorded
+for additional work force reductions.
+
+===== PAGE 54 =====
+Marketable Securities Investments and Sundry Assets ^^ December 31:
+At Decembei r31:
+(Dollars in millions) 1992 1991 (Dollars in millions) 1992 1991*
+U.S. government securities . . . $ 698 $ 359 Net investment in
+Time deposits and other sales-type leases+ $ 20,875 $21,405
+bank obligations 435 50! Less: Current portion (net). . . 7,405 7,435
+Non-U.S. government
+13,470 13,970
+securities and other
+Deferred taxes 2,886 6
+fixed-term obligations . . . 70 346
+Prepaid pension cost 905 1,111
+Total $ 1,203 $ 1,206 Installment payment
+receivables 683 752
+Market value $ 1,203 $ 1,206
+Investments in business
+alliances 691 565
+Goodwill, less accumulated
+Plant, Rental Machines amortization (1992, $1,178;
+and Other Property 1991, $865) 274 236
+At Deccmbe r31:
+Other investments and
+(Dollars in millions) 1992 1991 sundry assets 2,390 2,803
+Land and land improvements . $ 1,477 $ 1,604 Total $ 21,299 $ 19,443
+Buildings 13,839 14,281
+Plant, laboratory and ollicc *Reclassified to conform with 1992 presentation.
+equipment 34,500 36,490 +These leases relate to IBM equipment and are for terms
+generally ranging from three to five years. Net investment
+49,816 52,375
+in sales-type leases includes unguaranteed residual
+Less: Accumulated
+values of approximately $1,110 million and $1,470 million at
+depreciation 29,789 26,617
+December 31,1992 and 1991, and is reflected net of unearned
+20,027 25,758 income at these dates of approximately $4,000 million
+and $4,300 million, respectively. Scheduled maturities of
+Rental machines and parts . . . 2,970 3,303
+minimum lease payments outstanding at December 31,
+Less: Accumulated
+depreciation 1,402 1,483 1992, expressed as a percentage of the total, are approxi-
+mately as follows: 1993, 38 percent; 1994, 30 percent;
+1,568 1,820
+1995, 20 percent; 1996, 9 percent; 1997 and after, 3 percent.
+Total $ 21,595 $ 27,578
+Inventories
+At December 31:
+(Dollars in millions) 1992 1991
+Current inventories:
+Finished goods $ 2,100 $ 2,568
+Work in proccss 6,115 7,104
+Raw materials 170 172
+Total current inventories .... 8,385 9,844
+Work in process included
+in plant, rental machines P2
+"re
+and other property 805 1,245 3
+a
+a
+Total $ 9,190 $ 11,089
+
+===== PAGE 55 =====
+(Dollars in millions) At December 31: 1992 1991
+Long-Term Debt Maturities
+US. Dollars:
+Debentures—
+778% convertible, subordinated 2004 $ - $ 1,254
+83/8% 2019 750 750
+Notes—
+5%% to 75/8% 1993-2002 3,196 987
+7%% to 878% 1993-1995 520 1,820
+9%tol0'/4% 1993-2000 820 2,299
+Medium-term note program: 4.0% to 18.0% 1993-2008 1,429 1.026
+Other U.S. dollars: 3.30/010 13.5% 1993-2012 1,189 674
+^ . / • '7^904 8,810
+Other Currencies (average interest rate
+at December 31,1992, in parentheses):
+Japanese yen (5.8%) 1993-2014 3,446 3,367
+Swiss francs (6.8%) 1993-1996 833 1,204
+European currency units (91%) 1993-1995 1,248 1.086
+Canadian dollars (10.3%) 1993-1997 1,044 1,038
+French francs (10.1%) 1993-2001 645 734
+Australian dollars (13.6%) 1993-1996 326 627
+Other (12.0%) 1993-2013 675 745
+16,121 17,61!
+Less: Net unamortized discount 12 17
+16,109 17,594
+Less: Current maturities 3,256 4,363
+Total $12,853 $13,231
+Annual maturity and sinking fund requirements in millions of dollars on long-term debt outstanding at December 3!,
+1992, are as follows: 1993, $3,256; 1994, $4,171; 1995, $2,777; 1996, $1,469; 1997, $1,554; 1998 and beyond, $2,894.
+(Dollars in millions) At December 31: 1992 1991
+Short-Term Debt
+Commercial paper $ 7,869 $ 3,426
+Short-term loans 5,342 5,927
+Long-term debt: Current maturities 3,256 4,363
+Total $ 16,467 $13,716
+The weighted average interest rates for commercial paper at December 31,1992 and 1991, were 3.5 percent and 5.1 percent,
+respectively. The weighted average interest rates for short-term loans at December 31,1992 and 1991, were 13.3 percent
+o
+and 18.6 percent, respectively.
+OH
+3
+C!
+<C
+
+===== PAGE 56 =====
+Paxes (Dollars in millions) 1992 1991* 1990*
+Earnings before income taxes:
+U.S. operations $ (7,678) $ (3,379) $ 2,337
+Non-l .S. operations (1,348) 3,497 7,787
+$ (9,026) $ 118 $10,124
+1 be provision for income taxes by geographic operations is as follows:
+l!.S. operations $ (2,179) $ (857) $ 905
+Non-U.S. o|)erations f8 1,573 3,252
+Total provision for income taxes $ (2,161) $ 716 $ 4,157
+1 be components of tbe provision for income taxes
+by taxing jurisdiction are as follows:
+U.S. federal:
+Current $ (115) $ 226 $ 379
+Deferred (2,390) (799) (51)
+Net deferred investment tax credits (54) (68) (95)
+(2,559) (641) 233
+U.S. state and local:
+Current (f4) 29 16
+Deferred 3 (139) 105
+(11) (110) 121
+Non-U.S.:
+(Current 1,378 1,787 3,375
+Deferred (969) (320) 428
+409 1,467 3,803
+Total provision for income taxes $ (2,161) $ 716 $ 4,157
+Social security, real estate, personal property, and other taxes 3,067 3,082 3,017
+Total taxes $ 906 $ 3,798 $ 7,174
+*Kcstiilc(l lor ihc American I tistilule ol'Certified Public Accountants Statement of Position,
+"Soltware Revenue Recognition."
+I n 1992, the company implemented Statement of SFAS 96, deferred tax assets could not be
+Financial Accounting Standards (SFAS) 109, recognized unless they offset reversals of
+"Accounting for Income 1 axes." This statement deferred tax liabilities or could be recovered as
+superseded the previous accounting standard for income tax refunds through existing loss
+income taxes, SFAS 96, which the company carryback provisions. Under SFAS 109, the com- o-
+V
+cr;
+adopted in 1988. Both SFAS 96 and SFAS 109 pany recognizes deferred tax assets if it
+require the use of the liability method for record- is more likely than not that a benefit will be c
+c
+ing deferred income taxes. However, under realized. <
+
+===== PAGE 57 =====
+The cumulative effect of this accounting The significant components of deferred tax
+change, which resulted in recognizing previ- assets and liabilities included on the balance
+ously unrecognized tax benefits for years prior sheet at December 31,1992, were:
+to January 1,1992, increased net earnings for
+1992 by $1,900 million, or $3.33 per share.
+Deferred Deferred
+Income taxes for 1991 and 1990 have not been
+Tax Tax
+restated for this change. (Dollars in millions) Assets Liabilities
+Restructuring charges $ 3,882 $ -
+Deferred income taxes reflect the impact of
+Sales-type leases
+temporary differences between the amount of and installment sales 46 3.785
+assets and liabilities recognized for financial Retiree medical benefits 1,691
+Software costs deferred 285 1,659
+reporting purposes and such amounts rec-
+Depreciation 421 1,541
+ognized for tax purposes.
+Foreign tax credits 1,490 —
+Retirement benefits 212 941
+The principal items making up deferred tax Inventory 697 -
+expense in 1992 included $2,451 million for the Alternative minimum
+tax credits 663 —
+restructuring charges, $1,698 million for state
+General business credits 438 —
+and local and foreign net operating loss
+Foreign tax loss carryforwards. . . 430 —
+carryforwards and U.S. federal tax credit carry- Doubtful accounts 410 21
+forwards, and $269 million for depreciation, Intracompany sales and
+partially offset by an increase of $1,647 million services 390 —
+State and local tax
+in the deferred tax asset valuation allowance.
+loss carryforwards 384 —
+In 1991, these items included $1,297 million for Other 2,576 1,082
+restructuring charges and related items and
+14,015 9,029
+$153 million for depreciation, offset by a $239
+Valuation allowance 1,976 -
+million reduction in the tax asset recorded
+Total $ 12,039 $ 9,029
+for the alternative minimum tax and $151 million
+for deferred software costs. In 1990, these
+items included $573 million related to the partial The valuation allowance applies to state and
+turnaround of deferred tax assets arising from local net operating loss carryforwards and net
+a 1989 restructuring charge and $343 million for deferred tax assets, U.S. federal tax credit
+sales-type leases and installment sales. These carryforwards, and net operating losses in cer-
+amounts were offset by $205 million of deferred tain foreign jurisdictions that may expire
+tax benefits associated with the alternative before the company can utilize them. The net
+minimum tax. change in the total valuation allowance
+for the year ended December 31,1992, was an
+increase of $1,647 million.
+o
+&H
+3
+C
+<C
+
+===== PAGE 58 =====
+The consolidated effective income tax rate expire in 1995, $461 million expire in 1996, $1,126
+was 24 percent in 1992, 607 percent in 1991, and million expire in 1997, and the remainder there-
+41 percent in 1990. after. The company also has state and local and
+foreign tax loss carryforwards, the tax effect
+'I'he low tax benefit on the 1992 loss was prin- of which is $814 million. Many of these carryfor-
+cipally due to a reduced recognition ol deferred wards are available for substantial periods.
+tax assets relating to the 1992 restructuring
+charges. A high effective tax rate on non-U.S. Undistributed earnings of non-U. S. subsidiaries
+earnings was also a contributing factor. Exclud- included in consolidated retained earnings
+ing the effects of restructuring charges, the amounted to $12,182 million at December 31,
+effective tax rate was 46 percent. Of the 12 per- 1992, $13,991 million at December 31,1991, and
+centage point variation from the U.S. federal $14,388 million at December 31,1990. These
+statutory rate of 34 percent, 17 percentage points earnings, which reflect full provision for non-
+were due to the higher effective tax rate on U.S. income taxes, are indefinitely reinvested in
+non-U.S. earnings, offset by 6 percentage points non-U.S. operations or will be remitted sub-
+relating to the disposition of an investment. stantially free of additional tax. Accordingly, no
+material provision has been made for taxes
+The high rate in 1991 was principally due to the that might be payable upon remittance of such
+company's inability to recognize certain deferred earnings nor is it practicable to determine
+tax assets utuier SFAS 96 that resulted mainly the amount of this liability.
+from the 1991 restructuring charges. A higher
+effective rate on non-U.S. earnings afso con-
+tributed to the increase when measured in con- Research, Development and Engineering
+junction with the significantly reduced earn-
+ings before income taxes. Excluding the effects of Research, development and engineering
+restructuring charges, the effective tax rate expenses amounted to $6,522 million in 1992,
+was 41 percent. Of the 7 percentage point $6,644 milhon in 1991, and $6,554 million in 1990.
+variation from tfie U.S. federaf statutory tax rate
+of 34 percent, 10 percentage points were Included in these amounts were expenditures of
+attributabfe to the higher effective tax rate on $5,083 million in 1992, $5,001 million in 1991,
+non-U.S. earnings offset by 2 percentage points and $4,914 million in 1990 for a broad program of
+for state and local taxes. research and devefopment activities covering
+basic scientific research in a variety of fields and
+In 1990, the higher effective tax rate on non-U.S. the application of scientific advances to the
+earnings accounted for 6 percentage points development of new and improved products and
+of the variance from the U.S. federaf statutory their uses. In addition, expenditures for product-
+rate of 34 percent. related engineering amounted to $1,439 million,
+$1,643 million, and $1,640 million for the
+cc
+For tax return purposes, the company has same three years.
+available tax credit carryforwards of approxi-
+matefy $2,937 miUion, of which $229 milfion
+
+===== PAGE 59 =====
+Interest Cost Long-Term Performance Plan
+Interest on borrowings of the company and its The IBM 1989 Long-Term Performance Plan
+subsidiaries amounted to $2,698 million in provides for incentive awards to be made
+1992, $2,667 million in 1991, and $2,425 million to officers and other key employees. The plan is
+in 1990. Of these amounts, $101 million in 1992, administered by the Nominating and Execu-
+$143 million in 1991, and $122 miUion in 1990 tive Compensation Committee of the Board of
+were capitalized. The remainder was charged to Directors.The Committee determines the type
+cost of rentals and financing, and interest expense. of award to be granted, which may include stock,
+a stock option, a stock appreciation right (SAK),
+cash, or any combination thereof. The number of
+Other Liabilities shares that are available for granting in each
+year is limited to .85 percent of IBM s outstanding
+Other liabilities consist principally of accruals capital stock as of December 31 of the preced-
+for nonpension postretirement benefits, ing year. Any unused amount is carried forward
+and indemnity and retirement plan reserves for and made available for granting in the subse-
+non-U. S. employees. quent year. In November 1991, the Board of Direc-
+tors adopted an amendment to the plan, effective
+January 1992, that aggregated the limit on the
+Rental Expense and Lease Commitments number of shares available to be granted through
+April 1994, the duration of the plan. Prior to 1989,
+Rental expense, including amounts charged to stock options were issued under the IBM 1986
+inventories and fixed assets, amounted to and predecessor Stock Option Plans.
+$2,108 million in 1992, $2,056 million in 1991, and
+$1,903 million in 1990. Minimum rental com- Options allow the purchase of IBM's capital
+mitments, in millions of dollars, under non-can- stock at 100 percent of the market price on the
+cellable leases for 1993 and thereafter, are as date of grant and have a maximum duration
+follows: 1993, $1,533; 1994, $1,220; 1995, $1,003; of 10 years. Payment by the optionee upon
+1996, $918; 1997, $754; and after 1997, $2,943. exercise of an option may be made using IBM
+These leases are principally for the rental stock as well as cash.
+of office premises.
+SARs offer eligible optionees the alternative of
+electing not to exercise the related stock option,
+but to receive payment in cash and/or stock,
+equivalent to the difference between the
+option price and the average market price of
+IBM stock on the date of exercising the right.
+
+===== PAGE 60 =====
+The following table summarizes option activity Stock Purchase Plan
+during 1992 and 1991:
+The IBM Employees Stock Purchase Plan
+Number of Shares Under Option 1992 1991
+enables employees who are not participants in
+Balance at Janiiary 1 27,382,266 24,985,819 IBM's stock option programs to purchase
+Options granted 9,723,804 4,606,352 IBM's capital stock through payroll deductions
+Options exercised (461,202) (1.861,832)
+of up to 10 percent of eligible compensation.
+Options terminated (980.494) (224,414)
+The price an employee pays for a share of stock
+O|)tions cancelled —
+SARs exercised (42,411) (123,659) is 85 percent of the average market price on
+the date the employee has accumulated enough
+Balance at Decernl)er 31 35,621,963 27,382,266
+money to buy a share.
+Exercisable at December 31 .. 21,372,943 17,084,143
+During 1992, employees purchased 8,047,954
+riie options exercised were at an average option shares, all of which were treasury shares,
+price of $62.25 per share and $91.24 per share for which $577 million was paid to IBM. At
+in 1992 and 1991, respectively. The shares under December 31,1992, 32,127,393 shares remain
+option at December 31,1992, were at option available for purchase.
+prices ranging from $50.37 to $159.50 per share.
+The shares under option at December 31, 1991,
+were at option prices ranging from $62.25 to Stock Repurchase Programs
+$159.50 per share.
+Under programs for purchasing IBM stock,
+11iere were 1,362,687 and 1,055,148 unused 2,127,400 shares were repurchased during 1991
+shares carried forward and made available for at a cost of $196 million and 3,842,924 shares
+granting in the subsequent year as of December were repurchased during 1990 at a cost of
+31, 1992 and 1991, respectively. $415 million. The repurchased shares were
+retired and restored to the status of authorized
+but unissued shares.
+In 1989, the Board of Directors authorized the
+company to purchase from time to time shares of
+its capital stock, not to exceed $5,000 million.
+At December 31,1992, $4,276 million of that
+authorization remained.
+fd
+03
+3
+a
+c
+CQ
+
+===== PAGE 61 =====
+Retirement Plans to an irrevocable trust fund, which is held for
+the sole benefit of employees. Monthly retirement
+The company and its subsidiaries have retire- benefits generally represent the greater of a
+ment plans covering substantially all employees. fixed amount per year of service, or a percent
+The total cost of all plans for 1992,1991, and 1990 of career compensation. For plan purposes,
+was $838 million, $527 million, and $94 million, annual compensation before January I, 1992, is
+respectively. defined as the average annual compensation
+paid for the years 1987 through 1991. Benefits
+The increases in the U.S. plans pension cost in become vested upon the completion of live
+1992 and 1991 resulted principally from termina- years of service. The company introduced plan
+tion incentive expenses related to the 1992 and amendments in 1991 including the elimina-
+1991 restructuring actions and higher interest tion of all retirement age reduction factors for
+costs on the increased projected benefit obliga- employees who retire with 30 or more years
+tion for each year. The termination incentive of service, and a new provision that provides
+expenses of $355 million and $122 million, which additional income in a tax-deferred manner to
+were reflected in service cost for 1992 and 1991, employees at retirement. Ilie number of individ-
+respectively, were included as part of the uals receiving benefits at December 31, 1992
+restructuring charges recorded for 1992 and 1991. and 1991, was 69,153 and 60,905, respectively.
+Annual cost is determined using the Projected The expected long-term rate of return on
+Unit Credit actuarial method. Prior service plan assets used in the calculation of net periodic
+cost is amortized on a straight-line basis over the pension cost was 9.5 percent for 1992 and 9 per-
+average remaining service period of employees cent for 1991 and 1990. Measurement of the 1992
+expected to receive benefits. An assumption and 1991 projected beneht obligation was based
+is made for modified career average plans such on an 8.5 percent discount rate and a 5 percent
+that the average earnings base period will be long-term rate of compensation increase.
+updated to the years prior to retirement.
+Non-U.S. Plans: Most subsidiaries and branches
+It is the company's practice to fund amounts outside the United States have retirement
+for pensions sufficient to meet the minimum plans covering substantially all employees, under
+requirements set forth in applicable employee which funds are deposited under various
+benefit and tax laws, and such additional hduciary-type arrangements, annuities are pur-
+amounts as the company may determine to be chased under group contracts, or reserves
+appropriate from time to time. The assets are provided. Retirement benefits are based on
+of the various plans include corporate equities, years of service and the employees compen-
+government securities, corporate debt securi- sation, generally during a fixed number of years
+ties, and income-producing real estate. immediately prior to retirement.
+U. S. Plan: U.S. regular, full-time, and part-time The ranges of assumptions used for the non-U. S.
+employees are covered by a noncontributory plans reflect the diflerent economic environ-
+plan which is funded by company contributions ments within the various countries. The expected
+
+===== PAGE 62 =====
+long-term rates of return on plan assets used in rates of compensation increase ranging from
+the calculation of net periodic pension cost 3 percent to 7.5 percent in 1992, and from 3 per-
+ranged from 5 percent to 12 percent in 1992,1991, cent to 8.5 percent in 1991. The following tables
+and 1990. Measurement of the projected benefit provide information on the status of the U.S.
+obligation was based on discount rates ranging retirement plan, and selected non-U.S. plans that
+from 5 percent to 10 percent in 1992 and from represent approximately 98 percent of the total
+5 percent to 10.5 percent in 1991, and long-term non-U. S. accumulated benefit obligations.
+Tlie 111 tided status at Dccomhor 31 was as follows: U.S. Plan Non-U. S. Plans
+(Dollars in millions) 1992 I99J 1992 1991
+Actuarial present value ol benelit obligations:
+Vested benefit obligation $ (19,550) ;i6,194) $(11,205) $(10,481)
+Accumulated benefit obligation $ (19,588) 16,229) $(12,508) $(11,808)
+Projected benelit obligation $(22,700) $(J9.700) $(15,603) $(15,471)
+Plan assets at fair value 25,196 25,196 13,682 13,800
+i'rojccted benefit obligation less than
+(inexcessof) plan assets 2,496 5,496 (1,921) (1,671)
+Unrecognized net (gain) loss (1,032) (3,732) 649 212
+litirecognized prior service cost 1,782 1.890 333 350
+Unrecognized net asset established at January I, 1986 . . (2,341) (2,543) (132) (145)
+Pre])aid (accrued) pension cost rccognizcd in the
+statement ol linancial [losition $ 905 1,111 $ (1,071) $ (1,254)
+Net periodic pension cost for the years ended December 31 included the following components:
+U.S. Plan Non-U.S. Plans
+(Dollars in millions) 1992 1991 1990 1992 1991 1990
+Service cost — benefits earned
+during the period $ 941 $ 691 $ 573 $ 603 $ 664 f 575
+1 nteres! cost on the projected
+benefit obligation 1,671 1,488 1,309 1,060 924 837
+Return on plan assets —
+Actual (1,216) (4,044) (160) (998) (1,269) 665
+Deferred (1,047) i,96l (1,859) (166) 210 (1,644)
+Net amortizations (88) (162) (253) 24 3 (5)
+Net periodic pension cost ... . $ 261 $ (66) $ (390) $ 523 $ 532 $ 428
+Total net periodic pension cost
+forall non-U.S. plans. . . $ 577 $ 593 $ 484
+c
+<a
+
+===== PAGE 63 =====
+Nonpension Postretirement Benefits The health-care cost trend rate was 13.5 percent
+in 1992. The effect of a 1 percent annual in-
+The company and its U.S. subsidiaries have crease in these assumed cost trend rates would
+defined benefit postretirement plans that increase the accumulated postretirement benefit
+provide medical, dental, and life insurance for obligation by approximately $300 million; the
+retirees and eligible dependents. In 1990, annual costs would not be materially affected.
+the company established plan cost maximums
+in order to more efi^ectively account for and The cost related to the plan amounted to
+control future medical costs. $447 milfion, $394 million, and $96 million in
+1992,1991, and 1990, respectively
+Effective January 1,1991, the company and
+its subsidiaries implemented on the immediate The increase in cost in 1992 resulted principally
+recognition basis, Statement of Financial from termination incentive expenses related to
+Accounting Standards (SFAS) 106, "Employers' the 1992 restructuring actions, and a higher inter
+Accounting for Postretirement Benefits Other est cost on the increased accumulated post-
+Than Pensions." This statement requires that the retirement benefit obligation. The increase in
+cost of these benefits, which are primarily for cost in 1991 resulted principally from the adop-
+health care, be recognized in the financial state- tion of SE\S 106 and from termination incentive
+ments during the employee s active worldng expenses related to the 1991 restructuring
+career. The company's previous practice was to action. The termination incentive expenses of
+accrue these costs principally at retirement. $71 million and $38 million, which were
+reflected in service cost for 1992 and 1991, re-
+The transition effect of adopting SE\S 106 on spectively, were included as part of the restruc-
+the immediate recognition basis, as of January 1, turing charges recorded for 1992 and 1991.
+1991, resulted in a charge of $2,263 million
+to 1991 earnings, net of approximately $350 mil- It is the company's practice to fund amounts for
+lion of income tax effects. postretirement benefits with an independent
+trustee, as deemed appropriate from time to time.
+This charge includes a previously unrecog- The plan assets include corporate equities
+nized accumulated postretirement benefit obli- and government securities. The accounting for
+gation of approximately $4.8 billion, offset the plan is based on the written plan.
+by $2.2 billion related to plan assets and accru-
+als under the company's previous accounting Certain of the company's non-U.S. subsidiaries
+practice. This obligation was determined by have similar plans for retirees. However, most
+application of the terms of medical, dental, and retirees outside the United States are covered by
+life insurance plans, including the effects of government-sponsored and administered
+established maximums on covered costs, programs, and the obligations and cost of these
+together with relevant actuarial assumptions programs are not significant to the company.
+(X
+and health-care cost trend rates projected
+at annual rates ranging ratably from 14 percent
+in 1991 to 6 percent through the year 2007.
+m
+
+===== PAGE 64 =====
+The following tables provide information on the The assumed rate of return on the plan assets
+status of the plans. was 9.5 percent in 1992 and 9 percent in 1991.
+Measurement of the accumulated postrctirement
+The funded status at December 31 was as follows:
+benefit obligation was based on an 8.5 percent
+(Dollars inmiliions) 1992 1991 assumed discount rate in both 1992 and 1991.
+Accumulated postrctirement benefit obligation:
+Retirees $(5,194) $(3,277)
+Fully eligible active
+Lines of Credit
+plan participants .... (739) (303)
+Otber active plan
+participants (988) (l,8()()) At December 31,1992, the company and its
+subsidiaries had available committed and uncom-
+Total (6,921) (5,449)
+Plan assets at fair value 1,453 1,632 mitted unused lines of credit with a number of
+U.S. and non-U.S. banks, permitting borrowings,
+Accu mu lated post ret i rement
+primarily short-term, up to an aggregate of
+benefit obligation in
+excess of plan assets (5,468) (3,817) approximately $6,950 million. Interest rates on
+Unrecognized net loss 1,098 117 borrowings would vary from country to country
+Unrecognized prior
+depending on local market conditions.
+service cost 241 —
+Accrued postrctirement
+benelit cost re(;ognized
+Financial Instruments
+in the statement of
+financial |)osition $(4,129) $(3,700)
+In December 1991, the Financial Accounting
+Standards Board issued Statement of Financial
+Net periodic postrctirement benefit cost for the years
+Accounting Standards (SFAS) 107, "Disclosures
+ended December 31 included the following components:
+about Fair Value of Financial Instruments."
+(Dollars in millions) 1992 f991
+This statement requires the disclosure of esti-
+Service cost—benefits
+mated fair values for all financial instruments for
+attributed to service
+which it is practicable to estimate fair value.
+during the period $ 149 $ 132
+Interest cost on the
+accumulated postrctirement The company has used a variety of methods
+benefit obligation 485 389
+and assumptions, which were based on estimates
+Return on plan assets—
+of market conditions and risks existing at
+Actual (67) (325)
+Deferred (59) 198 that time, to estimate the fair value of the com-
+Net amortizations and other . . (61) — pany's financial instruments at December
+Net periodic postrctirement 31,1992. For certain instruments, including cash
+benefit cost $ 447 $ 394 and cash equivalents, non-trade accounts
+payable and accruals, and short-term debt, it was
+assumed that the carrying amount approxi-
+PC
+mated fair value for the majority of these instru-
+'cS
+ments because of their short maturity. Quoted 3 C
+C
+market prices or dealer quotes for the same or <tj
+
+===== PAGE 65 =====
+similar instrument were used for the majority Some of the foregoing financial instruments
+of marketable securities, long-term investments, have off-balance-sheet risk. In the normal
+long-term debt, forward exchange contracts, course of business, the company enters into a
+and option contracts. Other techniques, such as variety of forward contracts, options, and swaps
+estimated discounted value of future cash flows, in order to limit its exposure to loss resulting
+replacement cost, and termination cost, have been from adverse fluctuations in foreign currency
+used to determine fair value for the remaining exchange and interest rates.
+financial instruments. These values merely repre-
+sent a general approximation of possible value The IBM Corporation receives significant divi-
+and may never actually be realized. dends and intracompany royalties from its non-U. S.
+subsidiaries. Due to the volatility of the currency
+The estimated fair values of the company's markets, it is prudent to employ the use of
+financial instruments, both on and off the bal- financial hedging instruments to minimize the
+ance sheet, are summarized below. company's potential exposure on these cash flows.
+In addition, in order to raise funds on a more cost-
+At December 31,1992
+effective basis, the company centrally borrows
+Carrying Estimated
+to meet the consolidated financing requirements
+Amount Fair Value
+of its subsidiaries. The central financing facility
+Cash and cash equivalents $ 4,446 $ 4,446
+in turn provides local currency denominated
+Marketable securities 1,203 1,203
+debt to the individual subsidiaries via currency
+Non-trade receivables
+and loans 4,567 4,605 and interest rate swap agreements.
+Long-term investments 168 198
+Non-trade accounts payable
+These instruments are executed with credit-
+and accruals 3,348 3,224
+Short-term debt 16,467 16,483 worthy financial institutions, and virtually
+Long-term debt 12,853 12,942 all foreign currency contracts are denominated in
+Forward exchange contracts . . 66 111
+currencies of major industrial countries. Gains
+Option contracts 174 188
+and losses on these contracts serve as hedges in
+Interest rate and currency
+swap agreements 283 388 that they offset fluctuations that would otherwise
+Financial guarantees — 300 impact the company's financial results. Costs
+associated with entering into such contracts are
+amortized over the life of the instruments and are
+not material to the company's financial results.
+
+===== PAGE 66 =====
+SFAS 105 requires certain disclosures about Segment Information
+financial instruments with off-balance-sheet
+risk. The following summary of contract or IBM is in the business of helping people solve
+notional (face) amounts outstanding at year- problems through the use of advanced informa-
+end merely provides an indication of the extent tion technologies. The company operates
+of the company's involvement in such instru- primarily in the single industry segment that
+ments and is being presented for informational creates value by offering services, software,
+purposes only/Fhe company does not antici- systems, products, and technologies. This segment
+pate any material adverse effect on its financial represents more than 90 percent of consoli-
+position resulting from its involvement in dated revenue, operating profit, and identifiable
+these instruments, nor does it anticipate non- assets. The following schedule shows revenue by
+performance by any of its counterparties. industry segments and by classes of similar
+products or services within the information
+technology segment.
+(Dollars in millions) 1992 1991
+Forward cxchangc contracts . . . , $ 490 $ 1,002
+Financial information by geographic area
+Option contracts 1,914 915
+is summarized on page 65.
+Interest rate and currency
+swap agreements 13,690 7,827
+Material interdependencies and overlaps exist
+among the company's operating units and,
+'I'he company does not have any significant therefore, the information may not be indicative
+concentrations of credit risk. of the financial results of, or investments in,
+the reported independent businesses.
+IBM has guaranteed certain loans and commit-
+ments of various ventures to which it is a party. While the company operates primarily in a
+Additionally, the company is contingently single industry segment and has managed its
+liable for certain receivables sold with recourse, worldwide business as such, revenue has
+rhese commitments, which in the aggregate been categorized into major classes of products
+are approximately $1 billion, are not expected to or services.
+result in a material adverse effect on the com-
+pany's financial results.
+(X
+CS
+3
+a
+c
+<
+
+===== PAGE 67 =====
+Revenue by Industry Segments and Classes of Similar Products or Services
+Consolidated U.S. Only
+(Dollars in millions) 1992 1991*^ 1990*^ 1992 1991 1990*^
+Information technology:
+Processors* $13,916 $ 14,954 $ 16,433 $ 4,818 $4,717 $ 5,744
+Workstations* - Personal systems. . . . 7,887 8,505 9,644 3,033 3,210 3,887
+Other workstations . 2,671 3,216 4,076 874 J,040 1,349
+Peripherals* -Storage 6,259 7,184 8,967 2,554 2,825 3,413
+Printers 960 1,010 1,263 306 308 413
+Other peripherals. . . 2,066 2,284 2,960 938 1,116 1,353
+Software 11,103 10,498 9,865 3,883 3,760 3,613
+Maintenance 7,635 7,414 7,198 2,809 2,884 2,886
+Services 7,352 5,582 4,124 3,546 2,697 2,028
+Financing and other 4,674 4,119 4,401 1,872 1,870 2,420
+Total $64,523 $64,766 $68,931 $24,633 $24,427 $27,106
+*Restated for the American Institute of Certified Public Accountants Statement of Position, "Software Kevenue Recognition."
+^Reclassified to conform with 1992 presentation.
+^Hardware only, excludes functions not embedded, software, and maintenance.
+For purposes of classifying similar information is comprised primarily of financing revenue and
+technology products, user programmable equip- products and supplies not otherwise classified,
+ment having the capability of manipulating data
+arithmetically or logically and making calcu- Some products logically fit in more than one
+lations, in a manner directly addressable by the class and are assigned to a specific class based on a
+user through the operation of a stored program, variety of factors. Over time, products tend to over-
+has been classified as processors. Processors lap, merge into, or split from existing classes as
+include high-end and midrange products. Work- a result of changingtechnologies,marketpercep-
+stations include personal systems processors, tions, and/or customer use. For example, market
+technical workstations, and other display-based demand may create requirements for technologi-
+terminals. Peripherals include advanced-function cal enhancements to permit a peripheral product
+printers, storage, and other peripherals, which to be functionally integrated with a display, a
+consist of telecommunication devices and the telecommunication device, and a processor to
+computer workstation printer product line sold form a workstation. Such interchangeability and
+in 1991 to Lexmark International, Inc. technological progress tend to make year-
+to-year comparisons less valid than they would
+Peripheral functions embedded in processors be in an industry less subject to rapid change,
+are classified with processors. Software includes
+both applications and systems software. Main- Specialized information technology services
+tenance consists of separately billed charges and products primarily for the U. S. defense, space
+for maintenance. Services represent a wide and other agencies, formerly identified as "Federal
+Pi
+range of service offerings including consulting, Systems," are included with "Services" and
+education, systems integration, systems opera- "Financing and other" above. Detailed informa-
+tions, and network services. Financing and other tion for Federal Systems can be found on page 47.
+
+===== PAGE 68 =====
+Geographic Areas Marketing and services in the United States
+aanndd CCaannaaddaa aarree mmaannaaggeedd aass aa ssiinnggllee eenntteerrpprriissee::
+(Dollars in millions) 1992* 1991*t 1990t
+IIBBMM NNoorrtthh AAmmeerriiccaa.. HHoowweevveerr,, iinn ccoommpplliiaannccee
+United Stales
+wwiitthh SSttaatteemmeenntt ooff FFiinnaanncciiaall AAccccoouunnttiinngg SSttaann--
+Revenue — Customers . $ 24,633 $ 24,427 $ 27,106
+Interarea transfers. . . . 7,524 7,668 6,195 ddaarrddss 1144,, ""FFiinnaanncciiaall RReeppoorrttiinngg ffoorr SSeeggmmeennttss
+ooff aa BBuussiinneessss EEnntteerrpprriissee,,"" tthhee UUnniitteedd SSttaatteess iiss
+Total $ 32,157 $ 32,095 $ 33,301
+rreeppoorrtteedd aass aa sseeppaarraattee ggeeooggrraapphhiicc aarreeaa;;
+Net earnings (5,545) (2,443) 1,445
+Assets at December 31 . 42,109 43,417 43,542 CCaannaaddiiaann ooppeerraattiioonnss aarree iinncclluuddeedd iinn tthhee
+Americas area.
+Europe/Middle
+East/Africa
+Revenue — Customers . $ 24,971 $ 26,1 14 $ 27,197 Non-U.S. subsidiaries operating in local
+Interarea transfers. . . . 1,154 838 976 currency environments account for approxi-
+mately 90 percent of the company's non-U. S.
+Total $ 26,125 $ 26,952 $ 28,173
+Net earnings (1,728) 1,256 2,955 revenue. The remaining 10 percent is from sub-
+Assets at December 31 . 26,770 30,725 30,689 sidiaries and branches operating in U.S. dollars
+or in highly inflationary environments.
+Asia Pacific
+Revenue — Customers . $ 9,672 $ 9,275 $ 9,544
+Interarea transfers. . . . 1,875 1,680 1,496 In the Europe/Middle East/Africa area,
+European operations accounted for approximately
+Total $ 11,547 $ 10,955 $ 1 1,040
+Net earnings 126 469 1,136 95 percent of revenue in 1992,1991, and 1990.
+Assets at December 31 . 12,837 I3,24i 8,646
+11 nntteerraarreeaa ttrraannssffeerrss ccoonnssiisstt pprriinncciippaallllyy ooff ccoomm--
+Americas
+Revenue — Customers . $ 5,247 $ 4,950 $ 5,084 pplleetteedd mmaacchhiinneess,, ssuubbaasssseemmbblliieess aanndd ppaarrttss,, aanndd
+Interarea transfers. . . . 3,452 3,932 1,615 software. Machines, subassemblies and parts
+transfers are generally priced at cost plus
+Total $ 8,699 $ 8,882 $ 6,699
+Net earnings 157 204 418 an appropriate service charge. Software transfers
+Assets at December 31 . 6,990 7,121 6,357 represent license fees paid by the non-U. S.
+subsidiaries.The cost and service charges that
+Eliminations
+Reveime $(14,005) $(I4,I 18) $(10,282) relate to fixed asset transfers are capitalized and
+Net earnings 125 (84) 13 depreciated by the importing area. Interarea
+Assets (2,001) (2,031) (1,666) accounts receivable, the unamortized portion of
+Consolidated service charges, and the net change during
+Revenue $ 64,523 $ 64,766 $ 68,931 the year in unamortized service charges have
+Net earnings (6,865) (598) 5,967 been eliminated in consolidation.
+Assets at December 31 . 86,705 92,473 87,568
+*Nct earnings bclorc cdcct oi changcs in accounting
+for incoinc taxes (1992) and nonpcnsion postrctiremcnt
+benefits (1991). o cu
+tRestated for the American Institute of Certified Public cc;
+Accountants Statement of Position, "Software Revenue
+Recognition." C a
+<
+
+===== PAGE 69 =====
+(Dollars in millions except per share amounts) 1992 1991* 1990* 1989* 1988*
+For the Year:
+Revenue $ 64,523 $ 64,766 $68,931 $ 62,654 $ 59,598
+Net earnings before effect of accounting changes (6,865) (598) 5,967 3,722 5,451
+Per share (12.03) (1.05) 10.42 6.41 9.20
+Effect of accounting changes^ 1,900 (2,263) — — 290
+Per share 3.33 (3.96) — — .49
+Net earnings (4,965) (2,861) 5,967 3,722 5,741
+Per share (8.70) (5.01) 10.42 6.41 9.69
+Cash dividends paid 2,765 2,771 2,774 2,752 2,609
+Per share 4.84 4.84 4.84 4.73 4.40
+Investment in plant, rental machines and other property 4,698 6,502 6,548 6,410 5,431
+Return on stockholders' equity - - 14.8% 9.6% 14.8%
+At End of Year:
+Total assets $ 86,705 $ 92,473 $ 87,568 $ 77,734 $ 73,037
+Net investment in plant, rental machines and other property . . 21,595 27,578 27,241 24,943 23,426
+Working capital 2,955 7,018 13,313 13,875 17,740
+Total debt 29,320 26,947 19,545 16,717 13,380
+Stockholders' equity 27,624 36,679 42,553 38,252 39,293
+*Restated for AICPA Statement of Position, "Software Revenue Recognition."
+^1992, income taxes; 1991, nonpension postretirement benefits; 1988, income taxes.
+Selected Quarterly Data
+Per Share Stock Priccs
+(Dollars in millions except Gross Net
+per share and stock prices) Revenue Profit Earnings Earnings Dividends High Low
+1992 First quarter $ 14,037 $ 7,133 $ 2,542* $ 4.45* $1.2] $ 98.13 $ 83.13
+Second quarter. . . 16,224 7,863 734 1.29 1.21 98.63 81.63
+Third quarter . . . . 14,702 6,779 (2,778) (4.87) 1.2] 100.38 80.00
+Fourth quarter . . . 19,560 7,679 (5,463) (9.57) 1.21 81.13 48.75
+Total $ 64,523 $ 29,454 $ (4,965) $ (8.70) $4.84
+1991^ First quarter $ 13,587 $ 7,248 $ (1,707)* $ (2.99)* $ 1.21 $ 139.75 $ 105.50
+Second quarter. . . 14,764 7,581 126 .22 1.21 1 14.75 96.63
+Third quarter . . . . 14,447 7,174 177 .31 1.21 106.38 92.00
+Fourth quarter . . . 21,968 10,690** (1,457) (2.55) 1.21 104.75 83.50
+Total $ 64,766 $ 32,693 $ (2,861) $ (5.01) $ 4.84
+*Includes benefit of $1,900 million, or $3.33 per share, cumulative effect of change in accounting for income taxes.
+^Restated for AICPA Statement of Position, "Software Revenue Recognition."
+'''Includes charge of $2,263 million, or $3.96 per share, transition effect of change in accounting for nonpension
+postretirement benefits.
+**Reclassified to conform with 1992 presentation.
+o
+OH
+PC There were 764,630 stockholders of record at December This dividend will be IBM's 312th consecutive quarterly
+3 31,1992. During 1992, stockholders received $ 2,765 million cash dividend. The stock prices refiect the high and
+a
+a
+< in cash dividends. The regular quarterly cash dividend low prices for IBM's capital stock on the New York Stock
+payable March 10,1993, will be at the rate of $.54 per share. Exchange composite tape for the last two years.
+
+===== PAGE 70 =====
+IBM Corporation Board Committees: Advisory Board:
+Board of Directors:
+John F. Akers Richard W. Lyman Executive Committee: George B. Beitzel, Retired
+Chairman of the Board, IBM President Emeritus, John R. Opel, Chairman Senior Vice President, IBM
+Stanford University, John F. Akers
+Stephen D. Bechtel, Jr. Stanford, Calif. Stephen D. Bechtel, Jr. Frank T. Gary, Retired
+Chairman Emeritus, James E. Burke Chairman of the Board, IBM
+Bechtel Group, Inc., Frank A. Metz, Jr.^ Jack D. Kuehler
+San Francisco, Calif. Senior Vice President, J. Richard Munro Kaspar V. Cassani, Retired
+Engineering and construction Finance and Planning, IBM Thomas S. Murphy Vice Chairman of the Board, IBM
+Harold Brown J. Richard Munro Retirement Plans Committee: William T. Coleman, Jr., Partner,
+Counselor, Center for Strategic Chairman of the Executive Frank A. Metz, Jr., Chairman^ O'Melveny & Myers,
+and International Committee, Fritz Gerber Washington, D.C.
+Studies (CSIS), Time Warner Inc., John B. Slaughter Attorneys at law
+Washington, D.C. New York, N.Y. Edgar S.WooIard, Jr.
+John M.Fox
+Media and entertainment
+James E. Burke Nominating and Executive Retired Chairman of the Board,
+Retired Chairman of the Board, Thomas S. Murphy Compensation Committee: SCA Services, Inc.,
+Johnson & Johnson, Chairman of the Board, James E. Burke, Chairman Boston, Mass.
+New Brunswick, N.J. Capital Cities/ABC, Inc., Stephen D. Bechtel, Jr. Waste management
+Health care products New York, N.Y. Harold Brown
+G. Keith Funston"""
+Thomas F. Frist, Jr.
+Thomas F. Frist, Jr. Broadcasting and publishing Nannerl 0. Keohane Retired President,
+New York Stock Exchange,
+Chairman, President, and J. Richard Munro
+John R. Opel New York, N.Y.
+Chief Executive Officer, Thomas S. Murphy
+Hospital Corporation of America, Chairman of the Executive
+Nashville, Tenn. Committee, IBM Audit Committee: George L. Hinman, Partner,
+Health services Paul J. Rizzo* Richard W. Lyman, Chairman Hinman, Howard & Kattell,
+Vice Chairman Binghamton, N.Y.
+Judith Richards Hope
+Fritz Gerher of the Board, IBM Helmut Sihler Attorneys at law
+C Ch h i a e i f r m Ex an ec u an ti d v e Officer, Helmut Sihler Lodewijk C. van Wachem John N. Irwin 11
+Roche Holding Ltd., Retired President and Chief Of Counsel, Patterson, Belknap,
+Basel, Switzerland Executive Officer, Webb & Tyler,
+Health care; Henkel KGaA, New York, N.Y.
+Executive Chairman, Diisseldorf, Germany Attorneys at law
+Zurich Insurance Company, Chemical products Gilbert E. Jones, Retired
+Zurich, Switzerland John B. Slaughter Vice Chairman of the Board, IBM
+Insurance
+President,
+Nicholas deB. Katzenbach
+Judith Richards Hope Occidental College, Retired Senior Vice President, IBM;
+Los Angeles, Calif.
+Senior Partner, Of Counsel, Riker, Danzig, Scherer,
+Paul, Hastings, Janofsky & Walker, Hyland & Perretti,
+Lodewijk C. van Wachem*
+Los Angeles, Calif., and Morristown, N.J.
+Chairman of the Supervisory
+Washington, D.C. Attorneys at law
+Board, Royal Dutch
+Attorneys at law
+Petroleum Company,
+Grayson Kirk
+Nannerl 0. Keohane The Hague, Netherlands President Emeritus,
+President, Petrochemical and Columbia University,
+Wellesley College, metal products New York, N.Y.
+Wellesley, Mass.
+Edgar S.WooIard, Jr.
+Allen J. Krowe, Retired
+Jack D. Kuehler Chairman and Executive Vice President, IBM;
+Vice Chairman Chief Executive Officer, Senior Vice President and
+of the Board, IBM E.I. du Pont de Nemours Chief Financial Officer,
+& Company, Wilmington, Del. 3
+Texaco, Inc., c
+Chemical products c
+White Plains, N.Y.
+^Elected in 1992
+•Elected in 1993
+^Retired in 1993
+tDeceased 5/15/92
+
+===== PAGE 71 =====
+Advisory Board (continued) IBM World Trade Europe/Middle
+East/Africa Corporation Board:
+Eric Bourdais de Charbonniere Renato Riverso Rodrigo Guerra B.
+T. Vincent Learson, Retired
+Chief Financial Officer, Compagnie Senior Vice President, IBM; President and General Manager,
+Chairman of the Board, IBM
+Generale des Etablissements Chairman, President, IBM Mexico
+Jacques G. Maisonrouge, Retired Michelin, Clermont-Ferrand, and Chief Executive Officer,
+Senior Vice President, IBM France IBM World Trade Rudolf Ilohn
+Europe/Middle East/Africa President and General Manager,
+William McChesney Martin, Jr. John J. Cachianes Corporation; IBM Brazil
+Retired Chairman, Vice President, IBM; Chairman and President,
+Federal Reserve Board, Directeur General des IBM Europe, S.A. Robeli J. Libcro
+Washington, D.C. Plans et des Services Vicc President, IBM;
+Techniques, Bo Rydin President and General Manager,
+Dean R. McKay, Retired IBM Europe, S.A. Executive Chairman, IBM Latin America
+Senior Vice President, IBM Svenska Ccllulosa AB,
+Henrique Machado Zuloaga
+James A. Cannavino Sundsvall, Sweden
+President, Sivcnsa, S.A.,
+Maersk Mc-Kinney Moller Senior Vice President, IBM;
+Chief Executive Officer, General Manager, Patrick A. Toole Caracas, Venezuela
+A.P. Moller, IBM Personal Systems Senior Vice President,
+M. Bernard Puckett
+Copenhagen, Denmark Manufacturing and
+Senior Vicc President, IBM; General
+Shipping Kaspar V. Cassani Development, IBM
+Manager, IBM Application Solutions
+Retired Vice Chairman
+William H. Moore, Retired of the Board, IBM Kurt Werner
+Dr. Rafael Rangel Sostmann
+Chairman of the Board, Chairman, Maschinenfabrik
+President, ITESM System,
+Bankers Trust Company, Juan Antonio Garcia Diez GOEBEL Gmbll,
+Institute Technologico y de
+New York, N.Y. Chairman, Darmstadt, Germany
+Estudios, Superiores de Monterrey,
+URALITA,S.A.,
+Monterrey, Mexico
+Dean P. Phypers, Retired Madrid, Spain
+Senior Vice President, IBM
+Dr. Nicanor Restrcpo
+Hans-Olaf Henkel
+IBM World Trade
+President,
+Emanuel R. Piore, Retired Vice President, IBM; Latin America Board:
+Suramericana de Seguros,
+Vice President, IBM President, IBM Germany
+Medellin, Colombia
+Roberto Konder Bornhausen
+William W. Scranton Robert J. LaBant
+Chairman and Peter r. Rowley
+former U. S. Ambassador Senior Vice President, IBM;
+Chief Executive Officer, Vice President and Assistant
+to the United Nations; General Manager,
+Unibanco, General Manager, Marketing,
+former Governor of Pennsylvania IBM North America
+Sao Paulo, Brazil Services, and Line
+Irving S. Shapiro Jacques G. Maisonrouge Operations,
+Andre de Botton
+Of Counsel, Skadden, Arps, Slate, Retired Senior IBM Latin America
+Chief Executive Officer,
+Meagher & Flom, Vice President, IBM
+Mesbla, S.A., Dr. Richard Webb
+Wilmington, Del.
+Attorneys at law Karl Otto Poehl Rio de Janeiro, Brazil Chairman, Cuanto, S.A.,
+Former President, Lima, Peru
+Juan Eduardo Errazuriz 0.
+Cyrus R.Vance, Partner Deutsche Bundesbank;
+Executive Vice President, Federico J. L. Zorraquin
+Simpson Thacher & Bartlett, Partner, Bankhaus
+New York, N.Y. Sal. Oppenheim Jr. Cie KGaA, Empresas Sigdo Koppers, S.A., President,
+Attorneys at law Frankfurt am Main, Santiago, Chile Garovaglio y Zorraquin, S.A.,
+Germany Buenos Aires, Argentina
+James J. Forese
+Thomas J. Watson, Jr.
+Vice President, Finance, IBM
+Chairman Emeritus, IBM Romano Prodi
+Professor of
+Claudio X. Gonzalez L.
+Economic and Industrial Policy,
+Chairman of the Board and
+o University of Bologna, Director General, Kimberly-Clark
+OH Bologna, Italy
+de Mexico,
+Mexico City, Mexico
+3
+a
+c
+
+===== PAGE 72 =====
+Organization
+Operations IBM's primary operating units include geographic units
+that provide marketing, services, and support to their
+customers, and manufacturing and development businesses
+that have worldwide responsibility for product develop-
+ment, manufacturing, and delivery to geographic market-
+ing units and to other equipment manufacturers.
+Geographic Units The geographic marketing and services units include
+IBM Asia Pacific, IBM Europe/Middle East/Africa,
+IBM Latin America, and IBM North America.
+Business Units The business units and their responsibilities are:
+Application Business Systems—develops and manufactures
+processors and related software for small- and medium-
+sized businesses, and departments of large companies.
+Application Solutions—develops solutions that consist of
+hardware, software, and services for a broad range of
+industries, including manufacturing, finance, and the
+public sector.
+Enterprise Systems—provides enterprise-wide solutions
+involving the development and manufacture of I BM's
+largest general-purpose processors, operating systems,
+systems software, and supercomputing offerings.
+Networking Syslems—provides products and services for
+operating and managing networks, including client/server
+systems, that deliver information in any format—data,
+voice, text, and image—to users.
+I^ennant Systems Company—develops and manu-
+factures I BM's printers and printing solutions, includ-
+ing advanced-function printers, software, and
+printing services.
+Personal Systems—develops and manufactures personal
+computers and high-performance workstations and
+their operating systems, including client/server systems,
+as well as multimedia, graphics, and display systems.
+I^rogramming Systems—develops software for data
+management, office systems decision support, and appli-
+cation development, and the architecture that pro-
+vides a consistent structure for software across all
+our businesses. Manufactures and distributes software.
+ADS TAR—develops and manufactures a range of
+direct access storage devices, tape drives, and optical
+storage devices, and their associated software support.
+Technology Products—develops and manufactures
+logic and memory chips and electronic circuit packaging
+used in IBM products.
+Research Research Division—advances fundamental science, devel-
+ops expertise in strategic technologies, and works
+with IBM businesses to leverage IBM's technical strengths.
+IBM Credit Corporation IHM Credit Corporation—provides customer, dealer, and
+other remarketer financing for IBM products and services
+in the United States, as well as investment options such
+as money market accounts to U.S. stockholders and money
+market and mutual fund accounts to U.S. employees
+and retirees.
+The IBM 1992 Annual Report was printed on recycled paper
+that contains post-consumer waste and is recyclable.
+
+===== PAGE 73 =====
+Directors and Officers Stockholder Information
+IBM World Trade IBM Corporation IBM Stocldiolder Services Literature for IBM Stockholders
+Asia Pacific Board: Officers:
+Questions about stockholders' accounts The following printed information is
+should be directed by telephone or in available without charge from First Chicago
+writing to: First Chicago Trust Company of Trust Company of New York, Box 3791,
+Neil R. Clark Nobuyuki Nakahara Chairman of the Board Pierre Hessler New York, Box 3791, New York, N.Y. 10008-3791 New York, N.Y. 10008-3791.
+Retired Managing Director, President, Toncn Corporation, John F. Akers John J. Higgins (212) 791-4208 (212) 791-4208
+National Australia Bank, Ltd., Tokyo, Japan Robert M. Howe*
+Melbourne, Australia I'lce Chairmen Arthur E. Johnson* To transfer stocks, write to: First Chicago The Form 10-K Annual Report and Form
+Dr. Mohamed Noordin Sopice Jack D. Kuehler' Harry L. Kavetas Trust Company of New York, Stock Transfer 10-Q Quarterly Reports to the Securities and
+Jill K. Conway Director General, Paul J. Rizzo* Edward J. Kfoury Department, 30 West Broadway, New York, Exchange Commission provide further
+Visiting Scholar, Institute of Strategic and Robeli J. Libero N.Y. 10007-2192. Registered mad is recom- details on IBM's business. Form lO-K is avail-
+Massachusetts Institute of International Studies, Senior l ice [^residents W. Wilson Lowery, Jr. mended when stock is mailed. able in April. Form 10-Q reports are
+Technology, Cambridge, Mass.; Kuala Lumpur, Malaysia Michael J. Attardo* James C. McGroddy available in May, August, and November.
+former President of Walton E. Burdick Nobuo Mii For other investor queries, call or write to:
+Smith College, Dur . Kenichi Ohmae James A. Cannavino* Marshall C. Phelps, Jr.* IBM Investor Relations, IBM Corporation, IBM Credit Corporation's Annual Report
+Northampton, Mass. Managing Director, Nicholas M. Donofrio* Gerald D. Prothro* Old Orchard Road, Armonk, N.Y. 10504 is available in March.
+McKinscy & Company, nc.. Donato A. Evangelista
+Edward F. Rogers (914)765-7777
+Nicholas M. Donofrio Tokyo, Japan - General Counsel
+Peter R. Schneider The IBM Dividend Reinvestment Plan
+Senior Vice President, IBM; Ellen M.Hancock*
+Takeo Shiina Hearing-impaired stockholders with booklet explains how stockholders may auto-
+General Manager, Anand Panvarachun Robert J. LaBant*
+W.Thomas Smith, Jr.* access to a telecommunications device can matically reinvest dividends toward the
+IBM Enterprise Systems Chairman, Ned C. Lautenbach*
+Lucio Stanca* communicate directly with First Chicago purchase of additional IBM stock.
+Saha-Lnion Corp., Ltd.; former Frank A. Metz,Jr.'^
+Robert M. Stephenson Trust Company of New York. The telephone
+David A.Gledhill Prime Minister of Thailand - Finance and Planning David M.Thomas number for this service is (212) 571-0022. "IBM Business Conduct Guidelines" defines
+J H R o e o h t n n ir g e S d K w o i C r n e h g a & i r S m o a n n s , (U.K.), Ltd., V R R i e a c t l e p i r h P e d r A e . s S P i e d [ n e e i i n o f t r f , e r IB ,J M r. J M R o e . h n n B a e t M r o n . a R r T i d v h e o P r m s u o p c * s k o e n t * t * J M M am i a c r h v e a s L e T l e . e H V . T a V u n a r d n n e e r V r s r li a c n e ken I E B x M ch s a t n o g ck e, i o s t l h is e t r e d e x o c n h a th n e g e N s e i w n Y th o e rk U S n t i o t c e k d "I t B h M e c o an m d p a th n e y 's E n e v th ir i o ca n l m an en d t b " u r s e i p n o e r s t s s p o r n in I c B i M pl ' e s s .
+Dr. Kyung Won Kim Patrick A.Toole DennieM. Welsh* States, and exchanges in Austria, Belgium, safety, energy, and environmental programs.
+President, Institute of Social "Fakco Shiina Earl F Wheeler Douglas C.\^^rth* Canada, England, France, Germany,
+Sciences, Korea; former Korean Vice President, IBM; l ice Presidents Japan, the Netherlands, and Switzerland. "Our Global Community" is a report on IBM's
+Ambassador to the United States, Chairman and Ray S. AbuZayyad Secretary social responsibility programs.
+Seoul, Korea Chief Executive 0dicer, John A. Armstrong John E. Hickey For answers to general questions about IBM
+IBM Japan Ltd. from within the continental United States, call The Equal Opportunity, Affirmative Action,
+John J. (^achianes* Controller
+Ned C. Lautenbach (800)426-3333; from outside the continental and Community Programs booklet describes
+Senior Vice President, IBM Robert M. Stephenson Ralph W Clark Lawrence A. Zimmerman United States, call (602)629-3200. IBM's U.S. programs for women, minorities,
+Robert J. Corrigan
+Vice President, IBM; handicapped persons, and Vietnam-era
+John P. Cunningham lice President
+David Kwok Po Li Chairman, IBM Asia and disabled veterans.
+James E. Dezell, Jr. and Treasurer
+Director and Pacific Board; President 1993 IBM Annual Meeting
+Bob E. Dies Robert Ripp
+Chief Executive Officer, and Representative Director, The IBM Annual Report also is printed
+Gerald W. Ebker
+The Bank of East Asia, Ltd., IBM Asia Pacific William j. Filip Assistant Treasurers A notice of the Annual Meeting, proxy in Japanese. An audiocassette recording in
+Hong Kong Ratan N.Tata Lucie J. Fjcldstad James I. Calvin* statement, and a proxy voting card will be English is available.
+Brian T. Loton Chairman, James J. Foresc Jesse J. Greene, Jr. mailed to stockholders.The proxy state-
+Chairman, Tata Industries, Ltd., Heinz K. Fridricb Joe Grills ment provides biographies of the Board of
+The Broken Hill Proprietary Bombay, India Victor J. Goldberg Robert N. Mattson Directors' nominees for director and International Business Machines Corporation
+Company Ltd., Lutz F. I lahne describes items of business to be voted on Corporate Headquarters
+Assistanl Controllers at the meeting. Old Orchard Road
+Melbourne, Australia Patrick K.H.Yeoh Arthur J. Hedge, Jr.
+Francis H. Cloudman HI' Armonk, N.Y. 10504
+President, Ilans-Olafllenkel
+Joseph J. Martin
+Nobuo Mii The Development Bank
+Vice President, IBM; of Singapore Ltd.,
+General Manager, Singapore
+Entry Systems Technology,
+*PS/2,ThinkPad,TRACKPOINTII, RISC
+IBM Personal Systems
+System/6000, AS/400, OS/2, AIX, Systeni/390,
+ES/9000, AIX/ESA, GIGS, DATABASE 2,
+DB2, Advanced Function Printing, AFP, and
+PowerPC are trademarks of International
+Business Machines Corporation.
+*Elected in 1992
+•Elected in 1993 ** UNIX is a trademark of UNIX System
+^Retired in 1993 Laboratories, Inc.
+
+===== PAGE 74 =====
+International Business Machines Corporation
+Old Orchard Road
+Armonk, N.Y. 10504

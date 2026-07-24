@@ -1,0 +1,411 @@
+
+
+===== PAGE 1 =====
+
+
+===== PAGE 2 =====
+The sole purpose of this report is to give present stock-
+holders information about their Corporation. This report
+is not a representation^ prospectus or circular in respect
+of any stock of any corporation, and is not transmitted
+in connection with any sale or offer to sell or buy any
+stock or security now or hereafter to be issued or with
+any preliminary negotiation for such sale.
+
+===== PAGE 3 =====
+Thirty-Ninth Annual Report
+OF THE
+International
+Business Machines
+Corporation
+IBM
+For the year ended
+December Thirty-First
+1950
+WORLD HEADQUARTERS BUILDING
+590 MADISON AVE. - - - NEW YORK
+
+===== PAGE 4 =====
+BOARD OF DIRECTORS
+Thomas J. Watson, Chairman
+John L. Barton Augustine L. Humes
+Willis H. Booth A. Lindsay O'Connor
+Drury W. Cooper Robert P. Patterson
+Edward M, Douglas John G. Phillips
+Sherman M. Fairchild Gilbert H. Scribner
+Edward E. Ford Christopher D. Smithers
+Norvin H. Green Thomas J. Watson, Jr.
+EXECUTIVE AND FINANCE COMMITTEE
+Thomas J. Watson, Chairman
+Willis H. Booth Robert P. Patterson
+Drury W. Cooper John G. Phillips
+Norvin H. Green Thomas J. Watson, Jr.
+OFFICERS
+Thomas J. Watson Chairman of the Board
+John G. Phillips President
+Thomas J. Watson, Jr Executive Vice-President
+Albert L. Williams . . .. Vice-President and Treasurer
+Dause L. Bibby Vice-President
+Edward M. Douglas Vice-President
+Louis H. LaMotte Vice-President
+Ruth M. Leach Vice-President
+William L. Lewis Vice-President
+John C. McPherson Vice-President
+Fred H. Fick Secretary
+Herbert T. Hansford Controller
+Garland B. Briggs Assistant Treasurer
+Bernard F. Wiegard Assistant Controller
+Transfer Agent Registrar and Trustee
+EMPIRE TRUST COMPANY GUARANTY TRUST COMPANY
+New York of New York
+
+===== PAGE 5 =====
+To the Stockholders:
+Your directors submit for the information of stock-
+holders Consolidated Income and Earned Surplus Account
+for the year 1950 of the Corporation and subsidiary com-
+panies, Consolidated Balance Sheet of the domestic com-
+panies as of December 31, 1950, the Auditor's Certificate,
+and a Comparative Statement of Operations for the Past
+Ten Years.
+The results of the year's operations were as follows:
+Net Income
+Net Income before U. S. Federal
+Income and Excess Profits
+Taxes $61,101,308.65
+U. S. Federal Income and Excess
+Profits Taxes—estimated 27,800,000.00
+Net Income for the year $33,301,308.65
+The Net Income for the year of $61,101,308.65 before
+U.S. Federal Income and Excess Profits Taxes compares
+with $53,202,332.22 for 1949, an increase of $7,898,976.43.
+U. S. Federal Income and Excess Profits Taxes for the
+year of $27,800,000.00 (which includes Excess Profits
+Taxes in the amount of $2,100,000.00) compares with
+U. S. Federal Income Taxes in 1949 of $19,925,000.00, an
+increase of $7,875,000.00. The Net Income for the year
+of $33,301,308.65 compares with $33,277,332.22 in 1949,
+an increase of $23,976.43.
+The Net Income in 1950 equalled $12.05 per share on
+the 2,763,548 shares of capital stock outstanding at the
+end of the year, and compares with $12.04 in 1949 if
+computed on the same number of shares.
+Dividends
+Cash dividends totaling $11,044,169.00 were paid dur-
+ing the year, representing four quarterly cash dividends
+of $1.00 per share.
+
+===== PAGE 6 =====
+On October 25, 1949, a 5% stock dividend was declared,
+payable to stockholders of record at the close of business
+on January 5, 1950. On January 25, 1950, a total of
+131,541 shares of capital stock was issued in payment of
+this stock dividend, and $13,154,075.00, representing
+$100.00 for each share so issued, was transferred from
+Earned Surplus to Capital Stock account.
+On October 25, 1950, a 5% stock dividend was declared
+payable on January 26, 1951, to stockholders of record
+at the close of business on January 4, 1951.
+The quarterly cash dividend payable March 10, 1951,
+at the rate of $1.00 per share on the increased number of
+shares, is the one hundred and forty-fourth consecutive
+quarterly cash dividend paid by the Company.
+Rental Machines, Plant and Equipment
+During the year 1950, the Company's increased volume
+of business and replacement of obsolete equipment re-
+quired an investment of $64,855,089.17 in rental machines
+and parts, factory and office equipment, and land and
+buildings. Dismantled and obsolete equipment amount-
+ing to $21,374,476.87 was written off and charged against
+reserves provided out of prior and current years' earnings.
+Long'Term Indebtedness
+No changes occurred during 1950 in the Corporation's
+long-term indebtedness, which remained at $85,000,000.00
+at December 31, 1950, on which the average rate of
+interest is 2.65%.
+IBM World Trade Corporation
+The growth of IBM's business abroad resulted in the
+formation of the IBM World Trade Corporation, a wholly-
+owned but independently operated subsidiary company,
+for the purpose of conducting all IBM business outside
+the United States and its territories and possessions. On
+January 1, 1950, International Business Machines Cor-
+poration transferred to the IBM World Trade Corpora-
+tion all of its net foreign assets and securities of and
+advances to foreign subsidiaries and branches.
+The net assets of IBM World Trade Corporation and
+
+===== PAGE 7 =====
+its subsidiaries located in Austria, Czechoslovakia, France,
+Germany, Hungary, Italy, Japan, Poland and the Balkan
+Countries continue to be reserved to $1.00 on the Balance
+Sheet pending more settled conditions in these countries.
+During the year 1950 the Corporation adjusted its invest-
+ment in these countries by $2,406,545.74, representing
+net income from current operations remaining in these
+countries and other investment adjustments, and, in ac-
+cordance with its past practice, added a similar amount
+to the reserve for foreign investment. The Corporation
+has not included in its current income account any income
+from these countries not actually received in dollars.
+Foreign investment in "All Other Countries," stated on
+the December 31, 1950, balance sheet at $32,342,476.41,
+is comparable to $26,904,889.33 at December 31, 1949,
+an increase of $5,437,587.08, the result of the current
+year's operations.
+IBM World Trade Corporation's Canadian subsidiary
+has under construction a new factory building at Toronto,
+Canada, which upon completion will add 123,000 square
+feet of floor space to manufacturing facilities at that
+location.
+Employees' Retirement Plan
+As previously reported to stockholders, employees re-
+tired after ten or more years of service are provided a
+retirement income under the IBM Retirement Plan, sup-
+plemented by the Watson Fund for Supplementing the
+IBM Retirement Plan.
+The Board of Directors revised retirement benefits
+December 1, 1950, increasing the minimum retirement
+income after ten years of continuous service to $75.00
+per month, including Social Security, as compared with
+the previous minimum of $60.00, including Social Security,
+and increasing the maximum retirement income after forty-
+five years of continuous service to $240.00 per month in-
+cluding Social Security, from the previous maximum of
+$225.00. Retirement income, as heretofore, is based solely
+on length of continuous service, regardless of an employee's
+earnings or position with the Company. The amended plan
+was approved by the Bureau of Internal Revenue. A copy
+of the plan as sent to employees is enclosed.
+
+===== PAGE 8 =====
+In December 1950, the Company created an irrevocable
+trust from which will be paid that portion of retirement
+benefits payable from the Watson Fund for Supplementing
+the IBM Retirement Plan.
+Retirement Plan costs totaled $1,771,815.38 during
+1950. This amount includes payments aggregating
+$395,177.38 to the Trustee and insurance company under
+the IBM Retirement Plan, and payment to the Trustee
+of $1,376,638.00 from the Watson Fund for Supplementing
+the IBM Retirement Plan.
+The Balance Sheet at December 31, 1949 reflected a
+Reserve for Estimated Cost of Employees' Past Service
+Under the IBM Retirement Plan in the amount of
+$3,703,445.50. As a result of payments to the Trustee
+and the insurance company since 1945, and the revision
+which occurred in 1950 of the Social Security Act and of
+retirement benefits, this Reserve was no longer required
+and was therefore transferred to Earned Surplus in
+December 1950.
+Watson Fund for Supplementing IBM Retirement Plan
+For the year 1950, the Board of Directors added
+$1,175,666.42 to the Watson Fund for Supplementing the
+IBM Retirement Plan. This amount was determined
+by the Board to be the voluntary reduction made by
+Mr. Thomas J. Watson in his percentage compensation
+under his present employment contract as compared with
+his prior contract and, in accordance with its past practice,
+as recommended by Mr. Watson and approved by the
+Board of Directors in connection with Mr. Watson's
+voluntary reductions for each year 1942 to 1949, inclusive,
+the above amount was added to the Watson Fund for
+Supplementing the IBM Retirement Plan. The Fund,
+after taking into account interest income and benefit
+payments including the $1,376,638.00 payment to the
+Trustee, previously mentioned, had a balance at December
+31, 1950 of $4,383,231.36.
+Unfilled Orders
+Although more of the Company's products were pro-
+duced during 1950 than in any year in the history of the
+
+===== PAGE 9 =====
+business, unfilled orders at the end of the year remained
+at a high level. In addition to the demand for our regular
+products, the Company is also committed to a substantial
+amount of defense work under direct contracts with the
+United States Government.
+Research and Development
+The Company's Research and Engineering Laboratories
+continued their work during 1950 on projects relating to
+new inventions, and improvements of our existing prod-
+ucts. New products added to the IBM regular line in
+1950 included decimal tabulation and partial carriage
+return features for the IBM electric tj^^ewriter; a new
+light-weight electric time stamp; an IBM card verifier
+with increased efficiency and ease of operation which
+verifies alphabetical and numerical punching; a dual feed
+tape carriage for IBM electric accounting machines,
+designed to control the feeding of two different sizes and
+types of continuous forms independently and concur-
+rently; and an advanced model card programmed elec-
+tronic calculator facilitating solution of a much wider
+range of problems than was heretofore possible.
+In Memoriam
+It is with deep regret that your Board of Directors
+reports the death of Mr. Lamar Hardy, who served with
+distinction as a director of the Corporation from 1948
+until his death on August 18,1950.
+Annual Meeting of Stockholders
+A notice, Proxy Statement and form of Proxy for the
+Annual Meeting of Stockholders to be held April 24, 1951,
+will be sent to stockholders on or about April 1, 1951.
+By Order of the Board of Directors,
+THOMAS J. WATSON,
+Chairman of the Board.
+
+===== PAGE 10 =====
+International Business Machines Corporation
+and
+Domestic Subsidiary Company
+CONSOLIDATED BALANCE SHEET AS OF D E C E M B ER 31, 1950
+ASSETS L I A B I L I T I ES A ND C A P I T AL
+CURRENT ASSETS: CURRENT LIABILITIES:
+Cash 15,691,584.88 Accounts Payable and Accruals. 16,684,029.56
+U. S. Treasury Securities 13,008,908.40 U. S. Federal Income and Excess Profits Taxes—estimated. 28,284,765.10 $ 44,968,794.66
+Notes and Accounts Receivable—less reserve $716,985.78.... 25,278,834.98
+Inventories—valued at lower of average cost or market 14,701,700.26 $ 68,676,028.52
+DEFERRED ASSETS:
+Prepaid Insurance, Taxes, Etc 1,555,910.63
+GENERAL COMPANY WELFARE FUND: LONG-TERM INDEBTEDNESS:
+Cash 51,082.85 Twelve-Year 2^% Debentures—due August 1, 1958. . . 30,000,000.00
+Stock of International Business Machines Corp.—16,023 Eighteen-Year 2^% Debentures—due February 1, 1965 20,000,000.00
+shares 254,406.99 305,489.84 Twenty-Year 3% Promissory Note—due July 1, 1968 35,000,000.00 85,000,000.00
+WATSON FUND FOR SUPPLEMENTING IBM RETIREMENT PLAN:
+Cash 25,068.77
+U. S. Treasury Securities—at cost plus accrued interest.... 4,358,162.59 4,383,231.36
+INVESTMENTS AND ADVANCES:
+Investment in and Advances to IBM World Trade Corpora- RESERVES:
+tion, wholly-owned subsidiary, operating in countries out- General Company Welfare 305,489.84
+side of the United States* Watson Fund for Supplementing IBM Retirement Plan. . . . 4,383,231.36
+In Austria, Czechoslovakia, France, Germany, Hungary, Widows and Orphans of IBM Veterans Who Lost Their Lives
+Italy, Japan, Poland, and the Balkan Countries 15,414,949.11 in World War II 1,041,590.14 5,730,311.34
+Less: Reserve 15,414,948.11
+1.00
+All Other Countries 32,342,476.41
+32,342,477.41
+Other Investments. 2,066,644.21 34,409,121.62
+FACTORIES, OFFICE BUILDINGS AND OTHER PROPERTY IN CAPITAL STOCK—WITHOUT PAR VALUE 62,601,767.81
+UNITED STATES—AT COST: Represented by 2,763,548 shares issued and outstanding.
+Land 4,801,421.02
+Buildings 26,055,696.35
+30,857,117.37
+Less: Reserve for Depreciation and Amortization 12,260,943.58
+18,596,173.79
+EARNED SURPLUS 101,651,717.55
+Factory and Office Equipment, Rental Machines and Parts. 274,128,906.61
+Less: Reserve for Depreciation and Amortization 110,020,521.54 Including Undistributed Surplus of IBM World Trade
+Corporation and its Foreign Subsidiaries $12,650,913.59.
+164,108,385.07 182,704,558.86 Subject to a charge of $17,262,981.25 in respect of Stock
+PATENTS AND GOODWILL 11,608,847.85 Dividend payable January 26, 1951, to Stockholders of
+Less: Reserve for Amortization. 3,690,597.32 7,918,250.53 Record January 4, 1951.
+$299,952,591.36 $299,952,591.36
+*Except for investments and advances in countries reserved to $1.00, all foreisn net current assets and deferred charses have been converted at the quoted rate of exchanse on December 31, 1950, other foreign assets and
+liabilities at the approximate rate prevailing when acquired or incurred.
+
+===== PAGE 11 =====
+International Business Machines Corporation
+and Subsidiary Companies
+CONSOLIDATED INCOME AND EARNED SURPLUS ACCOUNT
+For Year Ended December 31, 1950
+Gross Income from Sales, Service and Rentals in United
+States $214,916,716.59
+LESS:
+Cost of Sales, Service and Rentals, and Operating
+Expenses—exclusive of depreciation $122,375,496.66
+Depreciation of Rental Machines, Plant and Equipment 30,286,984.66
+Development and Engineering Expense 4,838,439.44
+Interest on Long-Term Indebtedness 2,250,000.00
+Amortization of Patents and Goodwill 500,000.00 160,250,920.76
+54,665,795.83
+ADD:
+Income from and Undistributed Income of IBM World
+Trade Corporation and its Foreign Subsidiaries.. .. 5,698,119.29
+Other Income 737,393.53 6,435,512.82
+NET INCOME BEFORE UNITED STATES FEDERAL INCOME
+AND EXCESS PROFITS TAXES 61,101,308.65
+LESS:
+Provision for United States Federal Income and Excess
+Profits Taxes—Estimated (Including $2,100,000.00
+Excess Profits Tax) 27,800,000.00
+NET INCOME FOR THE YEAR 33,301,308.65
+EARNED SURPLUS, JANUARY 1, 1950 88,845,207.40
+TOTAL 122,146,516.05
+ADD:
+Transfer from Reserve for Estimated Cost of Em-
+ployees' Past Service Under IBM Retirement Plan.. 3,703,445.50
+125,849,961.55
+LESS:
+Dividends for Year 1950:
+Cash Dividends 11,044,169.00
+Stock Dividend—131,541 shares, involving transfer
+from Earned Surplus to Capital Stock Account of.. 13,154,075.00 24,198,244.00
+EARNED SURPLUS, DECEMBER 31, 1950 $101,651,717.55
+
+===== PAGE 12 =====
+BRANCH OFFICE R-ANKIN Sc GO. BROAU STREET
+730-16Tn STREET. N.W. CERTIFIED PUBLIC ACCOUNTANTS NEW YORIC 4, N. Y.
+WASHINGTON 5, D. C.
+To the Stockholders of the
+INTERNATIONAL BUSINESS MACHINES CORPORATION:
+We have examined the consolidated balance sheet of International
+Business Machines Corporation and domestic subsidiary company as
+of December 31, 1950, and the related consolidated income and
+earned surplus account for the year then ended. We have also
+examined the accounts of IBM World Trade Corporation, wholly-
+owned subsidiary of International Business Machines Corporation,
+for the year ended December 31, 1950. Our examination was made
+in accordance with generally accepted auditing standards, and accord-
+ingly included such tests of the accounting records and such other
+auditing procedures as we considered necessary in the circumstances.
+We accepted, after review, available reports of independent auditors
+on the accounts of IBM World Trade Corporation's foreign subsidia-
+ries and branches supplemented by the companies' own statements and
+cabled information.
+In our opinion, the accompanying consolidated balance sheet and
+consolidated income and earned surplus account present fairly the
+financial position of the companies at December 31, 1950, and the
+results of their operations for the year then ended, in conformity with
+generally accepted accounting principles applied on a basis consistent
+with that of the preceding year. We further certify to the correctness
+of the financial information presented in the comparative statement
+of operations for the past ten years.
+R. G. RANKIN & CO.
+February 27, 1951.
+
+===== PAGE 13 =====
+Comparative Statement of Operations of International Business Machines Corporation for the Past Ten Years
+i
+W A R Y E AR S
+I T EM 1950 11994499 11994488 1947 1946
+1945 1944 1943 1942 1941
+!
+Gross Income from Sales, Service and Rentals in
+United States $214,916,717 $183,464,706 $156,397,720 $139,404,026 $115,644,604 $138,186,198 $139,664,713 $131,271,991 $85,716,007 $60,486,716
+Net Income from Countries Outside of United States $ 5,698,119 $ 6,257,307 $ 5,770,639 $ 5,064,017 $ 3,254,982 $ 1,984,820 $ 1,662,214 $ 1,552,399 $ 1,578,539 $ 630,221
+Net Income before U. S. Federal Income and Excess
+Profits Taxes $ 61,101,309 $ 53,202,332 $ 44,933,035 , $ 38,765,752 $ 30,908,034 $ 35,404,407 $ 36,571,256 $ 35,820,785 $24,130,842 $18,692,033
+U. S. Federal Income and Excess Profits Taxes . . . $ 27,800,000 $ 19,925,000 $ 16,832,500 ' $ 15,211,800 $ 12,141,600 $ 24,510,700 $ 26,859,900 $ 26,615,900 $15,811,900 $ 8,847,400
+Net Income for the Year $ 33,301,309 $ 33,277,332 $ 28,100,535 $ 23,553,952 $ 18,766,434 $ 10,893,707 $ 9,711,356 $ 9,204,885 $ 8,318,942 $ 9,844,633
+Per Share—outstanding in year ($12.05) ($12.64) ($11.21) ^ ($16.44) ($13.10) ($9.51) ($8.90) ($8.85) ($8.40) ($10.44)
+Per Share—outstanding December 31, 1950 . . .. ($12.05) ($12.04) ($10.17) ($ 8.52) ($ 6.79) ($3.94) ($3.51) ($3.33) ($3.01) ($ 3.56)
+Number of Shares outstanding at end of year . . .. 2,763,548 2,632,007 2,506,712 1,432,407 1,432,407 1,145,926 1,091,443 1,039,546 990,116 943,028
+Cash Dividends $ 11,044,169 $ 10,518.821 $ 10,022,778 $ 8,589,738 $ 8,587,415 $ 6,861,000 $ 6,534,689 $ 6,224,289 $ 5,929,706 $ 5,648,577
+Per Share—outstanding in year ($4.00) ($4.00) ($4.00) ($6.00) ($6.00) ($6.00) ($6.00) ($6.00) ($6.00) ($6.00)
+Per Share—outstanding December 31, 1950 . . .. ($4.00) ($3.81) ($3.63) ($3.11) ($3.11) ($2.48) ($2.36) ($2.25) ($2.15) ($2.04)
+Stock Dividends and Split-ups*
+Per Cent 5% 5% •75% — *25% 5% 5% 5% 5% 5%
+Number of Shares issued in year 131,541 125,295 1,074,305 286,481 54,483 51,897 49,430 47,088 44,850
+Net Investment in Factories, Offices, Rental Machines i
+and Parts in United States at end of year $182,704,559 $156,005,004 $128,361,455 $ 95,341,142 $ 74,658,105 $ 59,095,097 $ 55,751,509 $ 54,268,121 $54,370,582 $45,984,651
+Long-Term Indebtedness at end of year $ 85,000,000 $ 85,000,000 $ 85,000,000 $ 50,000,000 $ 30,000,000 $ 17,000,000 $ 17,000,000 $ 17,000,000 $17,000,000 $17,000,000
+Net Current Assets at end of year $ 23,707,234 $ 32,436,501 $ 40,528,513 , $ 24,765,181 $ 12,465,591 $ 12,145,316 $ 7,437,875 $ 6,561,322 $ 2,882,324 $ 8,068,006
+
+===== PAGE 14 =====
+
+
+===== PAGE 15 =====
+i
+
+===== PAGE 16 =====
+' i

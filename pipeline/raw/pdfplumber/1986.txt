@@ -1,0 +1,1970 @@
+
+
+===== PAGE 1 =====
+1986 Annual Report
+iiiiii •• nn mil
+•H nil
+• . • • , •• HH I.
+ailRH I!!!!!' SnSili
+» i ! n! lilRI! rilil"
+HliiiiiilllRir illHiiiiiiji iiiilll!!!!
+ayi SPJ "Ml nni !!i imf aiili mlm i•• i iniil ii ilii
+jiiitiii
+r^i ^111 tsH nn
+n n , H H , n E i ! , 1 1 1 1 , 1 1 1 1 , • • , • • , • • , 55 mi nil
+- -H4 iin! ii ll ii iiEEiirr i i li lii iil iB iiii
+i i i i i i l t j i ^ ^ ^ si
+ilii ilii ^ ^ i f®
+I te • ^ • •
+• m
+
+===== PAGE 2 =====
+IBM's operations: Contents:
+The company's operations are primarily
+1 Financial Highlights
+in the field of information-handling systems,
+equipment and services to solve the increasingly
+2 Letter to Stockholders
+complex problems of business, government,
+science, space exploration, defense, education,
+5 Creating New Opportunities
+medicine and many other areas of human activity.
+IBM's products include information processing
+20 IBM and Social Responsibility
+products and systems, program products,
+telecommunications systems, office systems,
+21 Financial Report
+typewriters, copiers, educational and testing
+materials, and related supplies and services. Report of Management
+Most products are sold or leased through Report of Independent Accountants
+IBM's worldwide marketing organizations. Earnings
+Selected products are marketed and distributed Financial Position
+through authorized dealers and remarketers. Funds Flow
+Stockholders' Equity
+Management Discussion
+Notes to Financial Statements
+Five-Year Comparison of Financial Data
+42 Directors and Officers
+44 IBM Organization
+Stockholder Information
+Cover:
+A robotic system moves silicon wafers containing
+one-million-bit memory chips through a
+phase of the manufacturing process at IBM's
+Burlington, Vt., facility. The chips, which
+were developed at Burlington, are currently in
+volume production at the site.
+
+===== PAGE 3 =====
+Financial Highlights
+for the year ended December 31,1986
+(Dollars in millions except per share amounts) 1986 1985
+Highlights of the year:
+Gross income 51,250 50,056
+Earnings before income taxes 8,389 11,619
+Income taxes 3,600 5,064
+Net earnings 4,789 6,555
+Per share 7.81 10.67
+Cash dividends paid 2,698 2,703
+Per share 4.40 4.40
+Investment in plant, rental machines and other property. . . 4,620 6,430
+Return on stockholders' equity 14.4% 22.4%
+At end of year:
+Total assets $ 57,814 $ 52,634
+Net investment in plant, rental machines and other property . . $ 21,268 $ 19,680
+Working capital $ 15,006 $ 14,637
+Long-term debt $ 4,169 $ 3,955
+Stockholders' equity $ 34,374 $ 31,990
+Number of employees 403,508 405,535
+Number of stockholders 792,689 798,152
+Gross Income Net Earnings/Dividends
+(Millions of dollars) 50,056 51-250 (Millions of dollars)
+45-937 6,582 6,555
+40,180
+34-364
+4,409
+2-7031 2,698
+2,251
+2-0531
+1982 '83
+I Dividends • Net Earnings
+
+===== PAGE 4 =====
+Letter to Stockholders
+1986 was a difficult year for IBM. Worldwide orders and shipments emerging is vital and dynamic, with vast potential. It is also more
+did not match the levels of 1985. Contributing to this decline were competitive, worldwide, than at any time before.
+sluggish capital spending in North America, moderating economic In this environment, IBM is taking the actions and making
+performance in some non-U.S. countries, and unsatisfactory the investments to continue as a successful world-class competitor.
+levels of demand for parts of our product line. We are moving quickly to accomplish three primary objectives:
+Worldwide net earnings for the year ended December 31,1986, • Strengthening and renewing our product line;
+were $4,789 million, down 26.9 percent from 1985's earnings of • Significantly increasing the number of IBM people directly serving
+$6,555 million. Earnings per share for the year were $7.81 compared our customers, while sharpening our focus on their requirements;
+with $10.67 for 1985. The after-tax margin was 9.3 percent in 1986 • Streamlining our operations and redeploying resources to make
+compared with 13.1 percent in 1985. Average shares outstanding the company as lean and vigorous as possible.
+were 612.8 million in 1986 and 614.1 million in 1985.
+Earnings before income taxes were $8,389 million in 1986 and Stronger Product Line
+$11,619 million in 1985. Before-tax margins were 16.4 percent in 1986
+and 23.2 percent in 1985. During the early part of the 1980s, our industry delivered
+Worldwide gross income was $51,250 million in 1986, up 2.4 information-handling products in record volumes and computing
+percent from the prior year's $50,056 million. Currency rates had a capacity expanded dramatically. Between 1982 and 1984, for
+positive elfect on financial results for 1986. It is estimated that example, industry revenues from workstations alone increased
+the lower value of the dollar compared with 1985 rates improved at a compound annual growth rate averaging 50 percent.
+1986 gross income by $4,365 million and improved net earnings With the benefits of individual workstations and systems now
+by $645 million. well-established, customers have told us that their priority—and
+Gross income from non-U.S. operations in 1986, included in ours—must be to improve information systems productivity across
+consolidated results, was $25,888 million, up 20.2 percent from their organizations. During 1986, we introduced products to
+$21,545 million in 1985. Non-U.S. net earnings of $3,193 million in help customers extend the value of their investment in equipment,
+1986 showed an increase of 3.7 percent over 1985's earnings of programming and the skills of their people, while providing
+$3,078 million. a clear direction for future growth.
+For the quarter ended December 31, net earnings were In mid-range computers, where competition is especially
+$1,390 million, compared with $2,681 million for the same period strong, 1986 was a year of major product introductions and signifi-
+last year. Per share earnings were $2.28 compared with $4.36 for the cant enhancements to existing systems. The new 9370 Information
+1985 period. Gross income for the fourth quarter was $16,945 million, System extends the performance of IBM'S System/370 to four
+compared with $17,155 million for the fourth quarter of 1985. models compact enough to be installed in an office. System/370 cus-
+tomers may now choose from the broadest range of performance
+Primary Objectives in the industry, and 9370 models can immediately and productively
+use thousands of programs already in the System/370 library.
+Since 1970, the information industry has achieved a remarkable Enhancements to the System/36 and System/38 mid-range
+record of growth. That record is not a line moving straight up, and it computers increase their performance in both standalone applica-
+reflects several previous downturns. The past two years, however, tions and as parts of larger networks. At the same time, new pro-
+have been as difficult as any in our experience—a period of gram products dramatically expand customers' ability to connect
+significant restructuring and retrenchment. The industry that is workstations and mid-range and mainframe computers, and to
+share information and resources. While work remains to be done to
+improve connectivity and consistency across the range of our
+products, the foundation is in place, and we will build on it in the
+months to come.
+In 1986, we added two entry-level models to the IBM 3090
+series, IBM'S most advanced computers and the industry's
+first to use one-million-bit memory chips. We subsequently
+
+===== PAGE 5 =====
+introduced million-bit chips in our mid-range systems as well.
+IBM also extended its leadership in disk technology, introducing
+disk drives for mid-range systems with the highest recording
+densities in the industry.
+Constant innovation is a hallmark of our highly competitive
+industry, and we intend to lead in bringing new technology from the
+laboratory to the marketplace. That is why, despite selective reduc-
+tions during the year, IBM invested more than $5 billion in research,
+development and engineering in 1986.
+These continuing investments are essential to our future. As
+much, or more, depends on the quality of the company's engineers
+and scientists, so it was especially gratifying to have two researchers
+in our Zurich, Switzerland, laboratory—Dr. Gerd Binnig and
+Dr. Heinrich Rohrer—share the 1986 Nobel Prize in physics for their
+invention of the scanning tunneling microscope. This recognition
+speaks well of their joint achievement and of the vitality of IBM'S
+research programs.
+Comimitment to Customer Partnerships
+Paul J. Rizzo, vice chairman, and John EAkers, chairman of the board
+While renewing our product line, we are also strengthening our
+ability to work in partnership with our customers. of economies in contracting for maintenance and other services
+The number of IBM people in field marketing and direct organization-wide.
+customer support is being substantially increased, principally To help customers become productive more quickly, we have
+through redeployments from other parts of the business. By the introduced packaged solutions that combine software programs
+end of 1987, IBM people working directly with our U.S. customers with IBM services and support in a single offering. Several packages
+will have increased by more than 20 percent in a two-year period. are aimed at specific applications in retail sales or factory auto-
+We are also rebalancing resources in our World Trade opera- mation, while others are for general office use. At the same time, our
+tions. In each case, a key objective is to increase our presence in marketing organizations are focusing greater attention on the
+customers' offices and our ability to work with them to identify current and future requirements of customers in areas such as
+opportunities to extend the usefulness of information handling manufacturing, banking and the public sector, to be sure we
+in their operations. understand their specialized needs and are prepared with the
+Software and services continue to be the fastest-growing right solutions.
+areas of our business. Increasingly, those services include working Throughout IBM, we are improving our ability to anticipate
+with customers to plan and implement complex information customers' needs and increasing both the resources and the sense
+networks that link all levels of their organizations together with of urgency with which we respond.
+their suppliers, dealers or other business associates. Based on
+experience gained in similar projects for the federal government, Leaner, More Vigorous Company
+we now offer commercial customers support in developing and
+integrating large-scale systems including IBM hardware, software Today, there are more than 15,000 companies in the information
+and services, as well as those from other companies. industry. For IBM to be successful, we must constantly measure
+We continue to find new ways to make it easier and more every aspect of our operations against the rigorous standards
+attractive to do business with IBM. Charges for certain software required to be competitive in this worldwide marketplace.
+products are now graduated, making them more affordable for users
+of smaller] BM systems. Eligible customers also can take advantage
+
+===== PAGE 6 =====
+During 1986, we took actions to further reduce cost, expense services, and we have a sense of purpose and of urgency about
+and unneeded capacity. At the same time, and with the essential accomplishing them.
+cooperation of IBM employees, we continued to maintain our The actions we have taken—and continue to take—serve IBM
+tradition of full employment. well in any business climate. In the short term, however, much
+At virtually every level of the organization, our staffs have been depends on an upturn in the general economy and improving rates
+restructured and substantially reduced. Many people were asked of capital investment.
+to accept assignments in our marketing branch offices or other parts Whatever the environment, IBM has unique long-term strengths:
+of the business; in all, more than 12,000 people in our U.S. and • Our technology base, a product of sustained investments over time;
+World Trade operations are being redeployed—moving to new jobs, • Our unparalleled ability to meet customer needs across the board;
+new locations, or both. In addition, we initiated a highly success- • Our fundamental financial position.
+ful early retirement incentive that will help reduce our U.S. Above all, we can call on the skills, resourcefulness and adapt-
+employee population by more than 12,000 in 1987, and announced ability of IBM people in all the countries where we do business.
+similar incentives in four other countries. We appreciate the Their special character and exceptional qualities have never been
+willingness of so many people to begin new careers within IBM, and more essential, or more evident. They continue to be IBM'S
+are deeply grateful for the long-term contributions of those who most important asset in a fast-moving and competitive industry.
+will be retiring.
+January 27,1987, by order of the Board of Directors
+To bring capacity in line with current and projected needs,
+activities at several U.S. locations were consolidated with
+operations elsewhere in IBM. At our Greencastle, Ind., site, which
+we are closing, employees were offered positions elsewhere
+in the company, and we have offered to take significant steps to John F Akers
+alleviate the effect of this change on the community. Chairman of the Board
+While making prudent reductions in expenditures for new
+plant and equipment, compared with recent years, we continue to
+make essential strategic investments. On average, the tools and
+processes in our production facilities are less than five years old,
+helping to ensure our competitiveness in manufacturing tech-
+nology and cost.
+We continue to concentrate on reducing travel, meeting and
+other discretionary expenses and to give close attention to
+managing inventories and assets. Overall, IBM'S balance sheet
+remains among the strongest of any company in the world.
+The result of these actions is a leaner, more vigorous IBM
+company, prepared to be as efficient as required in order to
+participate fully in the information industry.
+Prospects for the Future
+Prospects for the future include cause for optimism, tempered
+with realism.
+There is reason for optimism because the information-handling
+industry remains the most promising and most innovative anywhere. The Boeing Company is supporting the design
+As a company, we are realistic about the things we must do to and manufacturing operations of its airplane
+be the industry leader across the range of our products and programs with IBM products and services.
+In support of Boeing's 7J7 development program,
+for example, the company has installed
+two IBMprocessors and more than 2^0
+IBM ^080 workstations.
+
+===== PAGE 7 =====
+Creating New Opportunities:
+Introducing
+Innovative Products...
+Strengthening
+Customer Partnerships
+Streamlining
+IBM's Operations...
+vl
+w
+« J
+1
+. : / 1' .
+-
+Ir V •
+rvw-
+
+===== PAGE 8 =====
+Creating New Opportunities
+The information industry continues to be one with potential for
+unparalleled long-term growth. Underpinning this outlook is the
+ongoing demand for new productivity tools that allow businesses
+and other organizations to grow and prosper in an increasingly
+competitive world. At the same time, advances in technology
+continue to drive costs lower, making information products and
+systems available and affordable for a wider range of customers
+and applications.
+The essential link between promise and performance is,
+as it has always been, IBM'S ability to meet customers' needs.
+That is why, to the continuing goals of product leadership, growth,
+efficiency and profitability, IBM is setting an additional goal for
+itself: enhancing the company's partnerships with its customers.
+Key to this is the ability to understand customers' needs...
+to develop and deliver solutions that match their requirements,
+that create new value in their operations, and that are high-
+quality, easy to use and competitively priced.
+IBM is focusing its resources and its energies on these objec-
+tives. The following pages describe some of the results: innovative
+IBM products and services; more IBM people available to solve
+customers' problems; and a streamlined organization, more
+responsive and committed to providing the best customer service
+of any company.
+When the United Kingdom restructured its
+financial markets and opened its doors to foreign
+investment houses last fall, the London Stock
+Exchange chose IBM Personal Computers and
+PC Networks as the vehicles for providing brokers
+access to Exhange data services. As part of the
+market automation, Exchange members have installed
+over 5,000 IBM PCs and 200 PC Networks.
+
+===== PAGE 9 =====
+Information-handling products—from large processors to
+1 y;/ desktop workstations—have helped increase customer productivity,
+while improving service and sharpening decision-making for
+• . - -'/
+millions of workers. Growth in personal computers and workstations
+has been especially dramatic in recent years.
+Today, many customers wish to extend the productivity
+of these information resources across the range of their operations.
+In addition, they want methods for linking their systems to allow
+employees to communicate and share information.
+IBM announced innovative products during 1986 that expand
+the performance options available to customers. The company
+also introduced devices and programs that facilitate communica-
+tion among IBM products, from PCS to mid-range and main-
+frame computer systems.
+Processing Power
+Among the significant new products announced by IBM in 1986
+This bipolar logic chip, which contains 11,000 was a series of mid-range computers that provides the power of the
+circuits, improves the processing performance industry's most widely used computer family to customers with
+of IBM's System/^6 and System/^8 computers, as office and departmental processing requirements.
+well as the IBM p^jo Information System. With the introduction of the IBM 9370 Information System in
+October, IBM offered customers more than ICQ times performance
+growth within the System/370 family.
+Compact and quiet enough to operate within most office envi-
+ronments, IBM 9370 models can run most System/370 operating
+systems and application programs. New customers can take imme-
+diate advantage of thousands of existing System/370 programs
+to solve their information-handling problems. Customers already
+using System/370 mainframes can incorporate 9370 models
+within their information networks and use their existing software
+libraries and programming skills. The company also extended
+the capabilities of its 4381 system series, introducing four new
+high-performance processors.
+For customers who need the performance of the company's
+largest computers, two new processors introduced in February of
+1986 extended to fivefold the growth options available within IBM'S
+top-of-the-line 3090 processor family. The entry-level IBM 3090
+Models 150 and 180 feature the same advanced technology and
+architecture as the earlier Models 200 and 400. An optional vector
+processing feature makes the 3090 family well-suited for com-
+putation-intensive applications such as structural analysis of air-
+Design engineers at Daimler-Benz in Stuttgart, frame designs and thermodynamics studies.
+Germany, use a computer-aided design and New models of IBM'S System/36 and System/38 computers
+manufacturing system to modify the bumper design announced during 1986 increase the performance, storage capacity
+of a new model station wagon. The automobile and communications capabilities available to IBM'S customers.
+manufacturer runs many applications on IBM 3090 These mid-range models can deliver up to a 100 percent perform-
+processors to manage company operations. ance improvement.
+Two IBM Personal Computers introduced in 1986 extend
+the options available within the company's PC product line. The
+
+===== PAGE 10 =====
+IBM PC Convertible, the company's smallest personal computer, is
+designed for use by field engineers, sales representatives and others
+who need a full-function computer both at and away from their
+desks. Versatile and portable, the PC Convertible readily changes
+into a desktop computer that can be attached to either a color or
+monochrome display. The IBM Personal Computer XT Model 286 is
+a faster, more powerful model of the widely used PC XT® With
+the same high-speed, high-performance Intel microprocessor used
+in the IBM Personal Computer AT®, it offers customers significantly
+greater performance at an attractive price. Also announced
+was an enhanced model of the Personal Computer AT which
+operates about 30 percent faster than its predecessor. In addition,
+the company introduced a new plant floor computer. The IBM 7552
+industrial computer can monitor and control manufacturing
+operations without operator assistance.
+IBM also introduced an advanced family of high-speed work-
+stations. The IBM RT Personal Computer can perform complex in-
+formation processing tasks, including standalone computer-aided
+design, that normally require much larger computers. The
+RT PC is based on a Reduced Instruction Set Computer (RISC)
+architecture —originated by IBM researchers —that accelerates
+computer operations by using simplified machine instructions Brokers at the Tsukiji Fish Market in Tokyo, Japan,
+for frequently used functions. use an enhanced service network to process
+orders from superinarkets, restaurants and fish
+New Communications Capabilities for IBM Products stores. The network is marketed by a joint venture
+company formed by Mitsubishi, Cosmo 80 and
+To make it easier for customers to share data, applications and IBM Japan in 198^.
+resources within their information networks, IBM extended the
+communication links among its products.
+Enhancements to System/36 and System/38 control programs
+improved their capacity to use and share data and peripheral
+equipment within information networks. Advanced networking
+capabilities, for example, allow customers with small- and
+medium-sized information-handling requirements to attach PCS
+and mid-range computers in networks, and enable them to
+communicate without the supervision of a large computer.
+To improve communications among its smallest and largest
+systems, the company introduced Enhanced Connectivity Facilities
+that allow IBM Personal Computers greater flexibility in gaining
+access to, and manipulating, applications and data files on
+System/370 processors.
+Other products announced in 1986 enable customers to create
+communication links to host computers within their informa-
+tion networks. One product, for example, enables customers to
+extend the network management capabilities of Systems Network
+Architecture (SNA) to IBM Token-Ring Networks, voice commu- White Consolidated Industries' Greenville Products,
+nications products such as ROLM Corporation's computerized a refrigerator manufacturer in Greenville,Mich.,
+branch exchanges, and non-SNA devices for the first time. Offerings otuned by Electrolux, has installed IBM System/^8
+like this demonstrate the company's commitment to open commu- computers to handle its order entry, production
+nications architectures. process and billing activities.
+In its most comprehensive display announcement in several
+years, IBM introduced flexible, new-function workstations that can
+be used with IBM computers and those of other manufacturers.
+
+===== PAGE 11 =====
+Flexible Software Solutions
+While new programming products were directed toward
+improving customers' ability to connect systems and networks,
+IBM continued to enhance existing operating systems and
+develop new application programs that give customers greater
+flexibility in addressing their information-handling requirements.
+In October, the company introduced eight innovative packages
+designed to help customers who are installing new applications
+become productive more quickly. Known as SolutionPacs, the
+packaged sets include applications and services for specific system
+configurations. Five of the new SolutionPacs are geared to retail
+stores, colleges, financial institutions and manufacturing plants.
+The others can be applied across a broad range of industries.
+The company also announced a major change in its pricing of
+selected licensed programs, introducing graduated one-time
+charges for more than 90 System/370 programs. Under the new
+pricing approach, software charges will be based on the computing
+power and performance of the system on which the programs
+are run, making these selected programs more affordable to entry-
+level customers.
+The company also introduced an array of enhanced Personal
+Computer applications to meet diverse customer requirements
+ranging from word processing and bookkeeping to education. One
+addition was an adult literacy program called PALS that helps
+adolescents and adults who read at or below the fifth-grade level.
+The PALS literacy system, which utilizes the touch-screen technology
+of the IBM InfoWindow, is patterned after IBM'S Writing to Read
+program for teaching young children to read. Introduced about
+two years ago. Writing to Read is now in use by more than 300,000
+kindergarten and first-grade children across the U.S.
+Making software easier to install and learn continues to be an
+important objective for IBM.TO this end, the company has
+established several software usability laboratories to evaluate IBM
+program products. At these laboratories, researchers observe
+customers as they use application programs under study. Their
+findings are then used to identify ways to make future versions of
+the programs easier to use.
+Technology Leadership from the Laboratory to the Marketplace
+Technology continues to be the catalyst for new and more
+cost-effective information products that expands and extends their
+usefulness across a wide range of applications. In 1986, IBM
+announced important advances in several fields of research and
+implemented innovative technologies in its product line.
+Insurance agents with the Prudential Insurance
+Company of America are now using IBM PC
+Convertible computers to help them illustrate
+insurance options available to customers
+during sales calls. Prudential made the portable
+computers and customized programs available
+to more than 20,000 agents during ig86.
+
+===== PAGE 12 =====
+Two IBM scientists received international recognition
+when they shared a Nobel Prize for their research efforts, IBM
+Fellows Gerd K. Binnig and Heinrich Rohrer of the IBM Zurich
+Research Laboratory in Switzerland were awarded a 1986 Nobel
+Prize in physics for their work in scanning tunneling microscopy.
+The researchers were recognized for developing the powerful
+microscopy technique, which allows scientists to view individual
+atoms on the surface of a sample. Drs. Binnig and Rohrer
+shared the award with German scientist Ernst Ruska, designer of
+the first electron microscope.
+Within IBM, instruments employing the scanning tunneling
+technique are being used for research important to the development
+of integrated circuits and high-density storage.
+In April, the company began shipping IBM 3090 processors
+using one-million-bit memory chips in their central storage.
+The processors were the industry's first mainframe computers to
+incorporate such high-density memory chips. Subsequently,
+IBM introduced one-million-bit chips in models of its System/36
+and System/38 computers, the IBM 3880 Models 21 and 23 storage
+control units and the 9370 Information System.
+The company also extended its industry leadership in storage
+A Navajo student at a school in Red Mesa, Ariz., technology in 1986 by introducing advanced disk drives for mid-range
+sharpens her reading skills using IBM's Writing systems, IBM 9332 and 9335 direct access storage devices feature
+to Read educational program. She is one of more the highest recording density available in the industry — more than
+than 300,000 elementary students in the U. S. 25 million bits of information per square inch. The high-end
+currently using the program. IBM 3380 disk file can store five billion characters of data.
+Within IBM's research facilities, scientists continued to study a
+range of technologies with promise for the future. For instance,
+researchers have developed an experimental computer chip
+for fiber optic communications. The chip receives laser light pulses
+containing data over thin fiber optic lines. It operates three times
+faster than previous chips.
+IBM scientists also fabricated a 32-bit microprocessor that
+contains, on a single chip, most of the functions necessary to run
+System/370 programs. At the same time, other researchers
+in the U. S. and Europe continued to refine a voice recognition
+system that can transcribe human speech into letters, reports
+and other documents.
+In addition to internal research and development programs,
+the company continued to provide support to a range of outside
+research activities through IBM scientific centers around the world.
+IBM's European Center for Scientific and Engineering Computing
+in Rome, Italy, is one such undertaking. Established in 1985, the
+center provides an environment where IBM scientists, along with
+customers and visiting researchers, can use an IBM 3090 proc-
+IBM Fellows Gerd Binnig and Heinrich Rohrer essor with vector processing capabilities to address computation-
+shared the ip86 Nobel Prize in physics for their work intensive problems across a range of scientific disciplines.
+in scanning tunneling microscopy. IBM also continued its support of academic research activities,
+providing grants and entering joint study programs with many
+universities to stimulate and accelerate research in fields allied to
+IBM's business interests.
+
+===== PAGE 13 =====
+Strengthening Customer Partnerships...
+More and more, customers are seeking to capitalize on the
+potential of information systems to address problems in every
+aspect of their operations.
+In response to this trend, IBM is significantly increasing the
+resources available to serve its customers and expanding the
+range of its offerings, from traditional marketing and maintenance
+support services to specialized consulting and international
+information services.
+More Resources Directly Serving Customers
+To assist customers in developing total solutions to their information
+system needs, IBM is rebalancing its resources to increase
+the number of people available to serve customers. In the U.S., for
+example, field marketing and customer support will increase by
+more than 5,000 employees by year-end 1987. Many of these people
+are employees who were asked to accept field marketing and
+customer support positions within branch marketing offices
+following a realignment of the Information Systems Group's (ISG) Advanced technology used in the IBM g^^ 2 and
+headquarters staffs. P335 disk drives provides the highest recording
+Similar redeployment efforts were carried out in the company's density currently available in the industry.
+service division headquarters operations.
+Complex Needs, Customized Solutions
+As information and telecommunications technologies and products
+converge, many customers recognize the value of creating integrated
+networks to meet their specialized needs.
+To assist these customers with the necessary expertise and
+personnel, IBM has established an organization to develop custom
+systems for commercial customers with special information-
+handling requirements. Under contract, the group will develop total
+solutions to address an individual customer's requirements, using
+standard IBM products, customized application programming and
+other manufacturers' equipment where required.
+United Airlines' Apollo Services, for example, has contracted
+with IBM to develop a comprehensive travel agency management
+system. When completed, Apollo Services' Enterprise system, as it is
+known, will enable travel agencies to customize clients' travel, hotel
+and car rental arrangements more quickly and easily. It also will
+allow agencies to develop business plans, track performance and
+handle other administrative tasks.
+The Enterprise system will make use of IBM Token-Ring A researcher at the European Center for Scientific
+Networks and IBM 9370 Information Systems to link travel agencies and Engineering Computing in Rome, Italy,
+across the country to United's current reservation and travel infor- studies world weather patterns using the centers
+mation systems, which run on an IBM 3090 system. IBM jopo vector processor
+
+===== PAGE 14 =====
+I M I MU i
+f
+J
+Mmmrn^
+•
+
+===== PAGE 15 =====
+Expanded Customer Services
+To improve its ability to assist customers who require traditional
+support services, as well as those with more specialized needs, IBM
+enhanced and broadened the range of services it can provide.
+To ensure prompt, efficient maintenance and repair service,
+the company's service division has established a Network Support
+Center in Atlanta, Ga., to assist customers using IBM System/34,
+System/36 and System/38 computers in network environments.
+Using remote diagnostic tools over telephone lines, the center helps
+users to locate and resolve problems within their networks quickly
+and efficiently. Similarly, VM/Integrated System customers
+can have program problems fixed remotely and get assistance with
+system problems using a Remote System Programming offering.
+In addition, IBM offered a service discount and more
+flexible terms and conditions that reduce the cost of maintenance
+activities to qualifying system and network customers. The dis-
+counts enable customers to benefit from the economies that result
+when they perform certain systems and network management
+tasks themselves.
+IBM continued to make education more accessible by expand-
+ing its nationwide satellite education networks to bring classrooms A power plant at the Pohang Iron and Steel
+closer to customers' operations. One network currently used for Company's Kwangyang Works in Korea nears
+technical education programs can provide instruction to more than completion. A team of IBM specialists has worked
+1,200 students at 20 receiving locations around the country. with Pohang's staffs for more than three years to
+To help customers plan the automation of their manufacturing install a complex computer network that ivill
+operations, IBM has begun to offer a consulting service directed at control the plant's production process.
+plant engineering. Using programs originally developed for
+engineers who were automating IBM'S Lexington, Ky., plant, the
+IBM consultants produce three-dimensional simulations of
+the clients' proposed plant layouts, enabling them to identify and
+remedy problem areas before construction begins.
+IBM also set up Computer Integrated Manufacturing demon-
+stration centers in both the U.S. and Europe. These centers,
+which combine classrooms with simulated manufacturing lines,
+provide a forum where marketing professionals can demonstrate
+to potential customers the capabilities of IBM'S industrial auto-
+mation products under typical production floor conditions.
+The company also initiated a new telecommunications
+service last fall directed at multi-national customers. Using links
+between IBM computer networking centers in several countries,
+IBM Intercontinental Infonnation Services allows customers
+to transfer data files and business documents electronically
+between their offices around the world.
+IBM Instructor Roger Midgette explains the
+operation of an IBM product to customers in
+classrooms across the country from an IBM
+television studio in Washington, D.C. Course-
+luork transmitted over IBM's satellite education
+netioorks can be viewed by more than 1,200
+A comprehensive travel agency manage7nent system students simultaneously.
+being developed for United Airlines' Apollo Services
+luill make it easier for travel agents to customize
+travel, hotel and car rental reservations.
+
+===== PAGE 16 =====
+IBM and ROLM Corporation, the company's telecommunica-
+tions subsidiary, are using a complementary approach to facilitate
+the development, manufacture and marketing of voice and
+data connectivity and network management products. Under the
+approach, IBM and ROLM personnel are working together to
+produce systems making use of both IBM and ROLM products to
+better address customers' telecommunications needs.
+To speed and simplify customers' orders and deliveries, the
+National Distribution Division has introduced an innovative order
+management system that allows customers to enter orders for
+additional IBM equipment through workstations in their own
+offices. The approach allows IBM to send orders to its distribution
+centers the same day they are entered by the customers.
+Streamlining IBM's Operations...
+In the dynamic and competitive information industry, IBM'S growth
+and profitability depend on accurate anticipation of changing
+Nadine Kundrat, a market support representative requirements, quick and timely response, and cost-competitive
+at the company's Knowledge-Based Systems Center products and services that provide customers complete solutions for
+in Cambridge, Mass., briefs customers on IBM's their information needs.
+expert systems products. Previously an industricd To sustain IBM'S competitive vigor, the company has continued
+engineer at IBM's Endicott plant, she recently com.- to reduce costs, realign its operations and restructure its capacity.
+pleted training for her new customer support role.
+Organizations Realigned
+During 1986, IBM realigned operations within its U.S. marketing,
+manufacturing and development, and World Trade organizations
+to increase the focus on customer requirements, improve efficiency
+and reduce overhead across the company.
+In September, IBM'S Information Systems Group headquarters
+staff and the headquarters staffs of the group's North-Central
+and South-West Marketing Divisions were consolidated into a single
+national support organization. This new organization will be
+responsible for providing marketing plans and a full range of support
+services to the company's field marketing organizations. The
+economies resulting from this realignment permitted about 2,000
+headquarters personnel to be reassigned to field marketing
+positions in the U.S.
+Separately, ISG'S marketing staff was given responsibility
+for managing the company's direction and growth in the industrial,
+services, and general and public sectors. This action established a
+A professor at the Science University of Tokyo focal point for IBM'S renewed emphasis on customer solutions,
+explains data-handling techniques to two industry specialization and integrated systems.
+engineering students. The Science University The company also announced it would relocate and consoli-
+has installed an IBM jopo and a vector date the headquarters operations of its U.S. manufacturing and
+processing facility to support its science and development groups and divisions in a new facility under construc-
+engineering programs. tion in Somers, N.Y. Scheduled for early 1988, the relocation of these
+operations within a single location is expected to improve commu-
+
+===== PAGE 17 =====
+nications and planning among the organizations, while reducing
+the staffs necessary to support them.
+To increase management focus on growing business oppor-
+tunities in the Asia/Pacific area and the Americas, IBM'S World
+Trade Americas/Far East Corporation was reorganized into two
+new World Trade operating units. The new Americas Group has
+responsibility for company operations in Canada and Latin America.
+The Asia/Pacific Group is responsible for operations in Japan and
+other Asian countries, including the People's Republic of China,
+and in Australia and New Zealand.
+With the continued effectiveness of authorized remarketers and
+dealers in marketing selected products, the company has sold
+the IBM Product Centers to NYNEX Business Information Systems
+Co. The centers, which marketed IBM Personal Computers,
+typewriters and related supplies and equipment, continue to market
+these products as authorized IBM dealers.
+Rebalancing Resources
+IBM took a number of actions to improve operating efficiency
+in 1986, while bringing the company's work force in line with current
+workload. At IBM's Raleigh, N.C., plant Michael Bessard
+In a major move, the company announced it will close its has begun a new career in robotics maintenance as
+Greencastle, Ind., facility. Greencastle's service repair center and its part of IBM's retraining programs.
+parts distribution and sales activities will be consolidated
+with existing operations in Mechanicsburg, Pa., and Lexington, Ky.
+Consistent with the company's full employment practice,
+employees at Greencastle have been offered other positions in IBM.
+In April, the company changed the mission of its Boulder,
+Colo., location, from manufacturing to a major information systems
+and distribution center. Most of Boulder's manufacturing oper-
+ations are being transferred to IBM plants in Charlotte, N.C., and
+Lexington.
+In other moves. Federal Systems Division operations that were
+in Westlake Village, Calif, will be moved to Boulder, while
+Communication Products Division (CPD) development activities in
+Kingston, N.Y., and Series/1 manufacturing in Boca Raton, Fla.,
+were moved to Raleigh, N.C. In addition, a ROLM development
+group was established at the Boca Raton site, using IBM personnel.
+An amendment to the IBM Retirement Plan increased both the
+number of U.S. employees eligible to retire and their retirement
+benefits. At year end more than 10,000 employees had notified the
+company that they planned to retire under the amendment.
+IBM country organizations in Canada, France, the Netherlands
+and the United Kingdom also have announced early retirement
+incentives for their eligible employees. Gene Pfalzgraf, a specialist in IBM's showroom,
+at the Infomart in Dallas, Tex., demonstrates
+Efficiency in Operations ROLM telecommunications products to a
+prospective customer.
+IBM continued to pursue ways to manufacture and market
+products faster and more efficiently and to provide customers with
+timely, efficient service for their information systems.
+
+===== PAGE 18 =====
+At the company's manufacturing facility in Research Triangle
+Park, N.C., for example, robotic systems that manufacture the
+IBM 4680 Store System have been organized in cells. Systems in
+production loop around the robots in a cloverleaf pattern. The cell
+approach requires half the floorspace of the previous robotic
+manufacturing line.
+A built-in service processor in IBM 3090 computer systems is
+reducing the downtime for customers using the company's largest
+commercial systems. As the 3090 operates, the service processor
+records pertinent service data and, with customer authorization,
+transmits it to IBM'S Large Systems Support Center in Poughkeepsie,
+N.Y., for analysis. Should a problem be detected, the center
+dispatches a service employee with the proper replacement part
+to correct the problem, often before it can affect the customer's
+lifers
+operation.
+IBM also continued to evaluate new and cost-effective
+• approaches for promoting the company's product line in 1986. IBM'S
+showroom at the Infomart in Dallas,Tex., for example, reaches
+m.
+many prospective customers who have never dealt with IBM. The
+k>
+i® showroom, which hosted more than 40,000 visitors in 1986, provides
+prospective customers an opportunity to inspect the range of IBM
+products, see demonstrations and participate in seminars on
+product applications.
+South African Subsidiary Sold
+In 1986, the company announced plans to sell its South African
+subsidiary to a trust established for the benefit of the employees of
+IBM South Africa. This decision was made necessary by the
+deteriorating political and economic situation in South Africa
+and between South Africa and its trading partners.
+The newly independent company, which will continue fair
+employment practices, including equal opportunity, will market
+products, parts and services from IBM and may represent other
+suppliers as well, IBM will continue its current social responsibility
+commitments in the country, initially through the IBM South
+Africa Projects Fund.
+Wishing Well Pharmacy in the suburbs of
+Toronto, Ontario, employs a pharmacy dispensing
+system to automate patient profiles and make
+drug interaction assessments. Based on an IBM PC,
+the dispensing system is marketed by ProPharm Ltd.,
+an IBM value added dealer
+
+===== PAGE 19 =====
+IBM and Social Responsibility
+IBM supported numerous programs that address community, social
+and human needs in 1986, contributing more than $187 milhon
+in cash, equipment and other resources to social, cultural and
+educational programs worldwide.
+IBM continued its commitment to affirmative action in
+employment and advancement in 1986. Of the nearly 3,500 new
+employees hired in the U.S. last year, 48 percent were women and
+21 percent were minorities. About 6,000 women and 3,900 minority
+employees held management positions at year end, and of these,
+nearly 600 women and more than 500 minorities were in senior
+management positions.
+The company also extended its support to minority-owned
+businesses, purchasing more than $100 million in products
+and services from some 750 minority-owned firms in 1986. IBM also
+An IBM-developed display system, featuring a purchased goods and services totaling over $60 million from more
+touch-activated screen enables visitors to the than 725 firms owned primarily by women, and over $15 million
+National Baseball Hall of Fame and Museum in from more than 65 companies employing primarily handicapped
+Cooperstown, N.Y., to view film clips and statistical workers.
+data on 1^6 players, managers, umpires and IBM supported colleges, universities and high schools with large
+executives enshrined there. minority, handicapped and disadvantaged enrollments by
+providing these institutions with more than 100 employees through
+the company's Faculty Loan Program. These employees are
+teaching and providing administrative assistance during the current
+academic year.
+In New York City, IBM is serving as the lead company for a
+coalition of businesses, non-profit organizations and educational
+institutions, whose objective is to establish a program to help needy
+inner-city youths find summer jobs. In 1986, the company con-
+tinued its support of job training centers in the U.S. and Europe.
+More than 19,500 people in the U.S. have received training in
+information processing and office skills at IBM-sponsored job
+training centers since 1968.
+In January of 1986, IBM opened its National Support Center for
+Persons with Disabilities. The center, which is located in Atlanta,
+Ga., provides information to individuals, institutions and agencies
+about computers and associated products that can help disabled
+individuals live more productively, IBM also created a Product Ini-
+tiatives for the Disabled Person project office within the company to
+Roy Smolky, an IBM industry specialist, discusses act as the corporate focal point for product planning and devel-
+operation of numerical control equipment opment efforts designed to aid persons with disabilities.
+with a staff member and students at Oakland In an effort to foster more interest in mathematics among
+Community College in Auburn Hills, Mich. school children, IBM is helping underwrite a new public television
+The college is participating in a joint study loith series called "Square One TV." The half-hour, daily program
+IBM to develop a curriculum in computer presents a spectrum of math concepts through short segments
+integrated manufacturing. which parody popular television programming. The series is pro-
+duced by Children's Television Workshop, the producer of several
+successful educational TV programs for children.
+
+===== PAGE 20 =====
+Report of Management
+Responsibility for the integrity and objectivity IBM Business Conduct Guidelines. These guide-
+of the financial information presented in this lines, translated into numerous languages, are
+Annual Report rests with IBM management. distributed to employees throughout the world,
+The accompanying financial statements have and reemphasized through internal programs to
+been prepared in conformity with generally assure that they are understood and followed.
+accepted accounting principles, applying cer- Price Waterhouse, independent accoun-
+tain estimates and judgments as required. tants, are retained to examine IBM's financial
+IBM maintains an effective system of statements. Their accompanying report is based
+internal accounting control. It consists, in part, on an examination conducted in accordance
+of organizational arrangements with clearly with generally accepted auditing standards, in-
+defined lines of responsibility and delegation of cluding a review of internal accounting controls
+authority. We believe this system provides reason- and tests of accounting procedures and records.
+able assurance that transactions are executed The Audit Committee of the Board of
+in accordance with management authorization, Directors is composed solely of outside direc-
+and that they are appropriately recorded, in tors, and is responsible for recommending to the
+order to permit preparation of financial state- Board the independent accounting firm to
+ments in conformity with generally accepted be retained for the coming year, subject to stock-
+accounting principles and to adequately safe- holder approval. The Audit Committee meets
+guard, verify and maintain accountability periodically and privately with the independent
+of assets. An important element of the system accountants, with our internal auditors, as well
+is an ongoing internal audit program. as with IBM management, to review accounting,
+To assure the effective administration auditing, internal accounting controls and finan-
+of internal control, we carefully select and train cial reporting matters.
+our employees, develop and disseminate writ-
+ten policies and procedures, provide appro-
+priate communication channels, and foster an John F. Akers Chairman of the Board
+environment conducive to the effective func-
+tioning of controls. We continue to believe that
+it is essential for the company to conduct
+its business affairs in accordance with the Frank A.Metz,Jr. Senior Vice President,
+highest ethical standards, as set forth in the Finance & Planning
+Report of Independent Accountants
+To the Stockholders and Board of Directors of January 27,1987
+International Business Machines Corporation
+In our opinion, the accompanying consolidated were made in accordance with generally
+financial statements, appearing on pages 22, accepted auditing standards and accordingly in-
+23, 24, 26, and 30 through 40, present fairly the cluded such tests of the accounting records and
+financial position of International Business such other auditing procedures as we considered
+Machines Corporation and its subsidiary com- necessary in the circumstances.
+panies at December 31,1986, and 1985, and the
+results of their operations and changes in funds
+for each of the three years in the period ended /t-C-O-'
+December 31,1986, in conformity with generally Price Waterhouse
+accepted accounting principles consistently 153 East 53rd Street
+applied. Our examinations of these statements New York, N.Y. 10022
+
+===== PAGE 21 =====
+Consolidated Statement of Earnings
+for the year ended December 31:
+(Dollars in millions except per share amounts) 1985
+Gross Income:
+Sales 34,276 34,404 29,753
+Maintenance services 7,413 6,103 5,266
+Program products 5,514 4,165 3,197
+Rentals and other services 4,047 5,384 7,721
+51,250 $ 50,056 $45,937
+Cost of sales 16,197 14,911 12,374
+Cost of maintenance services 3,032 2,561 2,289
+Cost of program products 1,519 1,194 1,166
+Cost of rentals and other services 1,958 2,437 3,090
+Selling, general and administrative expenses . . 15,464 13,000 11,587
+Research, development and engineering expenses 5,221 4,723 4,200
+Interest expense 47 5 443
+43,866 39,269 35,114
+7,384 10,787 10,823
+Other income, principally interest 1,005 832 800
+Earnings before income taxes 8,389 11,619 11,623
+Provision for income taxes 3,600 5,064 5,041
+Net Earnings $ 4,789 6,555 6,582
+Per share 7.81 $ 10.67 $ 10.77
+Average number of shares outstanding:
+1986-612,838,531
+1985—614,084,568
+1984—611,426,324
+
+===== PAGE 22 =====
+Consolidated Statement of Financial Position
+at December 31:
+(Dollarsin millions) 1986
+Assets
+Current Assets:
+Cash 755
+Marketable securities, at cost, which approximates market 6,502 4,726
+Notes and accounts receivable-trade, net of allowances 9,971 9,757
+Other accounts receivable 854 809
+Inventories 8,039 8,579
+Prepaid expenses and other current assets
+1,628 27,749 1,303 $ 26,070
+Plant, Rental Machines and Other Property
+Less: Accumulated depreciation 3 16 8 , , 8 12 53 1 3 1 4 4 , , 4 8 8 0 3 3
+21,268 19,680
+Investments and Other Assets:
+Program products, less accumulated amortization (1986, $2,226; 1985, $ 1,765) 2,199 1,964
+Investments and sundry assets 6,598 4,920
+8,797 6,884
+57,814 $ 52,634
+Liabilities and Stockholders' Equity
+Current Liabilities:
+Taxes 2,583 3,089
+Loans payable 1,410 1,293
+Accounts payable 1,970 1,823
+Compensation and benefits 3,001 2,460
+Deferred income 414 391
+Other accrued expenses and liabilities. . 3,365 2,377
+12,743 11,433
+Long-Term Debt 4,169 3,955
+Other Liabilities 2,004 1,606
+Deferred Income Taxes 4,524 3,650
+Stockholders' Equity:
+Capital stock, par value $ 1.25 per share. . 6,321 6,267
+Shares authorized: 750,000,000
+Issued: 1986—606,614,368; 1985—615,741,
+Retained earnings 27,834 27,234
+Translation adjustments 307 (1,466)
+34,462 32,035
+Less: Treasury stock, at cost 88 45
+Shares: 1986—691,419; 1985—323,425
+34,3 74 31,990
+57,814 $ 52,634
+
+===== PAGE 23 =====
+Consolidated Statement of Funds Flow
+for the year ended December 31:
+(Dollars in millions) 1986 1985 1984
+Funds (Cash and Marketable Securities) at January i $ 5,622 $4,362 $5,536
+Provided from Operations:
+Sources:
+Net earnings $ 4,789 $ 6,555 $ 6,582
+Items not requiring the current use of funds:
+Depreciation 3,316 3,051 3,215
+Net book value of rental machines and
+other property retired or sold 647 867 1,483
+Amortization of program products 672 425 486
+Other (principally deferred income taxes) 1,257 1,880 1,004
+10,681 12,778 12,770
+Uses:
+Investment in plant, rental machines and other property . 4,620 6,430 5,473
+Investment in program products 907 785 803
+Increase in investments and sundry assets 1,678 454 1,764
+Net change in working capital
+(excluding cash, marketable securities
+and loans payable) (1,149) 3,101 4,043
+6,056 10,770 12,083
+Translation effects 842 677 (324)
+Net provided from operations 5,467 2,685 363
+Provided from External Financing:
+Net change in long-term debt 214 686 595
+Net change in loans payable 117 459 302
+Net provided from external financing 331 1,145 897
+Provided from (used for):
+Employee stock plans 23 133 73
+Capital stock purchased and retired (1,488) — —
+9,955 8,325 6,869
+Less: Cash Dividends Paid 2,698 2,703 2,507
+Funds (Cash and Marketable Securities) at December ji $ 7,257 $ 5,622 $ 4,362
+The notes on pages 30 through 40 are an integral part of this statement.
+
+===== PAGE 24 =====
+Summary of Sources of Funds (Dollars in millions) Summary of Uses of Funds (Dollars in millions)
+. ^ tl^ $1,059 New Long-Term Debt
+$ 140 Loans Payable and
+Employee Stock Plans
+Operations! 11,5 231
+11 Deludes Translation Effects of $842
+Expenditures for Plant and Other Property Investment (Additions) in Plant and Other Property
+Continuous upgrading of our facilities is $24,000 (In millions)
+essential to achieve our objectives to maintain
+technological leadership, improve productivity
+and meet customer demand. Over the past five
+years, the company has invested over $22 billion
+in land, buildings, machinery and equipment,
+and internally installed IBM manufactured
+equipment. These recent additions represent
+64 percent of the gross asset value of plant and
+other property as of December 31,1986.
+9,000
+6,000
+3,000
+0 1982 '83 '84 '85 198O
+Annual HB Cumulative for five-year period
+
+===== PAGE 25 =====
+Consolidated Statement of Stockholders' Equity
+International Business Machines Corporation
+for the year ended December 31: and Subsidiary Companies
+Translation
+(Dollarsin millions) Capital Stock Retained Earnings Adjustments Treasury Stock Total
+1984 Stockholders' Equity, January i, 1984 $ 5,800 $ 19,489 $(2,070) $ — $ 23,219
+Net earnings 6,582 6,582
+Cash dividends declared (2,507) (2,507)
+Capital stock issued under employee
+plans (2,351,859 shares) 154 154
+Purchases (6,711,522 shares) and sales
+(6,320,561 shares) of treasury stock under
+employee and stockholder plans—net . . . (78) ((4477)) ((112255))
+Tax reductions—employee plans 44 44
+Translation adjustments (878) (878)
+Stockholders' Equity, December 31,1984 5>998 23,486 (2,948) (47) 26,489
+1985 Net earnings 6,555 6,555
+Cash dividends declared (2,703) (2,703)
+Capital stock issued under employee
+plans (2,664,869 shares) 173 173
+Purchases (6,346,223 shares) and sales
+(6,413,759 shares) of treasury stock under
+employee and stockholder plans—net . . . (104) 2 ((110022))
+Other (principally tax reductions-
+employee plans) 96 9966
+Translation adjustments 1,482 1,482
+Stockholders' Equity, December 31,1985 6,267 27,234 (1,466) (45) 31,990
+1986 Net earnings 4,789 4,789
+Cash dividends declared (2,698) (2,698)
+Capital stock issued under employee
+plans (1,965,505 shares) 141 141
+Purchases (7,033,465 shares) and sales
+(6,665,471 shares) of treasury stock under
+employee and stockholder plans—net . . . (118) ((4433)) ((II66ii))
+Capital stock purchased
+and retired (11,094,900 shares) (115) (1,373) ((11,,448888))
+Unrealized loss on marketable
+equity securities (17) (17)
+Other (principally tax reductions-
+employee plans) 45 45
+Translation adjustments 1,773 1,773
+Stockholders' Equity, December 31,1986 $ 6,321 $27,834 $ 307 $(88) $ 34,374
+The notes on pages 30 through 40 are an integral part of this statement.
+
+===== PAGE 26 =====
+Results of Operations Worldwide net earnings in 1986 were $4.8 Sales revenues, excluding sales of installed rental
+Results of operations in 1986 were disappointing. billion, down 26.9 percent from the previous equipment, have grown to approximately two-
+Continuing sluggishness in the U.S. economy, year. Net earnings in 1985 were essentially flat thirds of total gross income from one-third in
+slack capital investment in North America, when compared with a record performance 1982. The current mix of revenue sources makes
+moderating economic performance in some in 1984. the company's financial performance more
+countries outside the U.S. and unsatisfactory Gross income from sales was down slightly sensitive to fluctuations in product and
+levels of demand for parts of our product line from 1985 due entirely to a decline in sales of economic cycles.
+were among the factors contributing to a installed rental equipment. Gross income from Information on industry segments and
+decline in worldwide orders and shipments sales, excluding sales of installed rental equip- classes of similar products or services is
+from 1985 levels. ment, increased 2.2 percent over 1985, following presented on page 39. Substantial growth in large
+Worldwide gross income increased 2.4 per- an increase of 24.6 percent in 1985 over 1984. processor revenue in 1986 was partially offset by
+cent in 1986 to $51.3 billion, following an increase Gross income from maintenance services and declines in revenue from other processors. In the
+of 9.0 percent in 1985 over 1984. Gross income program products grew 21.5 percent and 32.4 U.S., the growth in large processors was more
+from non-U.S. operations increased 20.2 percent percent, respectively, and continued to grow as a than offset by the decline in other processors.
+to $ 25.9 billion in 1986, while revenue from U.S. percent of total gross income. Gross income from peripherals declined ii.o
+operations declined ii.o percent to $ 25.4 billion. The composition of gross income continues percent after an increase of 9.3 percent in 1985
+Outside the U.S., the strongest performance was to change. Five years ago, gross income from over 1984. These changes were driven primarily
+in the Asia/Pacific area, where gross income rentals, combined with that from sales of by the performance of storage products. In the
+increased 30.0 percent over 1985. This followed a installed equipment, was 45.8 percent of the office systems/workstations product class, gross
+22.4 percent increase in 1985 over 1984. In the total. In 1985, this declined to 11.2 percent, and in income from personal computer products
+Europe/Middle East/Africa area, the largest of 1986, was down to 6.4 percent. Gross income declined slightly in 1986 when compared to a
+IBM's non-U.S. operations, gross income grew from maintenance services and program prod- record revenue year in 1985. All of the decline in
+21.4 percent over that of 1985, to $17.1 billion. ucts combined grew from 16.4 percent of total the office systems/workstations product class was
+The weakening of the U.S. dollar had a posi- gross income in 1982 to 25.2 percent in 1986. in the US.
+tive effect on reported financial results in 1986. Worldwide gross profit declined 1.4 percent
+The graphs on page 32 depict the movement, Gross Income to $ 28.5 billion in 1986, and gross profit margins
+relative to the dollar, of the six major currencies $55,000 (In millions) declined 2.1 percentage points to 55.7 percent.
+in which IBM conducts most of its non-US. busi- Increases in gross profit and margins from main-
+ness. The dollar began to weaken against most of 50,000 11% 8% tenance services and program products were
+these currencies in early 1985 and continued to offset by declines in gross profit and margins of
+45,000 11%
+do so through 1986. It is estimated that had cur- 17% 8% sales and rentals and other services. Gross profit
+rency rates remained constant with those of 1985, 40,000 1 margins on sales declined 4.0 percentage points
+12% 14%
+worldwide gross income and net earnings in 25% 7% to 52.7 percent. This was driven primarily by
+1986 would have been lower by $4,365 million 35,000 11% price levels and a shift in our product mix toward
+and $ 645 million, respectively. 30,000 35% 6% lower gross profit products.
+11%
+25,000
+5% 67%
+20,000 11% 69%
+65%
+15,000
+58%
+10,000
+49%
+5,000
+Rentals and Other Services
+Program Products
+Maintenance Services
+Sales
+
+===== PAGE 27 =====
+Selling, general and administrative number of employees in the U.S. will decrease in Financial Condition
+expenses were $15.5 billion in 1986, an increase of 1987, by approximately 12,000, driven in large IBM's financial position remained strong during
+19.0 percent over 1985. If adjusted for the impact part by the previously announced early retire- 1986 as the company placed continued emphasis
+of currency translation rates, however, we esti- ment incentive in addition to limited hiring. on the efficient deployment of its assets and
+mate these expenses would have increased On October 22,1986, the U.S. Tax Reform investment in new products and technologies
+approximately 8 percent from the prior year. Act of 1986 was signed into law. The Act will have that assure the company's future growth.
+Some of this increase was caused by extraor- a significant future effect on IBM's net U.S. During 1986, expenditures for research,
+dinary actions taken to redeploy thousands deferred tax liability balances of approximately development and engineering amounted to $5.2
+of people to intensify our marketing efforts. $ 2 billion, which were recorded in previous years billion, representing 10.2 percent of gross income
+Expenditures for research, development and at significantly higher rates than those estab- and an increase of 10.5 percent over 1985. These
+engineering amounted to $5.2 billion in 1986, lished by the Act. The ultimate disposition of investments, all of which are expensed as
+compared with $4.7 billion in 1985. These con- these amounts at the Act's lower rates will result incurred, have amounted to $ 20.8 billion over
+tinuing expenditures reflect management's in a positive effect on IBM's earnings and cash the last five years, as indicated by the graph on
+opinion that technological advances remain flows in future years. page 29. Their scope covers a broad range of
+essential to IBM's future business prospects. The Act's impact on 1987 earnings is activities from basic research to applied devel-
+Other income grew 20.8 percent in 1986 to expected to be positive, due primarily to the opment. In an increasingly competitive inter-
+$1.0 billion, primarily from earnings on our effect of reduced corporate rates. This impact national environment, these investments are
+increased marketable securities position. will not necessarily result in improved cash essential to maintain a steady flow of innovative
+During 1986, IBM realigned operations flows, due to tax law changes pertaining to the new products that provide the basis for future
+within its U.S. marketing, manufacturing and recognition and timing of certain income and growth.
+development, and World Trade organizations to expense items, including installment sales and Investments in plant and other property
+increase the focus on customer requirements, capitalization of inventory costs, as well as the decreased 22.4 percent from $6.1 billion in
+improve efficiency, and reduce overhead across elimination of the investment tax credit. The 1985, to $4.7 billion in 1986. This brings total
+the organization. At virtually every level of the timing of the impact on deferred taxes, including investment over the last five years to $ 22.4 bil-
+organization, our headquarters staffs have the effect on balances previously established at lion, as reflected in the graph on page 25. These
+been restructured and substantially reduced. higher rates, will depend in large measure on the additions, though reduced to permit the com-
+Marketing efforts were intensified by conclusions reached by the Financial Account- pany to bring capacity in line with current and
+increasing the number of people available to ing Standards Board in its project on accounting projected needs, were sufficient to ensure con-
+assist customers in developing solutions to their for income taxes. tinued improvements in manufacturing
+information system needs. Fourth quarter net earnings were reduced efficiency and industry leadership in quality.
+U.S. manufacturing and development as a result of special actions which were taken to Management intends to continue to invest
+groups and divisions are being consolidated to reduce costs, balance resources, and improve prudently in productive capacity at levels com-
+improve communications and planning among operating efficiencies in the future. These actions mensurate with anticipated market growth.
+the organizations, while reducing the staffs included early retirement incentive programs in IBM invested $907 million in program prod-
+necessary to support them. the US. and certain other countries, redeploy- ucts in the last year, bringing total investments
+The IBM World Trade Americas/Far East ment of employees into marketing, and closing in this activity to $3.6 billion over the last five
+Corporation was reorganized into two new of our Greencastle, Indiana, facility. Fourth years. The unamortized portion of these capital-
+World Trade operating units to increase man- quarter earnings also reflected the planned sale ized production costs amounted to $ 2.2 billion
+agement focus on growing business oppor- of our South African subsidiary. at the end of 1986. This growth in investment is
+tunities, primarily in the Asia/Pacific area. Retroactive provisions of the U.S. Tax consistent with our view of the growth potential
+In 1986, the company reduced its U.S. Reform Act had a small positive impact on earn- for this business area, as evidenced by a com-
+employee population by approximately 5,000 ings in the fourth quarter. pound annual growth rate in revenue exceeding
+people. Management anticipates that the Management continues to believe that the 36 percent over the last five years. In 1986,
+information industry is one with potential for revenue from program products amounted to
+unparalleled long-term growth and that the IBM $5.5 billion.
+company is well positioned to share in that
+growth.
+
+===== PAGE 28 =====
+Investments in finance subsidiaries and These debentures are exchangeable, at the dend Reinvestment Plan were met by continued
+sales-type leases continued to expand in option of the holder, for IBM-owned shares of open-market acquisition of shares.
+1986. During the year, IBM invested a total of capital stock of Intel Corporation. Reductions in The company also purchased more than 11
+$1.1 billion in the IBM Credit Corporation and long-term debt during the year amounted million shares of its stock for $1,488 million as
+similar! BM activities around the world, reflect- to $845 million and included early retirement part of a stock repurchase program. Shares pur-
+ing the company's growing participation in of the $500 million, 10V2 percent debentures due chased under this plan were retired.
+financing products purchased by its customers. in 2015. These changes in long-term debt, The accounting method for translating the
+In February of 1986, MCi Communica- coupled with an increase in loans payable of majority of non-U.S. net assets into U.S. dollars
+tions Corporation^completed its purchase of $117 million, resulted in net funds provided from requires such items to be translated at current
+substantially all 'the assets of Satellite Business external financing of $331 million. exchange rates. The cumulative effect of this cur-
+Systems. In exchange, IBM received approxi- Other liabilities increased by $398 million rency translation is included in the equity sec-
+mately 47 million unregistered shares of in 1986 principally due to an increase in reserves tion of the consolidated statement of financial
+MCI stock, recorded as an investment of $528 for non-U.S. retirement plans. position as "translation adjustments."
+million at year-end 1986. During 1986, deferred income taxes The weakening of the U.S. dollar relative to
+The company's working capital increased increased by $ 874 million. This increase is attrib- other currencies during 1986 caused a significant
+by $369 million during the year. The major item utable to tax timing differences between reported change in stockholders' equity. This difference is
+causing this increase was the addition of $1.6 and taxable earnings that arise because certain reflected in the net change in "translation adjust-
+billion to cash and marketable securities. This transactions are included in taxable earnings in ments", and amounted to $1,773 million. This
+increase was offset primarily by an increase of other years. change results from valuing non-U.S. net assets
+$1.0 billion in other accrued expenses and liabili- At the Annual Meeting in April 1986, stock- at the relatively higher foreign currency exchange
+ties. These liabilities include items such as holders approved new five-year stock option and rates at year-end 1986, and is not a result of the
+accruals for moving and living expenses, war- employee stock purchase plans. Most of the operational performance of the company.
+ranty service, employee withholding taxes and requirements of these plans and the IBM Divi- Dividends of $ 2,698 million were paid dur-
+interest payable. ing the year, down slightly from $ 2,703 million in
+Total inventories were down $1.3 billion dur- Research, Development and 1985. This reduction reflects the fact that there
+ing the year. Of this decline, $540 million was in Engineering Expenses were fewer shares outstanding. Dividends total-
+current inventories, principally finished goods. $6,000 (In millions) ing $4.40 per share were paid each year.
+The remainder of the decrease, $782 million, During 1986, management focused consid-
+was in work in process inventory included in erable attention on balancing investments with
+plant, rental machines and other property. Year- 5,000 current and projected growth trends for the
+end inventory balances would have been industry. To this end, operations have been re-
+lower by approximately $ 600 million if adjusted structured, and people have been moved to work
+for the impact of currency translation rates. 4,000 and work to people. We continue our prudent
+The decreases were a result of management's management of capital, inventories and other
+continuing focus on maintaining proper assets. Overall, IBM's balance sheet remains
+inventory levels. 3,000 strong, as indicated by a current ratio of
+During 1986, funds generated from 2.2 to I and a long-term debt-to-equity ratio
+operations amounted to $10.7 billion. This repre- of 12.1 percent.
+sented 84 percent of total funds provided. 2,000 This sound financial position, coupled with
+In addition, the company issued $1,059 million a strong product line and skilled and loyal
+in new long-term debt. The major new long- employees, forms the basis of the company's
+1,000
+term borrowing was the $300 million exchange- confidence in its ability to maintain its lead-
+able subordinated debentures due in 1996. ership role in the information-handling industry.
+
+===== PAGE 29 =====
+Notes to Consolidated Financial Statements:
+Significant Accounting Policies
+Principles The consolidated financial statements include the accounts of International Business Machines Corporation
+of Consolidation: and its U. S. and non-U. S. subsidiary companies, other than the wholly owned IBM Credit Corporation and non-U. S.
+finance subsidiaries, for which the equity method is used. Investments in joint ventures, and other companies in
+which IBM has a 20 to 50 percent ownership, are accounted for by the equity method. Investments of less than 20 percent
+are accounted for by the cost method.
+Translation of For non-U S. subsidiaries which operate in a local currency environment, assets and liabilities are translated to
+Non-U. S. Currency AmountsU: . S. dollars at year-end exchange rates. Income and expense items are translated at average rates of exchange prevailing
+during the year. Translation adjustments are accumulated in a separate component of stockholders' equity. For non-U. S.
+subsidiaries and branches which operate in U. S. dollars or whose economic environment is highly inflationary,
+inventories and plant, rental machines and other property are translated at approximate rates prevailing when acquired.
+All other assets and liabilities are translated at year-end exchange rates. Inventories charged to cost of sales and
+depreciation are remeasured at historical rates. All other income and expense items are translated at average rates of
+exchange prevailing during the year. Gains and losses which result from remeasurement are included in earnings.
+Gross Income: Gross income is recognized from sales or sales-type leases when the product is shipped, from program products when
+the program is shipped or as monthly license fees accrue, from maintenance and other services over the contractual
+period or as the services are performed, and from rentals under operating leases in the month in which they accrue.
+IBM equipment offered under term leases by IBM's finance subsidiaries is accounted for by IBM as outright sales.
+Program Products: Costs related to the conceptual formulation and design of licensed programs are expensed as research and development.
+Costs incurred subsequent to establishment of technological feasibility to produce the finished product are generally
+capitalized as program products assets. The annual amortization of these assets is the greater of the amount computed
+based on the estimated revenue distribution over the products' revenue-producing lives or the straight-line method,
+but not in excess of six years. Ongoing costs to support or service licensed programs are charged to period cost.
+Depreciation: Plant, rental machines and other property are carried at cost and depreciated over their estimated useful lives.
+Depreciation of assets acquired subsequent to December 31,1983 is computed using the straight-line method. Depreciation
+of assets acquired prior to January i, 1984 is computed using either accelerated methods or the straight-line method.
+Goodwill: The excess of the cost over the fair value of the net assets of purchased businesses is recorded as goodwill and
+amortized on a straight-line basis over 20 years. Goodwill related to equity investments is included in the investment
+and amortized on a straight-line basis over 20 years.
+Retirement Plans and Current service costs of retirement plans are accrued currently. Prior service costs resulting from improvements
+Other Postretirement Benefitisn: the plans are amortized over the average remaining service period of employees expected to receive benefits.
+Postretirement health care and life insurance benefits are fully accrued when the employee retires.
+Selling Expenses: Selling expenses are charged against income as incurred.
+Income Taxes: Income tax expense is based on reported earnings before income taxes. It thus includes the effects of timing differences
+between reported and taxable earnings that arise because certain transactions are included in taxable earnings in
+other years. Deferred investment tax credits are being amortized as a reduction of income tax expense over the average
+useful life of the applicable classes of property.
+Inventories: Raw materials, operating supplies, finished goods and work in process are stated at the lower of average cost or market.
+
+===== PAGE 30 =====
+At end of year:
+Net assets employed
+Current assets $ 15,319 $ 12,395 $ 8,583
+Current liabilities 7,743 6,629 4,636
+Working capital 7,576 5,766 3,947
+Plant, rental machines and other property, net 7,831 6,451 4,902
+I nvestments and other assets 3,910 2,569 1,690
+19,317 14,786 10,539
+Long-term debt 896 645 222
+Other liabilities 1,921 1,448 1,125
+Deferred income taxes 1,209 805 346
+4,026 2,898 1,693
+Net assets employed $ 15,291 $ 11,888 $ 8,846
+Number of employees 166,234 163,294 156,042
+For the year:
+Gross income $ 25,888 $ 21,545 $ 18,566
+EEaarrnniinnggss bbeeffoorree iinnccoommee ttaaxxeess $ 5,871 $ 5,546 $$ 4,640
+PPrroovviissiioonn ffoorr iinnccoommee ttaaxxeess 2,678 2,468 $$ 2,053
+NNeett eeaarrnniinnggss $ 3,193 $ 3,078 2,587
+$$
+IInnvveessttmmeenntt iinn ppllaanntt,, rreennttaall mmaacchhiinneess aanndd ootthheerr pprrooppeerrttyy $ 1,958 $ 2,333 1,807
+Non-U. S. subsidiaries which operate in a local previous year's rates. The dollar, which had con- the movement, in relation to the dollar, of the six
+currency environment account for approxi- tinued to strengthen during 1984, began to weak- major currencies in which IBM conducts most
+mately 85% of the company's non-U. S. gross in- en in 1985 with further weakening during 1986. of its non-U. S. business.
+come. The remaining 15% of the company's IBM's 1984 and 1985 gross income and net earn- Undistributed earnings of non-U. S. sub-
+non-U. S. gross income is from subsidiaries and ings were adversely affected by currency rates. sidiaries included in consolidated retained earn-
+branches which operate in U. S. dollars However, there was a positive effect on the year ings amounted to $12,108 million at December
+or whose economic environment is highly 1986. The translation adjustments, resulting from 31,1986, $11,147 million at December 31,1985
+inflationary. the translation of net assets, amounted to $307 and $ 9,837 million at December 31,1984. These
+Non-U. S. financial results are affected by million at December 31,1986, ($1,466) million at earnings, which reflect full provision for non-
+fluctuations in the value of the U. S. dollar December 31,1985, and ($2,948) million at De- U. S. income taxes, are indefinitely reinvested in
+compared to the currencies of many countries. cember 31,1984. The reduction of the translation non-U. S. operations. Accordingly, no provision
+As the dollar weakens, net assets and net earn- adjustments since the end of 1984 is a reflection has been made for taxes that might be payable
+ings recorded in local currencies translate into of the weakening of the dollar during 1985 upon remittance of such earnings.
+more U. S. dollars than they would have at the and 1986. The graphs on the next page illustrate
+
+===== PAGE 31 =====
+Percentage Change in Value of Foreign Currencies Compared to U.S. Dollar
+British pound Canadian dollar French franc German mark Italian lira Japanese yen
++2%
+X
+-10%
+1984 1985 1986 1984 1985 1986 1984 1985
+Base—as of January i, 1984
+Marketable Securities (Dollars in millions) December 31,1986 December 31,1985
+US. Government securities $ 1,897 $ 917
+Time deposits and other bank obligations 3,563 2,183
+Non-U. S. government securities and other fixed-term obligations 1,626
+Total $ 6,502 $ 4,726
+Market value, $ 6,502 $ 4,729
+Inventories (Dollars in millions) December 31,1986 December 31,1985
+Current inventories:
+Finished goods 2,166 $ 2,576
+Work in process 5,645 5,714
+Raw materials and operating supplies 228 289
+Total current inventories 8,039 8,579
+Work in process and field service parts included in
+plant, rental machines and other property . . . 975 1,757
+Total inventories 9,014 $ 10,336
+
+===== PAGE 32 =====
+Plant, Rental Machines and Other Property (Dollars in millions) December 31,1986 December 31,1985
+Landandlandimprovements . . . . $ 1,200 $ 1,049
+Buildings 9,878 8,474
+Plant, laboratory and office equipment. 23,782 20,323
+34,860 29,846
+Less: Accumulated depreciation . . . 14,619 11,999
+20,241 17,847
+Rental machines and parts . . 3,261 4,637
+Less: Accumulated depreciation 2,234 2,804
+1,027 1,833
+Total $ 21,268 $ 19,680
+Investments and Sundry Assets (Dollars in millions) December 31,1986 December 31,1985
+Investments in finance subsidiaries $ 1,748 $ 1,095
+Net investment in sales-type leases 1,644 1,172
+Goodwill, less accumulated amortization (1986, $ 94; 1985, $49) 807 852
+Investment in Intel Corporationt 636 641
+Investment in MCI Communications Corporation^ 528
+—
+Other investments and sundry assets^ 1,235 1,160
+Total $ 6,598 $ 4,920
+tin March of 1986, IBM issued $300 million of reserve of $17 million. In 1985, this investment under which it will invest an additional $400
+exchangeable subordinated debentures due 1996. was accounted for by the equity method, and million in MCI between September i, 1986 and
+These debentures are exchangeable, at the included goodwill of $ 375 million (net of accu- December 31,1988. An additional payment of
+option of the holder, for 7,792,208 IBM-owned mulated amortization of $48 million). $ 68 million was made to Aetna Life & Casualty
+shares of capital stock of Intel Corporation. tEffective February 28,1986, MCI completed its for its share of SBS upon completion of the
+IBM has also waived its right to designate a purchase of substantially all the assets and oper- transaction. IBM's investment in MCI is accounted
+representative to serve as a member of the Intel ations of Satellite Business Systems. In exchange, for by the cost method. In 1985, IBM's investment
+board of directors. Accordingly, IBM's invest- IBM received approximately 47 million un- in SBS was accounted for by the equity method
+ment, approximately 22.6 million shares of Intel registered shares of MCI common stock, which and is included in other investments and
+Corporation capital stock, is accounted for IBM agrees to retain for a minimum of three sundry assets.
+by the cost method, and is net of a valuation years. IBM has agreed to certain conditions
+
+===== PAGE 33 =====
+Long-Term Debt (Dollars in millions) December 31,1986 December 31,1985
+U.S. dollars:
+convertible subordinated debentures due 2004t 1,285 $ 1,285
+io'/4% notes due 1995 500 500
+9%% debentures due 2004 (with sinking fund payments to 2003) 404 442
+6%% exchangeable subordinated debentures due 1996$ 300
+io'/2% debentures due 2015 500
+Other U. S. dollars, due 1987-2012 (8.7%) 761 543
+3,250 3,270
+Other, payable in:
+(Average interest rate at December 31,1986, in parentheses)
+Swiss francs, due 1987-1996 (4.7%) 361 243
+French francs, due 1987-1997 (10.5%) 263 246
+Japanese yen, due 1987-2016 (7.0%) 253 202
+European currency units, due 1990 (8.25%) 160 133
+German marks, due 1987-1993 (9.5%) 55 201
+Other currencies, due 1987-1999 (19.3%) 117 ^
+4,459 4,357
+Less: Net unamortized discount 9 11
+4,450 4,345
+Less: Current maturities 281 390
+Total 4,169 $3,955
+Annual maturity and sinking fund requirements in millions of dollars on
+long-term debt outstanding at December 31,1986, are as follows:
+1987, $ 281; 1988, $307; 1989, $83; 1990, $409; 1991, $ 214; 1992 and beyond, $3,165.
+tThe 7%% convertible subordinated debentures thereafter. Sinking fund payments starting in IBM, which are exchangeable into capital stock of
+are unsecured subordinated obligations of IBM, 1994 are intended to retire 75% of the debentures Intel Corporation at $38.50 per share. They
+which are convertible into IBM capital stock at a prior to maturity. During 1986, conversions are redeemable at the option of the company,
+conversion price of $ 153.6563 per share. They will of debentures resulted in the issuance of 2,076 under certain conditions at 105% of the principal
+be redeemable, at the option of the company, shares of IBM capital stock. amount until March 1989, and at declining
+starting in November 1988 at a price of 104.725% tThe exchangeable subordinated deben- premiums thereafter.
+of the principal amount, and at decreasing prices tures are unsecured subordinated obligations of
+
+===== PAGE 34 =====
+Earnings before income taxes:
+U.S. operations $ 2,518 $ 6,073 $ 6,983
+Non-U. S. operations 5,871 5,546 4,640
+$ 8,389 $ 11,619 $ 11,623
+Provision for income taxes:
+U.S. operations $ 922 $ 2,596 $ 2,988
+Non-US. operations 2,678 2,468 2,053
+3,600 5,064 5,041
+Social Security, real estate, personal property and other taxes 2,025 1,753 1,636
+Total $ 5,625 $ 6,817 $ 6,677
+The components of the provision for income taxes are as follows:
+U.S. Federal:
+Current $ (190) $ 594 $ 1,406
+Net tax effects of timing differences 250 957 702
+Net deferred investment tax credits 52 144 80
+112 1,695 2,188
+Non-US.:
+Current 3,222 2,886 2,102
+Net tax effects of timing differences 185 246 465
+3,407 3,132 2,567
+U.S. State and local:
+Current 134 128 187
+Net tax effects of timing differences (53) 109 99
+81 237 286
+Total provision $ 3,600 $ 5,064 $ 5,041
+The consolidated effective income tax rate spectively. Included in these amounts were timing differences, no individual item is material.
+was 42.9% in 1986,43.6% in 1985, and 43.4% in timing differences relating to sales-type leases For 1986, these timing differences, combined with
+1984. There were no individually significant and installment sales totaling $434 million, lower U. S. net earnings before taxes and the im-
+items which caused these rates to differ from $ 643 million and $ 623 million for the years pact of tax credits, resulted in negative current
+the U. S. Federal statutory rate. The consoli- 1986,1985 and 1984, respectively. Also included U. S. Federal taxes payable. The impact of tax
+dated net tax effects of timing differences were amounts of $369 million and $358 mil- credits also causes the U. S. Federal tax provision
+amounted to $382 million, $1,312 million and lion for depreciation timing differences for to be lower than the provision for income tax on
+$1,266 million in 1986,1985 and 1984, re- the years 1986 and 1985. Of the remaining total U. S. operations.
+
+===== PAGE 35 =====
+Accounting Changes Rental Expense and Lease Commitments finance subsidiaries offer leases and in some
+On January i, 1986, the company imple- Rental expense, including amounts charged cases finance installment receivables. IBM's
+mented Statement of Financial Accounting to inventories and fixed assets, amounted to $ 1,363 investment in these subsidiaries is accounted for
+Standards No. 86—Accounting for the Costs of million in 1986, $1,110 million in 1985 and $837 by the equity method and earnings are included
+Computer Software to be Sold, Leased, or million in 1984. Minimum rental commitments, in other income in IBM's consolidated statement
+Otherwise Marketed. As a result, the amortiza- in millions of dollars, under noncancelable of earnings.
+tion of program product assets changed from leases for 1987 and thereafter are as follows: Summarized below is combined financial
+a method based on the estimated revenue distri- 1987, $1,031; 1988, $791; 1989, $580; 1990, $440; information for these finance subsidiaries,
+bution over the products' revenue-producing 1991, $354; and after 1991, $1,342. These leases are of which IBM Credit Corporation accounts for
+lives to the greater of the straight-line method or principally for the rental of office premises. more than 85% of the net earnings. These
+the estimated revenue distribution method. subsidiaries have available lines of credit totaling
+Previously, effective January i, 1985, the com- Finance Subsidiaries $1,215 million. IBM has agreed to cause the IBM
+pany had changed from the straight-line method The company's wholly owned unconsol- Credit Corporation to have a positive net worth
+to the estimated revenue distribution method. idated finance subsidiaries consist of IBM Credit at all times. Additional information is available
+Also on January i, 1986, the company Corporation and several non-U. S. finance sub- in the 1986 Annual Report of the IBM Credit
+implemented Statement of Financial Accounting sidiaries. IBM Credit Corporation offers lease Corporation. Copies may be obtained by
+Standards No. 87—Employers' Accounting for financing of selected IBM products, finances writing to:
+Pensions. Refer to note on retirement plans on receivables resulting from installment sales by IBM Stockholder Relations Department
+page 37 IBM of its products, and finances selected 590 Madison Avenue
+None of these changes had a material effect non-IBM equipment in the U. S. The non-U. S. New York, N.Y. 10022
+on earnings for either 1986 or 1985.
+Financial position at December 31:
+Research, Development and Engineering
+(Dollars in millions) 1986 1985 (Dollars in millions) 1986 1985
+Research, development and engineering
+Assets: Liabilities and Stockholder's Equity:
+expenses amounted to $5,221 million in 1986,
+Cash and marketable Short-term debt $ 1,980 1,509
+$4,723 million in 1985 and $4,200 million in 1984. securities $ 208 $ 306 Deferred taxes and
+Included in these amounts were expendi- Installment payment accruals 548 461
+tures of $3,975 million in 1986, $3,457 million in agreement Due to IBM
+receivables-net. ... i,795 1,868 and affiliates:
+1985 and $3,148 million in 1984 for a broad pro-
+Net investment Current 832 538
+gram of research and development covering
+in leases 4,437 3,101 Noncurrent 314 184
+basic scientific research in a variety of fields and Receivable from IBM Long-term debt 2,737 2,406
+the application of scientific advances to the and affiliates 251 347 Stockholder's equity . . 853 720
+development of new and improved products Other 573 196 Total Liabilities
+and their uses. In addition, expenditures and Stockholder's
+for product related engineering amounted to Total Assets $7,264 $5,818 Equity $ 7,264 5,818
+$1,246 million, $1,266 million and $1,052 million
+for the same three years.
+Earnings for the years ended December 31: (Dollars in millions) 1986 1985 1984
+Interest Cost Finance and other income $ 757 $ 539 $ 305
+Interest and other expenses 597 404 230
+Interest on borrowings of the company and
+Provision for income taxes 22 24 7
+its consolidated subsidiaries amounted to $ 604
+Net earnings $ 138 $ III $ 68
+million in 1986, $532 million in 1985 and $456 mil-
+lion in 1984. Of these amounts, $129 million in
+1986, $89 million in 1985 and $48 million in 1984 Total purchases from IBM: (Dollars in millions) 1986 - 1985 1984
+were capitalized, resulting in interest expense IBM products for term lease customers $ 2,052 $ 1,723 $ 1,212
+of $475 million, $443 million and $408 million Installment payment receivables $ 885 $ 1,112 $ 1,143
+for the same three years.
+
+===== PAGE 36 =====
+Retirement Plans The funded status at December 31,1986 was as follows:
+The company and its subsidiaries have U.S. Non-US.
+(Dollars in millions) Plans Plans
+retirement plans covering substantially all
+Actuarial present value of benefit obligations:
+employees. The total cost of all plans for 1986,
+1985 and 1984 w&s $585 million, $868 million and Vested benefit obligation $ (8,005) $(3,931)
+$1,096 million, respectively. Accumulated benefit obligation 1 (8,255) $(4,566)
+Effective January i, 1986, the company Projected benefit obligation $(13,429) $(7,928)
+and its principal non-U. S. subsidiaries imple- Plan assets at fair value 17,065 7,100
+mented Statement of Financial Accounting
+Projected benefit obligation (in excess of) or less than plan assets 3,636 (828)
+Standards No. 87—Employers' Accounting for Unrecognized net gain (1,269) (203)
+Pensions. As a result, the actuarial method Unrecognized prior service cost 950 31
+for determining the annual cost was changed Unrecognized net asset established at January i, 1986 (3,563) (142)
+from the Frozen Initial Liability method to Accrued pension cost recognized in the
+the prescribed Projected Unit Credit method. statement of financial position $ (246) $(l,I42)t
+Other changes made relating to the adoption
+tincludes accrued pension cost of $ 165 million for one country where the accumulated
+of the new standard included the revision of benefit obligation exceeds plan assets since this plan is financed by reserves only.
+actuarial assumptions, a change in the amortiza-
+tion of prior service costs from 15 years to a Net periodic pension cost for 1986 included the following components:
+straight-line basis over the average remaining U.S. Non-US.
+(Dollars in millions) Plans Plans
+service period of employees expected to receive
+benefits, and an assumption for modified career Service cost—benefits earned during the period 1 575 $ 363
+average plans that the average earnings base Interest cost on the projected benefit obligation 900 495
+Actual return on plan assets (2,528) (701)
+period will be updated to the years prior to
+Net amortization and deferral 1,225 207
+retirement.
+Net periodic pension cost $ 172 $ 364
+The decrease in pension cost in 1986 re-
+sulted principally from the adoption of this stan- Total net periodic pension cost for all non-U. S. plans $ 413
+dard, partially offset by amendments to the U.S.
+plans including the effect of special termination to an irrevocable trust fund, which is held for the benefits, to be paid from the trust fund. The
+benefits. The decrease in pension cost in 1985 sole benefit of employees. Monthly retirement prior service cost attributable to this amend-
+resulted principally from favorable returns on benefits generally represent the greater of a fixed ment, excluding the cost of any special termi-
+plan assets. Consistent with this experience, amount per year of service, or a percent of nation benefits included in current pension cost,
+the rate of return assumption was increased. career compensation. For plan purposes, annual will be recognized over the average remaining
+Additionally, 1985 cost also decreased as a result compensation for each year of service before service period of active employees.
+of a change in the amortization period for prior January i, 1987 is defined as the average annual In addition, the plans were also amended
+service cost from 10 to 15 years. compensation paid for the years 1977 through to provide increased benefits to retirees. The
+It is the company's policy to fund accrued 1986. The calculations of current pension cost number of individuals receiving benefits at
+costs to the extent that such costs are tax deduct- and pension obligations assume the average earn- December 31,1986 was 25,091.
+ible. The assets of the various plans include cor- ings base period will be updated to the 10 years The actuarial present value of accumulated
+porate equities, government securities, corporate prior to retirement. Benefits become vested benefit obligations at December 31,1985 was
+debt securities and income-producing real estate. upon completion of 10 years of service. $7,383 million, including $7,064 million of vested
+The following tables provide information on In 1986, the assumed rate of return on plan benefits. These amounts reflect an assumed
+the status of the U. S. retirement plans, and assets was 8%%. Measurement of the projected discount rate of 8% for benefits payable in the
+selected non-U. S. plans which represent approx- benefit obligation was based on an 8% assumed following 10 years and 6% for benefits payable
+imately 95% of the total non-U. S. accumulated discount rate and an assumed 5% long-term thereafter. The fair value of plan assets
+benefit obligations. rate of compensation increase. at December 31,1985 was $14,842 million.
+U. S. Plans: U. S. regular and part-time In 1986, the company announced an amend- Non- U. S. Plans: Most subsidiaries and
+employees are covered by noncontributory plans ment to the IBM Retirement Plans enabling branches outside the U. S. have retirement plans
+which are funded by company contributions eligible employees to receive increased pension covering substantially all their employees, under
+
+===== PAGE 37 =====
+which funds are deposited under various Other Liabilities difference between the option price and the
+fiduciary-type arrangements, annuities are pur- Other liabilities consist principally of average market price of IBM stock on the date of
+chased under group contracts, or reserves are indemnity and retirement plan reserves for exercising the right.
+provided. Retirement benefits are based on years non-U. S. employees. The plans also provide, subject to Commit-
+of service and the employee's compensation, tee approval, that payment by the optionee
+generally during a fixed number of years imme- Stock Purchase Plan upon exercise of an option may be made using
+diately prior to retirement. In April 1986, stockholders approved a IBM stock as well as cash.
+The ranges of assumptions used for the new five-year employees stock purchase plan, The following table summarizes stock
+non-U. S. plans reflect the different economic effective July i, 1986, which authorizes up option transactions during 1986:
+environments within the various countries. to 25 million shares of capital stock for the plan.
+Number of Shares
+In 1986, the assumed rates of return on plan The plan enables employees who are not
+Under Available
+assets ranged from 5% to 11%. Measurement of participants in a stock option plan to purchase
+Option for Option
+the projected benefit obligation was based on IBM's capital stock through payroll deductions
+Balance at
+assumed discount rates ranging from 4'/2% to of up to 10% of eligible compensation. The price
+January i, 1986 . . 13,955,648 584,252
+10% and assumed long-term rates of compen- an employee pays for a share of stock is 85% of
+Options granted . . . 2,337,362 (2,337,362)
+sation increase ranging from 4% to 8V2%. the average market price on the date the employee Options terminated (160,430) 82,502
+At December 31,1985, the fair value of has accumulated enough money to buy a share. Options cancelled—
+plan assets and reserves of individual non- Under the 1986 plan and its predecessor SARS exercised. . . (261,746)
+U. S. subsidiaries and branches exceeded or 1981 plan, employees purchased 5,341,750 shares Options exercised. . (1,978,075)
+Expired under the
+approximated the actuarial present value of during the year, all of which were treasury
+1982 plan (631,448)
+accumulated benefit obligations. shares, for which $638 million was paid to IBM.
+Reserved under the
+At December 31,1986, 22,350,469 reserved
+1986 plan 12,000,000
+Postretirement Benefits unissued shares remain available for purchase
+Balance at
+The company and its U. S. subsidiaries under the 1986 plan.
+December 31,1986. 13,852,759 9,697,944
+have medical, dental and life insurance plans for
+retirees, the estimated costs of which are fully Stock Option Plans Exercisable at
+December 31,1986. 9,066,149
+accrued at retirement. These costs amounted to In April 1986, stockholders approved a new
+$201 million, $12 million and $222 million five-year stock option plan which authorizes
+in 1986,1985 and 1984, respectively. Costs in 1986 up to 12 million shares of capital stock for the The options exercised during 1986 were at
+were higher than in 1985 primarily because of plan. The 1986 Stock Option Plan and its prede- an average option price of $ 69.21 per share.
+amounts recorded for the increased number of cessor plans provide for granting officers and The 13,852,759 shares under option at December
+employees who are retiring under the 1986 other key employees options to purchase IBM's 31,1986, are at option prices ranging from $40.28
+amendment to the U. S. retirement plans. This capital stock at 100% of the market price on to $144.69 per share.
+was partially oflTset by continued favorable invest- the date of grant. Options have a maximum
+ment fund performance and changes in assump- duration of 10 years and become exercisable in Stock Repurchase Program
+tions. Costs in 1985 were lower than in 1984 up to four annual installments, commencing Under a current program for purchasing
+primarily because significantly fewer employees one year from date of grant. IBM stock, 11,094,900 shares were repurchased
+retired in 1985. Favorable investment fund per- The plans are administered by the during 1986 at a cost of $ 1,488 million. The
+formance also contributed to the reduction in Executive Compensation Committee of the repurchased shares were retired and restored to
+costs. It is the company's policy to fund accrued Board of Directors. The Committee may, at its the status of authorized but unissued shares.
+costs to the extent that such costs are tax deduc- discretion, grant Stock Appreciation Rights
+tible. This fund is held by an independent trustee. (SARs) to holders of options. Such rights offer
+Certain of the company's non-U. S. sub- optionees the alternative of electing not to exer-
+sidiaries have similar plans for retirees. However, cise the related stock option, but to receive
+many retirees outside the U. S. are covered by gov- instead an amount in cash, stock, or a combina-
+ernment sponsored and administered programs. tion of cash and stock, equivalent to the
+As a result, the costs of company sponsored
+programs outside the U. S. are not significant.
+
+===== PAGE 38 =====
+Segment Information
+IBM operates primarily in the single industry industry segments and by classes of similar Material interdependencies and overlaps exist
+segment encompassing information-handling products or services within the information- among IBM's operating units and, therefore,
+systems, equipment and services. This segment handling segment. the information may not be indicative
+represents more than 90% of consolidated gross Financial information by geographic area of the financial resuhs of, or investments in,
+income, operating profit and identifiable assets. is summarized on the next page to provide a the reported areas were they independent
+The schedule below shows gross income by better understanding of IBM's operations. organizations.
+Gross Income by Industry Segments and Classes of Similar Products or Servicest
+Consolidated U.S. Only
+(Dollars in millions) 1986 19851: 1984$ 1986 19851: 1984$
+Information-Handling:
+Processors $ 13,161 $ 12,081 $ 11,953 $ 5,499 $ 5,794 $ 6,412
+Peripherals 11,264 12,658 11,576 5,573 7,307 6,906
+Office Systems/Workstations. . 9,429 10,551 9,942 4,662 6,145 6,304
+Maintenance Services . . .. 7,413 6,103 5,266 4,016 3,666 3,106
+Program Products 5,514 4,165 3,197 2,367 2,176 1,708
+Other 2,280 2,368 2,290 1,064 1,301 1,230
+49,061 47,926 44,224 23,181 26,389 25,666
+Federal Systems 2,121 2,057 1,645 2,121 2,057 1,645
+Other Business 68 73 68 60 65 60
+Total $ 51,250 $ 50,056 $ 45,937 $ 25,362 $ 28,511 $ 27,371
+11 n 1986, rentals and other services were less than
+10% of total gross income.
+1:Reclassified to conform with 1986 presentation.
+While IBM operates primarily in a single industry Office Systems/Workstations. Peripherals in- market demand may create requirements for
+segment and manages its worldwide business clude printers, copiers, storage and telecommu- technological enhancements to permit a
+as such, gross income has been categorized into nication devices. Peripheral functions embedded peripheral product (e.g., printer), to be function-
+major classes of product. in processors are classified with Processors. ally integrated with a display, telecommunication
+For purposes of classifying similar Maintenance Services consist of separately device and a processor to form an office system.
+products of the Information-Handling industry billed charges for maintenance. Program Such interchangeability and technological
+segment, user programmable equipment having Products include both applications and systems progress tend to make year to year comparisons
+the capability of manipulating data arithmeti- software. Other consists principally of supplies less valid than they would be in an industry
+cally or logically and making calculations, in a and unit record equipment. less subject to rapid change.
+manner directly addressable by the user through Some products logically fit in more than one Federal Systems consists of specialized
+the operation of a stored program, has been class and are assigned to a specific class based on information-handling products and services
+classified as Processors, except that small busi- a variety of factors. Over time, products tend to primarily for the United States defense, space
+ness computers and intelligent workstations are overlap, merge into or split from existing classes and other agencies.
+included under Office Systems/Workstations. as a result of changing technologies, market Other Business consists of training and test-
+Typewriters have also been classified under perceptions, and/or customer use. For example. ing materials for school, home and industrial use.
+
+===== PAGE 39 =====
+Geographic Areas (Dollars in millions) 1986 1985 1984
+United States
+Gross income - Customers $ 25,362 $ 28,511 1 27,371
+Interarea transfers 3,058 3,487 3,074
+Total $ 28,420 $ 31,998 1 30,445
+Net earnings 1,603 3,450 3,981
+Assets at December 31 31,474 31,886 28,394
+Europe/Middle East/Africa
+Gross income - Customers $ 17,078 $ 14,065 $ 11,996
+Interarea transfers 696 520 363
+Total $ 17,774 $ 14,585 $ 12,359
+Net earnings 2,267 2,104 1,873
+Assets at December 31 19,145 14,341 9,864
+Asia/Pacific
+Gross income - Customers $ 5,883 1 4,524 $ 3,696
+Interarea transfers 862 627 567
+Total $ 6,745 $ 5,151 $ 4,263
+Net earnings 603 572 436
+Assets at December 31 4,846 3,985 2,555
+Americas
+Gross income - Customers $ 2,927 $ 2,956 $ 2,874
+Interarea transfers 738 824 817
+Total $ 3,665 $ 3,780 $ 3,691
+Net earnings 314 406 283
+Assets at December 31 3,613 3,518 3,152
+Eliminations
+Gross income $ (5,354) $ (5,458) $ (4,821;
+Net earnings 2 23 9
+Assets (1,264) (1,096) (1,157;
+Consolidated
+Gross income $ 51,250 $ 50,056 $ 45,937
+Net earnings $ 4,789 $ 6,555 $ 6,582
+Assets at December 31 $ 57,814 $ 52,634 $ 42,808
+Non-U. S. subsidiaries which operate in a local In the Europe/Middle East/Africa area, relate to asset transfers are capitalized and
+currency environment account for approximately European operations accounted for approximately depreciated or amortized by the importing area.
+85% of the company's non-U. S. gross income. 95% of gross income in 1986,1985 and 1984. Interarea accounts receivable, the unamortized
+The remaining 15% is from subsidiaries and Interarea transfers, consisting principally of portion of service charges, and the net change
+branches, predominantly in the Americas, which completed machines, subassemblies and parts, during the year in unamortized service charges
+operate in U. S. dollars or whose economic are generally priced at cost plus an appropriate have been eliminated in consolidation.
+environment is highly inflationary. service charge. The cost and service charges that
+
+===== PAGE 40 =====
+Five-Year Comparison of Selected Financial Data
+(Dollars in millions except per share amounts) 1986 1985 1984 1983 1982
+For the year:
+Gross income $ 51,250 $ 50,056 $45,937 $ 40,180 $34,364
+Net earnings 4,789 6,555 6,582 5,485 4,409
+Per share 7.81 10.67 10.77 9.04 7.39
+Cash dividends paid 2,698 2,703 2,507 2,251 2,053
+Per share 4.40 4.40 4.10 3-71 3-44
+Investment in plant, rental machines
+and other property 4,620 6,430 5,473 4,930 6,685
+Return on stockholders' equity 14.4% 22.4% 26.5% 254% 23.49
+At end of year:
+Total assets $ 57,814 $ 52,634 $ 42,808 137,461 $32,541
+Net investment in plant, rental machines
+and other property 21,268 19,680 16,363 16,142 17,563
+Working capital 15,006 14,637 10,735 8,168 5,080
+Long-term debt 4,169 3,955 3,269 2,674 2,851
+Stockholders'equity 34,374 31,990 26,489 23,219 19,960
+Selected Quarterly Data
+PPeerr SShhaarree SSttoocckk PPrriicceess
+Gross Gross Net
+(Dollars in millions except per share and stock prices) Income Profit Earnings Earnings Dividends High Low
+1986 First Quarter $ 10,127 $ 5, 925 $ 1,017 $ 1.65 $ ][ .10 $ 161.00 $ 143.00
+Second Quarter 12,268 6,829 1,305 2.12 1.10 161.88 142.25
+Third Quarter n,9io 6,642 1,077 1.76 1.10 150. 13 129.25
+Fourth Quartert 16,945 9,148 1,390 2.28 1.10 135- 50 119.25
+Total $51,250 $28, 544 $4,789 $ 7.81 $4-40
+tSee Management Discussion on page 27.
+1985 First Quarter $ 9,769 1 5,591 $ 986 $ 1.61 $ 1.10 $ 138.25 $ 119.00
+Second Quarter 11,434 6,497 1,414 2.30 1.10 133.25 117.38
+Third Quarter 11,698 6,726 1,474 2.40 1.10 132.75 120.00
+Fourth Quarter 17,155 10,139 2,681 4-36 1.10 158.75 122.88
+Total $ 50,056 $ 28,953 $ 6,555 $ 10.67 1 4.40
+There were 792,689 stockholders of record at The regular quarterly cash dividend payable The stock prices reflect the high and low prices
+December 31,1986. During 1986, stockholders March 10,1987, will be at the rate of $1.10 for IBM's capital stock on the New York Stock
+received $ 2,698 million in cash dividends. per share. This dividend will be IBM's 288th Exchange composite tape for the last two years.
+consecutive quarterly cash dividend.
+
+===== PAGE 41 =====
+IBM Corporation John F. Akers Chairman of the Board, IBM Board Committees:
+Board of Directors: Stephen D. Bechtel, Jr Chairman, Bechtel Group, Inc., San Francisco, Calif.-engineeringand construction Executive Committee:
+George B. Beitzel Senior Vice President, IBM John R. Opel, Chairman
+Harold Brown Chairman, Foreign Policy Institute, The Johns Hopkins University, Washington, D.C. John K Akers
+James E. Burke Chairman of the Board, Johnson & Johnson, New Brunswick. N. J.- heahh care products Stephen D. Bechtel, Jr.
+FrankT. Cary Retired Chairman of the Board, IBM FrankT. Cary
+WilliamT. Coleman, Jr Partner, O'Melveny & Myers, Washington, D.C., Los Angeles, Calif, and Paris, France- William H. Moore
+attorneys at law Paul J. Rizzo
+Thomas F. Frist, Jr Chairman ofthe Board, HCA, Nashville,Tenn.-health services Irving S.Shapiro
+Carla Anderson Hills Partner, Weil, Gotshal & Manges, Washington, D.C.,and Los Angeles, Calif-
+Retirement Plans Committee:
+attorneys at law
+Allen J. Krowe, Chairman
+NicholasdeB. Katzenbach Retired Senior Vice President. IBM
+George B. Beitzel
+Nannerl O. Keohane President, Wellesley College, Wellesley, Mass.
+Harold Brown
+Allen J. Krowe Senior Vice President, IBM
+William T. Coleman, Jr.
+Jack D. Kuehler Senior Vice President, IBM Carla Anderson Hills
+Richard W. Lyman President, Rockefeller Foundation, New York, N.Y.
+William H. Moore Retired Chairman of the Board, Bankers Trust Company, New York, N.Y. Compensation Committee:
+J. Richard Munro Chairman of the Board, Time, Inc., New York, N.Y- publishing Cyrus R. Vance, Chairman
+*Thomas S. Murphy Chairman of the Board and Chief Executive Officer, Capital Cities/ABC, Inc., Stephen D. Bechtel, Jr.
+New York, N.Y- broadcasting and publishing James E. Burke
+John R.Opel Chairman of the Executive Committee, IBM William W Scranton
+Dean P. Phypers Senior Vice President, IBM Irving S.Shapiro
+Paul J. Rizzo Vice Chairman of the Board, IBM Audit Committee:
+William W. Scranton Former U.S. Ambassador to the United Nations; former Governor of Pennsylvania Richard W Lyman, Chairman
+Irving S. Shapiro Partner, Skadden, Arps, Slate, Meagher & Flom, Wilmington, Del.- attorneys at law ThomasF. Frist, Jr.
+Cyrus R. Vance Partner. Simpson Thacher & Bartlett, New York, N.Y- attorneys at law J. Richard Munro
+•Elected 1/27/87
+Advisory Board: John M. Fox Retired Chairman of the Board, SCA Services, Inc., Boston, Mass.-waste disposal services
+G. Keith Funston Retired President, New York Stock Exchange
+George L. Hinman Partner, Hinman, Howard & KattelI. Binghamton, N.Y-attorneys at law
+John N. Irwin II Of Counsel, Patterson, Belknap, Webb & Tyler, New York, N.Y-attorneys at law
+Gilbert E. Jones Retired Vice Chairman of the Board, IBM
+Grayson Kirk President Emeritus, Columbia University, New York, N.Y.
+T. Vincent Learson Retired Chairman of the Board. IBM
+William McChesney Martin, Jr. .Retired Chairman, Federal Reserve Board, Washington, D.C.
+Dean R. McKay Retired Senior Vice President, IBM
+Maersk Mc-Kinney Moller Chief Executive Officer, A. P. Moller, Copenhagen, Denmark- owners of the Maersk Fleet
+Emanuel R. Piore Retired Vice President, IBM
+Thomas J. Watson, Jr Chairman Emeritus, IBM
+Officers: Chairman of the Board Vice Presidents and Group Executives James J. Forese Controller
+John F Akers Carl J.Conti Victor J. Goldberg Robert M. Stephenson
+Vice Chairman of the Board Richard T.Gerstner William O.Grabe Secretary
+Paul J. Rizzo Paul J. Kofmehl Lewis W.Gray Thomas C. Irwin
+Terry R. Lautenbach Ellen M. Hancock
+Senior Vice Presidents Edward E. Lucente Thomas M. Liptak Treasurer
+C. Michael Armstrong Patrick A.Toole Paul R. Low David A. Finley
+*George B. Beitzel William C. Lowe Assistant Controllers
+Kaspar V. Cassani Vice Presidents Victor R. Macdonald Robert E. Bonchick
+Ray S. AbuZayyad
+George H. Conrades, Group Executive Marvin L. Mann Edward F. Rogers
+Michael J. Attardo
+Ralph E. Gomory, Chief Scientist
+*Charles P. Biggar *JamesF Manning Assistant Treasurers
+Allen J. Krowe
+*James A. Bitonti David E. McKinney Joe Grills
+JackD. Kuehler
+Walton E.Burdick Charles E. McKittrick, Jr. James M. Heatley
+Frank A. Metz, Jr., Finance and Planning *RonaldFCasella *Theodore C. Papes, Jr. John H. Stewart
+*Dean P. Phypers Vincent N. Cook Michael J. Quinlan
+Clarence B. Rogers, Jr. Kenneth W. Dam Stephen B. Schwartz * Retiring in 1987
+Edward M. Davis Charles H.Swall
+*William W. Eggleston Nancy H.Teeters
+Donato A. Evangelista, General Counsel H.Mitchell Watson, Jr.
+Howard G. Figueroa Earl F Wheeler
+*P. Martin Foley
+
+===== PAGE 42 =====
+IBM World Trade Morton Ehrlich Executive Vice President, Trans World Airlines, Inc., New York, N.Y.
+Americas Group Thomas Moving President, Moving Associates, Inc., New York, N.Y. and Editor-in-Chief, T/i^ Connoisseur
+Board: Donald R. Keough President,The Coca-Cola Company, Atlanta, Ga.
+Paul J. Kofmehl Vice President and Group Executive, IBM
+Robeli J. Libero President, Latin America Division, IBM World Trade Americas Group
+Raymond G. O'Neill Retired Vice President, IBM WoridTrade Americas/Far East Corporation
+Brian Segal President, Ryerson Polytechnical Institute,Toronto, Canada
+Stephen T. Vehslage Group Vice President, IBM World Trade Americas Group
+Paulo D. Villares Chairman, President and Chief Executive Officer, Industrias Villares, S. A., Sao Paulo, Brazil
+Gustavo J. Vollmer Chairman, Banco Mercantil, S. A., Caracas, Venezuela
+IBM World Trade Sir Roderick Carnegie President of the Business Council of Australia
+Asia/Pacific Group George H. Conrades Senior Vice President and Group Executive, IBM
+Board: Jill K.Conway VisitingScholar, Massachusetts Institute of Technology, Cambridge, Mass., and
+Former President of Smith College, Northampton, Mass.
+Keith Crane Former Chairman, Colgate-Palmolive Company, New York, N.Y.
+Kenneth W. Dam Vice President, IBM
+Richard T. Gerstner Vice President and Group Executive, IBM
+Ralph E. Gomory Senior Vice President and Chief Scientist, I BM
+David Li Kwok Po Director and Chief Executive, The Bank of East Asia, Ltd., Hong Kong
+Ralph A. Pfeiffer, Jr Retired Senior Vice President, IBM
+Clarence B. Rogers, Jr Senior Vice President, IBM
+Takeo Shiina President and Chief Executive Officer, IBM Japan Ltd.
+Tan Chok Kian Executive Chairman, Stock Exchange of Singapore
+Jiro Ushio Chairman and Chief Executive Officer, Ushio, Inc.,Tokyo, Japan
+IBM WorldTi^de C. Michael Armstrong Senior Vice President, IBM; Directeur General, IBM Europe; and President,
+Europe/Middle East/ IBM World Trade Europe / M idd le East /A frica Corporation
+Africa Corporation Lewis M. Branscomb Retired Vice President, IBM
+Board of Directors: Tore Browaldh Vice Chairman, Svenska Handelsbanken, Stockholm, Sweden, and Chairman of the Board, IBM Sweden
+Kaspar V. Cassani Senior Vice President, IBM; Vice President, IBM World Trade Corporation; President, IBM Europe;
+and Chairman of the Board, IBM World Trade Europe/Middle East/Africa Corporation
+James J. Forese Vice President, IBM; Directeur General des Services Fonctionnels, IBM Europe
+Pierre L. Gousseland Honorary Chairman, AMAX, Inc., Greenwich, Conn.
+Gilbert E. Jones Retired Vice Chairman of the Board, IBM
+Frank A. Metz, Jr Senior Vice President, IBM
+Umberto Nordio Chairman and Chief Executive Officer, Alitalia, S.p. A., Rome, Italy
+M. Kenneth Oshman Former President, ROLM Corporation
+Ennio Presutti President and Chief Executive Officer, IBM Italy
+Renato Riverso Directeur General des Operations et Support, IBM Europe
+Sir Philip Shelbourne Chairman, Britoil pic, London, England
+Otto Sturzenegger Chairman and Chief Executive Officer, Ciba-Geigy, Ardsley, N.Y.
+Kurt Werner Chairman, Maschinenfabrik GOEBEL GmbH, Darmstadt, Germany
+Science Research Joseph H. Allen Retired Group President and Director, McGraw-Hill, Inc., New York, N.Y.
+Associates, Inc. George B. Beitzel Senior Vice President, IBM
+Board of Directors: Patricia Albjerg Graham Dean, Harvard Graduate School of Education, Cambridge, Mass.
+John E.Guth, Jr President, Science Research Associates, Inc.
+Wayne H. Holtzman President,The Hogg Foundation for Mental Health, Austin,Tex.
+
+===== PAGE 43 =====
+IBM is organized into the following groups, dimsions and wholly owned subsidiaries:
+Information Systems Systems Technology Division—Wzs, worldwide Research Division—Wmgs scientific understand-
+and Communications Group development, product assurance and U.S. man- ing to bear on areas of company interest through
+Communication Products Division—WdLS world- ufacturing responsibility for circuit packaging basic research and development of technologies of
+wide development and U.S. manufacturing used in IBM computing systems. Also develops immediate and potential long-range importance.
+responsibility for communications systems and and manufactures intermediate and low-end John A. Armstrong, Director of Research
+networks, displays, designated general purpose processors and printers and develops program-
+Subsidiaries
+systems and related programming. Also ming systems. Charles H. Swall, President
+IBM Credit Corporatioyi—O^QVS lease financing
+serves as the woridwide architectural and
+Information Systems Group of IBM products, either directly or through part-
+systems focus for Systems Network Architecture
+National Distribution Division—\\2ls U.S. nerships, and finances installment receivables
+activities. Ellen M. Hancock, President
+marketing responsibility for selected systems resulting from sales by IBM of its information
+Entry Systems Division—Hsl^ worldwide devel-
+and high-volume products delivered through processing systems and equipment to customers
+opment and U.S. manufacturing responsibility
+alternate channels of distribution such in the US. Provides consumer financing of
+for IBM's general purpose, personal-use
+as value added remarketers and authorized IBM products through IBM credit card.
+computer systems and related programming.
+dealers. Also has responsibility for marketing Also finances purchases of non-IBM equipment.
+William C. Lowe, President
+IBM supplies and accessories within the US. Harry L. Kavetas, President
+Information Systems and Products Group Ned C. Lautenbach, President ROLM Corporation—Has development, manu-
+Information Products Division—Has worldwide National Service Division—VxoV\6ts hardware facturing and marketing responsibility for fully
+development and U.S. manufacturing responsi- service support for the full standard line of integrated computerized business communica-
+bility for typewriters, printers, copiers and IBM products, manages service business within tions systems, including private branch exchanges,
+associated supplies, and related programming, the U.S. and its territories, and supports IBM's voice messaging systems, circuit-switched
+and for designated industry systems. Marvin marketing efforts. Charles P. Biggar, President data systems, desktop products and related
+L. Mann, President applications. Dennis D. Paboojian, President
+North- Central Marketing Division—Markets
+System Products Division—Has, worldwide within the U.S. and its territories the full stand- Science Research Associates, /nc. —Has worldwide
+development and U.S. manufacturing respon- ard line of IBM products to customers within its development, publication and/or marketing
+sibility for small and intermediate-sized general geographic area. Michael J. Quinlan, President responsibility for a wide range of educational and
+purpose systems and related programming, as testing materials and services for use in schools,
+South-West Marketing Division—MsLvkeis within
+well as for low-end direct access storage devices. colleges and businesses. John E. Guth, ir., President
+the U.S. and its territories the full standard
+Stephen B. Schwartz, President
+line of IBM products to customers within its
+IBM World Trade Corporation:
+Information Systems and Storage Group geographic area. Bob E. Dies, President
+IBM World Trade Americas Grow/?—Responsible
+Data Systems Division—WdiS worldwide develop-
+Other Divisions for IBM operations in 28 countries in the
+ment and U.S. manufacturing responsibility for
+Federal Systems Division—'Provides complex Western Hemisphere. These include Canada,
+large, complex systems and associated program-
+systems integration and specialized information Latin America and the Caribbean. Paul J.
+ming, with primary emphasis on high-perfor-
+handling and control systems for the federal Kofmehl, Group Executive
+mance products. Edward M. Davis, President
+government and commercial customers world-
+General Products Division—worldwide wide. Gerald W. Ebker, President IBM World Trade Asia/Pacific Grawp—Responsible
+development and U. S. manufacturing respon- for IBM operations in 18 countries.These include
+sibility for storage systems, including tape Real Estate and Construction Division— Japan; other Asian countries, including the
+units, disk products and mass storage systems, Manages the selection and acquisition of sites, People's Republic of China; Australia; and New
+program products and product-related the design and construction of buildings, and Zealand. Richard T Gerstner, Group Executive
+the purchase or lease of facilities for all IBM
+programming. Ray S. khnZdiyyoA, President IBM World Trade Europe/Middle East/Africa
+operations in the U.S. Also has responsibility for
+Corporaizon—Responsible for IBM operations
+Information Systems Technology Group assessing real estate projects outside the U.S.,
+in 85 countries. These include France, Germany,
+General Technology Division—W2ls worldwide and for IBM's worldwide energy and environ-
+Italy, and the United Kingdom. Kaspar V.
+development, product assurance and U. S. man- mental programs. Provides facility services
+Cassani, Chairman
+ufacturing responsibility for logic, memory and to selected headquarters locations. Arthur J.
+special semiconductor devices and multi-layer Hedge, Jr., President
+ceramics. Also procures components for the IBM
+World Trade groups and U.S. operating units.
+Paul R. Lowj President
+
+===== PAGE 44 =====
+The following information is provided as a convenient reference for IBM stockholders:
+The 1987 Annual Meeting Stock Transfer Offices: IBM Business Conduct Guidelines
+of stockholders will be held in the New Orleans IBM Stockholder Relations Department is a booklet sent to IBM employees woridwide
+Convention Center, New Orleans, La., on 590 Madison Avenue, New York, N.Y 10022 describing the ethical and business principles that
+Monday, April 27, at 10 a.m. IBM Stockholder Relations Department the company sets for the conduct of its business.
+One IBM Plaza, Chicago, 111. 60611
+Notice of Annual Meeting, Equal Opportunity, Affirmative Action
+Proxy Statement and Proxy Voting Card Co-Transfer Agents: and Community Programs
+are mailed to each stockholder in March. The Trust General du Canada in IBM are outlined in a document that describes
+Proxy Statement describes the items of business iioo University Street, Montreal, Quebec, programs in the United States for women, minori-
+to be voted on at the Annual Meeting and Canada H3B 2G7 ties and handicapped persons, and reviews IBM's
+provides biographies of the Board's nominees for National Trust Company Affirmative Action efforts in the community.
+director and their principal affiliations with 21 King Street East, Toronto, Ontario,
+Canada M5C183 IBM Programs in the Community,
+other companies or organizations, as well as
+Education and the Arts
+other information about the company. Registrars:
+is a brochure that describes support programs for
+Morgan Guaranty Trust Company of New York
+The Report of the IBM Annual Meeting, education, community service, hospitals, the
+30 West Broadway, New York, N.Y 10007
+mailed to each stockholder in June, summarizes arts and other areas, with examples of employee
+The First National Bank of Chicago
+the activities at the Annual Meeting, including involvement in communities.
+One First National Plaza, Chicago, 111. 60670
+a report on the company, questions and answers
+Montreal Trust Company IBM Annual Report Translations
+of general interest, and the results of voting on
+One Place Ville Marie, and Recordings
+items of business.
+Montreal, Quebec, Canada H3B 3L6 are available. The report is translated into
+IBM Stock Transfer 15 King Street West, Toronto, Ontario, French, German and Japanese. An audio cassette
+is handled by the IBM Stockholder Relations Canada M5H 1B4 recording in English is available for the blind.
+Department, 590 Madison Avenue, New York,
+A Service for Deaf Stockholders
+NY. 10022. The department maintains stock- The following information may be obtained without
+provided by the IBM Stockholder Relations
+holder records and can answer questions charge from the IBM Stockholder Relations
+Department enables deaf stockholders who have
+regarding stockholders' accounts. Stockholders Department, P.O. Box 5252, Clifton, N.J. oyoi^:
+access to a teletypewriter to communicate with the
+wishing to transfer stock or to change the
+The Form LO-K Annual Report department's New York City office. Stockholders
+name on a stock certificate should contact the
+to the Securities and Exchange Commission who wish to use the service should call
+department for instructions.
+provides further details on IBM's business, includ- (212) 407-4552.
+Stock certificates are valuable and should
+ing a list of subsidiaries, summarized in the
+be safeguarded, since replacement takes time For Information:
+Annual Report. Form LO-K is available in April.
+and requires payment of a surety bond premium Regarding stockholders' accounts, call
+by the stockholder. If a stock certificate is lost, The Form LO-Q Quarterly Report (212) 735-7000.
+stolen or destroyed. Stockholder Relations to the Securities and Exchange Commission is General questions about IBM, call
+should be notified. Registered mail should be available in May, August and November. (800) 426-3333.
+Outside the continental U. S., call
+used whenever stock is mailed.
+A Transcript of the Annual Meeting
+(617)895-2874.
+IBM Stock is Traded is available in June.
+International Business Machines Corporation
+on the New York Stock Exchange, other
+An IBM Dividend Reinvestment Plan Booklet Corporate Headquarters
+exchanges in the United States and exchanges
+explains how stockholders may automatically Armonk, N.Y. 10504
+in Austria, Belgium, Canada, England,
+reinvest dividends toward the purchase of
+France, Germany, Japan, Switzerland and
+additional shares of IBM stock, as well as make
+the Netherlands.
+optional additional investments for that purpose.
+G505-1986 00 PRINTED IN USA
+
+===== PAGE 45 =====
+H
+^ 52. 2
+a
+r<
+5'
+re
+1/1
+CO
+W
+on
+o
+n
+o
+"3 re
+0
+1
+S

@@ -1,0 +1,45 @@
+IBM (AND CTR) LEADERSHIP, COMPANY ERAS, AND MILESTONES, 1911-2025
+Cross-checked against chairman's-letter signatures in the annual reports.
+
+COMPANY NAME
+- 1911-1924: Computing-Tabulating-Recording Company (CTR)
+- 1924-present: International Business Machines Corporation (IBM)
+
+LEADERSHIP (CEO / CHAIRMAN SUCCESSION)
+- George W. Fairchild, Chairman, 1911 to 1924.
+- Thomas J. Watson Sr., President/CEO (Chairman from 1949), 1914 to 1956.
+- Thomas J. Watson Jr., CEO/Chairman, 1956 to 1971.
+- T. Vincent Learson, CEO/Chairman, 1971 to 1973.
+- Frank T. Cary, CEO/Chairman, 1973 to 1981.
+- John R. Opel, CEO/Chairman, 1981 to 1985.
+- John F. Akers, CEO/Chairman, 1985 to 1993.
+- Louis V. Gerstner Jr., CEO/Chairman, 1993 to 2002.
+- Samuel J. Palmisano, CEO/Chairman, 2002 to 2011.
+- Virginia M. Rometty, CEO/Chairman, 2012 to 2020.
+- Arvind Krishna, CEO (Chairman from 2021), 2020 to present.
+
+ERAS
+- 1911-1923: CTR / formation
+- 1924-1951: Tabulating machines & the Watson Sr. era
+- 1952-1980: Mainframe ascent (701, System/360)
+- 1981-1993: PC era & the early-'90s crisis
+- 1993-2002: Gerstner services turnaround
+- 2002-2018: Software & services, globalization
+- 2019-2025: Hybrid cloud & AI (Red Hat, watsonx)
+
+MILESTONES
+- 1911: CTR incorporated from the merger of three firms
+- 1914: Thomas J. Watson Sr. joins as general manager
+- 1924: CTR renamed International Business Machines
+- 1952: IBM 701, the company's first commercial scientific computer
+- 1957: FORTRAN released
+- 1964: System/360 mainframe family announced
+- 1981: IBM Personal Computer (PC) launched
+- 1993: Record loss; Louis Gerstner begins the services-led turnaround
+- 2002: Acquires PwC Consulting; exits hard-disk business
+- 2005: Sells PC division to Lenovo
+- 2011: Watson wins Jeopardy!; 100th anniversary
+- 2015: Forms Cognitive/Watson and Cloud units; 'strategic imperatives'
+- 2019: Acquires Red Hat for ~$34B
+- 2021: Spins off managed-infrastructure unit as Kyndryl
+- 2023: watsonx AI and data platform launched

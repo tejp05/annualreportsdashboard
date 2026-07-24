@@ -1,0 +1,206 @@
+
+
+===== PAGE 1 =====
+
+
+===== PAGE 2 =====
+lE
+r ii
+^
+... >
+r
+
+===== PAGE 3 =====
+Twentieth Annual Report
+OF THE
+International
+Business Machines
+Corporation
+For the year ended
+December Thirty-First
+mi
+GENERAL OFFICES
+270 BROADWAY - - - NEW YORK
+
+===== PAGE 4 =====
+International Business Machines Corporation
+BOARD OF DIRECTORS
+Charles L. Andrus A. Ward Ford
+William F. Battin Oscar L. Gubelman
+Willis H. Booth Samuel M. Hastings
+Otto E, Braitmayer John W. Herbert
+Drury W. Cooper Erskine Hewitt
+Edward Cornell Charles Smith
+Sherman M. Fairchild Christopher D. Smithers
+Thomas J. Watson
+EXECUTIVE AND FINANCE COMMITTEE
+Willis H. Booth John W. Herbert
+Edward Cornell Christopher D. Smithers
+Oscar L. Gubelman Thomas J. Watson
+OFFICERS 1
+THOMAS J. WATSON President
+OTTO E. BRAITMAYER . Vice-President
+CLEMENT EHRET
+WILLIAM F. BATTIN Comptroller and Treasurer
+JOHN G. PHILLIPS Secretary
+Transfer Agent Trustee and Registrar
+EMPIRE TRUST COMPANY GUARANTY TRUST COMPANY
+New York of New York
+
+===== PAGE 5 =====
+To THE STOCKHOLDERS:
+Your Directors submit herewith Consolidated Income and Surplus
+Account for the Year 1931, together with Consolidated Balance Sheet as
+of December 31, 1931, with the Auditors' certificate attached.
+The Net Income for the year, including Foreign Subsidiaries, before
+deducting Federal Taxes, but after providing for full Depreciation
+($1,928,842.82), Development and Patent Expenses ($752,544.76), Inter-
+est ($171,526.08), and losses on Foreign Exchange ($38,318.01 actual
+and $274,900.76 reserved for possible additional losses), was
+$8,222,386.30, compared with $8,157,816.52 for the Year 1930, being an
+increase of $64,569.78.
+After deducting estimated Federal Taxes, the Net Income was $11.08
+per share on 669,852 shares outstanding December 31, 1931, compared
+with $10.98 per share for the Year 1930, based on a like number of shares.
+The Net Income for 1930, based on 637,954 shares actually outstanding
+at the end of that year, was $11.53 per share.
+In November, 1931 a stock dividend of 5% was authorized. The addi-
+tional 33,493 shares called for by this stock dividend were issued January
+11,1932. Regular cash dividends at the rate of $1.50 quarterly were paid
+during the year 1931.
+Net Current Assets at the end of the year amounted to $8,075,578.63,
+compared with $7,864,268.01 at the close of 1930. Cash and marketable
+securities at the end of the year totalled $4,885,145.48, compared with
+$4,367,503.84 at the close of 1930, being an increase of $517,641.64.
+The Company has continued the policy of retiring its bonds as and
+when surplus funds are available. During 1931 bonds of a total par
+value of $264,000.00 were retired and cancelled. In October, 1931 there
+was deposited with the Trustees of the Sinking Fund, cash for the redemp-
+tion of an additional $736,000.00 par value of bonds called for payment
+January 1, 1932. These have since been retired and cancelled. Out of an
+original bond issue of $7,000,000.00, the Company has now retired a total
+of $5,012,000.00, leaving $1,988,000.00 in the hands of the public at
+March 1, 1932.
+
+===== PAGE 6 =====
+International Business Machines Corporation
+and
+Domestic and Canadian Subsidiary Companies
+C O N S O L I D A T ED B A L A N CE SH E ET AS OF D E C E M B ER 3 1, 1 9 31
+ASSETS L I A B I L I T I ES
+CURRENT: CURRENT:
+Cash $2,885,145.48
+Accounts Payable, Accrued Items, etc., . . $ 950,539.88
+U. S. Treasury Notes and Certificates.. . . 2,000,000.00 $4,885,145.48
+Notes Receivable 12,550.00 Dividend Payable January 11, 1932 1,004,208,00
+Accounts Receivable $3,513,243.51 Federal Taxes (Estimated) 821,909.67
+LESS: Reserve for Doubtful Accounts.. 319,048.96 3,194,194.55 $2,776,657,55
+Inventories (At cost or lower) 2,760,346.15
+$10,852,236.18
+SINKING FUND:
+Cash in hands of Trustees for Redemption
+of Bonds called for payment 773,377.46 BONDED INDEBTEDNESS:
+DEFERRED: Computing-Tabulating-Recording Co.
+Commissions advanced to salesmen on Collateral Trust, Sinking Fund Bonds,
+unfilled orders, etc., less reserve $ 293,599.83 J due 1941 $7,000,000.00
+Prepaid Insurance, Taxes, etc 281,174.71
+574,774.54 LESS: Redeemed and Cancelled $4,276,000.00
+INVESTMENTS: ^ Held in Treasury 7,000.00
+Stock of International Business Machines '
+4,283,000.00
+Corporation (8,800 Shares*) $1,006,474.07
+2,717,000.00
+Securities of and advances to other com-
+panies, including Foreign Subsidiaries
+(At cost) $5,237,344.39
+ADD: Proportion undistributed surplus and A'
+profit of Foreign Subsidiaries 1,371,288.91
+<V
+6,608,633.30 RESERVES:
+7,615,107.37 iC
+For Foreign Exchange Losses (Estimated) $ 274,900.76
+PLANTS AND EQUIPMENT:
+Land and Buildings $2,555,866.73 For Contingencies 756,092.07
+LESS: Reserve for Depreciation 700,799.45 1,030,992.83
+$1,855,067.28
+Plant Equipment and Rental Machines. . $22,929,300.29
+LESS Reserve for Depreciation 11,576,395.97
+11,352,904.32
+13,207,971.60
+PATENTS AND GOOD-WILL $15,338,985.36 DECLARED CAPITAL ($21,580,536.00) AND
+LESS: Reserve for Amortization. 1,324,964.05 SURPLUS represented by 669,852 shares of
+14,014,021.31 capital stock without par value 40,512,838.08
+$47,037,488.46 $47,037,488.46
+Continsent liability $1,683,867.47, representing the Company's guarantee of loans
+(*) Exclusive of 410 shares received as stock dividend made by banks to employees in connection with their purchase of stock of the
+January 11,1932. company, which stock Is held by the banks as collateral.
+
+===== PAGE 7 =====
+International Business Machines Corporation
+and Subsidiary Companies
+SUMMARY OF CONSOLIDATED INCOME, SURPLUS AND CAPITAL
+For the Year Ended December 31, 1931
+NET PROFIT OP SUBSIDIARY COMPANIES, including
+Foreign, after writing down inventories to cost (*)
+or market, whichever was lower, deducting main-
+tenance and repairs to plants, equipment and
+rental machines, provision for doubtful accounts,
+and expenses of International Business Machines
+Corporation $11,388,518.73
+Less:
+Depreciation of plants, equipment and rental
+machines $1,928,842.82
+Development and patent expenses 752,544.76
+Interest on bonded indebtedness 171,526.08
+Foreign exchange losses (Actual) 38,318.01
+Foreign exchange reserve (Possible additional
+losses) 274,900.76 3,166,132.43
+NET INCOME BEFORE FEDERAL TAXES $ 8,222,386.30
+Deduct: Federal Taxes (Estimated) 800,000.00
+NET INCOME AFTER FEDERAL TAXES $ 7,422,386.30
+Deduct: Dividends for Year 1931:
+Cash dividends 4,016,526.00
+Stock dividend—33,493 shares of a declared
+value of $1,027,651.00 . . . .
+$ 3,405,860.30
+Deduct: Amortization of Patents 71,236.54
+SURPLUS FOR YEAR 1931 $ 3,334,623.76
+Add: Accumulated royalties of prior periods received
+during 1931 350,000.00
+$ 3,684,623.76
+Deduct: Reserve for Contingencies 350,000.00
+$ 3,334,623.76
+CAPITAL AND SURPLUS JANUARY 1, 1931 37,178,214.32
+DECLARED CAPITAL ($21,580,536.00) AND SURPLUS
+DECEMBER 31, 1931, represented by 669,852 shares
+of capital stock without par value $40,512,838.08
+(*) Cost of finished and semi-finished products means
+cost to manufacturing company.
+
+===== PAGE 8 =====
+CHICAGO NEW YORK
+39 SOUTH LASAU-E ST. 1 CEDAR STREET
+To the Stockholders of the
+INTERNATIONAL BUSINESS MACHINES CORPORATION:
+We have examined the accounts and records of the INTERNATIONAL
+BUSINESS MACHINES CORPORATION and its domestic and Canadian sub-
+sidiary companies for the year ended December 31, 1931 and accepted
+after review the annual reports of other foreign subsidiary companies.
+We hereby certify that, in our opinion, the Consolidated Balance Sheet,
+as compiled from the accounts of the corporation, correctly reflects the
+financial condition of the INTERNATIONAL BUSINESS MACHINES COR-
+PORATION AND ITS DOMESTIC AND CANADIAN SUBSIDIARY COMPANIES as
+at December 31, 1981 and that the relative Summary of Consolidated
+Income reflects the Net Profit for the year ended on that date.
+THE AUDIT COMPANY OF NEW YORK
+R. G. RANKIN,
+President.
+New York, February 29, 1932.
+
+===== PAGE 9 =====
+Am
+
+===== PAGE 10 =====
+
+
+===== PAGE 11 =====

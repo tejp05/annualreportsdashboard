@@ -1,0 +1,79 @@
+year,name,type,tier,category,segment,closeDate,valueMillions,description
+1984,ROLM Corporation,acquisition,major,Hardware / Telecom,Technology,1984-11,1300,"Acquired ROLM, a maker of PBX telephone equipment and military computers. IBM sold ROLM to Siemens in 1988 after the business underperformed."
+1995,Lotus Development Corporation,acquisition,major,Software,Software,1995-07-05,2880,"Acquired Lotus for its Notes collaboration platform, which became IBM's foundation for enterprise messaging and collaboration software."
+1996,"Tivoli Systems, Inc.",acquisition,major,Software,Software,1996-03-04,716,"Acquired Tivoli to build IBM's systems management and IT operations software portfolio, now a core part of IBM Automation."
+1999,Sequent Computer Systems,acquisition,major,Hardware / Servers,Systems,1999-09,810,"Acquired Sequent for its NUMA (non-uniform memory access) parallel server technology, strengthening IBM's high-end UNIX server line."
+2001,Informix Database Business,acquisition,major,Software,Software,2001-07-01,1000,"Acquired Informix's database software business from IBM's rival, significantly expanding DB2 market share. The Informix database products were rebranded under the DB2 family."
+2002,PricewaterhouseCoopers Consulting,acquisition,major,Consulting,Consulting,2002-10-01,3500,"Acquired PwC's consulting arm — 30,000 consultants — instantly creating one of the world's largest IT services businesses. Foundation of what is now IBM Consulting, generating $21B+ annually."
+2003,Rational Software,acquisition,major,Software,Software,2003-02-21,2100,"Acquired Rational for its software development tools (UML, requirements management, testing). Now IBM Engineering Lifecycle Management (ELM), used in aerospace, defense, and automotive."
+2005,Ascential,acquisition,major,,,,1140.0,
+2005,PC Division → Lenovo,divestiture,major,Hardware / PCs,Systems,2005-05-01,1750,Sold the ThinkPad PC business to China's Lenovo for $1.75B. IBM retained an 18.9% stake in Lenovo. Strategic exit from commoditizing PC hardware to refocus on higher-margin enterprise technology.
+2007,DataMirror Corporation,acquisition,minor,Software,Software,2007-09-04,725,"Acquired DataMirror for its real-time data replication and integration technology, enhancing IBM's data management portfolio."
+2008,Cognos,acquisition,major,Software / Analytics,,2008-01-31,5021,"Acquired the world's leading business intelligence and performance management software company. Became the foundation of IBM Cognos Analytics, now part of IBM's AI & Analytics portfolio."
+2008,Telelogic,acquisition,major,,,,885.0,
+2009,SPSS,acquisition,major,Software / Analytics,,2009-10-05,1200,"Acquired SPSS, the leading statistical analysis software used in academia, government, and business research. Now IBM SPSS Statistics."
+2010,BLADE Network Technologies,acquisition,minor,,,,,
+2010,Lombardi Software,acquisition,minor,,,,,
+2010,Netezza,acquisition,major,,,,1847.0,
+2010,"PSS Systems, OpenPages",acquisition,minor,,,,,
+2010,Sterling Commerce,acquisition,minor,,,,,
+2010,Unica,acquisition,minor,,,,,
+2010,Wilshire Credit,acquisition,minor,,,,,
+2012,Butterfly Software,acquisition,minor,,,,,
+2012,DemandTec,acquisition,minor,,,,,
+2012,Emptoris,acquisition,minor,,,,,
+2012,Kenexa,acquisition,major,,,,1351.0,
+2012,Platform Computing,acquisition,minor,,,,,
+2012,Tealeaf Technology,acquisition,minor,,,,,
+2012,Texas Memory Systems,acquisition,minor,,,,,
+2012,Vivisimo,acquisition,minor,,,,,
+2012,Worklight,acquisition,minor,,,,,
+2013,CSL International,acquisition,minor,,,,,
+2013,Daeja Image Systems,acquisition,minor,,,,,
+2013,Softlayer Technologies,acquisition,major,Cloud Infrastructure,,2013-07-08,1977,"Acquired SoftLayer, a cloud computing infrastructure provider, to establish IBM's global cloud delivery platform. Became the foundation of IBM Cloud."
+2013,Star Analytics,acquisition,minor,,,,,
+2013,UrbanCode,acquisition,minor,,,,,
+2013,Xtify,acquisition,minor,,,,,
+2015,Cleversafe,acquisition,major,,,,1309.0,
+2015,Merge Healthcare,acquisition,minor,Healthcare / AI,,2015-10-13,1000,"Acquired Merge Healthcare for its medical imaging and clinical data management capabilities, strengthening IBM Watson Health."
+2015,StoredIQ,acquisition,minor,,,,,
+2016,AlchemyAI,acquisition,minor,,,,,
+2016,Compose,acquisition,minor,,,,,
+2016,Explorys,acquisition,minor,,,,,
+2016,Phytel,acquisition,minor,,,,,
+2016,The Weather Company,acquisition,minor,,,,,
+2016,Truven Health Analytics,acquisition,major,Healthcare / AI,,2016-04-07,2612,"Acquired Truven Health Analytics, a leading provider of healthcare data and analytics, for Watson Health. One of IBM's largest healthcare investments."
+2017,Blekko,acquisition,minor,,,,,
+2017,IRIS Analytics,acquisition,minor,,,,,
+2018,Resilient Systems,acquisition,minor,,,,,
+2019,"Red Hat, Inc.",acquisition,major,Software / Hybrid Cloud,Software,2019-07-09,35100,"IBM's largest acquisition ever — the largest software acquisition in history at the time. Red Hat's open-source hybrid cloud platform became IBM's defining strategic bet under Arvind Krishna, who led the deal as SVP of Cloud."
+2021,Adobe Workfront practice from Rego,acquisition,minor,Consulting,Consulting,,,
+2021,Bluetab Solutions Group,acquisition,minor,Consulting,Consulting,,,
+2021,BoxBoat Technologies,acquisition,minor,Consulting,Consulting,,,
+2021,Instana,acquisition,minor,Software,Software,,,
+2021,Kyndryl Spin-off,spinoff,major,Infrastructure Services,Infrastructure,2021-11-03,19000,Spun off IBM's managed infrastructure services business as an independent public company (NYSE: KD). IBM's largest-ever divestiture by revenue — Kyndryl had ~$19B in annual revenue at separation. The spinoff allowed IBM to refocus entirely on hybrid cloud and AI.
+2021,Nordcloud,acquisition,minor,Consulting,Consulting,,,
+2021,Phlyt,acquisition,minor,Software,Software,,,
+2021,ReaQta,acquisition,minor,Software,Software,,,
+2021,SXiQ Digital,acquisition,minor,Consulting,Consulting,,,
+2021,StackRox,acquisition,minor,Software,Software,,,
+2021,Stratoss Lifecycle Manager business,acquisition,minor,Software,Software,,,
+2021,Waeg,acquisition,minor,Consulting,Consulting,,,
+2022,Databand.ai,acquisition,minor,Software,Software,,,
+2022,Dialexa,acquisition,minor,Consulting,Consulting,,,
+2022,Envizi,acquisition,minor,Software,Software,,,
+2022,Neudesic,acquisition,minor,Consulting,Consulting,,,
+2022,Octo,acquisition,minor,Consulting,Consulting,,,
+2022,Omnio,acquisition,minor,Software,Software,,,
+2022,Randori,acquisition,minor,Software,Software,,,
+2022,Sentaca,acquisition,minor,Consulting,Consulting,,,
+2023,Agyla,acquisition,minor,Consulting,Consulting,,,
+2023,Ahana Cloud,acquisition,minor,Software,Software,,,
+2023,Apptio,acquisition,minor,Software,Software,2023-08,4600,"Acquired Apptio, the leading Technology Business Management (TBM) and FinOps software platform, to help enterprises optimize technology spending. IBM's largest acquisition since Red Hat."
+2023,Equine Global,acquisition,minor,Consulting,Consulting,,,
+2023,Manta Software,acquisition,minor,Software,Software,,,
+2023,NS1,acquisition,minor,Software,Software,,,
+2023,Polar Security,acquisition,minor,Software,Software,,,
+2023,StepZen,acquisition,minor,Software,Software,,,
+2024,StreamSets & webMethods (from Software AG),acquisition,major,Software / Integration,Software,2024-07-01,2300,"Acquired Software AG's data integration and API management platforms, strengthening IBM's hybrid integration portfolio for AI-ready data pipelines."
+2025,HashiCorp,acquisition,major,Software / Infrastructure,Software,2025-02-27,7433,"Acquired HashiCorp, the leading multi-cloud infrastructure automation platform (Terraform, Vault, Consul). Extends IBM's hybrid cloud platform with best-in-class infrastructure-as-code capabilities."

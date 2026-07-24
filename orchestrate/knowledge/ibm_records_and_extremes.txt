@@ -1,0 +1,36 @@
+IBM ALL-TIME RECORDS, PEAKS, AND FIRSTS (fiscal years 1911-2025)
+Use this file to answer any 'peak', 'highest', 'record', 'best/worst year',
+or 'first year over X' question. These superlatives are computed across the
+ENTIRE verified series - do not infer peaks from individual year summaries.
+
+REVENUE
+- IBM's revenue PEAKED in FY2011 at $106,916 million ($106.9 billion). It has never been higher before or since.
+- Top five revenue years: FY2011 $106,916 million ($106.9 billion); FY2012 $104,507 million ($104.5 billion); FY2008 $103,630 million ($103.6 billion); FY2010 $99,870 million ($99.9 billion); FY2013 $99,751 million ($99.8 billion).
+- Revenue declined from the 2011 peak through 2020 (divestitures and portfolio shifts) and stepped down again with the Kyndryl managed-infrastructure spinoff (Nov 2021). Post-spinoff totals (FY2021 $57.4B -> FY2025 $67.5B) are a smaller revenue base by construction - FY2022's ~$60.5 billion is NOT an all-time peak, only a point on the post-Kyndryl series.
+- First fiscal year revenue exceeded $100 million: FY1943 ($131 million).
+- First fiscal year revenue exceeded $1 billion: FY1957 ($1,000 million ($1.0 billion)).
+- First fiscal year revenue exceeded $10 billion: FY1973 ($10,993 million ($11.0 billion)).
+- First fiscal year revenue exceeded $50 billion: FY1985 ($50,718 million ($50.7 billion)).
+- First fiscal year revenue exceeded $100 billion: FY2008 ($103,630 million ($103.6 billion)).
+
+NET INCOME AND LOSSES
+- All-time highest net income: FY2012, $16,604 million ($16.6 billion).
+- Worst year / largest loss: FY1993, $-8,101 million ($-8.1 billion) - at the time the largest annual loss in American corporate history (early-1990s crisis; losses ran 1991-1993, and Louis Gerstner arrived in 1993).
+- First fiscal year net income exceeded $100 million: FY1958 ($126 million).
+- First fiscal year net income exceeded $1 billion: FY1970 ($1,018 million ($1.0 billion)).
+- First fiscal year net income exceeded $10 billion: FY2007 ($10,418 million ($10.4 billion)).
+
+OTHER ALL-TIME PEAKS
+- All-time highest gross profit: FY2025, $39,297 million ($39.3 billion). (Coverage: 2025-2025.)
+- All-time highest free cash flow: FY2012, $18,200 million ($18.2 billion). (Coverage: 2003-2025.)
+- All-time highest operating cash flow: FY2020, $18,197 million ($18.2 billion). (Coverage: 2003-2020.)
+- All-time highest R&D expense: FY2025, $8,316 million ($8.3 billion). (Coverage: 1990-2025.)
+- All-time highest total assets: FY2020, $155,971 million ($156.0 billion). (Coverage: 1978-2025.)
+- All-time highest stockholders' equity: FY1990, $42,553 million ($42.6 billion). (Coverage: 1978-2025.)
+- All-time highest diluted EPS: FY1978, $21.29. (Coverage: 1970-2025.)
+- All-time highest dividends per share: FY2017, $5.90. (Coverage: 1980-2017.)
+- All-time highest employee count: FY2012, 434,246. (Coverage: 1957-2013.)
+- NOTE: per-share figures (EPS, dividends per share) are as ORIGINALLY REPORTED and not adjusted for stock splits, so cross-era per-share comparisons are not meaningful (FY1978's $21.29 diluted EPS predates later splits).
+
+MARKET CAPITALIZATION (external data 1984-2025, see caveats file)
+- Highest year-end market capitalization on record: FY2025, $276,880 million ($276.9 billion). (No reliable series exists before 1984.)

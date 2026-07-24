@@ -1,0 +1,2243 @@
+{
+ "1995": {
+  "dividendsPerShare": {
+   "value": 1.0,
+   "source": "1995:p77",
+   "agree": 2,
+   "reports": [
+    1995,
+    1996
+   ]
+  },
+  "totalDebt": {
+   "value": 21629.0,
+   "source": "1995:p77",
+   "agree": 5,
+   "reports": [
+    1995,
+    1996,
+    1997,
+    1998,
+    1999
+   ]
+  },
+  "revenue": {
+   "value": 71940.0,
+   "source": "1996:p75",
+   "agree": 3,
+   "reports": [
+    1996,
+    1998,
+    1999
+   ]
+  },
+  "totalAssets": {
+   "value": 80292.0,
+   "source": "1996:p75",
+   "agree": 3,
+   "reports": [
+    1996,
+    1998,
+    1999
+   ]
+  },
+  "netIncome": {
+   "value": 4178.0,
+   "source": "1998:p92",
+   "agree": 2,
+   "reports": [
+    1998,
+    1999
+   ]
+  },
+  "epsDiluted": {
+   "value": 1.76,
+   "source": "1999:p96",
+   "agree": 1,
+   "reports": [
+    1999
+   ]
+  },
+  "epsBasic": {
+   "value": 1.81,
+   "source": "1999:p96",
+   "agree": 1,
+   "reports": [
+    1999
+   ]
+  }
+ },
+ "1994": {
+  "dividendsPerShare": {
+   "value": 1.0,
+   "source": "1995:p77",
+   "agree": 2,
+   "reports": [
+    1995,
+    1996
+   ]
+  },
+  "totalDebt": {
+   "value": 22118.0,
+   "source": "1995:p77",
+   "agree": 4,
+   "reports": [
+    1995,
+    1996,
+    1997,
+    1998
+   ]
+  },
+  "revenue": {
+   "value": 64052.0,
+   "source": "1996:p75",
+   "agree": 2,
+   "reports": [
+    1996,
+    1998
+   ]
+  },
+  "totalAssets": {
+   "value": 81091.0,
+   "source": "1996:p75",
+   "agree": 2,
+   "reports": [
+    1996,
+    1998
+   ]
+  },
+  "netIncome": {
+   "value": 3021.0,
+   "source": "1998:p92",
+   "agree": 1,
+   "reports": [
+    1998
+   ]
+  }
+ },
+ "1993": {
+  "dividendsPerShare": {
+   "value": 1.58,
+   "source": "1995:p77",
+   "agree": 2,
+   "reports": [
+    1995,
+    1996
+   ]
+  },
+  "totalDebt": {
+   "value": 27342.0,
+   "source": "1995:p77",
+   "agree": 3,
+   "reports": [
+    1995,
+    1996,
+    1997
+   ]
+  },
+  "revenue": {
+   "value": 62716.0,
+   "source": "1996:p75",
+   "agree": 1,
+   "reports": [
+    1996
+   ]
+  },
+  "totalAssets": {
+   "value": 81113.0,
+   "source": "1996:p75",
+   "agree": 1,
+   "reports": [
+    1996
+   ]
+  }
+ },
+ "1992": {
+  "dividendsPerShare": {
+   "value": 4.84,
+   "source": "1995:p77",
+   "agree": 2,
+   "reports": [
+    1995,
+    1996
+   ]
+  },
+  "totalDebt": {
+   "value": 29320.0,
+   "source": "1995:p77",
+   "agree": 2,
+   "reports": [
+    1995,
+    1996
+   ]
+  },
+  "revenue": {
+   "value": 64523.0,
+   "source": "1996:p75",
+   "agree": 1,
+   "reports": [
+    1996
+   ]
+  },
+  "totalAssets": {
+   "value": 86705.0,
+   "source": "1996:p75",
+   "agree": 1,
+   "reports": [
+    1996
+   ]
+  }
+ },
+ "1991": {
+  "dividendsPerShare": {
+   "value": 4.84,
+   "source": "1995:p77",
+   "agree": 1,
+   "reports": [
+    1995
+   ]
+  },
+  "totalDebt": {
+   "value": 26947.0,
+   "source": "1995:p77",
+   "agree": 1,
+   "reports": [
+    1995
+   ]
+  }
+ },
+ "1996": {
+  "dividendsPerShare": {
+   "value": 1.3,
+   "source": "1996:p75",
+   "agree": 1,
+   "reports": [
+    1996
+   ]
+  },
+  "totalDebt": {
+   "value": 22829.0,
+   "source": "1996:p75",
+   "agree": 5,
+   "reports": [
+    1996,
+    1997,
+    1998,
+    1999,
+    2000
+   ]
+  },
+  "revenue": {
+   "value": 75947.0,
+   "source": "1996:p75",
+   "agree": 4,
+   "reports": [
+    1996,
+    1998,
+    1999,
+    2000
+   ]
+  },
+  "totalAssets": {
+   "value": 81132.0,
+   "source": "1996:p75",
+   "agree": 4,
+   "reports": [
+    1996,
+    1998,
+    1999,
+    2000
+   ]
+  },
+  "netIncome": {
+   "value": 5429.0,
+   "source": "1998:p92",
+   "agree": 3,
+   "reports": [
+    1998,
+    1999,
+    2000
+   ]
+  },
+  "epsDiluted": {
+   "value": 2.5,
+   "source": "1999:p96",
+   "agree": 2,
+   "reports": [
+    1999,
+    2000
+   ]
+  },
+  "epsBasic": {
+   "value": 2.56,
+   "source": "1999:p96",
+   "agree": 2,
+   "reports": [
+    1999,
+    2000
+   ]
+  }
+ },
+ "2002": {
+  "dividendsPerShare": {
+   "value": 0.59,
+   "source": "2002:p107",
+   "agree": 4,
+   "reports": [
+    2002,
+    2003,
+    2004,
+    2006
+   ]
+  },
+  "totalDebt": {
+   "value": 26017.0,
+   "source": "2002:p107",
+   "agree": 4,
+   "reports": [
+    2002,
+    2003,
+    2004,
+    2006
+   ]
+  },
+  "revenue": {
+   "value": 81186.0,
+   "source": "2002:p107",
+   "agree": 4,
+   "reports": [
+    2002,
+    2003,
+    2004,
+    2006
+   ]
+  },
+  "totalAssets": {
+   "value": 96484.0,
+   "source": "2002:p107",
+   "agree": 3,
+   "reports": [
+    2002,
+    2003,
+    2004
+   ],
+   "flags": [
+    "restated_or_disagree:orig=96484.0(2002);later=[{'value': 97814.0, 'firstReport': 2006}]"
+   ]
+  },
+  "netIncome": {
+   "value": 3579.0,
+   "source": "2002:p107",
+   "agree": 3,
+   "reports": [
+    2002,
+    2003,
+    2004
+   ],
+   "flags": [
+    "restated_or_disagree:orig=3579.0(2002);later=[{'value': 2376.0, 'firstReport': 2006}]"
+   ]
+  },
+  "epsDiluted": {
+   "value": 3.07,
+   "source": "2002:p107",
+   "agree": 3,
+   "reports": [
+    2002,
+    2003,
+    2004
+   ],
+   "flags": [
+    "restated_or_disagree:orig=3.07(2002);later=[{'value': 2.43, 'firstReport': 2006}]"
+   ]
+  },
+  "epsBasic": {
+   "value": 3.13,
+   "source": "2002:p107",
+   "agree": 3,
+   "reports": [
+    2002,
+    2003,
+    2004
+   ],
+   "flags": [
+    "restated_or_disagree:orig=3.13(2002);later=[{'value': 2.44, 'firstReport': 2006}]"
+   ]
+  },
+  "incomeContinuing": {
+   "value": 5334.0,
+   "source": "2002:p107",
+   "agree": 3,
+   "reports": [
+    2002,
+    2003,
+    2004
+   ],
+   "flags": [
+    "restated_or_disagree:orig=5334.0(2002);later=[{'value': 4156.0, 'firstReport': 2006}]"
+   ]
+  }
+ },
+ "2001": {
+  "dividendsPerShare": {
+   "value": 0.55,
+   "source": "2002:p107",
+   "agree": 3,
+   "reports": [
+    2002,
+    2003,
+    2004
+   ]
+  },
+  "totalDebt": {
+   "value": 27151.0,
+   "source": "2001:p108",
+   "agree": 4,
+   "reports": [
+    2001,
+    2002,
+    2003,
+    2004
+   ]
+  },
+  "revenue": {
+   "value": 85866.0,
+   "source": "2001:p108",
+   "agree": 1,
+   "reports": [
+    2001
+   ],
+   "flags": [
+    "restated_or_disagree:orig=85866.0(2001);later=[{'value': 83067.0, 'firstReport': 2002}]"
+   ]
+  },
+  "totalAssets": {
+   "value": 88313.0,
+   "source": "2001:p108",
+   "agree": 1,
+   "reports": [
+    2001
+   ],
+   "flags": [
+    "restated_or_disagree:orig=88313.0(2001);later=[{'value': 90303.0, 'firstReport': 2002}]"
+   ]
+  },
+  "netIncome": {
+   "value": 7723.0,
+   "source": "2001:p108",
+   "agree": 4,
+   "reports": [
+    2001,
+    2002,
+    2003,
+    2004
+   ]
+  },
+  "epsDiluted": {
+   "value": 4.35,
+   "source": "2001:p108",
+   "agree": 1,
+   "reports": [
+    2001
+   ],
+   "flags": [
+    "restated_or_disagree:orig=4.35(2001);later=[{'value': 4.59, 'firstReport': 2002}]"
+   ]
+  },
+  "epsBasic": {
+   "value": 4.45,
+   "source": "2001:p108",
+   "agree": 1,
+   "reports": [
+    2001
+   ],
+   "flags": [
+    "restated_or_disagree:orig=4.45(2001);later=[{'value': 4.69, 'firstReport': 2002}]"
+   ]
+  },
+  "incomeContinuing": {
+   "value": 8146.0,
+   "source": "2002:p107",
+   "agree": 3,
+   "reports": [
+    2002,
+    2003,
+    2004
+   ]
+  }
+ },
+ "2000": {
+  "dividendsPerShare": {
+   "value": 0.51,
+   "source": "2002:p107",
+   "agree": 3,
+   "reports": [
+    2002,
+    2003,
+    2004
+   ]
+  },
+  "totalDebt": {
+   "value": 28576.0,
+   "source": "2000:p96",
+   "agree": 5,
+   "reports": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004
+   ]
+  },
+  "revenue": {
+   "value": 88396.0,
+   "source": "2000:p96",
+   "agree": 2,
+   "reports": [
+    2000,
+    2001
+   ],
+   "flags": [
+    "restated_or_disagree:orig=88396.0(2000);later=[{'value': 85089.0, 'firstReport': 2002}]"
+   ]
+  },
+  "totalAssets": {
+   "value": 88349.0,
+   "source": "2000:p96",
+   "agree": 2,
+   "reports": [
+    2000,
+    2001
+   ],
+   "flags": [
+    "restated_or_disagree:orig=88349.0(2000);later=[{'value': 90412.0, 'firstReport': 2002}]"
+   ]
+  },
+  "netIncome": {
+   "value": 8093.0,
+   "source": "2000:p96",
+   "agree": 5,
+   "reports": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004
+   ]
+  },
+  "epsDiluted": {
+   "value": 4.44,
+   "source": "2000:p96",
+   "agree": 2,
+   "reports": [
+    2000,
+    2001
+   ],
+   "flags": [
+    "restated_or_disagree:orig=4.44(2000);later=[{'value': 4.32, 'firstReport': 2002}]"
+   ]
+  },
+  "epsBasic": {
+   "value": 4.58,
+   "source": "2000:p96",
+   "agree": 2,
+   "reports": [
+    2000,
+    2001
+   ],
+   "flags": [
+    "restated_or_disagree:orig=4.58(2000);later=[{'value': 4.45, 'firstReport': 2002}]"
+   ]
+  },
+  "incomeContinuing": {
+   "value": 7874.0,
+   "source": "2002:p107",
+   "agree": 3,
+   "reports": [
+    2002,
+    2003,
+    2004
+   ]
+  }
+ },
+ "1999": {
+  "dividendsPerShare": {
+   "value": 0.47,
+   "source": "2002:p107",
+   "agree": 2,
+   "reports": [
+    2002,
+    2003
+   ]
+  },
+  "totalDebt": {
+   "value": 28354.0,
+   "source": "1999:p96",
+   "agree": 5,
+   "reports": [
+    1999,
+    2000,
+    2001,
+    2002,
+    2003
+   ]
+  },
+  "revenue": {
+   "value": 87548.0,
+   "source": "1999:p96",
+   "agree": 3,
+   "reports": [
+    1999,
+    2000,
+    2001
+   ],
+   "flags": [
+    "restated_or_disagree:orig=87548.0(1999);later=[{'value': 83334.0, 'firstReport': 2002}]"
+   ]
+  },
+  "totalAssets": {
+   "value": 87495.0,
+   "source": "1999:p96",
+   "agree": 3,
+   "reports": [
+    1999,
+    2000,
+    2001
+   ],
+   "flags": [
+    "restated_or_disagree:orig=87495.0(1999);later=[{'value': 89571.0, 'firstReport': 2002}]"
+   ]
+  },
+  "netIncome": {
+   "value": 7712.0,
+   "source": "1999:p96",
+   "agree": 5,
+   "reports": [
+    1999,
+    2000,
+    2001,
+    2002,
+    2003
+   ]
+  },
+  "epsDiluted": {
+   "value": 4.12,
+   "source": "1999:p96",
+   "agree": 3,
+   "reports": [
+    1999,
+    2000,
+    2001
+   ],
+   "flags": [
+    "restated_or_disagree:orig=4.12(1999);later=[{'value': 3.93, 'firstReport': 2002}]"
+   ]
+  },
+  "epsBasic": {
+   "value": 4.25,
+   "source": "1999:p96",
+   "agree": 3,
+   "reports": [
+    1999,
+    2000,
+    2001
+   ],
+   "flags": [
+    "restated_or_disagree:orig=4.25(1999);later=[{'value': 4.06, 'firstReport': 2002}]"
+   ]
+  },
+  "incomeContinuing": {
+   "value": 7359.0,
+   "source": "2002:p107",
+   "agree": 2,
+   "reports": [
+    2002,
+    2003
+   ]
+  }
+ },
+ "1998": {
+  "dividendsPerShare": {
+   "value": 0.43,
+   "source": "2002:p107",
+   "agree": 1,
+   "reports": [
+    2002
+   ]
+  },
+  "totalDebt": {
+   "value": 29413.0,
+   "source": "1998:p92",
+   "agree": 5,
+   "reports": [
+    1998,
+    1999,
+    2000,
+    2001,
+    2002
+   ]
+  },
+  "revenue": {
+   "value": 81667.0,
+   "source": "1998:p92",
+   "agree": 4,
+   "reports": [
+    1998,
+    1999,
+    2000,
+    2001
+   ],
+   "flags": [
+    "restated_or_disagree:orig=81667.0(1998);later=[{'value': 77548.0, 'firstReport': 2002}]"
+   ]
+  },
+  "totalAssets": {
+   "value": 86100.0,
+   "source": "1998:p92",
+   "agree": 4,
+   "reports": [
+    1998,
+    1999,
+    2000,
+    2001
+   ],
+   "flags": [
+    "restated_or_disagree:orig=86100.0(1998);later=[{'value': 88160.0, 'firstReport': 2002}]"
+   ]
+  },
+  "netIncome": {
+   "value": 6328.0,
+   "source": "1998:p92",
+   "agree": 5,
+   "reports": [
+    1998,
+    1999,
+    2000,
+    2001,
+    2002
+   ]
+  },
+  "epsDiluted": {
+   "value": 3.29,
+   "source": "1999:p96",
+   "agree": 3,
+   "reports": [
+    1999,
+    2000,
+    2001
+   ],
+   "flags": [
+    "restated_or_disagree:orig=3.29(1999);later=[{'value': 2.84, 'firstReport': 2002}]"
+   ]
+  },
+  "epsBasic": {
+   "value": 3.38,
+   "source": "1999:p96",
+   "agree": 3,
+   "reports": [
+    1999,
+    2000,
+    2001
+   ],
+   "flags": [
+    "restated_or_disagree:orig=3.38(1999);later=[{'value': 2.92, 'firstReport': 2002}]"
+   ]
+  },
+  "incomeContinuing": {
+   "value": 5469.0,
+   "source": "2002:p107",
+   "agree": 1,
+   "reports": [
+    2002
+   ]
+  }
+ },
+ "2003": {
+  "dividendsPerShare": {
+   "value": 0.63,
+   "source": "2003:p124",
+   "agree": 3,
+   "reports": [
+    2003,
+    2004,
+    2006
+   ]
+  },
+  "totalDebt": {
+   "value": 23632.0,
+   "source": "2003:p124",
+   "agree": 3,
+   "reports": [
+    2003,
+    2004,
+    2006
+   ]
+  },
+  "revenue": {
+   "value": 89131.0,
+   "source": "2003:p124",
+   "agree": 3,
+   "reports": [
+    2003,
+    2004,
+    2006
+   ]
+  },
+  "totalAssets": {
+   "value": 104457.0,
+   "source": "2003:p124",
+   "agree": 2,
+   "reports": [
+    2003,
+    2004
+   ],
+   "flags": [
+    "restated_or_disagree:orig=104457.0(2003);later=[{'value': 106021.0, 'firstReport': 2006}]"
+   ]
+  },
+  "netIncome": {
+   "value": 7583.0,
+   "source": "2003:p124",
+   "agree": 2,
+   "reports": [
+    2003,
+    2004
+   ],
+   "flags": [
+    "restated_or_disagree:orig=7583.0(2003);later=[{'value': 6558.0, 'firstReport': 2006}]"
+   ]
+  },
+  "epsDiluted": {
+   "value": 4.34,
+   "source": "2003:p124",
+   "agree": 2,
+   "reports": [
+    2003,
+    2004
+   ],
+   "flags": [
+    "restated_or_disagree:orig=4.34(2003);later=[{'value': 3.76, 'firstReport': 2006}]"
+   ]
+  },
+  "epsBasic": {
+   "value": 4.42,
+   "source": "2003:p124",
+   "agree": 2,
+   "reports": [
+    2003,
+    2004
+   ],
+   "flags": [
+    "restated_or_disagree:orig=4.42(2003);later=[{'value': 3.83, 'firstReport': 2006}]"
+   ]
+  },
+  "incomeContinuing": {
+   "value": 7613.0,
+   "source": "2003:p124",
+   "agree": 2,
+   "reports": [
+    2003,
+    2004
+   ],
+   "flags": [
+    "restated_or_disagree:orig=7613.0(2003);later=[{'value': 6588.0, 'firstReport': 2006}]"
+   ]
+  }
+ },
+ "2004": {
+  "dividendsPerShare": {
+   "value": 0.7,
+   "source": "2004:p94",
+   "agree": 3,
+   "reports": [
+    2004,
+    2006,
+    2008
+   ]
+  },
+  "totalDebt": {
+   "value": 22927.0,
+   "source": "2004:p94",
+   "agree": 3,
+   "reports": [
+    2004,
+    2006,
+    2008
+   ]
+  },
+  "revenue": {
+   "value": 96293.0,
+   "source": "2004:p94",
+   "agree": 3,
+   "reports": [
+    2004,
+    2006,
+    2008
+   ]
+  },
+  "totalAssets": {
+   "value": 109183.0,
+   "source": "2004:p94",
+   "agree": 1,
+   "reports": [
+    2004
+   ],
+   "flags": [
+    "restated_or_disagree:orig=109183.0(2004);later=[{'value': 111003.0, 'firstReport': 2006}]"
+   ]
+  },
+  "netIncome": {
+   "value": 8430.0,
+   "source": "2004:p94",
+   "agree": 1,
+   "reports": [
+    2004
+   ],
+   "flags": [
+    "restated_or_disagree:orig=8430.0(2004);later=[{'value': 7479.0, 'firstReport': 2006}]"
+   ]
+  },
+  "epsDiluted": {
+   "value": 4.94,
+   "source": "2004:p94",
+   "agree": 1,
+   "reports": [
+    2004
+   ],
+   "flags": [
+    "restated_or_disagree:orig=4.94(2004);later=[{'value': 4.39, 'firstReport': 2006}]"
+   ]
+  },
+  "epsBasic": {
+   "value": 5.04,
+   "source": "2004:p94",
+   "agree": 1,
+   "reports": [
+    2004
+   ],
+   "flags": [
+    "restated_or_disagree:orig=5.04(2004);later=[{'value': 4.48, 'firstReport': 2006}]"
+   ]
+  },
+  "incomeContinuing": {
+   "value": 8448.0,
+   "source": "2004:p94",
+   "agree": 1,
+   "reports": [
+    2004
+   ],
+   "flags": [
+    "restated_or_disagree:orig=8448.0(2004);later=[{'value': 7497.0, 'firstReport': 2006}]"
+   ]
+  }
+ },
+ "2006": {
+  "dividendsPerShare": {
+   "value": 1.1,
+   "source": "2006:p118",
+   "agree": 4,
+   "reports": [
+    2006,
+    2008,
+    2009,
+    2010
+   ]
+  },
+  "totalDebt": {
+   "value": 22682.0,
+   "source": "2006:p118",
+   "agree": 4,
+   "reports": [
+    2006,
+    2008,
+    2009,
+    2010
+   ]
+  },
+  "revenue": {
+   "value": 91424.0,
+   "source": "2006:p118",
+   "agree": 4,
+   "reports": [
+    2006,
+    2008,
+    2009,
+    2010
+   ]
+  },
+  "totalAssets": {
+   "value": 103234.0,
+   "source": "2006:p118",
+   "agree": 4,
+   "reports": [
+    2006,
+    2008,
+    2009,
+    2010
+   ]
+  },
+  "netIncome": {
+   "value": 9492.0,
+   "source": "2006:p118",
+   "agree": 4,
+   "reports": [
+    2006,
+    2008,
+    2009,
+    2010
+   ]
+  },
+  "epsDiluted": {
+   "value": 6.06,
+   "source": "2006:p118",
+   "agree": 4,
+   "reports": [
+    2006,
+    2008,
+    2009,
+    2010
+   ]
+  },
+  "epsBasic": {
+   "value": 6.15,
+   "source": "2006:p118",
+   "agree": 2,
+   "reports": [
+    2006,
+    2008
+   ],
+   "flags": [
+    "restated_or_disagree:orig=6.15(2006);later=[{'value': 6.13, 'firstReport': 2009}]"
+   ]
+  },
+  "incomeContinuing": {
+   "value": 9416.0,
+   "source": "2006:p118",
+   "agree": 4,
+   "reports": [
+    2006,
+    2008,
+    2009,
+    2010
+   ]
+  }
+ },
+ "2005": {
+  "dividendsPerShare": {
+   "value": 0.78,
+   "source": "2006:p118",
+   "agree": 3,
+   "reports": [
+    2006,
+    2008,
+    2009
+   ]
+  },
+  "totalDebt": {
+   "value": 22641.0,
+   "source": "2006:p118",
+   "agree": 3,
+   "reports": [
+    2006,
+    2008,
+    2009
+   ]
+  },
+  "revenue": {
+   "value": 91134.0,
+   "source": "2006:p118",
+   "agree": 3,
+   "reports": [
+    2006,
+    2008,
+    2009
+   ]
+  },
+  "totalAssets": {
+   "value": 105748.0,
+   "source": "2006:p118",
+   "agree": 3,
+   "reports": [
+    2006,
+    2008,
+    2009
+   ]
+  },
+  "netIncome": {
+   "value": 7934.0,
+   "source": "2006:p118",
+   "agree": 3,
+   "reports": [
+    2006,
+    2008,
+    2009
+   ]
+  },
+  "epsDiluted": {
+   "value": 4.91,
+   "source": "2006:p118",
+   "agree": 3,
+   "reports": [
+    2006,
+    2008,
+    2009
+   ]
+  },
+  "epsBasic": {
+   "value": 4.99,
+   "source": "2006:p118",
+   "agree": 2,
+   "reports": [
+    2006,
+    2008
+   ],
+   "flags": [
+    "restated_or_disagree:orig=4.99(2006);later=[{'value': 4.97, 'firstReport': 2009}]"
+   ]
+  },
+  "incomeContinuing": {
+   "value": 7994.0,
+   "source": "2006:p118",
+   "agree": 3,
+   "reports": [
+    2006,
+    2008,
+    2009
+   ]
+  }
+ },
+ "2008": {
+  "dividendsPerShare": {
+   "value": 1.9,
+   "source": "2008:p122",
+   "agree": 5,
+   "reports": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012
+   ]
+  },
+  "totalDebt": {
+   "value": 33926.0,
+   "source": "2008:p122",
+   "agree": 5,
+   "reports": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012
+   ]
+  },
+  "revenue": {
+   "value": 103630.0,
+   "source": "2008:p122",
+   "agree": 5,
+   "reports": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012
+   ]
+  },
+  "totalAssets": {
+   "value": 109524.0,
+   "source": "2008:p122",
+   "agree": 5,
+   "reports": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012
+   ]
+  },
+  "netIncome": {
+   "value": 12334.0,
+   "source": "2008:p122",
+   "agree": 5,
+   "reports": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012
+   ]
+  },
+  "epsDiluted": {
+   "value": 8.93,
+   "source": "2008:p122",
+   "agree": 1,
+   "reports": [
+    2008
+   ],
+   "flags": [
+    "restated_or_disagree:orig=8.93(2008);later=[{'value': 8.89, 'firstReport': 2009}]"
+   ]
+  },
+  "epsBasic": {
+   "value": 9.07,
+   "source": "2008:p122",
+   "agree": 1,
+   "reports": [
+    2008
+   ],
+   "flags": [
+    "restated_or_disagree:orig=9.07(2008);later=[{'value': 9.02, 'firstReport': 2009}]"
+   ]
+  },
+  "incomeContinuing": {
+   "value": 12334.0,
+   "source": "2008:p122",
+   "agree": 3,
+   "reports": [
+    2008,
+    2009,
+    2010
+   ]
+  }
+ },
+ "2007": {
+  "dividendsPerShare": {
+   "value": 1.5,
+   "source": "2008:p122",
+   "agree": 4,
+   "reports": [
+    2008,
+    2009,
+    2010,
+    2011
+   ]
+  },
+  "totalDebt": {
+   "value": 35274.0,
+   "source": "2008:p122",
+   "agree": 4,
+   "reports": [
+    2008,
+    2009,
+    2010,
+    2011
+   ]
+  },
+  "revenue": {
+   "value": 98786.0,
+   "source": "2008:p122",
+   "agree": 4,
+   "reports": [
+    2008,
+    2009,
+    2010,
+    2011
+   ]
+  },
+  "totalAssets": {
+   "value": 120431.0,
+   "source": "2008:p122",
+   "agree": 4,
+   "reports": [
+    2008,
+    2009,
+    2010,
+    2011
+   ]
+  },
+  "netIncome": {
+   "value": 10418.0,
+   "source": "2008:p122",
+   "agree": 4,
+   "reports": [
+    2008,
+    2009,
+    2010,
+    2011
+   ]
+  },
+  "epsDiluted": {
+   "value": 7.18,
+   "source": "2008:p122",
+   "agree": 1,
+   "reports": [
+    2008
+   ],
+   "flags": [
+    "restated_or_disagree:orig=7.18(2008);later=[{'value': 7.15, 'firstReport': 2009}]"
+   ]
+  },
+  "epsBasic": {
+   "value": 7.32,
+   "source": "2008:p122",
+   "agree": 1,
+   "reports": [
+    2008
+   ],
+   "flags": [
+    "restated_or_disagree:orig=7.32(2008);later=[{'value': 7.27, 'firstReport': 2009}]"
+   ]
+  },
+  "incomeContinuing": {
+   "value": 10418.0,
+   "source": "2008:p122",
+   "agree": 3,
+   "reports": [
+    2008,
+    2009,
+    2010
+   ]
+  }
+ },
+ "2009": {
+  "dividendsPerShare": {
+   "value": 2.15,
+   "source": "2009:p129",
+   "agree": 5,
+   "reports": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2013
+   ]
+  },
+  "totalDebt": {
+   "value": 26099.0,
+   "source": "2009:p129",
+   "agree": 5,
+   "reports": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2013
+   ]
+  },
+  "revenue": {
+   "value": 95758.0,
+   "source": "2009:p129",
+   "agree": 5,
+   "reports": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2013
+   ]
+  },
+  "totalAssets": {
+   "value": 109022.0,
+   "source": "2009:p129",
+   "agree": 5,
+   "reports": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2013
+   ]
+  },
+  "netIncome": {
+   "value": 13425.0,
+   "source": "2009:p129",
+   "agree": 5,
+   "reports": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2013
+   ]
+  },
+  "epsDiluted": {
+   "value": 10.01,
+   "source": "2009:p129",
+   "agree": 5,
+   "reports": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2013
+   ]
+  },
+  "epsBasic": {
+   "value": 10.12,
+   "source": "2009:p129",
+   "agree": 5,
+   "reports": [
+    2009,
+    2010,
+    2011,
+    2012,
+    2013
+   ]
+  },
+  "incomeContinuing": {
+   "value": 13425.0,
+   "source": "2009:p129",
+   "agree": 2,
+   "reports": [
+    2009,
+    2010
+   ]
+  }
+ },
+ "2010": {
+  "dividendsPerShare": {
+   "value": 2.5,
+   "source": "2010:p133",
+   "agree": 5,
+   "reports": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014
+   ]
+  },
+  "totalDebt": {
+   "value": 28624.0,
+   "source": "2010:p133",
+   "agree": 5,
+   "reports": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014
+   ]
+  },
+  "revenue": {
+   "value": 99870.0,
+   "source": "2010:p133",
+   "agree": 4,
+   "reports": [
+    2010,
+    2011,
+    2012,
+    2013
+   ],
+   "flags": [
+    "restated_or_disagree:orig=99870.0(2010);later=[{'value': 98018.0, 'firstReport': 2014}]"
+   ]
+  },
+  "totalAssets": {
+   "value": 113452.0,
+   "source": "2010:p133",
+   "agree": 5,
+   "reports": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014
+   ]
+  },
+  "netIncome": {
+   "value": 14833.0,
+   "source": "2010:p133",
+   "agree": 5,
+   "reports": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014
+   ]
+  },
+  "epsDiluted": {
+   "value": 11.52,
+   "source": "2010:p133",
+   "agree": 4,
+   "reports": [
+    2010,
+    2011,
+    2012,
+    2013
+   ],
+   "flags": [
+    "restated_or_disagree:orig=11.52(2010);later=[{'value': 11.71, 'firstReport': 2014}]"
+   ]
+  },
+  "epsBasic": {
+   "value": 11.69,
+   "source": "2010:p133",
+   "agree": 4,
+   "reports": [
+    2010,
+    2011,
+    2012,
+    2013
+   ],
+   "flags": [
+    "restated_or_disagree:orig=11.69(2010);later=[{'value': 11.89, 'firstReport': 2014}]"
+   ]
+  },
+  "incomeContinuing": {
+   "value": 14833.0,
+   "source": "2010:p133",
+   "agree": 1,
+   "reports": [
+    2010
+   ],
+   "flags": [
+    "restated_or_disagree:orig=14833.0(2010);later=[{'value': 15082.0, 'firstReport': 2014}]"
+   ]
+  }
+ },
+ "2011": {
+  "dividendsPerShare": {
+   "value": 2.9,
+   "source": "2011:p142",
+   "agree": 5,
+   "reports": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015
+   ]
+  },
+  "totalDebt": {
+   "value": 31320.0,
+   "source": "2011:p142",
+   "agree": 5,
+   "reports": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015
+   ]
+  },
+  "revenue": {
+   "value": 106916.0,
+   "source": "2011:p142",
+   "agree": 3,
+   "reports": [
+    2011,
+    2012,
+    2013
+   ],
+   "flags": [
+    "restated_or_disagree:orig=106916.0(2011);later=[{'value': 105056.0, 'firstReport': 2014}]"
+   ]
+  },
+  "totalAssets": {
+   "value": 116433.0,
+   "source": "2011:p142",
+   "agree": 5,
+   "reports": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015
+   ]
+  },
+  "netIncome": {
+   "value": 15855.0,
+   "source": "2011:p142",
+   "agree": 5,
+   "reports": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015
+   ]
+  },
+  "epsDiluted": {
+   "value": 13.06,
+   "source": "2011:p142",
+   "agree": 3,
+   "reports": [
+    2011,
+    2012,
+    2013
+   ],
+   "flags": [
+    "restated_or_disagree:orig=13.06(2011);later=[{'value': 13.27, 'firstReport': 2014}]"
+   ]
+  },
+  "epsBasic": {
+   "value": 13.25,
+   "source": "2011:p142",
+   "agree": 3,
+   "reports": [
+    2011,
+    2012,
+    2013
+   ],
+   "flags": [
+    "restated_or_disagree:orig=13.25(2011);later=[{'value': 13.46, 'firstReport': 2014}]"
+   ]
+  },
+  "incomeContinuing": {
+   "value": 16108.0,
+   "source": "2014:p152",
+   "agree": 2,
+   "reports": [
+    2014,
+    2015
+   ]
+  }
+ },
+ "2012": {
+  "dividendsPerShare": {
+   "value": 3.3,
+   "source": "2012:p140",
+   "agree": 5,
+   "reports": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016
+   ]
+  },
+  "totalDebt": {
+   "value": 33269.0,
+   "source": "2012:p140",
+   "agree": 5,
+   "reports": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016
+   ]
+  },
+  "revenue": {
+   "value": 104507.0,
+   "source": "2012:p140",
+   "agree": 2,
+   "reports": [
+    2012,
+    2013
+   ],
+   "flags": [
+    "restated_or_disagree:orig=104507.0(2012);later=[{'value': 102874.0, 'firstReport': 2014}]"
+   ]
+  },
+  "totalAssets": {
+   "value": 119213.0,
+   "source": "2012:p140",
+   "agree": 5,
+   "reports": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016
+   ]
+  },
+  "netIncome": {
+   "value": 16604.0,
+   "source": "2012:p140",
+   "agree": 5,
+   "reports": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2016
+   ]
+  },
+  "epsDiluted": {
+   "value": 14.37,
+   "source": "2012:p140",
+   "agree": 2,
+   "reports": [
+    2012,
+    2013
+   ],
+   "flags": [
+    "restated_or_disagree:orig=14.37(2012);later=[{'value': 14.71, 'firstReport': 2014}]"
+   ]
+  },
+  "epsBasic": {
+   "value": 14.53,
+   "source": "2012:p140",
+   "agree": 2,
+   "reports": [
+    2012,
+    2013
+   ],
+   "flags": [
+    "restated_or_disagree:orig=14.53(2012);later=[{'value': 14.88, 'firstReport': 2014}]"
+   ]
+  },
+  "incomeContinuing": {
+   "value": 16999.0,
+   "source": "2014:p152",
+   "agree": 3,
+   "reports": [
+    2014,
+    2015,
+    2016
+   ]
+  }
+ },
+ "2013": {
+  "dividendsPerShare": {
+   "value": 3.7,
+   "source": "2013:p148",
+   "agree": 5,
+   "reports": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017
+   ]
+  },
+  "totalDebt": {
+   "value": 39718.0,
+   "source": "2013:p148",
+   "agree": 5,
+   "reports": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017
+   ]
+  },
+  "revenue": {
+   "value": 99751.0,
+   "source": "2013:p148",
+   "agree": 1,
+   "reports": [
+    2013
+   ],
+   "flags": [
+    "restated_or_disagree:orig=99751.0(2013);later=[{'value': 98367.0, 'firstReport': 2014}]"
+   ]
+  },
+  "totalAssets": {
+   "value": 126223.0,
+   "source": "2013:p148",
+   "agree": 5,
+   "reports": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017
+   ]
+  },
+  "netIncome": {
+   "value": 16483.0,
+   "source": "2013:p148",
+   "agree": 5,
+   "reports": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017
+   ]
+  },
+  "epsDiluted": {
+   "value": 14.94,
+   "source": "2013:p148",
+   "agree": 1,
+   "reports": [
+    2013
+   ],
+   "flags": [
+    "restated_or_disagree:orig=14.94(2013);later=[{'value': 15.3, 'firstReport': 2014}]"
+   ]
+  },
+  "epsBasic": {
+   "value": 15.06,
+   "source": "2013:p148",
+   "agree": 1,
+   "reports": [
+    2013
+   ],
+   "flags": [
+    "restated_or_disagree:orig=15.06(2013);later=[{'value': 15.42, 'firstReport': 2014}]"
+   ]
+  },
+  "incomeContinuing": {
+   "value": 16881.0,
+   "source": "2014:p152",
+   "agree": 4,
+   "reports": [
+    2014,
+    2015,
+    2016,
+    2017
+   ]
+  }
+ },
+ "2014": {
+  "dividendsPerShare": {
+   "value": 4.25,
+   "source": "2014:p152",
+   "agree": 4,
+   "reports": [
+    2014,
+    2015,
+    2016,
+    2017
+   ]
+  },
+  "totalDebt": {
+   "value": 40804.0,
+   "source": "2014:p152",
+   "agree": 5,
+   "reports": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+   ]
+  },
+  "revenue": {
+   "value": 92793.0,
+   "source": "2014:p152",
+   "agree": 5,
+   "reports": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+   ]
+  },
+  "totalAssets": {
+   "value": 117532.0,
+   "source": "2014:p152",
+   "agree": 5,
+   "reports": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+   ]
+  },
+  "netIncome": {
+   "value": 12022.0,
+   "source": "2014:p152",
+   "agree": 5,
+   "reports": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+   ]
+  },
+  "epsDiluted": {
+   "value": 15.59,
+   "source": "2014:p152",
+   "agree": 5,
+   "reports": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+   ]
+  },
+  "epsBasic": {
+   "value": 15.68,
+   "source": "2014:p152",
+   "agree": 5,
+   "reports": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+   ]
+  },
+  "incomeContinuing": {
+   "value": 15751.0,
+   "source": "2014:p152",
+   "agree": 5,
+   "reports": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018
+   ]
+  }
+ },
+ "2015": {
+  "dividendsPerShare": {
+   "value": 5.0,
+   "source": "2015:p149",
+   "agree": 3,
+   "reports": [
+    2015,
+    2016,
+    2017
+   ]
+  },
+  "totalDebt": {
+   "value": 39890.0,
+   "source": "2015:p149",
+   "agree": 4,
+   "reports": [
+    2015,
+    2016,
+    2017,
+    2018
+   ]
+  },
+  "revenue": {
+   "value": 81741.0,
+   "source": "2015:p149",
+   "agree": 4,
+   "reports": [
+    2015,
+    2016,
+    2017,
+    2018
+   ]
+  },
+  "totalAssets": {
+   "value": 110495.0,
+   "source": "2015:p149",
+   "agree": 4,
+   "reports": [
+    2015,
+    2016,
+    2017,
+    2018
+   ]
+  },
+  "netIncome": {
+   "value": 13190.0,
+   "source": "2015:p149",
+   "agree": 4,
+   "reports": [
+    2015,
+    2016,
+    2017,
+    2018
+   ]
+  },
+  "epsDiluted": {
+   "value": 13.6,
+   "source": "2015:p149",
+   "agree": 4,
+   "reports": [
+    2015,
+    2016,
+    2017,
+    2018
+   ]
+  },
+  "epsBasic": {
+   "value": 13.66,
+   "source": "2015:p149",
+   "agree": 4,
+   "reports": [
+    2015,
+    2016,
+    2017,
+    2018
+   ]
+  },
+  "incomeContinuing": {
+   "value": 13364.0,
+   "source": "2015:p149",
+   "agree": 4,
+   "reports": [
+    2015,
+    2016,
+    2017,
+    2018
+   ]
+  }
+ },
+ "2016": {
+  "dividendsPerShare": {
+   "value": 5.5,
+   "source": "2016:p157",
+   "agree": 2,
+   "reports": [
+    2016,
+    2017
+   ]
+  },
+  "totalDebt": {
+   "value": 42169.0,
+   "source": "2016:p157",
+   "agree": 3,
+   "reports": [
+    2016,
+    2017,
+    2018
+   ]
+  },
+  "revenue": {
+   "value": 79919.0,
+   "source": "2016:p157",
+   "agree": 3,
+   "reports": [
+    2016,
+    2017,
+    2018
+   ]
+  },
+  "totalAssets": {
+   "value": 117470.0,
+   "source": "2016:p157",
+   "agree": 3,
+   "reports": [
+    2016,
+    2017,
+    2018
+   ]
+  },
+  "netIncome": {
+   "value": 11872.0,
+   "source": "2016:p157",
+   "agree": 3,
+   "reports": [
+    2016,
+    2017,
+    2018
+   ]
+  },
+  "epsDiluted": {
+   "value": 12.39,
+   "source": "2016:p157",
+   "agree": 3,
+   "reports": [
+    2016,
+    2017,
+    2018
+   ]
+  },
+  "epsBasic": {
+   "value": 12.44,
+   "source": "2016:p157",
+   "agree": 3,
+   "reports": [
+    2016,
+    2017,
+    2018
+   ]
+  },
+  "incomeContinuing": {
+   "value": 11881.0,
+   "source": "2016:p157",
+   "agree": 3,
+   "reports": [
+    2016,
+    2017,
+    2018
+   ]
+  }
+ },
+ "2017": {
+  "dividendsPerShare": {
+   "value": 5.9,
+   "source": "2017:p148",
+   "agree": 1,
+   "reports": [
+    2017
+   ]
+  },
+  "totalDebt": {
+   "value": 46824.0,
+   "source": "2017:p148",
+   "agree": 2,
+   "reports": [
+    2017,
+    2018
+   ]
+  },
+  "revenue": {
+   "value": 79139.0,
+   "source": "2017:p148",
+   "agree": 2,
+   "reports": [
+    2017,
+    2018
+   ]
+  },
+  "totalAssets": {
+   "value": 125356.0,
+   "source": "2017:p148",
+   "agree": 2,
+   "reports": [
+    2017,
+    2018
+   ]
+  },
+  "netIncome": {
+   "value": 5753.0,
+   "source": "2017:p148",
+   "agree": 2,
+   "reports": [
+    2017,
+    2018
+   ]
+  },
+  "epsDiluted": {
+   "value": 6.14,
+   "source": "2017:p148",
+   "agree": 2,
+   "reports": [
+    2017,
+    2018
+   ]
+  },
+  "epsBasic": {
+   "value": 6.17,
+   "source": "2017:p148",
+   "agree": 2,
+   "reports": [
+    2017,
+    2018
+   ]
+  },
+  "incomeContinuing": {
+   "value": 5758.0,
+   "source": "2017:p148",
+   "agree": 2,
+   "reports": [
+    2017,
+    2018
+   ]
+  }
+ },
+ "1997": {
+  "totalDebt": {
+   "value": 26926.0,
+   "source": "1997:p80",
+   "agree": 5,
+   "reports": [
+    1997,
+    1998,
+    1999,
+    2000,
+    2001
+   ]
+  },
+  "revenue": {
+   "value": 78508.0,
+   "source": "1998:p92",
+   "agree": 4,
+   "reports": [
+    1998,
+    1999,
+    2000,
+    2001
+   ]
+  },
+  "totalAssets": {
+   "value": 81499.0,
+   "source": "1998:p92",
+   "agree": 4,
+   "reports": [
+    1998,
+    1999,
+    2000,
+    2001
+   ]
+  },
+  "netIncome": {
+   "value": 6093.0,
+   "source": "1998:p92",
+   "agree": 4,
+   "reports": [
+    1998,
+    1999,
+    2000,
+    2001
+   ]
+  },
+  "epsDiluted": {
+   "value": 3.0,
+   "source": "1999:p96",
+   "agree": 3,
+   "reports": [
+    1999,
+    2000,
+    2001
+   ]
+  },
+  "epsBasic": {
+   "value": 3.09,
+   "source": "1999:p96",
+   "agree": 3,
+   "reports": [
+    1999,
+    2000,
+    2001
+   ]
+  }
+ },
+ "2018": {
+  "totalDebt": {
+   "value": 45812.0,
+   "source": "2018:p148",
+   "agree": 1,
+   "reports": [
+    2018
+   ]
+  },
+  "revenue": {
+   "value": 79591.0,
+   "source": "2018:p148",
+   "agree": 1,
+   "reports": [
+    2018
+   ]
+  },
+  "totalAssets": {
+   "value": 123382.0,
+   "source": "2018:p148",
+   "agree": 1,
+   "reports": [
+    2018
+   ]
+  },
+  "netIncome": {
+   "value": 8728.0,
+   "source": "2018:p148",
+   "agree": 1,
+   "reports": [
+    2018
+   ]
+  },
+  "epsDiluted": {
+   "value": 9.51,
+   "source": "2018:p148",
+   "agree": 1,
+   "reports": [
+    2018
+   ]
+  },
+  "epsBasic": {
+   "value": 9.56,
+   "source": "2018:p148",
+   "agree": 1,
+   "reports": [
+    2018
+   ]
+  },
+  "incomeContinuing": {
+   "value": 8723.0,
+   "source": "2018:p148",
+   "agree": 1,
+   "reports": [
+    2018
+   ]
+  }
+ }
+}

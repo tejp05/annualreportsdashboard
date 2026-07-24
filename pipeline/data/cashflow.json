@@ -1,0 +1,263 @@
+{
+  "_comment": "Extracted from IBM annual report text (pipeline/raw/pymupdf4llm/). All values US$ millions. freeCashFlow is IBM's own stated figure where available, otherwise derived as OCF - net CapEx where net CapEx = gross CapEx payments - proceeds from asset disposals (per IBM 2015 10-K definition: 'net capital expenditures, including the investment in software'). Software investment is NOT separately added for pre-2007 years (data unavailable), so FCF may be slightly overstated vs IBM's exact definition. GF receivables adjustment also not applied (not separately reported pre-2007). Coverage: ~1995-2025. Re-run: python pipeline/cashflow.py NOTE 2026-07-02: 2003-2010 FCF corrected to IBM-stated figures (ex-GF-receivables definition; 2003-2007 from the 2007 report 5yr road-map table, 2008-2010 from MD&A prose); 2019-2020 aligned to MD&A tables; 2005/2006 OCF from cash flow statements. Do NOT blindly re-run cashflow.py: it does not reproduce the manually-curated 1995-2002 rows in this file.",
+  "years": {
+    "1995": {
+      "operatingCashFlow": 10708,
+      "capitalExpenditure": 4744,
+      "proceedsFromDisposals": 1561,
+      "freeCashFlow": 7525,
+      "ocfSource": "cash-flow-statement",
+      "capexSource": "cash-flow-statement",
+      "fcfSource": "derived(ocf-net-capex)"
+    },
+    "1996": {
+      "operatingCashFlow": 10275,
+      "capitalExpenditure": 5883,
+      "proceedsFromDisposals": 1314,
+      "freeCashFlow": 5706,
+      "ocfSource": "cash-flow-statement",
+      "capexSource": "cash-flow-statement",
+      "fcfSource": "derived(ocf-net-capex)"
+    },
+    "1997": {
+      "operatingCashFlow": 8865,
+      "capitalExpenditure": 6793,
+      "proceedsFromDisposals": 1130,
+      "freeCashFlow": 3202,
+      "ocfSource": "cash-flow-statement",
+      "capexSource": "cash-flow-statement",
+      "fcfSource": "derived(ocf-net-capex)"
+    },
+    "1998": {
+      "operatingCashFlow": 9273,
+      "capitalExpenditure": 6520,
+      "proceedsFromDisposals": 905,
+      "freeCashFlow": 3658,
+      "ocfSource": "cash-flow-statement",
+      "capexSource": "cash-flow-statement",
+      "fcfSource": "derived(ocf-net-capex)"
+    },
+    "1999": {
+      "operatingCashFlow": 10111,
+      "capitalExpenditure": 5959,
+      "proceedsFromDisposals": 1207,
+      "freeCashFlow": 5359,
+      "ocfSource": "cash-flow-statement",
+      "capexSource": "cash-flow-statement",
+      "fcfSource": "derived(ocf-net-capex)"
+    },
+    "2000": {
+      "operatingCashFlow": 9274,
+      "capitalExpenditure": 5616,
+      "proceedsFromDisposals": 1619,
+      "freeCashFlow": 5277,
+      "ocfSource": "cash-flow-statement",
+      "capexSource": "cash-flow-statement",
+      "fcfSource": "derived(ocf-net-capex)"
+    },
+    "2001": {
+      "operatingCashFlow": 14265,
+      "capitalExpenditure": 5660,
+      "proceedsFromDisposals": 1165,
+      "freeCashFlow": 9770,
+      "ocfSource": "cash-flow-statement",
+      "capexSource": "cash-flow-statement",
+      "fcfSource": "derived(ocf-net-capex)"
+    },
+    "2002": {
+      "operatingCashFlow": 13788,
+      "capitalExpenditure": 4753,
+      "proceedsFromDisposals": 775,
+      "freeCashFlow": 9810,
+      "ocfSource": "highlights-table",
+      "capexSource": "cash-flow-statement",
+      "fcfSource": "derived(ocf-net-capex)"
+    },
+    "2003": {
+      "operatingCashFlow": 14569,
+      "capitalExpenditure": 4393,
+      "proceedsFromDisposals": 1039,
+      "freeCashFlow": 8700,
+      "ocfSource": "highlights-table",
+      "capexSource": "plant-label",
+      "fcfSource": "md&a-stated-override"
+    },
+    "2004": {
+      "operatingCashFlow": 15406,
+      "capitalExpenditure": 4368,
+      "proceedsFromDisposals": 1311,
+      "freeCashFlow": 9100,
+      "ocfSource": "highlights-table",
+      "capexSource": "cash-flow-statement",
+      "fcfSource": "md&a-stated-override"
+    },
+    "2005": {
+      "operatingCashFlow": 14914,
+      "capitalExpenditure": 3500,
+      "freeCashFlow": 9600,
+      "ocfSource": "cashflow-stmt-override",
+      "capexSource": "prose-billions",
+      "fcfSource": "md&a-stated-override"
+    },
+    "2006": {
+      "operatingCashFlow": 15019,
+      "capitalExpenditure": 4700,
+      "freeCashFlow": 10500,
+      "ocfSource": "cashflow-stmt-override",
+      "capexSource": "prose-billions",
+      "fcfSource": "md&a-stated-override"
+    },
+    "2007": {
+      "operatingCashFlow": 16094,
+      "capitalExpenditure": 4968,
+      "freeCashFlow": 12400,
+      "ocfSource": "highlights-table",
+      "capexSource": "highlights-table",
+      "fcfSource": "md&a-stated-override"
+    },
+    "2008": {
+      "operatingCashFlow": 18812,
+      "capitalExpenditure": 4536,
+      "freeCashFlow": 14300,
+      "ocfSource": "highlights-table",
+      "capexSource": "highlights-table",
+      "fcfSource": "md&a-stated-override"
+    },
+    "2009": {
+      "operatingCashFlow": 20773,
+      "capitalExpenditure": 3747,
+      "freeCashFlow": 15100,
+      "ocfSource": "highlights-table",
+      "capexSource": "highlights-table",
+      "fcfSource": "md&a-stated-override"
+    },
+    "2010": {
+      "operatingCashFlow": 19549,
+      "capitalExpenditure": 3984,
+      "freeCashFlow": 16300,
+      "ocfSource": "highlights-table",
+      "capexSource": "highlights-table",
+      "fcfSource": "md&a-stated-override"
+    },
+    "2011": {
+      "operatingCashFlow": 19846,
+      "capitalExpenditure": 4059,
+      "freeCashFlow": 16604,
+      "ocfSource": "highlights-table",
+      "capexSource": "highlights-table",
+      "fcfSource": "md&a-exact"
+    },
+    "2012": {
+      "operatingCashFlow": 19586,
+      "capitalExpenditure": 4307,
+      "freeCashFlow": 18200,
+      "ocfSource": "highlights-table",
+      "capexSource": "highlights-table",
+      "fcfSource": "explicit-billions"
+    },
+    "2013": {
+      "operatingCashFlow": 17485,
+      "capitalExpenditure": 3768,
+      "freeCashFlow": 15021,
+      "ocfSource": "highlights-table",
+      "capexSource": "highlights-table",
+      "fcfSource": "md&a-exact"
+    },
+    "2014": {
+      "operatingCashFlow": 16900,
+      "capitalExpenditure": 3779,
+      "freeCashFlow": 12372,
+      "ocfSource": "prose-ops-billions",
+      "capexSource": "highlights-table",
+      "fcfSource": "derived-from-2015-yoy-delta"
+    },
+    "2015": {
+      "operatingCashFlow": 17008,
+      "capitalExpenditure": 3780,
+      "freeCashFlow": 13075,
+      "ocfSource": "highlights-table",
+      "capexSource": "highlights-table",
+      "fcfSource": "md&a-exact"
+    },
+    "2016": {
+      "operatingCashFlow": 16958,
+      "capitalExpenditure": 3726,
+      "freeCashFlow": 11574,
+      "ocfSource": "highlights-table",
+      "capexSource": "highlights-table",
+      "fcfSource": "md&a-exact"
+    },
+    "2017": {
+      "operatingCashFlow": 16700,
+      "capitalExpenditure": 3312,
+      "freeCashFlow": 12992,
+      "ocfSource": "prose-ops-billions",
+      "capexSource": "highlights-table",
+      "fcfSource": "md&a-exact"
+    },
+    "2018": {
+      "operatingCashFlow": 15200,
+      "capitalExpenditure": 3716,
+      "freeCashFlow": 11876,
+      "ocfSource": "prose-ops-billions",
+      "capexSource": "highlights-table",
+      "fcfSource": "md&a-exact"
+    },
+    "2019": {
+      "operatingCashFlow": 14800,
+      "capitalExpenditure": 2370,
+      "freeCashFlow": 11909,
+      "ocfSource": "prose-billions",
+      "capexSource": "highlights-table",
+      "fcfSource": "md&a-stated-override"
+    },
+    "2020": {
+      "operatingCashFlow": 18197,
+      "capitalExpenditure": 3042,
+      "freeCashFlow": 10805,
+      "ocfSource": "highlights-table",
+      "capexSource": "highlights-table",
+      "fcfSource": "md&a-stated-override"
+    },
+    "2021": {
+      "operatingCashFlow": 12796,
+      "capitalExpenditure": null,
+      "freeCashFlow": 6500,
+      "ocfSource": "highlights-table",
+      "capexSource": null,
+      "fcfSource": "prose-md&a"
+    },
+    "2022": {
+      "operatingCashFlow": 10435,
+      "capitalExpenditure": null,
+      "freeCashFlow": 9300,
+      "ocfSource": "highlights-table",
+      "capexSource": null,
+      "fcfSource": "explicit-billions"
+    },
+    "2023": {
+      "operatingCashFlow": 13931,
+      "capitalExpenditure": null,
+      "freeCashFlow": 11200,
+      "ocfSource": "highlights-table",
+      "capexSource": null,
+      "fcfSource": "explicit-billions"
+    },
+    "2024": {
+      "operatingCashFlow": 13400,
+      "capitalExpenditure": null,
+      "freeCashFlow": 12700,
+      "ocfSource": "prose-ops-billions",
+      "capexSource": null,
+      "fcfSource": "prose-md&a"
+    },
+    "2025": {
+      "operatingCashFlow": 13193,
+      "capitalExpenditure": null,
+      "freeCashFlow": 14700,
+      "ocfSource": "highlights-table",
+      "capexSource": null,
+      "fcfSource": "prose-md&a"
+    }
+  }
+}

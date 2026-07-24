@@ -1,0 +1,297 @@
+
+
+===== PAGE 1 =====
+The sole purpose of this report is to give present stock-
+holders information about their Corporation. This report
+is not a representation, prospectus or circular in respect
+of any stock of any corporation and is not transmitted
+in connection with any sale or offer to sell or buy any
+stock or security now or hereafter to be issued or with
+any preliminary negotiation for such sale.
+
+===== PAGE 2 =====
+
+
+===== PAGE 3 =====
+Thirtieth Annual Report
+OF THE
+International
+Business Machines
+Corporation
+For the year ended
+December Thirty-First
+1941
+WORLD HEADQUARTERS BUILDING
+590 MADISON AVE. - - - NEW YORK
+
+===== PAGE 4 =====
+— — —1
+International Business Machines Corporation
+BOARD OF DIRECTORS
+John L. Barton Samuel M. Hastings
+Willis H. Booth Augustine L. Humes
+Drury W. Cooper Abraham L. Kellogg
+Edward Cornell Frederick W. Nichol
+Sherman M. Fairchild John G. Phillips
+A. Ward Ford Charles Smith
+Norvin H. Green Christopher D. Smithers
+Thomas J. Watson
+EXECUTIVE AND FINANCE COMMITTEE
+Willis H. Booth Norvin H. Green i
+Drury W. Cooper Frederick W. Nichol
+Edward Cornell Christopher D. Smithers
+Thomas J. Watson
+OFFICERS 1
+THOMAS J. WATSON . . .
+FREDERICK W, NICHOL Vice-President
+and General Manager
+CHARLES A. KIRK . . . Vice-President
+JOHN G. PHILLIPS . . . Secretary
+and Treasurer
+FREDERICK C. ELSTOB Asst. Secretary
+FRANCIS R. COWLES Asst. Treasurer
+Transfer Agent Registrar and Trustee
+EMPIRE TRUST COMPANY GUARANTY TRUST COMPANY
+New York of New York
+
+===== PAGE 5 =====
+To THE STOCKHOLDERS:
+Your directors submit for the information of Stockhold-
+ers Consolidated Income and Earned Surplus Account for
+the year 1941, together with Consolidated Balance Sheet of
+the domestic companies and the Canadian subsidiary com-
+pany as of December 31, 1941, with the Auditor's Certifi-
+cate attached.
+Net Profit for the year 1941, including foreign subsidi-
+aries and branches, but before deducting estimated United
+States Federal and Canadian Income and Excess Profits
+Taxes and special reserve, was $19,544,633.14, compared
+with $13,097,013.10 for the year 1940, being an increase of
+$6,447,620.04.
+After deducting estimated United States Federal and
+Canadian Income and Excess Profits Taxes of $9,200,000.00,
+including United States Excess Profits Tax of $4,070,000.00
+and also after deducting a special reserve for after-war
+adjustments of $500,000.00, the Net Profit for the year
+1941 was $9,844,633.14, compared with $9,431,013.10 for
+the year 1940, being an increase of $413,620.04. The Net
+Profit for 1941 after taxes equals $10.44 per share on the
+943,028 shares outstanding December 31, 1941, which
+shares include 44,850 shares issued as a stock dividend on
+January 30, 1941.
+
+===== PAGE 6 =====
+The Investment in and Advances to Subsidiaries and
+Branches in enemy-controlled and other blocked exchange
+countries amounting to $14,552,772.47 is more than offset
+by reserves amounting to $14,677,934.58, of which $6,677,-
+934.58 is represented by specific reserves and $8,000,000.00
+by the Reserve for Contingencies. The latter reserve was
+increased $2,700,000.00 during the year.
+A cash dividend of $175,000.00 was received in Decem-
+ber 1941 on the Company's holdings of 100,000 shares of
+the Class "B" capital stock of the Hobart Manufacturing
+Company.
+There was invested during 1941 $18,623,695.86 in rental
+machines, plant and equipment and land and buildings.
+Dismantled and obsolete equipment amounting to $3,240,-
+760.31 was written off and charged against reserves pro-
+vided out of prior and current years' earnings.
+In August, 1941 the Company completed the construc-
+tion of an additional building to its plant at Endicott,
+New York, together with the necessary machinery and
+equipment, which has since been in operation.
+In July, 1941 the Company sold and transferred certain
+of its assets to the National Postal Meter Company, Inc.,
+in exchange for 13,832 shares of the latter Company's
+"Class A" Capital Stock, and in addition purchased 4,000
+shares of Preferred Stock and 4,000 shares of Common
+Stock of National Postal Meter Company, Inc., for
+$200,000.00.
+
+===== PAGE 7 =====
+In October, 1941 the Corporation effected the sale to the
+Prudential Insurance Company of America of $17,000,-
+000.00 Ten-Year 2^% Sinking Fund Debentures at par.
+The Debentures are redeemable through a Sinking Fund
+at the rate of $1,500,000.00 annually commencing October
+1, 1946, or earlier at the Corporation's option. The pro-
+ceeds of the sale of these Debentures was used to retire
+the outstanding balance of the Corporation's Ten-Year
+3% Sinking Fund Debentures due June 15, 1946, and its
+Ten-Year 33^% Sinking Fund Debentures due December
+15, 1947; and to provide additional working capital.
+The Company is committed to a large amount of war
+work under direct contracts with the United States Gov-
+ernment and through the Munitions Manufacturing Cor-
+poration in which the Company has as of today a 94.3%
+interest.
+Four quarterly cash dividends of $1.50 per share were
+made during the year. In addition, a stock dividend of 5%
+(47,088 Shares) was declared in November, 1941 and issued
+January 28, 1942 to stockholders of record January 14,
+1942.
+By order of the Board of Directors,
+THOMAS J. WATSON,
+President.
+March 16, 1942
+
+===== PAGE 8 =====
+International Business Machines Corporation
+and
+Domestic and Canadian Subsidiary Companies
+C O N S O L I D A T ED B A L A N CE S H E ET AS AT D E C E M B ER 3 1, 1 9 41
+L I A B I L I T I ES A ND C A P I T AL
+A S S E TS
+CURRENT ASSETS:
+Cash 7,336,964.25 CURRENT LIABILITIES:
+Notes and Accounts Receivable $ 7,043,060.79 Accounts Payable and Accruals $ 4,044,166.56
+LESS: Reserve for Doubtful Accounts. . 286,891.85 6,756,168.94 United States Federal and Canadian In-
+Inventories—Valued at Latest Cost, Not come and Excess Profits Taxes—Esti-
+in Excess of Market 6,017,882.79 $20,111,015.98 mated $ 9,497,113.61
+DEFERRED ASSETS: LESS: United States Treasury Tax
+Commissions Advanced to Salesmen—Less
+Reserve 225,420.28 Notes 2,003,200.00 7,493,913.61
+Prepaid Insurance, Taxes, etc 758,947.02 984,367.30 Mortgage Payable on Property at 308
+GENERAL COMPANY WELFARE FUND: Fifth Avenue, New York, N. Y 77,500.00 $11,615,580.17
+Stock of International Business Machines
+Corporation (5,463 Shares) 253,656.56
+Real Estate and Equipment—Less Reserve 247,850.18 501,506.74 BONDED INDEBTEDNESS:
+INVESTMENTS AND ADVANCES:
+Net Foreign Assets, and Securities of and Ten-Year 2^% Sinking Fund Debentures
+Advances to Foreign Subsidiaries and —Due October 1, 1951 17,000,000.00
+Branches*
+In enemy-controlled countries 14,023,025.95
+RESERVES:
+In other countries where exchange is
+blocked 529,746.52 For General Company Welfare 501,506.74
+14,552,772.47 For After-War Adjustments . . . 500,000.00
+LESS: Reserve 6,677,934.58 For Contingencies 8,000,000.00 9,001,506.74
+7,874,837.89
+All other countries 4,393,436.31 12,268,274.20 30,381,418.55
+CAPITAL STOCK—WITHOUT PAR VALUE ....
+The Hobart Manufacturing Company—"
+Represented by 943,028 Shares Issued and
+100,000 Shares Class "B" Stock—At Cost 4,141,566.83
+Other Investments 791,539.57 17,201,380.60 Outstanding
+FACTORIES, OFFICE BUILDINGS AND OTHER
+PROPERTY IN U. S. AND CANADA (At EARNED SURPLUS 29,495,589.78
+Cost):
+(Including Undistributed Surplus of
+Land 1,935,744.25
+Buildings 6,835,352.13 Canadian and Other Foreign Subsidiar-
+LESS: Reserve for Depreciation 1,805,238.19 5,030,113.94 ies $2,274,198.18)
+Plant and Office Equipment, Rental
+Subject to a charge of $1,517,005.35 in
+Machines and Parts 72,615,142.42
+LESS: Reserve for Depreciation 31,414,728.71 41,200,413.71 48,166,271.90 respect of Stock Dividend payable Jan-
+PATENTS AND GOODWILL 12,698,111.92 uary 28, 1942 to stockholders of record
+LESS: Reserve for Amortization 2,168,559.20 10,529,552.72 January 14, 1942
+$97,494,095.24
+$97,494,095.24
+*Except for enemy-controlled and other countries where exchange is blocked, all foreign net current assets and deferred charges The Consolidated Balance Sheet includes net current assets of the Canadian Subsidiary in the amount of $457,594.30 and other
+have been converted at the quoted rate of exchange on December 31,1941, other foreign assets and liabilities at the approximate net assets of that subsidiary in the amount of $3,190,135.94. , , i i . j t-. .
+rate prevailing when acquired or incurred, and net current foreign earnings at the approximate monthly closing rate or exchange. Contingent Liability: ConLct to indemnify surety on a bond for $1,655,500.00 in favor of the United States Government on
+Net investments in enemy-controlled and other countries where exchange is blocked are stated, substantially, at the amounts behalf of the Munitions Manufacturing Corporation.
+included at December 31,1940, after adjustments for subsequent inter-company transactions. Frederick C. Elstob, Principal Accounting Officer
+
+===== PAGE 9 =====
+International Business Machines Corporation
+and Subsidiary Companies
+CONSOLIDATED INCOME AND EARNED SURPLUS ACCOUNT
+For Year Ended December 31, 1941
+Gross Income from Sales, Service and Rentals ^^^
+in United States and Canada $62,928,975.60
+LESS:
+Cost of Sales, Service and Rentals, and
+Operating Expenses (Exclusive of De-
+preciation) . . $34,157,048.10
+Depreciation of Rental Machines, Plant
+and Equipment 8,526,777.98
+Development and Engineering Expenses. . 1,004,414.82
+Amortization of Patents 100,000.00 , , ^^
+Interest on Debentures 373,861.11 44,162,102.01
+Add: 18,766,873.59
+Net Income from and Undistributed Net
+Profits of Foreign Subsidiaries and
+Branches in Countries not Subject to
+Enemy Control or Blocked Exchange,
+not Consolidated* $239,552.95
+Royalties from Foreign Licensees 153,388.73 392,941.68
+Hobart Manufacturing Co.—Dividend. . 175,000.00 „„
+Other Income 209,817.87 777,759.55
+NET PROFIT, BEFORE UNITED STATES FED-
+ERAL AND CANADIAN INCOME AND EXCESS
+PROFITS TAXES AND SPECIAL RESERVE. .. 19,544,633.14
+LESS:
+Provision for United States Federal and
+Canadian Income and Excess Profits
+Taxes—Estimated (Including $4,070,- ^^^ „„
+000.00 U. S. Excess Profits Tax) 9,200,000.00
+LESS: 10,344,633.14
+^ ^ m il . . 500,000.00
+NET PROFIT FOR THE YEAR, AFTER ESTIMATED
+UNITED STATES FEDERAL AND CANADIAN
+INCOME AND EXCESS PROFITS TAXES AND
+SPECIAL RESERVE 9,844,633.14
+EARNED SURPLUS, JANUARY 1, 1941 29,444,478.38
+TOTAL 39,289,111.52
+LESS:
+Transfer to Reserve for Contingencies. . . 2,700,000.00
+Dividends for Year 1941:
+Cash Dividends 5,648,577.00
+Stock Dividend—44,850 Shares, involv-
+ing Transfer from Earned Surplus to
+Capital Stock Account of 1,444,944.74 9,793,521.74
+EARNED SURPLUS, DECEMBER 31, 1941 .... $29,495,589.78
+*The exclusion of Net Income from and Undistributed Net Profits of Foreisn Subsidiaries and Branches in Counties Subject
+to Enemy Control and in Other Countries Where Exchange Is Blocked is not a change in accounting policy, nor does it affect
+a comparison with the Net Profits of the previous year, inasmuch as such Blocked Profits were fully reserved
+The Consolidated Income Account includes undistributed earnings of the Canadian Subsidiary in the amount of $275,202.21.
+
+===== PAGE 10 =====
+R. G. RANKIN & CO.
+CERTIFIED PUBLIC ACCOUNTANTS
+CHICAGO, ILL. HOME OFFICE
+WASHINGTON, D. C. 30 BROAD STREET
+NEW YORK
+To the Stockholders of the
+INTERNATIONAL BUSINESS MACHINES CORPORATION:
+We have examined the Consolidated Balance Sheet of the Inter-
+national Business Machines Corporation and Domestic and Canadian
+Subsidiary Companies as of December 31, 1941, and the Consolidated
+Income and Earned Surplus Account for the fiscal year then ended. In
+connection therewith, we have reviewed the system of internal control
+and the accounting procedures of the domestic companies and, with-
+out making a detailed audit of the transactions, have examined or
+tested accounting records of the domestic companies and other sup-
+porting evidence, by methods and to the extent we deemed appropriate.
+We accepted, after review, the report of independent auditors on
+the accounts of the Canadian Subsidiary and the available financial
+statements, mainly the company's own statements supplemented by
+cable information, on the accounts of non-consolidated foreign sub-
+sidiaries and branches located in countries which are not enemy con-
+trolled and in other countries not subject to exchange restrictions.
+Inasmuch as recent statements were not available, the investments in
+and advances to foreign subsidiaries and branches located in enemy
+controlled countries and other countries subject to exchange restric-
+tions are stated, substantially, at the December 31, 1940 values, after
+giving effect to subsequently reported inter-company transactions.
+In our opinion, the accompanying Consolidated Balance Sheet and
+related Consolidated Income and Earned Surplus Account present
+fairly the financial condition of the International Business Machines
+Corporation and Domestic and Canadian Subsidiary Companies as at
+December 31, 1941 and the results of operations for the year ended
+on that date, in conformity with generally accepted accounting prin-
+ciples applied on a basis consistent with that of the preceding year.
+R. G. RANKIN & CO.
+Certified Public Accountants
+
+===== PAGE 11 =====
+U 98007
+
+===== PAGE 12 =====
+
+
+===== PAGE 13 =====
+J

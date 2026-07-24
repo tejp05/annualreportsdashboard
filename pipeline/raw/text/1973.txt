@@ -1,0 +1,2473 @@
+
+
+===== PAGE 1 =====
+> 
+c p 
+- J 
+
+
+===== PAGE 2 =====
+Highlightsof the Year: i 
+Letter to Stockholders: 3 
+Report to Stockholders: 5 
+Report of Independent Accountants: 20 
+Earnings and Retained Earnings: 21 
+Balance Sheet: 22 
+Changes in Financial Position: 24 
+Ten-Year Statement of Operations: 28 
+Directors and Officers: 31 
+International Business Machines Corporation 
+Armonk, New York 
+10504 
+Stockholder Relations Department, 
+717 Fifth Avenue, New York, NewYork 
+10022 
+Stock Transfer Offices: 
+International Business Machines Corporation, 
+Stockholder Relations Department, 
+717 Fifth Avenue, New York, New York 
+10022 
+One IBM Plaza, 21st Floor, Chicago, Illinois 
+60611 
+Trust General du Canada, 
+10 St. James Street West, 
+Montreal, Quebec, Canada H2Y 
+1L4 
+Wells Fargo Bank, N.A., 
+464 California Street, San Francisco, California 
+s>4i20 
+National Trust Company, Limited, 
+21 King Street East, Toronto, Ontario, Canada M5C 
+1B3 
+Morgan Guaranty Trust Company of New York, 
+30 West Broadway, New York, New York 
+10015 
+The First National Bank of Chicago, 
+One First National Plaza, Chicago, Illinois 
+60670 
+Montreal Trust Company, 
+777 Dorchester Boulevard West,' 
+Montreal, Quebec, Canada H3B 
+4A5 
+Crocker National Bank, 
+One Montgomery Street, 
+San Francisco, California 
+94104 
+Montreal Trust Company, 
+15 King Street West, Toronto, Ontario, Canada M5H 
+1B4 
+
+
+===== PAGE 3 =====
+Annual Report 
+for the year ended December 31, 
+1 9 7 3 
+International Business Machines 
+Corporation 
+Highlights of the year: 
+1973 
+1972 
+Gross income from sales, services and rentals 
+$ 10,993,241,953 
+$ 
+9,532,592,642 
+Earnings before income taxes 
+$ 
+2,946,467,055 
+$ 
+2,425,267,555 
+U.S. Federal and foreign income taxes 
+$ 
+1,371,000,000 
+$ 
+1,146,000,000 
+Net earnings 
+$ 
+1,575,467,055 
+$ 
+1,279,267,555 
+Per share 
+$ 
+lO.JC) 
+$ 
+8.83 
+Cash dividends 
+$ 
+654,319,289 
+$ 
+626,156,605 
+Ver share 
+S 
+4-48 
+$ 
+4.32 
+Stock split 
+25% 
+-
+Investment in plant, rental machines and 
+other property 
+$ 
+2,185,560,820 
+$ 
+1,727,949,051 
+At end of year: 
+Total assets 
+Net investment in plant, rental machines and 
+other property 
+Long-term debt 
+Working capital 
+Number of employees 
+Number of stockholders 
+$ 12,289,488,799 
+$ 
+5,702,257,928 
+$ 
+652,236,348 
+$ 
+3,274,830,840 
+274,108 
+574,887 
+10,792,402,032 
+5,271,025,074 
+772,932,774 
+2,562,468,943 
+262,152 
+558,332 
+Cover: 
+This computer analysis of utilization of land 
+resources in the Kanto Plain of eastern Japan was 
+carried out by an IBM system on the basis of 
+green and infra-red photographs taken of the 
+Plain by a U.S. satellite. 
+
+
+===== PAGE 4 =====
+To the 
+Stockholders: 
+T. J. Watson, Jr., Chairman of the 'Executive 
+Committee, R T. Cary, Chairman of the 
+Board and President, and G. E. Jones, IBM 
+Senior Vice President and Chairman of the 
+Board of IBM World Trade Corporation. 
+
+
+===== PAGE 5 =====
+On January 31,1974, Thomas J. Watson, Jr., 
+former IBM Board Chairman will retire 
+after one of the most distinguished careers in 
+the annals of American industry. 
+His remarkable leadership has been a key 
+element in the success of IBM. He started 
+with IBM in 1937, and as chief executive officer 
+from 1956 to 1971 he guided the Company 
+through its most challenging years. 
+This was a period of growth and change in 
+the data processing and office products in-
+dustry as dramatic as that experienced by any 
+other industry. It was a time that called for 
+leadership with the vision and courage to make 
+and implement many innovative decisions. 
+As the achievements of IBM during this impor-
+tant period demonstrate, Tom Watson was 
+the right man at the right time. Above all, his 
+unwavering commitment to excellence 
+has touched everyone around him and helped 
+make IBM a very special company. All of us 
+at IBM will be enduringly grateful to him and 
+will hold his example as a legacy for the future. 
+Fortunately, Tom Watson will remain as 
+a member of the Board and as Chairman of the 
+Board's Executive Committee. In these posi-
+tions, he will continue to give us the benefit of 
+his wisdom and experience. 
+The year 1973 was one of growth for IBM. 
+Gross income and earnings for the Company's 
+worldwide operations reached record levels 
+with consolidated gross income exceeding 
+$10 
+billion and gross income from operations out-
+side the United States exceeding $5 billion, each 
+for the first time. Consolidated gross income 
+amounted to $10,993,241,953, an increase of 
+$1,460,649,311 over 1972. Net earnings were 
+$1,575,467,055, an increase of $296,199,500 
+over the previous year. 
+Earnings amounted to $10.79 P^i^ share on 
+146,061,750 shares, the average number of 
+shares outstanding during the year after adjust-
+ment for the 2 5 % stock split effected May 10, 
+1973. This compares with earnings of $8.83 per 
+share on 144,953,058 shares, the average num-
+ber outstanding in 1972 adjusted for the 
+2 5 % split. 
+Gross income for the quarter ended Decem-
+ber 31,1973, amounted to $3,240,216,180, 
+an increase of $718,487,616 compared with the 
+same period of 1972. Net earnings amounted 
+to $468,721,918, or $128,294,875 more than the 
+fourth quarter of 1972. 
+Operations outside the United States for 
+the year 1973, included in the consolidated re-
+sults, showed a higher rate of increase over 
+1972 than domestic operations, due in part to 
+numerous currency fluctuations and realign-
+ments during the past year. Overseas gross 
+income amounted to $5,142,536,294, an 
+increase of $990,145,206 over the year before. 
+Net earnings from these operations were 
+$852,536,642, an increase of $165,905,202 
+over 1972. 
+Accompanying a record rate of worldwide 
+installations in the final quarter of 1973, 
+outright purchases of data processing equip-
+ment were also at an all-time high for any 
+quarter, and were higher for the full year 1973 
+than for 1972. Consolidated gross income 
+from rentals and services in 1973 increased 
+14.5 % over the previous year. 
+Orders for IBM equipment and services 
+during 1973 continued strong, and at year end 
+the backlog of orders was higher than at year-
+end 1972 despite a record level of shipments. 
+In 1973, IBM announced a number of 
+important new products that expand the appli-
+cation of data and word processing. Our Data 
+Processing Division introduced new systems for 
+supermarkets, retail stores and financial insti-
+tutions, and our Office Products Division added 
+an innovative Correcting "Selectric" Type-
+writer to its line of word processing equipment. 
+These and other new products are discussed 
+elsewhere in this report. 
+Litigation developments last year included 
+a trial date set for October, 1974, for the 
+Department of Justice civil antitrust suit, and 
+a decision in the Telex antitrust suit. Judge A. 
+Sherman Christensen's original ruling in the 
+Telex suit against IBM was amended by him 
+to reduce the damages and significantly modify 
+the injunctive relief granted Telex. The 
+ruling that found Telex guilty of misappropri-
+ating IBM trade secrets was left unchanged. 
+We believe the antitrust ruling against IBM is 
+erroneous both in its theory of antitrust 
+law and its interpretation of IBM business 
+practices, and on November 30,1973, our re-
+quest for an expedited appeal was granted 
+by the Court of Appeals for the Tenth Circuit. 
+Additional details on litigation are on page 26. 
+Many of you may be wondering why an 
+increasing number of competitors are filing anti-
+trust suits against the Company. The most 
+obvious reason is that the adverse Telex antitrust 
+decision has prompted other companies that 
+sell IBM-compatible equipment to take advan-
+tage of the decision and seek to use it as a 
+precedent. 
+There are also, I think, some less obvious 
+factors behind the legal actions against IBM. We 
+have seen in recent years in our society an in-
+creasing distrust of large institutions, a feeling 
+that "bigness is badness" no matter how that 
+bigness was achieved. This social and political 
+atmosphere, I believe, has encouraged smaller 
+companies in a number of other industries—not 
+just ours—to initiate private antitrust action 
+against large, successful competitors. 
+In addition, our industry includes a number 
+of companies, like Telex, that have chosen to 
+rely on IBM-developed technology for their 
+products. Some of these companies claim that 
+IBM's efforts to introduce new technology 
+and to stay competitive in price—the kind of 
+efforts that have been considered normal by 
+most companies and industries—are now illegal 
+acts against them. This doesn't make any sense 
+to us. We continue to believe we have com-
+peted fairly. 
+When a suit filed against IBM by Greyhound 
+Computer Corporation was dismissed by a 
+Federal court in 1972, the judge stated; 
+.. it 
+is the opinion of this court from the evidence 
+adduced thus far on the record that the defend-
+ant's place in the industry has been achieved 
+as a result of superior skill, foresight, and indus-
+try . . . There is no evidence of an attempt to 
+monopolize on the record." He further stated: 
+"Apparently it is still the law that size alone 
+does not constitute an offense under the Sherman 
+Act." We believe that is a sound judgment on 
+our legal situation and we hope it prevails. But 
+whatever the outcome of litigation against IBM, 
+I am confident that the Company's future re-
+mains bright for our stockholders, our employ-
+ees, and our customers. 
+Several external factors cloud the outlook 
+for 1974, including the uncertain impact 
+here and abroad of a pattern of inflation that has 
+yet to be curbed, and the energy shortage. We 
+share the public concern about worldwide en-
+ergy problems and have taken actions to re-
+duce our energy requirements and to conserve 
+and recycle critical production materials. In 
+addition, we are continuing to develop ways for 
+our products to be used to conserve energy. 
+In recent years, we have seen a continuing 
+public debate between those who regard com-
+panies like IBM that operate on an international 
+scale as a source of strength to the American 
+economy, and those who think otherwise. Some 
+critics contend that U.S. foreign investment 
+results in American jobs and capital being "ex-
+ported" abroad. The IBM experience has been 
+
+
+===== PAGE 6 =====
+just the opposite. There has been a direct bene-
+ficial relationship between our overall busi-
+ness and our total employment in the U.S. This 
+has enabled the Company to make a substan-
+tial positive contribution to the balance of 
+payments and at the same time develop impor-
+tant new technologies in and for countries 
+around the world. 
+In a number of countries, views are being 
+expressed that government should take action to 
+protect national industries and resources from 
+outside competition. To some extent it is natural 
+that individual nations should want to pro-
+mote their local industry, but I believe that it 
+would be wrong to turn these feelings into 
+economic policy actions that choke off interna-
+tional trade and investment. Rather, we all 
+should concentrate on expanding international 
+investment and on improving our societies 
+so that everyone can benefit from competition 
+in open, worldwide markets. 
+IBM is a leader in the information-handling 
+industry because of the talents of extraordinary 
+people all around the world. Our people have 
+always been our greatest strength, and I believe 
+that their continued efforts in an environment 
+of international cooperation will be our best as-
+surance of continued long-term growth. There 
+are exciting years ahead for IBM, and we all look 
+forward to sharing them with you. 
+January 29, 1974 
+by order of the Board of Directors 
+Frank T. Gary 
+Chairman of the Board and President 
+Products 
+at Work: 
+Just twenty years ago, IBM announced the 
+701 computer—the company's first large-scale, 
+stored program electronic computer to be 
+produced in volume. Business experts estimated 
+that eventually as many as 50 companies in 
+the country might use this new labor-saving 
+tool. Now it is virtually impossible to count 
+the numbers of ways in which computers are 
+being used. New markets reach out continu-
+ally for computing equipment to support man's 
+efforts not only to keep business records, but 
+to supply food, health care, transportation, en-
+ergy, education and recreation, and to satisfy 
+his curiosity about the unknown. 
+It has always been IBM's strength to antici-
+pate the needs of the world's marketplaces; 
+to innovate products and programs for special 
+applications; to guide the installation of its 
+products and insure their continuous reliability. 
+The Company's strength is heavily de-
+pendent upon one factor: its people—the engi-
+neers, scientists, marketing representatives, 
+managers, administrators, who through the de-
+mands of their jobs and by their own incli-
+nations as well, smdy the elements of human 
+life and seek ways to improve social health. 
+A review of the marketplace can offer only 
+a limited selection at best. But even this covers 
+a wide territory of purposes. Most important, 
+however, is the probability that each of these 
+computer applications will suggest new ways 
+in which computers can be put to work for hu-
+man benefit. 
+Fresh, Pure Water... 
+One of Italy's largest petrochemical plants 
+desalts millions of cubic meters of seawater per 
+year. The process, which is controlled by an 
+IBM computer system, provides water for plant 
+use, without drawing on the scarce reserves 
+of Sardinia. 
+
+
+===== PAGE 7 =====
+Mine Safety... 
+Right: In the depths of a silver mine, an instru-
+ment for detecting rock movement alerts an 
+above-ground computer to potential trouble. 
+With sufficient warning, mining engineers can 
+analyze dangerous areas to design safer mining 
+methods. 
+Electric Power... 
+For the New York Power Pool, an IBM computer 
+system furnishes on-line intelligence on the 
+status of electric power. The eight-member Pool, 
+representing 99% of the electrical energy 
+generated in New York State, coordinates the 
+operation of electricity production and trans-
+mission within the State, and coordinates power 
+exchanges between Power Pool members 
+and neighboring utilities in the U.S. and Canada. 
+Cattle Ranch... 
+The 60-square-mile Palmer ranch in Alberta, 
+Canada, one of the few remaining cattle 
+kingdoms in the West, exports breeding stock 
+around the world. Data on the cattle are en-
+tered into an IBM System/3, which helps trace 
+back the cumulative factors to make it pos-
+sible to record important information on each 
+individual cow and bull. 
+Editorial Research... 
+The New York Times clips nearly 2,500 articles 
+each week from its own pages and selections 
+from some 60 other major newspapers and maga-
+zines. All this information is now available to 
+subscribers of this new Information Bank. It uses 
+an IBM System/370 Model 145 plus peripheral 
+equipment to capture information and deliver it, 
+on order, to video-like display terminals in the 
+newsrooms or in subscribers' offices. 
+Airport Security... 
+Below: At Baltimore-Washington International 
+Airport in Maryland, an IBM System/7 Con-
+trolled Access System guards 60 passenger ter-
+minal gates, elevators and power-operated 
+gates in the chain-link fence. This driver and 
+some 2,500 other authorized employees, enter 
+freely by inserting magnetically coded 
+identification cards into IBM card readers 
+installed at the gates. 
+
+
+===== PAGE 8 =====
+
+
+===== PAGE 9 =====
+Databank for Antidotes... 
+Right: Victims of poisoning—most of tfiem 
+toddlers—can be helped by a databank. A hur-
+ried call or visit to the nearest Poison Control 
+Center: There, an attendant types information 
+on the keyboard of a video display terminal 
+and seconds later the screen displays treatment 
+instructions. The central databank, handled by 
+an IBM System/370 Model 155, at the Poison 
+Control Program, ED.A. in Washington, D.C., 
+has information on over 7,000 products with 
+toxic ingredients. 
+National Racing... 
+In Venezuela, the National Race Track accepts 
+bets on the "five and six"—v/inners in five or 
+six of Sunday's races. Winnings can be substan-
+tial and more than a half million entries are 
+received each week. IBM Optical Character 
+Readers assist in sorting out winning tickets and 
+IBM System/360 Model 25 computers help 
+speed betting results to the front pages of Monday 
+newspapers. 
+Skylab... 
+The three missions have been monitored by 
+IBM computers in Houston, and onboard IBM 
+computers and IBM-built instrument units 
+have controlled the attitude of the Skylab and 
+guided the launch vehicles. 
+Saving Energy... 
+Chillers and boilers are monitored by a 
+System/7 at IBM's East Eishkill, New York 
+plant, saving roughly 1 0 % on chiller operations 
+and 6 % in fuel oil reduction. With informa-
+tion on weather and the capacity and operating 
+loads of the equipment fed in by sensors, the 
+computer calculates daily heating or cool-
+ing requirements and schedules equipment ac-
+cordingly. The system appears feasible for 
+many industrial and commercial operations. 
+Now, the Metric System... 
+In Atlanta, the seventh grade uses the 1974 
+SRA Mathematics Learning System, devel-
+oped by IBM subsidiary. Science Research Asso-
+ciates, Inc. The program was extensively pre-
+tested for effectiveness and for teacher and pupil 
+acceptance. Built-in evaluation devices deter-
+mine whether the objectives have been reached. 
+Flexibility allows for alternate learning proce-
+dures and for expansion to better suit the needs 
+of users. Under the program, math students 
+will learn the metric system along with the cus-
+tomary U.S. system of weights and measures. 
+
+
+===== PAGE 10 =====
+X ' 
+
+
+===== PAGE 11 =====
+Weather Watch... 
+For the new National Oceanic and Atmospheric 
+Administration, two System/360 Model 195 
+computers serve weather forecasters. One ex-
+tracts and analyzes data from satellites; the 
+other formulates twice-daily forecasts for the 
+entire United States. 
+
+
+===== PAGE 12 =====
+Nobel Prizewinner: 
+Dr. Leo Esaki of IBM's Thomas J. Watson 
+Research Center is one of three 1973 recipients 
+of the Nobel Prize in Physics. Dr. Esaki's award 
+was based on Ph.D. studies he conducted in Japan 
+during the late 1950's while a physicist at the 
+Sony Corporation. His investigation of the elec-
+tron tunneling phenomenon in semiconduc-
+tors enabled him to show for the first time the 
+conditions under which tunneling could be 
+controlled. 
+Dr. Esaki shares half of this year's Nobel 
+Prize in Physics with Dr. Ivar Giaever of Gen-
+eral Electric. The other half of the prize was 
+given to Dr. Brian Josephson of Cambridge 
+University. The work of all three men rec-
+ognized by the Nobel Committee was in the 
+field of electron tunneling. Whereas Dr. Esaki's 
+work was in the area of semiconductors, that 
+of Drs. Giaever and Josephson, which followed 
+shortly after, was in the area of superconduc-
+tors—materials that exhibit no resistance to elec-
+tron flow at extremely low temperatures. Soon 
+after Drs. Josephson and Giaever reported their 
+results, an IBM researcher realized that their 
+findings could form the basis of a new type of 
+computer switch. The first device was built 
+at IBM Research in 1965 and work on the new 
+switches, now called Josephson junctions, 
+continues. Their present switching speed is con-
+siderably beyond anything that has been at-
+tained with semiconductor devices. 
+Tunneling is a surprising implication of 
+modern quantum theory which says that 
+electrons behave like waves as well as particles. 
+Because of their wave nature, electrons can 
+penetrate a barrier of insulating material sepa-
+rating two conductors if the barrier is suf-
+ficiently thin. 
+Dr. Esaki became a resident consultant 
+to the IBM Poughkeepsie lab in i960 and he 
+has been with IBM Research ever since, working 
+mostly in the field of electron tunneling, for 
+the last six years as an IBM Fellow. He continues 
+his research in semiconductors today, and his 
+goal now is to design a man-made crystal 
+structure which exploits electron tunneling to 
+create ultra high-frequency devices. 
+Dr. Esaki, his wife and their three chil-
+dren visit Japan often, and each year some 100 
+Japanese—scientists, i B M e r s , academicians-
+come to visit him. Although the Esakis keep 
+their Japanese passports, their roots in the U.S. 
+are strong. They have many American friends 
+and Dr. Esaki's colleagues at Yorktown Heights 
+were elated over his winning of the award. 
+"I'm glad I am considered an American," 
+says Dr. Esaki. "And many Japanese think 
+of me as Japanese. I'm glad of that too. 
+because science is international, and IBM is an 
+international business." 
+
+
+===== PAGE 13 =====
+New 
+Products: 
+Computers in Everyday Life... 
+As long anticipated, computer devices have 
+arrived in the consumer world, for uses not 
+awesome, not hard to understand, hut as com-
+monplace as groceries and the checking 
+account. During 19J3, 
+IBM announced three 
+new systems, for delivery in igj4, 
+meant 
+to reach closer to the consumer, to make daily 
+transactions more pleasant and less time-
+consuming, and to make the operations of his 
+banker, retail merchant, supermarket 
+dealer 
+considerably more efficient and economical. 
+New Retail System... 
+At the retail store, a salesperson passes 
+a hand-held "wand" across a magnetically 
+encoded price tag to record a sale. A point-of-
+sale terminal records information describing 
+the item and displays its price on a lighted panel. 
+To complete the purchase, it computes the 
+amount due and change to be returned, prints a 
+customer receipt and a journal tape for the 
+store. The system includes a unit that prints and 
+encodes data on price tags. By capturing this 
+information at the point of sale, a firm can de-
+velop other applications such as inventory 
+control and credit authorization. 
+
+
+===== PAGE 14 =====
+At the Checkout Counter... 
+Fast checkout wiil be possible with IBM's new 
+point-of-sale supermarket system, scheduled for 
+delivery in late 1974. A high-speed scanner, 
+using a laser light source to read a coded symbol 
+printed on each grocery item, will identify 
+the product and its manufacturer. The checker 
+needs only to slide the item over the scanner, 
+then directly into the grocery bag. As the prod-
+uct is scanned, its name and price appear on 
+a panel for the customer's view. A receipt, with 
+name or description of each item as well as 
+its price, is printed at the same time. 
+The system includes a store control unit 
+that can accommodate up to 24 point-of-sale 
+terminals and scanners in a single store. In 
+addition to the check-out function, the system 
+can help balance cash registers, calculate the 
+correct ending total for each checkstand and 
+transmit a report to the central computer 
+detailing receipts of cash, checks and store and 
+vendor coupons. It can also compile a sum-
+mary sales report on each of the approximately 
+10,000 items handled by a typical super-
+market, and help management with such oper-
+ations as reordering, inventory management 
+and labor scheduling. 
+New Worldwide Finance System... 
+The IBM 3600 finance communications system 
+was developed to serve the world market of 
+financial institutions, fast becoming dependent 
+upon data processing to cope with the enormous 
+flow of paper generated by the money business. 
+Products made for international use nor-
+mally have problems with variations in electrical 
+power, currencies and language. This system 
+was engineered not only to deal with these, but 
+also to adapt to the differences in the ways 
+other societies handle their banking transactions. 
+From the start, the finance system project re-
+ceived help to an unusual degree from IBM mar-
+keting people brought in from all the major 
+banking countries. 
+The finance system is a family of six ter-
+minal devices which permit self-service banking 
+at any hour and let tellers, even those at remote 
+branch banks, enter, update and retrieve cus-
+tomer data and financial information within sec-
+onds. It offers financial institutions of all kinds 
+a wide selection of data entry and printing capa-
+bilities for handling such typical customer 
+transactions as cash withdrawals, checking and 
+savings account activity and installment loan 
+and mortgage payments. 
+A self-service banking terminal can be 
+installed in a bank lobby or mounted through 
+the wall, to issue cash and answer account status 
+queries every hour of the year. 
+A finance communication controller can 
+supervise all functions of the system's terminals 
+and control data transmission between the ter-
+minals and the main computer. 
+A versatile countertop unit has a keyboard 
+for entering data and a visual display panel 
+for both verifying entered data and answering 
+teller inquiries on the status of customer 
+accounts. An important optional feature of this 
+keyboard display unit permits encoding and 
+reading of magnetic stripes on passbooks, credit 
+cards and special ID cards. 
+There also are three printers that offer a 
+variety of features to meet a bank's requirements 
+for passbook posting and printing of customers' 
+receipts, journals, reports and statements. 
+
+
+===== PAGE 15 =====
+New Storage Technology... 
+The IBM Data Module, a new concept in 
+information storage, improves data reliability 
+by combining, for the first time, disk record-
+ing surfaces, access arms and read/write heads 
+into a single removable cartridge. The same 
+head that writes data on a disk surface reads the 
+data back into a computer, eliminating prob-
+lems of head-to-track misalignment. 
+New Data Entry System... 
+To get information into a computer quickly, 
+accurately, this system has a new "Diskette" stor-
+age medium. It weighs just over an ounce, 
+looks like a small phonograph record, is reusable, 
+and holds as much information as 3,000 IBM 
+8o-column punch cards. To record, the operator 
+drops a diskette into a slot and uses a type-
+writer-like keyboard. Data on diskettes can be 
+converted to magnetic tape for computer 
+processing or, with the use of a special unit, 
+entered directly into the computer. 
+To Coordinate Transmission... 
+A communications controller can be installed 
+in remote locations, gathering information 
+from low-speed lines and transmitting it to a 
+computer economically over higher-speed 
+lines. IBM's new communications controller is 
+designed for smaller networks. It has process-
+ing capabilities and in a teleprocessing network, 
+it can also free the central computer from 
+many data handling tasks. 
+Double Disk Storage... 
+A significant, cost-saving extension of the 
+3330 disk storage family will double the direct-
+access storage capacity while maintaining 
+high performance. The newest is functionally 
+similar to previous models. It requires no 
+additional floor space. 
+More Tape Storage Capacity... 
+There are three new models of the very suc-
+cessful IBM 3803/3420 family of magnetic tape 
+subsystems. They provide the densest data re-
+cording capability yet offered to IBM magnetic 
+tape users, tripling the amount of information 
+that can be stored on a tape and quadrupling the 
+data rate. The new tape drives were developed 
+at Boulder, Colorado and are being assembled 
+in Boulder, France and Brazil. 
+High-Speed Processing... 
+A new high-speed document processor, guided 
+by a single operator, can read and sort a typi-
+cal mixture of checks at a rated speed in excess 
+of 125,000 per hour, and print a unique iden-
+tification number on each. Improved sorting 
+productivity helps a bank quickly obtain credit 
+for checks drawn on other banks, helping to 
+make more interest-earning funds available. An 
+optional microfilming feature can make sharp 
+film records of the checks at the same time they 
+are being read and sorted by the document 
+processor. 
+Larger Capacity... 
+System/7, rugged, highly reliable, can measure, 
+test, analyze and control industrial and labo-
+ratory events as they are happening. Now, a new 
+expanded memory allows it to handle even 
+larger applications by itself. The System/7 was 
+originally announced to operate in a "host" 
+environment—supplying data to a larger com-
+puter. The new expanded system will be able for 
+the first time to generate its own programs. 
+System/3 Expanded... 
+The popular, low-cost System/3 has been 
+expanded to include a new, larger capacity 
+model. Designed primarily for small businesses 
+with growing computer needs, it will add 
+flexibility in handling multiple batch and tele-
+processing applications while remaining largely 
+compatible with older System/3 models. Large 
+companies with numerous remote locations 
+can use the new model too, as an economical 
+answer to teleprocessing requirements. 
+For Multiprocessing... 
+Available now are two new multiprocessing 
+units, System/370 Model 158MP and i68mp. 
+These units are comprised of two like models, 
+working together via a control program and 
+a new control unit. Either can be operated as a 
+single, extremely reliable system or as two 
+separate units. 
+Increased Memory... 
+Field effect transistor technology has 2,048 
+memory circuits on a single one-fourth inch 
+silicon chip. The new technology doubles main 
+memory for IBM System/370 Model 158 and 
+168 with no increase in physical size. And new 
+technology has significantly increased the 
+memory ranges of other System/370 Models. 
+New memory sizes allow users to implement 
+new and advanced applications with existing 
+System/370 installations. 
+A Typewriter that Erases... 
+IBM's new, fast-selling Correcting "Selectric" 
+Typewriter helps speed up most typing to 
+"rough draft" pace. Corrections are almost as 
+easy as strikeovers. A tap on the correcting 
+key activates a special tape which removes the 
+error. Then, the operator simply hits the correct 
+letter and continues typing. 
+New Mag Card Typewriter... 
+It features an electronic memory which makes it 
+easier to revise copy without retyping good 
+material. The memory holds about two-and-a-
+half pages of typewritten information within 
+the machine itself. This material may be edited 
+as desired, then recorded on a magnetic card, 
+at 200 characters per second, for future use. 
+Economical On-Line Computing... 
+IBM's smallest System/370—the Model 115— 
+was developed by IBM's laboratory in Boeblin-
+gen, Germany, for manufacture in Pough-
+keepsie, New York. The 115, with virtual 
+storage capability, extends advanced on-line 
+applications and technologies to current users 
+of smaller IBM systems. The 115 provides 
+ideal entry into the System/370 family. 
+
+
+===== PAGE 16 =====
+IBM Services: 
+Worldwide Service... 
+In Poughkeepsie, the Field Engineering Divi-
+sion operates a new Field Systems Performance 
+Control Center which serves all IBM customers. 
+Staffed by people from FE, DPD, SDD and World 
+Trade Corporation, the Center provides rapid 
+assistance to the field on critical software and 
+hardware problems by obtaining and coordi-
+nating resources for situations that cannot be re-
+solved locally. 
+Women Technicians... 
+Nancy Ellen Kaminski, associate customer engi-
+neer, assists in the installation of an IBM/370 
+Model 135 for a bank in Worcester, Massachu-
+setts. The Field Engineering Division now 
+has more than 250 women technicians located 
+throughout the U.S. 
+
+
+===== PAGE 17 =====
+IBM Corporate Programs: 
+Equal Opportunity... 
+In the United States, there has been a company-
+wide effort to recruit and give more respon-
+sibility to women and minority group members. 
+Of new hires in 1973, 24.9% were minority 
+group members and 35% were women. The 
+number of minority employees rose from 6.1% 
+of the total employee population five years 
+ago to 9.7% by year's end, 1973. Over the same 
+period, the number of minority managers 
+more than tripled, from 300 to 945, and minor-
+ity members of the sales force rose from 
+2.6% to 8.1%. Today, more than 1 5 % of IBM's 
+employees in the United States are women, 
+and during the past five years, the number of 
+women in management positions has increased 
+from 235 to over 700. Six DP Branch Managers 
+are women, and women represent nearly 4.5% 
+of the sales force—up from 1.6% five years ago. 
+The number of women in technical profes-
+sions has almost doubled since 1965. The Com-
+pany's Equal Opportunities programs are 
+designed to increase the number of minority 
+and women employees and to assure that indi-
+vidual potential is fully realized. 
+More detailed information on IBM's Equal 
+Opportunity Programs is available on request 
+to those who wish it. Address requests to the 
+Secretary of the Company. 
+IBM Fund for Community Service... 
+Begun in 1972, this flexible program allows 
+IBM employees to obtain funds for projects of 
+community organizations of particular inter-
+est to them. The organization must be one that 
+receives active help from the employee. The 
+money can be released simply upon approval of 
+the employee's immediate manager and one 
+other executive. By the end of 1973, more than 
+1300 projects had been approved. 
+IBM Faculty Loan Program... 
+For three years now, the IBM Corporation has 
+loaned IBM professionals to colleges and univer-
+sities with substantial numbers of minority 
+or disadvantaged students. The objective of the 
+program is to provide faculty or administra-
+tive support to these institutions to help them 
+improve the educational experiences of their 
+students. From an original 18 Black colleges, the 
+program has been expanded to 31 schools in 
+1974, including some that serve American 
+Indians, Spanish-surnamed, and students in 
+depressed areas. 
+Social Service Leaves... 
+IBM has, for a number of years, permitted em-
+ployees to take leaves of absence for various 
+forms of public service. In April of 1970, 
+Thomas J. Watson, Jr., then Chairman of the 
+Board, encouraged this kind of action. Since 
+that time, the number of employees on social 
+service leaves has increased significantly. 
+During the past year, over 1 3 0 employees were 
+on leave. They performed a wide range of 
+community services such as work on conser-
+vation and environmental protection, training 
+minorities for jobs and in better business 
+methods and increasing the efifectiveness of 
+criminal rehabilitation programs. 
+Magnetic Bubbles... 
+Right: Tiny magnetized areas in thin films of 
+magnetic materials have potential for storing 
+and processing vast amounts of data. This por-
+tion of a circuit for controlling the motion of 
+magnetic bubbles was made by scientists at the 
+IBM Thomas J. Watson Research Center using 
+electron beam techniques. Last year they discov-
+ered that bubble films can be made from amor-
+phous materials, which are easier and less 
+expensive to fabricate than single-crystal film. 
+
+
+===== PAGE 18 =====
+
+
+===== PAGE 19 =====
+IBM: The I stands for 
+International 
+Since the Company changed its name 50 years 
+ago to International 
+Business Machines, 
+an 
+increasing 
+share of its business has been con-
+ducted outside the U.S. In 
+more than half 
+of IBM's earnings came from our overseas opera-
+tions, which are staffed and managed almost en-
+tirely by citizens of the countries in which 
+we 
+do business. IBM's greatest resource always 
+has 
+been the quality of its people throughout 
+the 
+world, and many of the Company's most impor-
+tant developments and products have 
+resulted 
+from the exchange of their ideas across 
+national 
+boundaries. Here, a variety of employees in the 
+IBM World Trade countries offer some observations 
+related to their work in the computer 
+industry. 
+Ulrich Klose, Engineering Manager for Special 
+Engineering, Lidingo Laboratory, Sweden: 
+"Computers should help take the dull out of life. 
+My personal feeling is that all the work that 
+is repetitive and which does not involve man's 
+mind should be reduced to a minimum so that 
+the creative forces of man can get into action." 
+Jack Blackburn, Director of European Interna-
+tional Education Center of La Hulpe, 
+Belgium: 
+'I think one can say that computers are used 
+to help people in environmental improvement, 
+health care, and the solution of everyday prob-
+lems. Eurocheck, for example, used throughout 
+Europe, is possible only because we have com-
+puters to process these financial transactions. 
+We will probably soon be using computer tech-
+niques to optimize the output of petroleum 
+and other products, with a view to current hu-
+man needs." 
+Christoph Von Krogh, Systems Control 
+Programs Manager, Boeblingen Laboratory, 
+Germany: 
+'Our computer technology is at a pretty low 
+level as far as clever usage goes. It takes some 
+years to digest the possibilities of such a 
+tremendously powerful tool, but imagine, for 
+example, using computers to frequently poll 
+people to find the social implications of new 
+laws while you are modeling them. You can 
+evaluate things much more deeply with a 
+computer." 
+Below: Christopher Henfrey, Data Processing 
+salesman on assignment to a Liverpool 
+University 
+Settlement project: 
+"I believe that society cannot exist in individual 
+pockets, with business in one pocket, govern-
+ment in one, and the local community in a third. 
+There must be more interplay between the 
+three major parts of our society. If business does 
+not take any interest in promoting the well 
+being of the community in which it finds itself, 
+then the business will not prosper." 
+
+
+===== PAGE 20 =====
+Below: Raimundo Martins, Federal Senate Account 
+Manager, IBM Brazil: 
+"Today, one cannot understand the existence 
+of absolutely closed societies. We are, whether 
+we like it or not, affected politically, socially 
+and economically by everything that happens 
+throughout the world. Thus, I believe that by 
+cooperating in the disclosure of knowledge and 
+solutions, we are helping to build the future." 
+Renato Pennacchi, Scientific Centers 
+Manager, IBM Italy: 
+"Perhaps the most interesting aspect of my 
+job is to work on the frontier of science both 
+with local or international scientific organi-
+zations and with our IBM centers. Many pro-
+fessors view IBM as perhaps too big, too efficient. 
+This generates a sort of fear. But a great num-
+ber of scientists would like to cooperate with 
+IBM, and the scientific centers are therefore a 
+very useful two-way communication channel." 
+Left: Josee Attas, Assignee Services Manager, 
+IBM Europe: 
+"In the last five or ten years, the world has ex-
+perienced a change toward promoting women 
+employees. There has not been a great evolu-
+tion in the Latin countries yet, but they will fol-
+low the trend. Generally, women are more 
+conscious than before of their capabilities and 
+employers are more conscious of the potential 
+resources they represent." 
+Emilio Bautista, Systems Management 
+Services Manager, IBM Spain: 
+"There are a lot of people in IBM Spain teach-
+ing in universities, but I think the Company 
+could do more to contribute to the community. 
+There is a certain shadow upon multinational 
+companies at the moment. People in the uni-
+versities and government are alittle against them. 
+Perhaps the contribution of the Company 
+could be expanded to other areas of importance, 
+for example, pollution, sea problems and labor." 
+Tsutomu Uchihashi, Manager of Technical Support 
+Large Systems Support Center, Tokyo: 
+"Ten years ago when I joined IBM, an elderly pro-
+fessor asked me why I was joining such a com-
+pany. At that time, few people knew what the 
+letters IBM stood for. Today this has changed. 
+People know more about computers and how 
+they affect their lives." 
+
+
+===== PAGE 21 =====
+Financial Review: 
+Gross Income 
+Gross income from worldwide IBM 
+operations amounted to $10,993,241,953 last 
+year, an increase of $1,460,649,311 over the 
+$9,532,592,642 total for 1972. 
+During 1973, sales, services and rentals of 
+data processing machines and systems accounted 
+for approximately 79% of gross income, 
+other regular products and services accounted 
+for 1 8 % , while special products and services 
+for United States space, defense and other 
+agencies contributed 3%. 
+Earnings 
+The Company's earnings before taxes 
+totaled $2,946,467,055, which was $521,199,500 
+more than the $2,425,267,555 earned in 1972. 
+U.S. Federal and foreign income taxes 
+were $1,371,000,000 in 1973, an increase of 
+$225,000,000 over the $1,146,000,000 in 1972. 
+IBM's earnings after taxes were 
+$1,575,467,055, or $296,199,500 more than 
+the $1,279,267,555 earned in 1972. 
+IBM's earnings in 1973 equaled $10.79 
+share on 146,061,750 shares, the average num-
+ber outstanding during the year after adjust-
+ment for the 2 5 % stock split effected May 10, 
+1973. This compares with $8.83 per share 
+for 1972 based on 144,953,058 shares, the aver-
+age number outstanding in 1972 adjusted for 
+the 25% split. 
+Cash Dividends 
+Cash dividends totaling $654,319,289 
+were paid to stockholders in 1973, compared 
+with $626,156,605 in the previous year. 
+The regular quarterly cash dividend pay-
+able March 9,1974, will be at the rate of $1.28 
+per share, an increase of $.16 a share over 
+the previous rate. This dividend will be IBM's 
+236th consecutive quarterly cash dividend. 
+Capital Expenditures 
+During 1973, IBM's growing business, 
+together with its need to replace obsolete 
+equipment, required a worldwide investment 
+of $2,185,560,820 in plant, rental machines 
+and other property. 
+Retirements amounted to $1,014,846,387, 
+covering obsolete and dismantled equipment, 
+as well as rental machines sold which previously 
+were under lease to customers. These write-
+offs were charged against amounts provided 
+out of prior and current years' earnings, or 
+to cost of sales. 
+Listed here are the major facilities that were 
+completed or under construction throughout 
+the world during the year. 
+United States 
+Purpose 
+Sq. Ft. 
+Mt. Pleasant, New York 
+Adm. 
+370,000 
+Baltimore, Maryland 
+Mktg. 
+339,000 
+San Francisco, California 
+Mktg. 
+227,000 
+* Columbus, Ofiio 
+Mktg. 
+193,000 
+Other Countries 
+Milan, Italy 
+Adm. 
+& Mktg. 
+702,000 
+Portsmoutfi, England 
+Adm. 
+355,000 
+Nieder-Roden, 
+West Germany 
+Mfg. 
+342,000 
+La Hulpe, Belgium 
+Adm. 
+& Mktg. 
+328,000 
+* Berlin, West Germany 
+Mfg. 
+309,000 
+Frankfurt, West Germany 
+Mktg. 
+277,000 
+* Zurich, Switzerland 
+Adm. 
+237,000 
+Osaka, Japan 
+Mktg. 
+228,000 
+* Copenhagen, Denmark 
+Adm. 
+205,000 
+* Madrid, Spain 
+Adm. 
+* Madrid, Spain 
+&Mfg. 
+196,000 
+* Novedrate, Italy 
+Mktg. 
+187,000 
+t Boeblingen, West Germany Dev. 
+179,000 
+t Amsterdam, Netherlands 
+Mfg. 
+178,000 
+Essen, West Germany 
+Adm. 
+& Mktg. 
+156,000 
+* Completed in 1973. 
+t Additions to existing facilities. 
+Form I o-K 
+The Form LO-K Annual Report to the 
+Securities and Exchange Commission provides 
+certain additional information and will be 
+available in April. A copy of this report may be 
+obtained upon request to the Secretary of the 
+Company. 
+Report of 
+Independent Accountants: 
+To the Stockholders of 
+International 
+Business Machines 
+Corporation 
+In our opinion, the accompanying 
+consolidated 
+statement of earnings and retained 
+earnings, 
+balance sheet and statement of changes in 
+financial 
+position present fairly 
+the 
+financial 
+position of International 
+Business 
+Machines 
+Corporation and its subsidiary 
+companies at 
+December 3 1 , 1 9 7 3 and December ^i, 
+i^j2 
+and the results of their operations and 
+changes 
+in financial position for the two years, in con-
+formity with generally accepted 
+accounting 
+principles applied on a consistent basis. Also, in 
+our opinion, the ten-year comparative 
+consoli-
+dated statement of operations presents fairly 
+the 
+financial 
+information 
+included 
+therein. 
+Our 
+examinations 
+of these statements were made in 
+accordance with generally accepted 
+auditing 
+standards 
+and accordingly 
+included 
+such tests 
+of the accounting records and such other au-
+diting procedures as we considered 
+necessary. 
+fanuary 
+2 9 , 1 9 7 4 
+Price Waterhouse & Co. 
+New York, New York 
+Annual Meeting of Stockholders 
+This year's stockholders' meeting will be 
+held in the Chase-Park Plaza Hotel, St. Louis, 
+Missouri, on Monday, April 29th, at 10:00 a.m. 
+A notice of the meeting, proxy statement, and 
+proxy voting card will be mailed to stockholders 
+starting on or about March 15th. 
+
+
+===== PAGE 22 =====
+International Business Machines Corporation 
+and Subsidiary Companies 
+Consolidated Statement of Earnings and 
+Retained Earnings for the year ended December 31 
+1 9 7 3 
+1972 
+Gross Income from Sales, Services and Rentals 
+Cost of sales, services and rentals, operating 
+expenses, and development and engineering 
+expense, exclusive of depreciation 
+Depreciation of plant, rental machines and 
+other property 
+Interest on debt 
+Other income, principally interest 
+Earnings before income taxes 
+Provision for U. S. Federal and foreign 
+income taxes 
+Net Earnings 
+for the year 
+Per share 
+Average number of shares outstanding: 
+1973—146,061,750 
+1 9 7 2 - 1 4 4 , 9 5 3 , 0 5 8 
+(Number of shares and per share amounts 
+adjusted for 2 5 % stock split effected in 1973) 
+Retained 
+Earnings, 
+fanuary 
+i 
+Cash dividends 
+Retained 
+Earnings, 
+December 
+31. 
+$ 10,993,241,953 
+$ 6,759,009,822 
+1,460,772,979 
+97,058,119 
+8,316,840,920 
+2,676,401,033 
+•z-jo,066,022 
+2,946,467,055 
+1,371,000,000 
+1,575,467,055 
+$ 10.79 
+4,603,239,711 
+6,178,706,766 
+654,319,289 
+$ 
+5,524,387,477 
+$ 9,532,592,642 
+5,923,637,159 
+1,296,571,986 
+78,391,959 
+7,298,601,104 
+2,233,991,538 
+191,276,017 
+2,425,267,555 
+1,146,000,000 
+1,279,267,555 
+$8.83 
+3,950,128,761 
+5,229,396,316 
+626,156,605 
+$ 4 , 6 0 3 , 2 3 9 , 7 1 1 
+
+
+===== PAGE 23 =====
+International Business Machines Corporation 
+and Subsidiary Companies 
+Consolidated Balance Sheet at December 31 
+Assets 
+1 9 7 3 
+1 9 7 2 
+Current 
+Assets: 
+Cash 
+Marketable securities, at lower of cost or market. 
+Notes and accounts receivable... less reserve: 
+1 9 7 3 , $ 6 8 , 8 0 2 , 7 1 7 ; 1 9 7 2 , $ 5 8 , 7 7 1 , 7 8 3 . . 
+Inventories, at lower of average cost or market 
+Prepaid insurance, taxes, etc 
+Other Investments 
+and Sundry 
+Assets: 
+Securities held for repayment of long-term debt. 
+Other investments and assets 
+Plant, 
+Rental 
+Machines 
+and Other Property... 
+at cost: 
+Land 
+Buildings 
+Factory, laboratory and office equipment 
+Less: Accumulated depreciation 
+Rental machines and parts 
+Less: Accumulated depreciation 
+5,702,257,928 
+$ 12,289,488,799 
+1 6 7 , 5 4 5 , 1 4 9 
+$ 
+162,950,057 
+3 , 1 5 4 , 5 1 8 , 9 1 7 
+2 , 4 1 3 , 9 1 2 , 7 2 6 
+1 , 8 4 5 , 1 1 9 , 7 7 9 
+1 , 6 7 9 , 2 7 3 , 2 1 5 
+5 18,000,452 
+4 4 1 , 4 5 6 , 1 5 4 
+145,076,555 
+1 2 4 , 1 7 0 , 6 7 0 
+$ 5,830,260,852 
+4 9 5 , 9 1 4 , 8 5 6 
+4 9 3 , 7 2 5 , 5 3 0 
+2 6 1 , 0 5 5 , 1 6 3 
+205,888,606 
+756,970,019 
+281,928,885 
+260,839,253 
+1,480,360,437 
+1,359,058,301 
+1,988,455,397 
+1,808,437,402 
+3,750,744,719 
+3,428,334,956 
+1,797,707,229 
+1,585,973,375 
+1,953,037,490 
+1 , 8 4 2 , 3 6 1 , 5 8 1 
+8 , 5 1 3 , 6 7 1 , 2 4 9 
+7,665,366,579 
+4 , 7 6 4 , 4 5 0 , 8 1 1 
+4,236,703,086 
+3,749,220,438 
+3,428,663,493 
+$ 4,821,762,822 
+699,614,1 36 
+5,271,025,074 
+10,792,402,032 
+
+
+===== PAGE 24 =====
+Liabilities 
+and Stockholders' 
+Equity 
+Current 
+Liabilities: 
+U.S. Federal and foreign income taxes 
+Accounts payable and accruals 
+Loans payable 
+Deferred 
+Investment 
+Tax Credits 
+Reserves 
+for Employees' 
+Indemnities 
+and Retirement 
+Plans 
+Long-Term 
+Debt 
+Stockholders' 
+Equity: 
+Capital stock ... par value $5.00 per share, . , 
+Shares authorized, 1 5 6 , 2 5 0 , 0 0 0 ; issued 
+and outstanding, 1973—146,7 12,688, 
+1 9 7 2 - 1 1 6 , 3 9 8 , 9 9 5 
+Retained earnings 
+1973 
+1972 
+8 8 1 , 2 5 6 , 1 4 3 
+1,462,689,077 
+2 1 1 , 4 8 4 , 7 9 2 
+2,555,430,012 
+3 1 , 4 4 6 , 4 1 0 
+2 3 8 , 3 5 2 , 2 9 6 
+6 5 2 , 2 3 6 , 3 4 8 
+3 , 2 8 7 , 6 3 6 , 2 5 6 
+5,524,387,477 
+8 , 8 1 2 , 0 2 3 , 7 3 3 
+$ 12,289,488,799 
+8 0 8 , 7 1 7 , 6 0 7 
+1,306,883,824 
+143,692,448 
+2,259,293,879 
+28,315,507 
+165,965,025 
+7 7 2 , 9 3 2 , 7 7 4 
+2 , 9 6 2 , 6 5 5 , 1 3 6 
+4,603,239,711 
+7,565,894,847 
+10,792,402,032 
+
+
+===== PAGE 25 =====
+International Business Machines Corporation 
+and Subsidiary Companies 
+Consolidated Statement of Changes in Financial 
+Position for the year ended December 31: 
+745,201,283 
+165,846,564 
+97,450,183 
+(72,538,536) 
+(155,805,253) 
+(67,792,344) 
+712,361,897 
+2,562,468,943 
+3,274,830,840 
+Source of working capital: 
+Net earnings 
+Depredation and other items not requiring the current use of working capital 
+Total from operations 
+Capital stock issued under employee plans 
+Long-term borrowings 
+Application 
+of working capital: 
+Investment in plant, rental machines and other property 
+Less: Depreciation of manufacturing facilities capitalized in rental machines . 
+Increase in other investments and sundry assets 
+Cash dividends 
+Reduction of long-term debt 
+Increase in working capital 
+Changes in working capital: 
+Cash and marketable securities 
+Notes and accounts receivable 
+Inventories and prepaid expenses 
+Income taxes 
+Accounts payable and accruals 
+Loans payable 
+Increase in working capital 
+Working capital at beginning of year 
+Working capital at end of year 
+1973 
+1972 
+$ 1,575,467,055 
+1,701,485,050 
+3,276,952,105 
+324,981,120 
+155,968,381 
+$ 1,279,267,555 
+1,521,851,494 
+2,801,119,049 
+270,399,867 
+398,610,582 
+3,757,901,606 
+3,470,129,498 
+2,185,560,820 
+128,361,090 
+2,057,199,730 
+57,355,883 
+654,319,289 
+276,664,807 
+3,045,539,709 
+1,727,949,051 
+122,346,578 
+1,605,602,473 
+234,779,751 
+626,156,605 
+301,824,513 
+2,768,363,342 
+$ 
+712,361,897 
+$ 
+701,766,156 
+701,709,022 
+100,919,292 
+70,491,471 
+(84,461,337) 
+(186,382,639) 
+99,490,347 
+701,766,156 
+1,860,702,787 
+2,562,468,943 
+
+
+===== PAGE 26 =====
+Notes to 
+Consolidated Financial Statements: 
+Significant Accounting Policies 
+Principles of Consolidation: The consolidated 
+financial statements include the accounts of 
+International Business Machines Corporation 
+and its domestic and foreign subsidiary com-
+panies, including The Service Bureau Corpora-
+tion to the date of its sale on January 12, 1973. 
+Translation of Foreign Currency 
+Amounts: 
+Foreign assets and liabilities are translated to 
+U.S. dollars at approximate year-end exchange 
+rates, except that plant, rental machines and 
+other property and long-term debt are translated 
+at approximate rates prevailing when acquired 
+or incurred. Income and expense items are 
+translated at average rates of exchange prevail-
+ing during the year, except depreciation which 
+is calculated at the approximate rates prevail-
+ing when the properties were acquired. Exchange 
+adjustments are included in earnings currently. 
+Gross Income: Gross income is recognized 
+from sales when the product is shipped or 
+in certain cases upon customer acceptance, from 
+services over the contractual period or as the 
+services are performed, and from rentals in the 
+month in which they accrue. 
+Depreciation: With minor exceptions, depre-
+ciation of domestic properties is computed 
+using the sum of the years-digits method. De-
+preciation of foreign properties is generally 
+computed using the straight-line method. How-
+ever, methods which provide higher charges 
+in early years of asset life, such as the declining-
+balance method, are used by certain foreign 
+subsidiaries. 
+Retirement Plans: Current service costs 
+are accrued currently. Prior service costs result-
+ing from improvements in the plans are 
+amortized generally over 10 years, except that 
+certain foreign subsidiaries use longer periods 
+not exceeding 25 years. 
+Expenses: Marketing expenses and develop-
+ment and engineering expenses are charged 
+against income as they are incurred. 
+Income Taxes: Income tax expense is based 
+on reported earnings before income taxes 
+and thus includes the effects of timing differ-
+ences between reported and taxable earnings 
+which arise because certain transactions are 
+included in taxable earnings in other years. 
+Investment tax credits are deferred and amor-
+tized as a reduction of income tax expense 
+over the average useful life of the applicable 
+classes of property. 
+Foreign Operations 
+December 31, 1973 
+December 31, 1972 
+Net assets employed in foreign operations are summarized below together with 
+gross income and net earnings from these operations. 
+Current assets 
+Current liabilities 
+Working capital 
+Other investments and sundry assets 
+Plant, rental machines and other property, net 
+Reserves for employees' indemnities and retirement plans in certain countries. 
+Long-term debt 
+Net assets employed in foreign operations 
+Gross income from sales, services and rentals in foreign countries 
+Net earnings from foreign operations 
+2,231,517,742 
+1,584,264,159 
+647,253,583 
+151,950,718 
+2,772,802,447 
+3,572,006,748 
+238,352,296 
+518,986,348 
+757,338,644 
+2,814,668,104 
+Year 
+1973 
+$ 5,142,536,294 
+$ 
+852,536,642 
+1,792,391,041 
+1,307,518,277 
+484,872,764 
+190,371,499 
+2,446,668,315 
+3,121,912,578 
+165,965,025 
+628,932,774 
+794,897,799 
+2,327,014,779 
+Year 1972 
+$ 4,152,391,088 
+$ 
+686,631,440 
+Undistributed earnings of foreign subsidiaries 
+included in consolidated retained earnings 
+at December 31,1973 amounted to approxi-
+mately $2,080 million. These earnings are 
+indefinitely reinvested in foreign operations; 
+accordingly, no provision has been made 
+for taxes that might be payable upon their 
+remittance. 
+
+
+===== PAGE 27 =====
+Long-Term Debt 
+December 31, 1973 
+December 31, 1972 
+International Business Machines Corporation: 
+3 V^ % promissory note, due in annual installments, January 1,1975 to 1985 
+3Vi% promissory note, due in annual installments. May i, 1975 to 1988 . . 
+Subsidiaries operating in foreign countries (average interest rate in 
+parentheses) payable in: 
+U.S. dollars, due 1975 to 1987 (10.5%) 
+French francs, due 1975 to 1991 (8.1 %) 
+Canadian dollars, due 1975 to 1991 (8.4%) 
+Belgian francs, due 1975 to 1983 (7.5%) 
+Netherlands guilders, due 1975 to 1981 (7.8%) 
+Swiss francs 
+Other currencies, due 1975 to 1991 (9.7'%) 
+Consolidated long-term debt 
+63,250,000 
+70,000,000 
+133,250,000 
+364,266,640 
+65,785,065 
+22,504,000 
+19,001,500 
+17,617,174 
+29,811,969 
+518,986,3^8 
+$ 652,236,348 
+69,000,000 
+75,000,000 
+144,000,000 
+393,595,782 
+88,256,849 
+24,258,351 
+1,300,000 
+17,771,685 
+66,814,198 
+36,935,909 
+628,932,774 
+772,932,774 
+Consolidated long-term debt at December 31, 
+1973 was payable: 
+1975 
+$158,125,090 
+1976 
+51,574,898 
+1977 
+221,573,099 
+1978 
+28,312,894 
+1979 
+21,517,419 
+1980-1984 
+93,645,949 
+1985-1991 
+77,486,999 
+$ 652,236,348 
+Securities Held for Repayment 
+of Long-Term Debt 
+Securities with a face amount of $500 
+million are being held for the repayment of 
+debt, including debt incurred to comply 
+with the regulations of the Office of Foreign 
+Direct Investments of the U.S. Department 
+of Commerce. These securities are at cost, 
+adjusted for amortized premium or discount. 
+Renegotiation 
+The Consolidated Statement of Earnings 
+and Retained Earnings includes estimated pro-
+vision for renegotiation of U.S. Government 
+contracts. 
+Litigation 
+In January 1969, the Department of Justice 
+filed a civil antitrust complaint against IBM 
+under Section 2 of the Sherman Antitrust Act, 
+charging the Company with monopolizing 
+commerce in general purpose digital computers 
+in the United States. In a preliminary memo-
+randum on relief dated October 12,1972, the 
+government requests divestiture relief in 
+the form of a reorganization of IBM into several 
+separate, independent and competitive 
+entities, and interim injunctive relief to force 
+IBM, pending completion of divestiture, to 
+stop certain practices which the government 
+claims lead to a monopoly. A trial date has 
+been set for October 1974. 
+In April 1970, Xerox Corporation filed a 
+lawsuit against IBM charging patent infringe-
+ment and misuse of confidential information 
+in connection with the IBM Copier. In August 
+1973, Xerox filed a supplemental lawsuit 
+concerning the IBM Copier II. Xerox seeks 
+injunctive relief and damages in an unspecified 
+amount. 
+In January and March 1972, the Telex Cor-
+poration instituted two lawsuits against IBM 
+alleging violations of the federal antitrust laws 
+and claiming damages, which after trebling 
+aggregated $1,084 million. These resulted in an 
+amended judgment in November 1973 in 
+which Telex was awarded trebled damages of 
+$259.5 million and certain injunctive relief. 
+IBM continues to deny the Telex charges and is 
+seeking reversal on appeal. Accordingly, no 
+provision has been made in the financial results 
+for the contingent liability associated with this 
+litigation. It is presently contemplated that 
+any amounts which may ultimately become pay-
+
+
+===== PAGE 28 =====
+able would be reported as a restatement of the 
+earnings of the applicable prior years. With 
+respect to IBM's counterclaim, Telex was found 
+to have infringed IBM copyrights and mis-
+appropriated IBM trade secrets. The judgment 
+on the counterclaim awards IBM damages of 
+$21.9 million, requires Telex to return IBM con-
+fidential documents and places certain re-
+straints on their use of former IBM employees. 
+In the last quarter of 1973, five separate 
+suits were instituted against IBM alleging 
+federal antitrust law violations similar to those 
+litigated in the Telex case. The plaintiffs, 
+California Computer Products, Inc., Trans-
+america Computer Company, Hudson General 
+Corporation, Memorex Corporation and 
+Marshall Industries, seek damages, which after 
+trebling aggregate $3,792 million (of which 
+$3,150 million is sought by Memorex Corpora-
+tion and its subsidiaries alone), and in some 
+cases, injunctive relief. 
+All of the above cases were brought in 
+Federal District Courts. IBM denies the charges 
+in all of these cases and is engaged in prepar-
+ing its defenses against them. 
+In July 1972, the trial of the Greyhound 
+Computer Corporation lawsuit against IBM 
+in Federal District Court resulted in a directed 
+verdict in favor of IBM. Greyhound had 
+sought an unspecified amount of damages and 
+injunctive relief for alleged violations of the 
+federal antitrust laws and in connection with 
+IBM's 1969 announcement changing the way 
+it charges for and supports its data processing 
+equipment. Greyhound has appealed the de-
+cision to the Federal Circuit Court of Appeals. 
+IBM continues to deny the charges in this 
+case and is engaged in contesting the appeal. 
+As previously reported to stockholders, in 
+January 1973 the litigation between Control 
+Data Corporation and IBM in the Federal 
+District Court was dismissed pursuant to an 
+out-of-court settlement between the parties. 
+Stock Purchase Plan 
+Under the IBM Employees 1971 Stock 
+Purchase Plan, employees on the annual offering 
+date, each July i, who are not participants in a 
+Stock Option Plan, may purchase IBM's 
+capital stock one share at a time through pay-
+roll deductions not exceeding 10% of their 
+compensation. The price an employee pays for 
+a share of stock is equal to 8 5 % of the market 
+price on the annual offering date or on the date 
+he has accumulated enough money to buy the 
+share—whichever price is lower. 
+Employees purchased 1,052,409 shares in 
+1973, for which $265 million was paid to IBM 
+and credited to the capital stock account. At 
+December 31,1973,2,597,466 shares were re-
+served for sale under the 1971 Plan. Numbers 
+of shares reflect the 2 5 % stock split effected 
+May 10,1973. 
+Stock Option Plans 
+In April 1971, stockholders approved the 
+continuation for a five-year period of a Stock 
+Option Plan for officers and other key employees. 
+Under this Plan, as under the 1966 Plan, op-
+tions may be granted for the purchase of IBM's 
+capital stock at not less than 100% of the 
+market price on the day the option is granted. 
+Qualified options granted under both Plans 
+have a maximum duration of five years and 
+shares become purchasable in four annual in-
+stallments commencing one year after the 
+date of grant. 
+The 1971 Plan also provides that non-
+qualified options with a maximum duration of 
+ten years may be granted alone or simultane-
+ously with and for the same number of shares as 
+qualified options. Nonqualified options 
+granted through December 31,1972 were 
+granted simultaneously with qualified options 
+but purchases can not be made until five years 
+and one day after the date of grant, and the 
+number of shares purchasable is reduced on a 
+one-for-one basis as shares are purchased under 
+the related qualified option. Beginning in 
+1973, nonqualified options were granted alone 
+and shares become purchasable in four annual 
+installments commencing one year after the 
+date of grant. 
+In accordance with the Plans, installments 
+are cumulative and the number of shares that 
+may be purchased and the price per share are ad-
+justed for stock dividends and splits effected 
+after the option is granted. 
+The following table summarizes stock op-
+tion transactions during 1973: 
+Number of Shares 
+Under 
+Available 
+Option 
+for Option 
+Balance at 
+January i, 1973 . . . 
+9 6 3 , 3 2 5 
+765,622 
+Options granted . . 
+318,609 
+( 3 1 8 , 6 0 9 ) 
+Options terminated 
+( 5 9 , 5 0 4 ) 
+19,878 
+Options exercised 
+. 
+( 1 6 1 , 5 3 5 ) 
+— 
+Balance at 
+December 31, 1973 
+. 1,060,895 
+466,891 
+Exercisable at 
+December 31, 1973 . 
+456,786 
+IBM received $41 million for the 161,535 shares 
+purchased during 1973, which amount was 
+credited to the capital stock account. The 
+1,060,895 shares under option at December 31, 
+1973 were held by 1,061 executives at option 
+prices ranging from $194.11 to $341.60 per 
+share. These prices represent not less than 100% 
+of the market price on the date of each grant 
+from 1969 to date, adjusted for the 25% stock 
+split in 1973. The 466,891 shares available 
+for future option grants are all under the 1971 
+Plan. 
+Retirement Plans 
+The Company and its domestic subsidiaries 
+have had for many years a trusteed, noncontrib-
+utory retirement plan covering substantially 
+all their employees. At December 31,1973, 
+there were over 6,700 individuals receiving 
+benefits under this plan. Certain subsidiaries 
+outside the United States have retirement plans 
+under which funds are deposited with trustees, 
+reserves are provided, or annuities are purchased 
+under group contracts. The cost of all plans 
+totaled approximately $258 million for the year 
+1973, compared with $221 million for the 
+year 1972. 
+Rental Expense 
+and Lease Commitments 
+Rental expense amounted to $150 million 
+in 1973 and $135 million in 1972. The approxi-
+mate minimum rental commitments, in mil-
+lions of dollars, under noncancellable leases for 
+1974 and thereafter are as follows: 1974, 
+$117; 1975, $100; 1976, $86; 1977, $72; 1978, 
+$58; 1979 through 1983, $180; 1984 through 
+1988, $91; 1989 through 1993, $37; after 
+1993, $34. These leases are principally for the 
+rental of office premises; many contain re-
+newal options and many provide for the Com-
+pany to pay its proportionate share of main-
+tenance, insurance and taxes in addition to the 
+above minimum annual rentals. All of the 
+above amounts are net of minor amounts of 
+sublease income. 
+
+
+===== PAGE 29 =====
+International Business Machines Corporation 
+and Subsidiary Companies 
+Ten -Year Comparative 
+Consolidated Statement of Operations: 
+1973 
+1972 
+1971 
+At end of year: 
+Gross income from sales, services and rentals 
+Earnings before income taxes 
+U.S. Federal and foreign income taxes 
+Net earnings 
+Per sharef 
+Cash dividends 
+Per sharef 
+Stock dividend and splits*: 
+Percent 
+Shares issued 
+Shares sold 
+fAdjusted for stock dividend and splits. 
+Number of shares outstanding 
+Net investment in plant, rental machines and other property. 
+Long-term debt 
+Working capital 
+Number of stockholders 
+10,993,241,953 
+2,946,467,055 
+1,371,000,000 
+1,575,467,055 
+$ 
+10.79 
+654,319,289 
+$ 
+4.48 
+* 2 5 % 
+29,182,577 
+1,131,116 
+146,712,688 
+5,702,257,928 
+652,236,348 
+3,274,830,840 
+574,887 
+9,532,592,642 
+2,425,267,555 
+1,146,000,000 
+1,279,267,555 
+$8.83 
+626,1 56,605 
+$4-32 
+865,002 
+116,398,995 
+5,271,025,074 
+772,932,774 
+2,562,468,943 
+558,332 
+8,273,603,369 
+2,055,846,907 
+977,000,000 
+1,078,846,907 
+$ 7.50 
+598,207,496 
+$ 
+4.16 
+115,533,993 
+5,162,744,738 
+676,146,705 
+1,860,702,787 
+580,621 
+Organization 
+To conduct its business throughout the 
+world, IBM is organized into 12 divisions and 
+two wholly owned subsidiaries. 
+Divisions 
+Advanced Systems Development: identifies and 
+establishes worldwide market and service re-
+quirements for advanced systems; and 
+coordinates application and services develop-
+ment to expand new systems capabilities. 
+Data Processing: markets within the United 
+States I B M ' s full line of information-han-
+dling systems, equipment, computer pro-
+gramming, systems engineering, education, 
+custom contracts and other related serv-
+ices to customers who require medium-sized 
+or large systems. 
+Federal Systems: concentrates on advanced tech-
+nology and systems for the ground-based, 
+seaborne, airborne and spaceborne informa-
+tion-handling and control needs of the 
+U.S. Government. 
+Field Engineering: 
+provides maintenance and 
+related services for the Company's informa-
+tion-handling systems and equipment, and 
+support for programming systems marketed 
+in the United States. 
+General Products: worldwide development and 
+United States manufacturing respon-
+sibility for computer tape units, disk files 
+and printers. 
+General Systems: worldwide development and 
+U.S. manufacturing responsibility for small 
+information-handling systems and associ-
+ated peripheral equipment, including 
+system-related programming support; mar-
+keting and service responsibility for its 
+products to its customers in the United States. 
+Information Records: markets disk packs and 
+data modules; manufactures and markets 
+supplies used in information-handling 
+systems. 
+
+
+===== PAGE 30 =====
+I970 
+7>503,959,690 
+2,OI 1,521,072 
+994,000,000 
+1,017,521,072 
+$7.13 
+547,604,277 
+$3-84 
+868,898 
+114,586,966 
+4,740,047,108 
+572,899,761 
+1,51 1,950,768 
+586,786 
+1969 
+7,197,295,441 
+1,978,873,194 
+1,045,000,000 
+933,873,194 
+$6.57 
+407,825,977 
+$ 2.88 
+749,699 
+113,7 18,068 
+3,863,461,372 
+554,821,353 
+1,814,119,609 
+549,463 
+1968 
+6,888,549,209 
+1,864,497,991 
+993,000,000 
+871,497,991 
+$6.17 
+292,646,157 
+•^100% 
+56,230,420 
+623,670 
+112,968,369 
+3,415,039,187 
+545,090,514 
+1,770,069,996 
+501,390 
+1967 
+5,345,290,993 
+1,297,499,558 
+646,000,000 
+651,499,558 
+$4-64 
+243,172,836 
+$ 
+1.74 
+2V2% 
+1,363,723 
+302,356 
+56,114,279 
+3,496,307,204 
+521,459,702 
+916,382,993 
+359,495 
+1966 
+4,247,706,091 
+1,054,130,192 
+528,000,000 
+526,130,192 
+$3-77 
+230,671,168 
+I 1.68 
+* 5 0 % 
+17,645,985 
+1,577,301 
+54,448,200 
+3,098,618,614 
+458,871,518 
+723,096,414 
+328,427 
+1965 
+3,572,824,719 
+959,902,490 
+483,000,000 
+476,902,490 
+$3-32 
+210,767,482 
+^ x.^6 
+176,655 
+35,224,914 
+2,303,509,000 
+398,849,604 
+698,652,848 
+275,650 
+1964 
+3,239,359,581 
+897,159,766 
+466,000,000 
+431,159,766 
+$3-20 
+165,964,452 
+$ 1.24 
+•^-2 5% 
+6,990,140 
+136,297 
+35,048,259 
+1,747,924,457 
+370,429,536 
+899,938,243 
+266,086 
+Products: worldwide development and 
+U.S. manufacturing, marketing and service 
+responsibility for electric typewriters, 
+magnetic media typewriters, input process-
+ing equipment, direct-impression com-
+posing products, copying equipment, and 
+related supplies. 
+Real Estate and Construction: manages the 
+selection and acquisition of sites, the design 
+and construction of buildings, and the 
+purchase or lease of facilities. 
+Research: brings scientific understanding to 
+bear on areas of Company interest through 
+basic research and the development of tech-
+nologies of potential long-range importance. 
+System Development: worldwide responsibility 
+for systems definition, architecture and 
+systems management of IBM's principal 
+computer product lines and for systems 
+programming; worldwide development and 
+United States manufacturing responsi-
+bility for communications products, ter-
+minals and displays. 
+System Products: worldwide development and 
+United States manufacturing responsibility 
+for IBM's principal central processor prod-
+ucts, including main storage and logic tech-
+nologies, packaging technology, channels 
+and cables; development and implementa-
+tion of advanced design and manufac-
+turing support systems. 
+Subsidiaries 
+IBM World Trade Corporation: conducts IBM's 
+business outside the United States directly 
+or through its subsidiaries. 
+Science Research Associates, Inc.: worldwide 
+development, production and marketing 
+responsibility for textbooks, educa-
+tional kits, learning systems, guidance 
+products and a wide range of testing mate-
+rials and services for elementary and sec-
+ondary schools, colleges and industry. 
+
+
+===== PAGE 31 =====
+\ 
+
+
+===== PAGE 32 =====
+George B. Beitzel 
+Senior Vice President 
+Harold Brown 
+President. California Institute of Technology, Pasadena. California 
+Frank T. Gary 
+Chairman of the Board and President 
+Paul L. Davies 
+Se?iior Advisor, Lehman Brothers, Inc., New York City, investment hankers 
+John M. Fox 
+President, H. P.Hood, Inc.. Boston, Massachusetts 
+G. Keith Funston 
+Former President, New York Stock Exchange 
+Patricia R. Harris 
+Partner, Fried, Frank, Harris, Shriver & Kampelman, Washington, D. C., attorneys at law 
+George L. Hinman 
+Partner, Hinman, Howard & Kattell, Binghamton, New York, attorneys at law 
+Amory Houghton, Jr 
+Chairman of the Board, Corning Glass Works, Corning, Netv York 
+Gilbert E. Jones 
+Senior Vice President, and Chairman of the Board of IBM World Trade Corporation 
+Nicholas cleB. Katzenbach 
+Vice President and General Counsel 
+Grayson Kirk 
+President Emeritus, Columbia University, New York City 
+T. Vincent Learson 
+Retired Chairman of the Board 
+Donald S. MacNaughton 
+Chairman of the Board, The Prudential Insurance Company of America, Newark, N. J. 
+William McChesney Martin, Jr 
+Former Chairman, Federal Reserve Board, Washington, D. C. 
+Maersk Mc-Kinney Moller 
+Chairman of the Board. A. P. Moller, Copenhagen, Denmark 
+William H. Moore 
+Chairman of the Board. Bankers Trust Company, New York City 
+John R. Opel 
+Senior Vice President 
+Paul J. Rizzo 
+Vice President, Finance and Planning 
+William W. Scranton 
+For?ner Governor of Pennsylvania 
+Cyrus R.Vance 
+Partner, Simpson Thacher 6- Bartlett, New York City, attorneys at law 
+Arthur K.Watson 
+Former Vice Chairman of the Board 
+Thomas J.Watson, Jr 
+Chairman of the Executive Committee 
+Albert L.Williams 
+Chairman of the Finance Committee 
+IBM 
+Corporation 
+Board of 
+Directors: 
+Board Committees: 
+Executive: 
+Thomas J.Watson, Jr., Chairman 
+Frank T. Gary 
+G. Keith Funston 
+T. Vincent Learson 
+William H.Moore 
+Cyrus R.Vance 
+Arthur K.Watson 
+Albert L.Williams 
+Finance: 
+Albert L.Williams, Chairman 
+Frank T. Cary 
+G. Keith Funston 
+Gilbert E. Jones 
+Grayson Kirk 
+T. Vincent Learson 
+William McChesney Martin, Jr. 
+Thomas J.Watson, Jr. 
+Compensation: 
+William H. Moore, Chairman 
+Paul L. Davies 
+John M.Fox 
+George L. Hinman 
+Amory Houghton, Jr. 
+Audit: 
+Harold Brown, Chairman 
+Grayson Kirk 
+William McChesney Martin, Jr. 
+Advisory Board: 
+Bruce Bromley 
+Partner, Cravath, Swaine & Moore, New York City, attorneys at law 
+John Clifford Folger 
+Chairman of the Board, Folger Nolan Fleming Douglas Incorporated, Washington, D. C., investment hankers 
+Louis H. LaMotte 
+Retired Executive Vice President 
+Emanuel R. Piore 
+Retired Vice President and Chief Scientist 
+Officers: 
+Frank T. Cary 
+Chairman of the Board & President 
+Gilbert E. Jones 
+Senior Vice President 
+* Thomas J. Watson, Jr 
+Chairman, Executive Cotnmittee 
+George B. Beitzel 
+Senior Vice President 
+Robert W Hubner 
+Senior Vice President 
+Warren C. Hume 
+Senior Vice President 
+Jacques G. Maisonrouge 
+Senior Vice President 
+Dean R. McKay 
+Senior Vice President 
+John R. Opel 
+Senior Vice President 
+Nicholas deB. Katzenbach 
+Vice President & General Counsel 
+Paul J. Rizzo 
+Vice President, Finance & Planning 
+Arthur G. Anderson 
+Vice President 
+John E. Bertram 
+Vice President 
+Lewis M. Branscomb 
+Vice President & Chief Scientist 
+Walton E. Burdick 
+Vice President 
+Left: Typewriter cases ready for assembly at 
+World Trade's Office Products Plant in 
+Amsterdam. Here, typewriters and com-
+posers, including IBM's newest Correcting 
+"Selectric" machine, are manufactured 
+for 95 countries. 
+Jane R Cahill 
+Vice President 
+Wallace C. Doud 
+Vice President 
+Bob O. Evans 
+Vice President 
+Ralph E. Gomory 
+Vice President 
+David L. Grove 
+Vice President & Chief Economist 
+Jerrier A. Haddad 
+Vice President 
+John B. Jackson 
+Vice President 
+Paul W Knaplund 
+Vice President 
+Theodore C. Papes, Jr 
+Vice President 
+Walter J. Pedicord 
+Vice President 
+Ralph A. Pfeiffer, Jr 
+Vice President 
+Dean P. Phypers 
+Vice President 
+Clarence B. Rogers, Jr 
+Vice President 
+Orland M. Scott 
+Vice President 
+Bart M. Stevens 
+Vice President 
+Richard C. Warren 
+Vice President 
+* Harry M. Sibley 
+Treasurer 
+* * Bertram H. Witham 
+Treasurer 
+P Martin Foley 
+Controller 
+John H. Grady 
+Secretary 
+Hilary A. Faw, Jr 
+Assistant Treasurer 
+C. Arthur Northrop 
+Assistant Controller 
+* Retires as an officer and employee 
+i/31/74 
+** Effective 
+211/74 
+
+
+===== PAGE 33 =====
+Division and 
+Subsidiary 
+Chief Executives: 
+Arthur G. Anderson. 
+John E. Bertram . . . . 
+Sheldon I. Euler .. 
+Bob O. Evans 
+Richard A. Giesen 
+Ralph E. Gomory . 
+Robert H. Howe . . 
+. President, General Products Div. 
+. President. Advanced Systems 
+Development Division 
+. President, Information Records Div. 
+. President, System Development Div. 
+. President, Science Research Assoc., Inc. 
+. Director of Research 
+. President. Real Estate and 
+Construction Div. 
+John B. Jackson 
+President, Federal Systems Div. 
+Jacques G. Maisonrouge 
+President, IBM World Trade Corp. 
+Theodore C. Papes, J r 
+President, System Products Div. 
+Ralph A. Pfeiffer, J r 
+President, Data Processing Div. 
+Clarence B. Rogers, J r 
+President, General Systems Div. 
+Orland M. Scott 
+President, Field Engineering 
+Div. 
+Bart M. Stevens 
+President, Office Products Div. 
+IBM World Trade 
+Corporation 
+Board of Directors: 
+Hulbert S. Aldrich 
+John E. Brent 
+Billy C. Christensen . . . . 
+Joseph E Cullman 3rd. . . 
+J. Victor Herd 
+Thomas Hoving 
+Robert W Hubner 
+Warren C. Hume 
+Gilbert E. Jones 
+Hans R. Luethy 
+Jacques G. Maisonrouge. 
+Dean R. McKay 
+David Channing Moore. 
+Akio Morita 
+Hans R. Schwarzenbach . 
+Grant G. Simmons, Jr. . . 
+Bart M. Stevens 
+Richard C. Warren 
+Bertram H. Witham 
+. Chairman, Hill Samuel, Inc., New York City 
+. Chairman, IBM Canada 
+Limited 
+. IBM World Trade Corporation Vice President 
+. Chairman of the Board, Philip Morris, Inc., New York City 
+. Director, The Continental Corporation & The Continental Insurance Companies, New York City 
+. Director, Metropolitan Museum of Art, New York City 
+. IBM Senior Vice President 
+. IBM Senior Vice President 
+. Chairman of the Board of IBM World Trade Corporation and IBM Senior Vice President 
+. President, IBM Switzerland, Zurich, 
+Switzerland 
+. President of IBM World Trade Corporation and IBM Senior Vice President 
+. IBM Senior Vice President 
+. Former Vice Chairman of the Board, The Haley Corporation, New York City 
+. President, Sony Corporation, Tokyo, Japan 
+. President, Robert Schwarzenbach & Co., Zurich, 
+Switzerland 
+. Chairman of the Board, Simmons Company, New York City 
+. President, IBM Office Products Division and IBM Vice President 
+. IBM World Trade Corporation Vice President and IBM Vice President 
+. Treasurer, IBM Corporation 
+Science Research 
+Associates, Inc. 
+Board of Directors: 
+Ralph A. Bard, Jr. . 
+George B. Beitzel . . 
+Charles Dollard . . . 
+Richard A. Giesen . 
+Archie E. LaPointe. 
+Emanuel R. Piore . . 
+. Investment Consultant 
+. IBM Senior Vice President 
+. Former President of Carnegie Corporation 
+. President, Science Research Associates, Inc. 
+. Vice President, Science Research Associates, Inc. 
+, Retired IBM Vice President and Chief Scientist 
+
+
+===== PAGE 34 =====
+
+
+===== PAGE 35 =====
+International 
+. Business Machines 
+Corporation 
+Armonk, New York 
+10504 
+J 
+I 

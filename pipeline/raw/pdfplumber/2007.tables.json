@@ -1,0 +1,186 @@
+[
+ {
+  "page": 4,
+  "table_index": 0,
+  "rows": [
+   [
+    null,
+    null,
+    null,
+    null,
+    "98.8"
+   ],
+   [
+    null,
+    "96.3",
+    null,
+    null,
+    null
+   ],
+   [
+    "89.1",
+    null,
+    "91.1",
+    "91.4",
+    null
+   ]
+  ]
+ },
+ {
+  "page": 4,
+  "table_index": 1,
+  "rows": [
+   [
+    null,
+    null,
+    null,
+    null,
+    "10.4"
+   ],
+   [
+    null,
+    null,
+    null,
+    "9.4",
+    null
+   ],
+   [
+    null,
+    null,
+    "8.0",
+    null,
+    null
+   ],
+   [
+    null,
+    "7.5",
+    null,
+    null,
+    null
+   ],
+   [
+    "6.6",
+    null,
+    null,
+    null,
+    null
+   ]
+  ]
+ },
+ {
+  "page": 9,
+  "table_index": 0,
+  "rows": [
+   [
+    null,
+    null,
+    null,
+    "17.4"
+   ],
+   [
+    null,
+    null,
+    "15.3",
+    null
+   ],
+   [
+    "12.9",
+    "13.1",
+    null,
+    null
+   ]
+  ]
+ },
+ {
+  "page": 9,
+  "table_index": 1,
+  "rows": [
+   [
+    null,
+    null,
+    null,
+    null,
+    "7.18"
+   ],
+   [
+    null,
+    null,
+    null,
+    "6.06",
+    null
+   ],
+   [
+    null,
+    null,
+    "4.91",
+    null,
+    null
+   ],
+   [
+    null,
+    "4.39",
+    null,
+    null,
+    null
+   ],
+   [
+    "3.76",
+    null,
+    null,
+    null,
+    null
+   ]
+  ]
+ },
+ {
+  "page": 9,
+  "table_index": 2,
+  "rows": [
+   [
+    "11"
+   ],
+   [
+    "10"
+   ]
+  ]
+ },
+ {
+  "page": 14,
+  "table_index": 0,
+  "rows": [
+   [
+    "2007"
+   ],
+   [
+    "$ 98,786\n$ 10,418\n(00)"
+   ],
+   [
+    "$ 10,418"
+   ],
+   [
+    "$ 7.18\n(0.00)"
+   ],
+   [
+    "$ 7.18"
+   ],
+   [
+    "$ 7.32\n(0.00)"
+   ],
+   [
+    "$ 7.32"
+   ],
+   [
+    "$ 16,094\n4,968\n18,828\n2,147\n1.50"
+   ],
+   [
+    "2007"
+   ],
+   [
+    "$ 16,146\n120,431\n8,867\n35,274\n28,470"
+   ],
+   [
+    "1,385\n$149,744\n$ 108.10\n386,558"
+   ]
+  ]
+ }
+]

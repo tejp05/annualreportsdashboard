@@ -1,0 +1,195 @@
+
+
+===== PAGE 1 =====
+
+
+===== PAGE 2 =====
+% f
+
+===== PAGE 3 =====
+Nineteenth Annual Report
+OF THE
+International
+Business Machines
+Corporation
+For the year ended
+December Thirty-First
+1930
+GENERAL OFFICES
+270 BROADWAY - - - NEW YORK
+
+===== PAGE 4 =====
+International Business Machines Corporation
+BOARD OF DIRECTORS
+Charles L. Andrus A. Ward Ford
+William F. Battin Oscar L. Gubelman
+Willis H. Booth Samuel M. Hastings
+Drury W. Cooper John W. Herbert
+Edward Cornell Erskine Hewitt
+Sherman M. Fairchild Charles Smith
+Charles R. Flint Christopher D. Smithers
+Thomas J. Watson
+EXECUTIVE AND FINANCE COMMITTEE
+Willis H. Booth Oscar L. Gubelman
+Edward Cornell John W. Herbert
+Charles R. Flint Christopher D. Smithers
+Thomas J. Watson
+OFFICERS
+THOMAS J. WATSON President and General Manager
+0. E. BRAITMAYER Vice-President
+CLEMENT EHRBT Vice-President
+WILLIAM F. BATTIN Comptroller and Treasurer
+JOHN G. PHILLIPS Secretary
+Transfer Agent Trustee and Registrar
+EMPIRE TRUST COMPANY GUARANTY TRUST COMPANY
+New York of New York
+
+===== PAGE 5 =====
+To THE STOCKHOLDERS:
+Your Directors submit herewith Consolidated Income and Surplus
+Account for the year 1930, together with Consolidated Balance Sheet as
+of December 31st, 1930, with the Auditors' certificate attached.
+The Net Income for the year, including Foreign Subsidiaries, before
+deducting Federal Taxes, but after providing for full Depreciation
+($1,790,887.87), Development and Patent Expenses ($835,004.09), and
+Interest ($182,609.26), was $8,157,816.52, compared with $7,445,966.56
+for the year 1929, being an increase of $711,849.96.
+After deducting estimated Federal Taxes, the Net Income was $11.53
+per share on 637,954 shares outstanding December 31st, 1930, compared
+with $10.51 per share for the year 1929, based on a like number of shares,
+being an increase of $1.02 per share. The Net Income per share for 1929,
+based on 607,576 shares actually outstanding at the end of that year,
+was $11.03.
+Net Current Assets at the end of the year amounted to $7,864,268.01,
+compared with $7,879,918.50 at the close of 1929. Cash and marketable
+securities at the end of the year totalled $4,367,503.84, compared with
+$3,505,209.93 at the end of 1929, being an increase of $862,293.91.
+During the year 1930 the company retired and cancelled bonds of a
+total par value of $235,500.00, which includes $145,000.00 par value of
+bonds held in the treasury at December 31st, 1929.
+In November, 1930, a stock dividend of 5% was authorized. The addi-
+tional 31,898 shares called for by this stock dividend were issued January
+10th, 1931. Regular cash dividends at the rate of $1.50 quarterly were
+paid during the year 1930.
+
+===== PAGE 6 =====
+International Business Machines Corporation
+and
+Domestic and Canadian Subsidiary Companies
+C O N S O L I D A T ED B A L A N CE S H E ET AS OF D E C E M B ER 3 1, 1 9 30
+A S S E TS L I A B I L I T I ES
+CUKRENT: CURRENT:
+Cash $3,367,503.84
+U. S. Treasury Certificates 1,000,000.00 $4,367,503.84 Accounts Payable, Accrued Items, etc. $1,036,350.05
+Notes Receivable 4,252.40 Dividend Payable January 10, 1931 956,530.50
+Accounts Receivable 3,601,126.87
+Accrued Interest on Bonds 89,640.00
+LESS: Reserve for Doubtful Ac-
+counts 327,345.62 3,273,781.25 I Federal Taxes (Estimated) 810,981.72
+Inventories (At cost or lower) 3,112,232.79 $2,893,502.27
+$10,757,770.28
+SINKING FUND:
+Cash in hands of Trustees for Re-
+demption of bonds called for BONDED INDEBTEDNESS:
+payment 353.40 Computing-Tabulating-Recording Co.
+DEFERRED: Collateral Trust, Sinking Fund
+Commissions advanced salesmen Bonds, due 1941 $7,000,000.00
+on unfilled orders, etc., less re-
+serve: 259,670.85 LESS: Redeemed and Cancelled.. $4,012,000.00
+Prepaid Insurance, Taxes, etc 272,690.26
+Held in Treasury 1,000.00
+532,361.11
+4,013,000.00
+INVESTMENTS:
+2,987,000.00
+Stock of International Business Ma-
+chines Corporation (3,230 Shares) $ 521,586.51
+Securities of and advances to other
+companies including Foreign
+Subsidiaries, (at cost) $4,852,542.59 RESERVE FOR CONTINGENCIES . 449,951.68
+ADD: Proportion undistributed sur-
+plus and profit of Foreign Sub-
+sidiaries 987,487.04
+5,840,029.63
+6,361,616.14
+CAPITAL STOCK AND SURPLUS OF
+PL L A a N n T d S a A n N d D B E u Q i U ld I i P n M g E s NT: 2,307,651.05 SUBSIDIARY COMPANIES, not owned 96,702.85
+LESS: Reserve for Depreciation.. 640,404.25
+1,667,246.80
+Plant Equipment and Rental Ma-
+chines 20,445,773.06 DECLARED CAPITAL ($20,552,885.00)
+LESS: Reserve for Depreciation.. 10,064,879.15 AND SURPLUS represented by
+10,380,893.91 637,954 shares of capital stock
+12,048,140.71 without par value 37,178,214.32
+15,158,856.99
+1,253,727.51 13,905,129.48
+$43,605,371.12
+$43,605,371.12
+
+===== PAGE 7 =====
+International Business Machines Corporation
+and Subsidiary Companies
+SUMMARY OF CONSOLIDATED INCOME, SURPLUS AND CAPITAL
+For the Year Ended December 31 , 1930
+NET PROFIT OF SUBSIDIARY COMPANIES, including
+Foreign, after writing down inventories to cost (*)
+or market, whichever was lower, deducting main-
+tenance and repairs to plants and equipment, pro-
+vision for doubtful accounts, the proportion of net
+profit applicable to unacquired shares, and expenses
+of International Business Machines Corporation. . . $10,966,317.74
+Less:
+Depreciation of plants, equipment and rental
+machines $1,790,887.87
+Development and patent expenses 835,004.09
+Interest on bonded indebtedness 182,609.26
+2,808,501.22
+NET INCOME BEFORE FEDERAL TAXES $ 8,157,816.52
+Deduct: Federal Taxes (Estimated) 800,000.00
+NET INCOME AFTER FEDERAL TAXES $ 7,357,816.52
+Deduct: Dividends as follows:
+No. 60—$1.50 Paid April 10, 1930 $ 956,364.00
+No. 61— 1.50 Paid July 10, 1930 956,467.50
+No. 62— 1.50 Paid Oct. 10, 1930 956,493.00
+No. 63— 1.50 Paid Jan. 10, 1931 956,530.50
+3,825,855.00
+$ 3,531,961.52
+Deduct: Amortization of Patents 71,236.54
+SURPLUS FOR YEAR 1930 $ 3,460,724.98
+CAPITAL AND SURPLUS JANUARY 1, 1930 33,717,489.34
+DECLARED CAPITAL ($20,552,885.00) AND SURPLUS
+DECEMBER 31, 1930, represented by 637,954 shares
+of capital stock without par value $37,178,214.32
+(*) Cost of finished and semi-finished products means
+cost to manufacturing company.
+
+===== PAGE 8 =====
+NEW YORK CHICAGO
+26 BROADWAY 39 SOUTH LASALLE ST.
+To the Stockholders of the
+INTERNATIONAL BUSINESS MACHINES CORPORATION:
+We have made a general audit of the books and accounts of the
+INTERNATIONAL BUSINESS MACHINES CORPORATION and its Subsidiary
+Companies and have reviewed reports from the Foreign Subsidiaries,
+for the year ending December 31, 1930.
+We certify that the Consolidated Balance Sheet and Related Summary
+of Consolidated Income, Surplus and Capital presented herewith, are
+true exhibits of the accounts and that, in our opinion, they correctly set
+forth the financial condition of the INTERNATIONAL BUSINESS MACHINES
+CORPORATION AND SUBSIDIARY COMPANIES as of December 31, 1930
+and the results from operations for the period stated.
+Very truly yours,
+THE AUDIT COMPANY OF NEW YORK
+ERNEST WM. BELL,
+President
+
+===== PAGE 9 =====
+UNZ & CO.
+U. 60517
+
+===== PAGE 10 =====
+
+
+===== PAGE 11 =====
+m
+m

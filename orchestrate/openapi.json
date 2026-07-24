@@ -1,0 +1,256 @@
+{
+  "openapi": "3.0.3",
+  "info": {
+    "title": "IBM Annual Reports Dashboard Tools",
+    "description": "Direct (no-LLM) tools over 115 years of IBM annual-report data: financials, segments, free cash flow, M&A deals, CEO eras, US macro series, regressions, a live quote, and tools to drive an open dashboard tab (navigate, configure the Regression Lab, post on-page notes). Import this spec into watsonx Orchestrate to give the embedded assistant these skills. Serve the API with: python agent/server.py",
+    "version": "1.0.0"
+  },
+  "servers": [{ "url": "http://localhost:8787" }],
+  "paths": {
+    "/tools/get_dataset_info": {
+      "post": {
+        "operationId": "get_dataset_info",
+        "summary": "Describe the dataset: sources, coverage per metric, dashboard tabs",
+        "requestBody": { "content": { "application/json": { "schema": { "type": "object" } } } },
+        "responses": { "200": { "description": "Dataset description", "content": { "application/json": { "schema": { "$ref": "#/components/schemas/ToolResult" } } } } }
+      }
+    },
+    "/tools/get_financials_year": {
+      "post": {
+        "operationId": "get_financials_year",
+        "summary": "Full IBM financial record for one fiscal year (1911-2025)",
+        "requestBody": { "required": true, "content": { "application/json": { "schema": {
+          "type": "object", "required": ["year"],
+          "properties": { "year": { "type": "integer", "description": "Fiscal year 1911-2025", "example": 2025 } }
+        } } } },
+        "responses": { "200": { "description": "Financial record", "content": { "application/json": { "schema": { "$ref": "#/components/schemas/ToolResult" } } } } }
+      }
+    },
+    "/tools/get_metric_series": {
+      "post": {
+        "operationId": "get_metric_series",
+        "summary": "Year-by-year values of one metric (revenue, netIncome, freeCashFlow, epsDiluted, marketCap, ...)",
+        "requestBody": { "required": true, "content": { "application/json": { "schema": {
+          "type": "object", "required": ["metric"],
+          "properties": {
+            "metric": { "type": "string", "example": "revenue" },
+            "from_year": { "type": "integer", "default": 1911 },
+            "to_year": { "type": "integer", "default": 2025 }
+          }
+        } } } },
+        "responses": { "200": { "description": "Series", "content": { "application/json": { "schema": { "$ref": "#/components/schemas/ToolResult" } } } } }
+      }
+    },
+    "/tools/get_metric_stats": {
+      "post": {
+        "operationId": "get_metric_stats",
+        "summary": "Min / max / mean / latest / CAGR for a metric over a year range",
+        "requestBody": { "required": true, "content": { "application/json": { "schema": {
+          "type": "object", "required": ["metric"],
+          "properties": {
+            "metric": { "type": "string", "example": "freeCashFlow" },
+            "from_year": { "type": "integer", "default": 1911 },
+            "to_year": { "type": "integer", "default": 2025 }
+          }
+        } } } },
+        "responses": { "200": { "description": "Stats", "content": { "application/json": { "schema": { "$ref": "#/components/schemas/ToolResult" } } } } }
+      }
+    },
+    "/tools/get_cagr": {
+      "post": {
+        "operationId": "get_cagr",
+        "summary": "Compound annual growth rate of a metric between two years",
+        "requestBody": { "required": true, "content": { "application/json": { "schema": {
+          "type": "object", "required": ["metric", "from_year", "to_year"],
+          "properties": {
+            "metric": { "type": "string", "example": "revenue" },
+            "from_year": { "type": "integer", "example": 2020 },
+            "to_year": { "type": "integer", "example": 2025 }
+          }
+        } } } },
+        "responses": { "200": { "description": "CAGR", "content": { "application/json": { "schema": { "$ref": "#/components/schemas/ToolResult" } } } } }
+      }
+    },
+    "/tools/compare_years": {
+      "post": {
+        "operationId": "compare_years",
+        "summary": "Side-by-side comparison of two fiscal years across all metrics",
+        "requestBody": { "required": true, "content": { "application/json": { "schema": {
+          "type": "object", "required": ["year_a", "year_b"],
+          "properties": {
+            "year_a": { "type": "integer", "example": 2011 },
+            "year_b": { "type": "integer", "example": 2025 }
+          }
+        } } } },
+        "responses": { "200": { "description": "Comparison", "content": { "application/json": { "schema": { "$ref": "#/components/schemas/ToolResult" } } } } }
+      }
+    },
+    "/tools/get_top_years": {
+      "post": {
+        "operationId": "get_top_years",
+        "summary": "Best or worst n years for a metric",
+        "requestBody": { "required": true, "content": { "application/json": { "schema": {
+          "type": "object", "required": ["metric"],
+          "properties": {
+            "metric": { "type": "string", "example": "netIncome" },
+            "n": { "type": "integer", "default": 5 },
+            "order": { "type": "string", "enum": ["best", "worst"], "default": "best" }
+          }
+        } } } },
+        "responses": { "200": { "description": "Ranked years", "content": { "application/json": { "schema": { "$ref": "#/components/schemas/ToolResult" } } } } }
+      }
+    },
+    "/tools/get_segments": {
+      "post": {
+        "operationId": "get_segments",
+        "summary": "Segment revenue (Software / Consulting / Infrastructure) for a year, 2021-2025",
+        "requestBody": { "content": { "application/json": { "schema": {
+          "type": "object",
+          "properties": { "year": { "type": "integer", "default": 2025 } }
+        } } } },
+        "responses": { "200": { "description": "Segments", "content": { "application/json": { "schema": { "$ref": "#/components/schemas/ToolResult" } } } } }
+      }
+    },
+    "/tools/get_fcf_history": {
+      "post": {
+        "operationId": "get_fcf_history",
+        "summary": "Free cash flow by year with per-year sourcing (IBM-stated vs derived)",
+        "requestBody": { "content": { "application/json": { "schema": {
+          "type": "object",
+          "properties": {
+            "from_year": { "type": "integer", "default": 1995 },
+            "to_year": { "type": "integer", "default": 2025 }
+          }
+        } } } },
+        "responses": { "200": { "description": "FCF history", "content": { "application/json": { "schema": { "$ref": "#/components/schemas/ToolResult" } } } } }
+      }
+    },
+    "/tools/get_ma_deals": {
+      "post": {
+        "operationId": "get_ma_deals",
+        "summary": "Filter/search IBM's 78 filing-sourced M&A deals",
+        "requestBody": { "content": { "application/json": { "schema": {
+          "type": "object",
+          "properties": {
+            "deal_type": { "type": "string", "enum": ["all", "acquisition", "divestiture", "spinoff"], "default": "all" },
+            "from_year": { "type": "integer", "default": 1984 },
+            "to_year": { "type": "integer", "default": 2025 },
+            "min_value_millions": { "type": "number", "default": 0 },
+            "search": { "type": "string", "description": "Substring match on name/category", "default": "" }
+          }
+        } } } },
+        "responses": { "200": { "description": "Deals", "content": { "application/json": { "schema": { "$ref": "#/components/schemas/ToolResult" } } } } }
+      }
+    },
+    "/tools/get_ma_era_summary": {
+      "post": {
+        "operationId": "get_ma_era_summary",
+        "summary": "Acquisitions, divestitures and disclosed spend per CEO era",
+        "requestBody": { "content": { "application/json": { "schema": { "type": "object" } } } },
+        "responses": { "200": { "description": "Era summary", "content": { "application/json": { "schema": { "$ref": "#/components/schemas/ToolResult" } } } } }
+      }
+    },
+    "/tools/get_milestones": {
+      "post": {
+        "operationId": "get_milestones",
+        "summary": "Company milestones in a year range",
+        "requestBody": { "content": { "application/json": { "schema": {
+          "type": "object",
+          "properties": {
+            "from_year": { "type": "integer", "default": 1911 },
+            "to_year": { "type": "integer", "default": 2025 }
+          }
+        } } } },
+        "responses": { "200": { "description": "Milestones", "content": { "application/json": { "schema": { "$ref": "#/components/schemas/ToolResult" } } } } }
+      }
+    },
+    "/tools/get_leadership": {
+      "post": {
+        "operationId": "get_leadership",
+        "summary": "IBM CEOs — all tenures, or who ran IBM in a given year",
+        "requestBody": { "content": { "application/json": { "schema": {
+          "type": "object",
+          "properties": { "year": { "type": "integer", "default": 0, "description": "0 lists everyone" } }
+        } } } },
+        "responses": { "200": { "description": "Leadership", "content": { "application/json": { "schema": { "$ref": "#/components/schemas/ToolResult" } } } } }
+      }
+    },
+    "/tools/get_macro_series": {
+      "post": {
+        "operationId": "get_macro_series",
+        "summary": "US macro series by year: gdp, cpi, sp500, nasdaq, ibmBondYield, treasury10yr, recessions",
+        "requestBody": { "required": true, "content": { "application/json": { "schema": {
+          "type": "object", "required": ["series"],
+          "properties": {
+            "series": { "type": "string", "enum": ["gdp", "cpi", "sp500", "nasdaq", "ibmBondYield", "treasury10yr", "recessions"] },
+            "from_year": { "type": "integer", "default": 1929 },
+            "to_year": { "type": "integer", "default": 2025 }
+          }
+        } } } },
+        "responses": { "200": { "description": "Macro series", "content": { "application/json": { "schema": { "$ref": "#/components/schemas/ToolResult" } } } } }
+      }
+    },
+    "/tools/run_regression": {
+      "post": {
+        "operationId": "run_regression",
+        "summary": "OLS regression (linear + log-log elasticity) between two metrics, optional lag",
+        "requestBody": { "required": true, "content": { "application/json": { "schema": {
+          "type": "object", "required": ["x_metric", "y_metric"],
+          "properties": {
+            "x_metric": { "type": "string", "example": "rdExpense" },
+            "y_metric": { "type": "string", "example": "netIncome" },
+            "from_year": { "type": "integer", "default": 1911 },
+            "to_year": { "type": "integer", "default": 2025 },
+            "lag": { "type": "integer", "default": 0, "minimum": 0, "maximum": 5 }
+          }
+        } } } },
+        "responses": { "200": { "description": "Regression results", "content": { "application/json": { "schema": { "$ref": "#/components/schemas/ToolResult" } } } } }
+      }
+    },
+    "/tools/list_browser_tools": {
+      "post": {
+        "operationId": "list_browser_tools",
+        "summary": "List every tool available on a live, open dashboard tab (requires the site open in a browser)",
+        "requestBody": { "content": { "application/json": { "schema": { "type": "object" } } } },
+        "responses": { "200": { "description": "Browser tool manifest", "content": { "application/json": { "schema": { "$ref": "#/components/schemas/ToolResult" } } } } }
+      }
+    },
+    "/tools/browser_action": {
+      "post": {
+        "operationId": "browser_action",
+        "summary": "Drive an open dashboard tab: navigate tabs, configure the Regression Lab, open an M&A era drawer, change the Overview chart, highlight an element, post/clear an on-page note, download a CSV. Requires the site open in a browser tab polling for commands.",
+        "requestBody": { "required": true, "content": { "application/json": { "schema": {
+          "type": "object", "required": ["tool_name"],
+          "properties": {
+            "tool_name": { "type": "string", "description": "exact name from list_browser_tools, e.g. navigate_to_tab", "example": "navigate_to_tab" },
+            "tool_args": { "type": "object", "description": "keyword arguments for that tool", "example": { "tab": "ma" } }
+          }
+        } } } },
+        "responses": { "200": { "description": "Result of the browser action", "content": { "application/json": { "schema": { "$ref": "#/components/schemas/ToolResult" } } } } }
+      }
+    },
+    "/quote": {
+      "get": {
+        "operationId": "get_live_quote",
+        "summary": "Live market quote for a ticker (default IBM)",
+        "parameters": [{ "name": "symbol", "in": "query", "schema": { "type": "string", "default": "IBM" } }],
+        "responses": { "200": { "description": "Quote", "content": { "application/json": { "schema": {
+          "type": "object",
+          "properties": {
+            "symbol": { "type": "string" }, "price": { "type": "number" },
+            "prevClose": { "type": "number" }, "currency": { "type": "string" },
+            "asOf": { "type": "integer" }
+          }
+        } } } } }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "ToolResult": {
+        "type": "object",
+        "properties": { "result": { "type": "string", "description": "Human-readable tool output" } }
+      }
+    }
+  }
+}

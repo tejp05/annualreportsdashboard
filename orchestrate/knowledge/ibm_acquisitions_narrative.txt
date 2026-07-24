@@ -1,0 +1,157 @@
+IBM ACQUISITIONS AND DIVESTITURES (78 deals: 76 acquisitions, 2 divestitures; disclosed values exist for only 24 deals - IBM historically did not disclose most deal values). All values US$ millions.
+
+1984 - ROLM Corporation (acquisition, major, category: Hardware / Telecom). Deal value: $1,300 million ($1.3 billion). Closed: 1984-11. Acquired ROLM, a maker of PBX telephone equipment and military computers. IBM sold ROLM to Siemens in 1988 after the business underperformed. IBM's own report language: 1984 annual report: 'amounts expended for the acquisition of the net assets of ROLM Corporation'
+
+1995 - Lotus Development Corporation (acquisition, major, category: Software). Deal value: $2,880 million ($2.9 billion). Closed: 1995-07-05. Acquired Lotus for its Notes collaboration platform, which became IBM's foundation for enterprise messaging and collaboration software. IBM's own report language: 1995 cash flow statement direct line item
+
+1996 - Tivoli Systems, Inc. (acquisition, major, category: Software). Deal value: $716 million. Closed: 1996-03-04. Acquired Tivoli to build IBM's systems management and IT operations software portfolio, now a core part of IBM Automation. IBM's own report language: 1996 cash flow statement direct line item
+
+1999 - Sequent Computer Systems (acquisition, major, category: Hardware / Servers). Deal value: $810 million. Closed: 1999-09. Acquired Sequent for its NUMA (non-uniform memory access) parallel server technology, strengthening IBM's high-end UNIX server line. IBM's own report language: 1999 CEO letter: 'Sequent Computer Systems strengthens the high end of our Web server line'
+
+2001 - Informix Database Business (acquisition, major, category: Software). Deal value: $1,000 million ($1.0 billion). Closed: 2001-07-01. Acquired Informix's database software business from IBM's rival, significantly expanding DB2 market share. The Informix database products were rebranded under the DB2 family. IBM's own report language: 2001 annual report: 'The bulk of our acquisition investment was used to acquire the database assets of Informix Corp.'
+
+2002 - PricewaterhouseCoopers Consulting (acquisition, major, category: Consulting). Deal value: $3,500 million ($3.5 billion). Closed: 2002-10-01. Acquired PwC's consulting arm — 30,000 consultants — instantly creating one of the world's largest IT services businesses. Foundation of what is now IBM Consulting, generating $21B+ annually. IBM's own report language: 2003 CEO letter: 'PricewaterhouseCoopers Consulting, Rational software and 19 other companies in the past two years'
+
+2003 - Rational Software (acquisition, major, category: Software). Deal value: $2,100 million ($2.1 billion). Closed: 2003-02-21. Acquired Rational for its software development tools (UML, requirements management, testing). Now IBM Engineering Lifecycle Management (ELM), used in aerospace, defense, and automotive. IBM's own report language: 2003 CEO letter reference
+
+2005 - Ascential (acquisition, major). Deal value: $1,140 million ($1.1 billion).
+
+2005 - PC Division → Lenovo (divestiture, major, category: Hardware / PCs). Deal value: $1,750 million ($1.8 billion). Closed: 2005-05-01. Sold the ThinkPad PC business to China's Lenovo for $1.75B. IBM retained an 18.9% stake in Lenovo. Strategic exit from commoditizing PC hardware to refocus on higher-margin enterprise technology. IBM's own report language: 2007 Acquisitions & Divestitures note — prior-year disclosure
+
+2007 - DataMirror Corporation (acquisition, minor, category: Software). Deal value: $725 million. Closed: 2007-09-04. Acquired DataMirror for its real-time data replication and integration technology, enhancing IBM's data management portfolio. IBM's own report language: 2007 Acquisitions & Divestitures note
+
+2008 - Cognos (acquisition, major, category: Software / Analytics). Deal value: $5,021 million ($5.0 billion). Closed: 2008-01-31. Acquired the world's leading business intelligence and performance management software company. Became the foundation of IBM Cognos Analytics, now part of IBM's AI & Analytics portfolio. IBM's own report language: 2008 Acquisitions & Divestitures note (Note E)
+
+2008 - Telelogic (acquisition, major). Deal value: $885 million.
+
+2009 - SPSS (acquisition, major, category: Software / Analytics). Deal value: $1,200 million ($1.2 billion). Closed: 2009-10-05. Acquired SPSS, the leading statistical analysis software used in academia, government, and business research. Now IBM SPSS Statistics. IBM's own report language: 2009 CEO letter reference to SPSS acquisition
+
+2010 - BLADE Network Technologies (acquisition, minor). Deal value: not disclosed.
+
+2010 - Lombardi Software (acquisition, minor). Deal value: not disclosed.
+
+2010 - Netezza (acquisition, major). Deal value: $1,847 million ($1.8 billion).
+
+2010 - PSS Systems, OpenPages (acquisition, minor). Deal value: not disclosed.
+
+2010 - Sterling Commerce (acquisition, minor). Deal value: not disclosed.
+
+2010 - Unica (acquisition, minor). Deal value: not disclosed.
+
+2010 - Wilshire Credit (acquisition, minor). Deal value: not disclosed.
+
+2012 - Butterfly Software (acquisition, minor). Deal value: not disclosed.
+
+2012 - DemandTec (acquisition, minor). Deal value: not disclosed.
+
+2012 - Emptoris (acquisition, minor). Deal value: not disclosed.
+
+2012 - Kenexa (acquisition, major). Deal value: $1,351 million ($1.4 billion).
+
+2012 - Platform Computing (acquisition, minor). Deal value: not disclosed.
+
+2012 - Tealeaf Technology (acquisition, minor). Deal value: not disclosed.
+
+2012 - Texas Memory Systems (acquisition, minor). Deal value: not disclosed.
+
+2012 - Vivisimo (acquisition, minor). Deal value: not disclosed.
+
+2012 - Worklight (acquisition, minor). Deal value: not disclosed.
+
+2013 - CSL International (acquisition, minor). Deal value: not disclosed.
+
+2013 - Daeja Image Systems (acquisition, minor). Deal value: not disclosed.
+
+2013 - Softlayer Technologies (acquisition, major, category: Cloud Infrastructure). Deal value: $1,977 million ($2.0 billion). Closed: 2013-07-08. Acquired SoftLayer, a cloud computing infrastructure provider, to establish IBM's global cloud delivery platform. Became the foundation of IBM Cloud. IBM's own report language: 2013 Acquisitions & Divestitures note (Note E)
+
+2013 - Star Analytics (acquisition, minor). Deal value: not disclosed.
+
+2013 - UrbanCode (acquisition, minor). Deal value: not disclosed.
+
+2013 - Xtify (acquisition, minor). Deal value: not disclosed.
+
+2015 - Cleversafe (acquisition, major). Deal value: $1,309 million ($1.3 billion).
+
+2015 - Merge Healthcare (acquisition, minor, category: Healthcare / AI). Deal value: $1,000 million ($1.0 billion). Closed: 2015-10-13. Acquired Merge Healthcare for its medical imaging and clinical data management capabilities, strengthening IBM Watson Health. IBM's own report language: 2016 annual report reference: 'Merge Healthcare in 2015'
+
+2015 - StoredIQ (acquisition, minor). Deal value: not disclosed.
+
+2016 - AlchemyAI (acquisition, minor). Deal value: not disclosed.
+
+2016 - Compose (acquisition, minor). Deal value: not disclosed.
+
+2016 - Explorys (acquisition, minor). Deal value: not disclosed.
+
+2016 - Phytel (acquisition, minor). Deal value: not disclosed.
+
+2016 - The Weather Company (acquisition, minor). Deal value: not disclosed.
+
+2016 - Truven Health Analytics (acquisition, major, category: Healthcare / AI). Deal value: $2,612 million ($2.6 billion). Closed: 2016-04-07. Acquired Truven Health Analytics, a leading provider of healthcare data and analytics, for Watson Health. One of IBM's largest healthcare investments. IBM's own report language: 2016 Acquisitions & Divestitures note (Note F)
+
+2017 - Blekko (acquisition, minor). Deal value: not disclosed.
+
+2017 - IRIS Analytics (acquisition, minor). Deal value: not disclosed.
+
+2018 - Resilient Systems (acquisition, minor). Deal value: not disclosed.
+
+2019 - Red Hat, Inc. (acquisition, major, category: Software / Hybrid Cloud). Deal value: $35,100 million ($35.1 billion). Closed: 2019-07-09. IBM's largest acquisition ever — the largest software acquisition in history at the time. Red Hat's open-source hybrid cloud platform became IBM's defining strategic bet under Arvind Krishna, who led the deal as SVP of Cloud. IBM's own report language: 2019 Acquisitions & Divestitures note (Note E): 'total consideration of $35.1 billion'
+
+2021 - Adobe Workfront practice from Rego (acquisition, minor, category: Consulting). Deal value: not disclosed.
+
+2021 - Bluetab Solutions Group (acquisition, minor, category: Consulting). Deal value: not disclosed.
+
+2021 - BoxBoat Technologies (acquisition, minor, category: Consulting). Deal value: not disclosed.
+
+2021 - Instana (acquisition, minor, category: Software). Deal value: not disclosed.
+
+2021 - Kyndryl Spin-off (spinoff, major, category: Infrastructure Services). Deal value: $19,000 million ($19.0 billion). Closed: 2021-11-03. Spun off IBM's managed infrastructure services business as an independent public company (NYSE: KD). IBM's largest-ever divestiture by revenue — Kyndryl had ~$19B in annual revenue at separation. The spinoff allowed IBM to refocus entirely on hybrid cloud and AI. IBM's own report language: 2021 annual report: 'the separation of Kyndryl that occurred on November 3, 2021'
+
+2021 - Nordcloud (acquisition, minor, category: Consulting). Deal value: not disclosed.
+
+2021 - Phlyt (acquisition, minor, category: Software). Deal value: not disclosed.
+
+2021 - ReaQta (acquisition, minor, category: Software). Deal value: not disclosed.
+
+2021 - SXiQ Digital (acquisition, minor, category: Consulting). Deal value: not disclosed.
+
+2021 - StackRox (acquisition, minor, category: Software). Deal value: not disclosed.
+
+2021 - Stratoss Lifecycle Manager business (acquisition, minor, category: Software). Deal value: not disclosed.
+
+2021 - Waeg (acquisition, minor, category: Consulting). Deal value: not disclosed.
+
+2022 - Databand.ai (acquisition, minor, category: Software). Deal value: not disclosed.
+
+2022 - Dialexa (acquisition, minor, category: Consulting). Deal value: not disclosed.
+
+2022 - Envizi (acquisition, minor, category: Software). Deal value: not disclosed.
+
+2022 - Neudesic (acquisition, minor, category: Consulting). Deal value: not disclosed.
+
+2022 - Octo (acquisition, minor, category: Consulting). Deal value: not disclosed.
+
+2022 - Omnio (acquisition, minor, category: Software). Deal value: not disclosed.
+
+2022 - Randori (acquisition, minor, category: Software). Deal value: not disclosed.
+
+2022 - Sentaca (acquisition, minor, category: Consulting). Deal value: not disclosed.
+
+2023 - Agyla (acquisition, minor, category: Consulting). Deal value: not disclosed.
+
+2023 - Ahana Cloud (acquisition, minor, category: Software). Deal value: not disclosed.
+
+2023 - Apptio (acquisition, minor, category: Software). Deal value: $4,600 million ($4.6 billion). Closed: 2023-08. Acquired Apptio, the leading Technology Business Management (TBM) and FinOps software platform, to help enterprises optimize technology spending. IBM's largest acquisition since Red Hat.
+
+2023 - Equine Global (acquisition, minor, category: Consulting). Deal value: not disclosed.
+
+2023 - Manta Software (acquisition, minor, category: Software). Deal value: not disclosed.
+
+2023 - NS1 (acquisition, minor, category: Software). Deal value: not disclosed.
+
+2023 - Polar Security (acquisition, minor, category: Software). Deal value: not disclosed.
+
+2023 - StepZen (acquisition, minor, category: Software). Deal value: not disclosed.
+
+2024 - StreamSets & webMethods (from Software AG) (acquisition, major, category: Software / Integration). Deal value: $2,300 million ($2.3 billion). Closed: 2024-07-01. Acquired Software AG's data integration and API management platforms, strengthening IBM's hybrid integration portfolio for AI-ready data pipelines. IBM's own report language: 2024 annual report: 'acquisition of StreamSets and webMethods from Software AG…$2.3 billion'
+
+2025 - HashiCorp (acquisition, major, category: Software / Infrastructure). Deal value: $7,433 million ($7.4 billion). Closed: 2025-02-27. Acquired HashiCorp, the leading multi-cloud infrastructure automation platform (Terraform, Vault, Consul). Extends IBM's hybrid cloud platform with best-in-class infrastructure-as-code capabilities. IBM's own report language: 2025 Acquisitions & Divestitures note: 'Total consideration $7,433 million'

@@ -1,0 +1,2497 @@
+
+
+===== PAGE 1 =====
+
+
+===== PAGE 2 =====
+
+
+===== PAGE 3 =====
+Annual Report 
+for the year ended December 31, 
+1967 
+International Business Machines 
+Corporation 
+Cover; 
+Magnetic tape, which is the principal data 
+storage medium for electronic computers, is shown 
+during the slitting and reeling operation at 
+the Company's new tape manufacturing facility in 
+Boulder, Colorado. 
+Contents: 
+International Business Machines Corporation 
+Armonk, New York 10504 
+Stockholder Relations Department 
+590 Madison Avenue, New York, N. Y 1002: 
+32 
+34 
+38 
+40 
+Highlights of the Year 
+Letter to Stockholders 
+Report to Stockholders 
+Opinion of Independent Accountants 
+Earnings and Retained Earnings 
+Balance Sheet 
+Source and Application of Funds 
+Ten-Year Statement of Operations 
+Directors and Officers 
+
+
+===== PAGE 4 =====
+Highlights of the year: 
+At end of year: 
+Gross income from sales, service and rentals 
+N e t earnings before income taxes 
+U. S. Federal and foreign income taxes 
+N e t earnings 
+Per share 
+Cash dividends 
+Per share 
+Stock dividend 
+Stock split 
+Investment in plant, rental machines 
+and other property 
+Total assets 
+N e t investment in plant, rental machines 
+and other property 
+Long-term indebtedness 
+N e t current assets 
+N u m b e r of employees 
+N u m b e r of stockholders 
+5,345,290,993 
+1,297,499,558 
+646,000,000 
+651499,558 
+$11.61 
+243,172,836 
+$ 4-53 
+21/2% 
+1,469,941,152 
+4,247,706,091 
+1,054,130,192 
+528,000,000 
+526,130,192 
+I 9-43 
+230,671,168 
+$ 
+4.20 
+50% 
+1,584,475,383 
+5,598,670,392 
+3,496,307,204 
+521,459,702 
+916,382,993 
+221,866 
+359,495 
+$4,660,778,651 
+$ 3,098,618,614 
+$ 
+458,871,518 
+$ 
+723,096,414 
+198,186 
+328,427 
+Sfoc/k Transfer Offices: 
+International Business Machines Corporation, 
+590 Madison Avenue, New York, New York 10022 
+Continental Illinois National Bank and Trust Company, 
+231 South LaSalle Street, Chicago, Illinois 60690 
+Trust General du Canada, 
+84 Notre-Dame Street West, Montreal i, P.Q., Canada 
+Wells Fargo Bank, 
+464 California Street, San Francisco, California 94120 
+National Trust Company Limited, 
+21 King Street East, Toronto i, Ontario, Canada 
+Registrars: 
+Morgan Guaranty Trust Company of New York, 
+30 West Broadway, New York, New York 10015 
+The First National Bank of Chicago, 
+38 South Dearborn Street, Chicago, Illinois 60690 
+Montreal Trust Company, 
+777 Dorchester Boulevard West, Place Ville Marie, 
+Montreal 2, P.Q., Canada 
+Crocker-Citizens National Bank, 
+One Montgomery Street, San Francisco, California 94120 
+Montreal Trust Company, 
+15 King Street West, Toronto i, Ontario, Canada 
+Right: From IBM's investigations into hologram-
+laser technology comes this project to establish 
+the feasibility of using a three-dimensional display 
+as an all-weather landing aid for Navy aircraft 
+carrier pilots. The result of these investigations 
+could ultimately lead to the development of a 
+system which would present an image to a pilot 
+using techniques similar to those used to pro-
+duce the red image in the photograph. Ideally, the 
+pilot would see in front of his windshield a 
+highly detailed image of his ship—virtually identi-
+cal to what he would see in clear weather or 
+daylight. 
+
+
+===== PAGE 5 =====
+
+
+===== PAGE 6 =====
+To the Stockholders: 
+IBM Chairman Thomas J. Watson, Jr. at the 
+dedication, last April, of the Company's new 
+manufacturing and development facility 
+near Raleigh, North Carolina. 
+During 1967, IBM's continued progress was 
+highlighted by the strong demand for its 
+products and services throughout the world. 
+Consolidated gross income from world-
+wide operations amounted to $5,345,290,993, 
+an increase of $1,097,584,902 over 1966. 
+Earnings were $651,499,558, a $125,369,366 
+increase over the prior year. 
+Earnings per share were $i 1.61 based on 
+the 56,114,279 shares outstanding at the end 
+of the year. This compares with earnings of 
+$9.43 per share on the 55,809,405 shares out-
+standing on December 31, 1966, adjusted 
+for the 2^/2% stock dividend paid June 10, 
+1967. 
+Operations outside the United States, in-
+cluded in consolidated results, showed gross 
+income of $1,624,990,742, an increase of 
+$306,891,517 over 1966. Earnings from these 
+operations were $209,360,460, an increase 
+of $34,754,688 over the year before. 
+The 1967 results reflect the continuing 
+high level of business volume of the Com-
+pany's System/360 data processing product 
+line, as well as a very substantially increased 
+level of outright sales of this equipment 
+during the last six months of the year. As we 
+have previously commented to stockholders, 
+outright sales have the effect of realizing 
+income currently which, on a rental basis, 
+would be realized in future periods. Changes 
+in the level of these sales can result in sig-
+nificant fluctuations in income from year to 
+year and even wider fluctuations from 
+quarter to quarter. 
+Users of IBM equipment have the choice 
+of either renting or purchasing their equip-
+ment from IBM or procuring it from third 
+parties who are in the business of owning 
+equipment and leasing it to users. While the 
+great majority of IBM equipment users 
+continue to rent directly from IBM, there 
+has been an increase in the amount of data 
+processing equipment purchased by leas-
+ing companies for lease to users. 
+Orders for System/360 and other computer 
+systems continued at a high level through-
+out the year and worldwide production 
+exceeded 1,000 systems a month. Of partica-
+
+
+===== PAGE 7 =====
+lar interest was shipment of the first Model 
+91 computer to the National Aeronautics and 
+Space Administration. The special purpose 
+Model 91, the most powerful system IBM 
+has ever built, further extends the frontier of 
+computer technology. 
+As stockholders have been previously 
+informed, the Department of Justice advised 
+us early in 1967 that it was conducting a 
+study of the data processing industry. This 
+investigation is still under way. IBM has 
+been cooperating with the Department by 
+supplying documents and other information. 
+It is still too early to predict the ultimate 
+outcome of the investigation. 
+Significant progress has been made in all 
+areas of the business in developing new prod-
+ucts and services and advanced technolo-
+gies. Descriptions of these advances appear 
+elsewhere in this report. 
+A substantial effort was devoted during the 
+year to the further development of program-
+ming systems. W h i l e more work remains 
+to be done in this area, a number of new or 
+improved programs have been completed 
+and are now in use. One important accom-
+plishment in the advanced control program-
+ming area was the release of a new version 
+of Operating System/360, which enables 
+System/360 computers to handle greatly in-
+creased workloads with greater speed. 
+During 1967, IBM's worldwide employ-
+ment increased by 23,000 to over 221,000 
+people. This increase reflects the growth of 
+all areas of the business, including further ex-
+pansion of our manufacturing and labora-
+tory facilities. The need for new facilities 
+and the production of data processing equip-
+ment for rental to customers required a 
+worldwide investment this year of approxi-
+mately 11.5 billion. N e w or enlarged facili-
+ties became operational or were started at 
+a number of locations in the United States, 
+as well as at 14 locations in nine countries 
+around the world. 
+During the past year, IBM completed its 
+fifteenth 
+year of making and marketing 
+electronic computer systems. The Company 
+announced its first such system, the IBM 701, 
+a vacuum tube computer system for sci-
+entific use in 1952. At that time there was 
+substantial opinion that no more than 50 
+companies would ever use such computers. 
+Since then the computer industry has 
+grown from what seemed little more than a 
+promising idea to a few companies into 
+a major industry here and abroad. It has at-
+tracted both large and small companies 
+and encouraged the formation of hundreds 
+of new enterprises. It has created oppor-
+tunities for thousands of suppliers and has re-
+sulted in major investments in plant and 
+capital equipment. It has grown to a point 
+where today there are thousands of com-
+puter installations throughout the world. 
+IBM is proud of the role it has played in 
+this growth—growth which has resulted in 
+benefit to the public and private sectors 
+of the economy in the form of improved 
+management tools, lowered costs, and more 
+efficient business operations; improved 
+techniques in scientific investigation and in 
+such fields as education and medicine; and 
+increased effectiveness in government and 
+defense activities. 
+The last 15 years have been challenging 
+and demanding ones for everyone involved 
+in our industry. Many problems in technology 
+and manufacturing have been met and over-
+come and new markets have been opened 
+through the development of new computer 
+applications. IBM's success in this challeng-
+ing atmosphere is due to the dedication of its 
+people here and abroad. Their ingenuity, 
+their willingness to give extra effort, and 
+their desire to keep the Company moving for-
+ward enable us to face the future with 
+confidence. 
+January 23, ig68, by order of the Board of Directors, 
+Chairman of the Board 
+
+
+===== PAGE 8 =====
+Orders for, and installations of, IBM data proc-
+essing equipment continued at a high rate 
+during 1967, particularly in the System/360 
+line. System/360 is an integrated family of 
+computers designed for both business and 
+scientific applications. The standard archi-
+tecture of the System allows customers to 
+move from smaller models to more power-
+ful ones with little or no change in their 
+programs or data processing procedures. 
+W h e n announced in April, 1964, System/ 
+360 consisted of six basic models and 
+a range of 44 peripheral devices, such as 
+card and tape readers, printers and display 
+terminals. 
+To provide customers with a broader 
+selection of computing capability, the Com-
+pany has added to the System/3 60 line 
+since its introduction. Today the line has 
+grown to nine models of System/360 and 
+more than 90 peripheral devices. 
+A new model, announced this month, is 
+the Model 25 which joins the Model 20 and 
+Model 30 to offer users a wider choice of 
+smaller System/360's. The Model 25's proc-
+essing speed, program compatibility and wide 
+range of input/output devices, make it espe-
+cially attractive for peripheral operations 
+in support of a larger computer. T h e Model 
+25 can use programs written for the 
+IBM 1400 computer series. The new system 
+thus permits normal growth for 1400 sys-
+tem customers into the System/360 product 
+line and is compatible with all larger 
+models of the System/360. 
+The growth needs of many small systems 
+users were met during the year with the 
+extension of the capabilities of IBM's small 
+general purpose 1130 computing system. 
+A faster magnetic core memory has in-
+creased its processing speed, and data stor-
+age capacity has been made five times 
+larger. The 1130 system also has the ability 
+to present data on the television-like 
+IBM 2250 Graphic Display Terminal, and to 
+be linked with a larger central computer. 
+During 1967, IBM delivered the first 
+Model 91 computer to the Goddard Space 
+Flight Center of the National Aeronautics 
+and Space Administration in Greenbelt, 
+Maryland. T h e Model 91 is the most power-
+ful system IBM has ever built, and is being 
+produced in limited numbers to satisfy the 
+special needs of a relatively small group 
+of highly sophisticated customers. 
+The IBM 1800 Data Acquisition and Con-
+trol System continues to find wide accept-
+ance in the marketplace. T h e 1800 system is a 
+process control computer which gathers in-
+formation from sensing devices and automat-
+ically adjusts the process to produce pre-
+programmed results. It is being installed for 
+a variety of applications such as controlling 
+traffic light systems, pipeline operations, glass 
+production and drug research. 
+IBM still does a substantial business 
+throughout the world in unit record prod-
+ucts. These are the familiar punches, sorters, 
+collators and accounting machines that 
+operate with punched cards. Much of this 
+equipment is used by smaller customers 
+where the applications do not yet require the 
+speed and power of electronic computers. 
+Tele-processing networks have become 
+a highly important tool for many customers. 
+Tele-processing utilizes a central computer 
+linked by communications lines to any of a 
+variety of input/output devices—includ-
+ing other computers. Computers in such a 
+network exchange data across a city— 
+or a continent—via telephone or telegraph 
+lines. Thus a user can respond rapidly to 
+an event originating anywhere in his organi-
+zation—a salesman's order, a customer's 
+inquiry or a financial transaction. 
+During 1967, IBM developed an advanced 
+communications technique that increases 
+the speed with which computers can com-
+municate over telephone lines. Called 
+Binary Synchronous Communications, the 
+technique makes it possible to send f r o m 
+25 to 100 per cent more digital information 
+over a communications line in a given 
+period of time by more effectively regulat-
+ing the flow of data characters into the 
+transmission line. 
+
+
+===== PAGE 9 =====
+On the day it was announced, early this 
+month, IBM's newest System/360, the Model 25, 
+was being demonstrated in New York City 
+and Chicago. 
+
+
+===== PAGE 10 =====
+Above left: System/360 helps paint manu-
+facturer maintain high standards at lowest cost by 
+signaling corrections for deviations in ingredi-
+ents and production cycle. 
+Above right: Several law enforcement agencies, in 
+cooperation with the Federal Bureau of Investi-
+gation, are using IBM computers for a quick, 
+detailed check of information on suspected crimes. 
+Right: Formulating the most economical mix of 
+dyestuffs to produce an exact shade of yarn is a job 
+being done by IBM computers for many textile 
+companies. 
+Right: Scientists use a System/360 to simu-
+late and study the life cycle of lobsters to help plan 
+conservation measures for this important New 
+England industry. 
+Center: An IBM 1130 computer forecasts sales and 
+helps control the worldwide distribution of 
+Molly O'Rourke cakes from this bakery in Dublin. 
+Far right: An IBM computer connected to a 
+new automobile test facility checks vehicle exhaust 
+emission, engine tune and diagnostics, brakes, 
+and wheel alignment. 
+
+
+===== PAGE 11 =====
+The Company continued to devote major efforts 
+to programming. Programs are the written 
+step-by-step instructions which are fed into a 
+computer to tell it what to do with the data 
+it receives. 
+The effort is broadly classified into three 
+categories. One category is comprised of 
+control programs which manage the way a 
+computer does its work by telling it how 
+to schedule its internal functions and when 
+to use its various units. T h e second cate-
+gory is the development of programming 
+languages by which people can write in-
+structions for the computer in terms they 
+both understand. The third area is made 
+up of application programs which set up the 
+computer to perform specific jobs such as 
+payroll or inventory control. 
+An important accomplishment in control 
+programming was the release of a new 
+version of Operating System/360. This new 
+version, called MVT—Multi-Programming 
+with a Variable number of Tasks—adds to 
+the functions of this master control program 
+the capacity to have a computer simulta-
+neously perform several completely different 
+jobs and automatically set its own schedule 
+for maximum efficiency. There have also 
+been improvements in several of the com-
+ponents of Operating System/360 re-
+sulting in increased "through-put" or total 
+work done. 
+Another control programming develop-
+ment, announced this month, allows the 
+customer to combine two System/360 Model 
+65's into a single large-scale system, increas-
+ing the efficiency of both machines. This 
+configuration of computers together with the 
+program is called a multiprocessor system. 
+T h e increased efficiency results from the pro-
+gram's ability to balance the total workload 
+so the combined system can operate at close 
+to its top theoretical capability. 
+Time-sharing is another area of control pro-
+gramming. A time-sharing computer sys-
+tem is one designed and programmed so that 
+many users, working at remote terminal 
+units, can use the computer at what seems to 
+be the same time, so rapidly does the com-
+puter switch from one problem to another. 
+In this advanced area, the Company con-
+tinued its development efforts in various 
+aspects of time-sharing. 
+In a related area, IBM announced improve-
+ments in its marketing program known as 
+QUIKTRAN. IBM inaugurated QUIKTRAN in 
+1965 to allow scientists, engineers and 
+businessmen to use a typewriter-like termi-
+nal in their own offices to share a central 
+computer at an IBM QUIKTRAN center. 
+The new program—called QUIKTRAN 2—is 
+up to ten times faster than its predecessor 
+and supports more users. It can be bought by 
+customers in time segments as small as 
+five hours a month. QUIKTRAN 2 computer 
+centers are currently located in five cities 
+across the nation and access is available 
+in 18 other major metropolitan areas. 
+QUIKTRAN 2 is bringing the power of a 
+large-scale IBM computer to scores of users 
+who may not need a full-time computer. 
+Last year several new versions of the new 
+programming language called PL/I were 
+released which increased its power in both 
+performance and function, PL/I was de-
+veloped to combine in one common language 
+a full capability in both scientific and com-
+mercial problem solving—a facility not 
+readily available with earlier programming 
+languages. Work is continuing to further 
+improve the performance and function of 
+P L / I . 
+Also during 1967, the Company estab-
+lished four centers staffed with IBM profes-
+sionals who continued the development of 
+application programs for specific jobs. These 
+application program packages are distrib-
+uted to customers from the IBM Program In-
+formation Department library. 
+
+
+===== PAGE 12 =====
+In Africa, Ivory Coast harbor authorities use an 
+IBM System/360 to compile and analyze statistics 
+on the export of various tropical woods. 
+The great number of computers being installed, 
+and the deep involvement of these computers 
+in customers' businesses, has made even 
+more important IBM's activity in the areas of 
+maintenance and education. 
+Customer engineers are the IBM people 
+who install and maintain the computer sys-
+tems and other Company products. Today's 
+customer engineer is trained extensively 
+in both equipment and computer programs. 
+H e is provided with the most modern tech-
+nical equipment and backed by an organiza-
+tion geared to give him quick, expert help 
+on specific problems. 
+More than half of IBM's customer engi-
+neers now carry radio paging devices so 
+they can respond quickly to a customer's call 
+for service. They also have access to a 
+nationwide Tele-processing hookup which 
+makes possible fast delivery of special parts 
+that may not be stocked locally. The re-
+quest for parts is made on a terminal in the 
+local branch office. A computer, using 
+an established search pattern for that office, 
+determines the nearest IBM parts support 
+location that stocks that part and, without 
+human intervention, orders it sent to the 
+requesting location. 
+Another important group of IBM people 
+involved in the customer support effort 
+are the systems engineers. These m e n and 
+women work closely with the salesman 
+and the customer in the study of customer 
+requirements and the design of his sys-
+tem configuration. They also help during the 
+installation phase to test programs and 
+train customer personnel, and after installa-
+tion are available to give assistance and 
+advice in making improvements to the sys-
+tem or in adding new applications. 
+To provide customers and IBM people 
+with specialized assistance, the Company 
+continued to expand its concept of providing 
+"centers" where information and techni-
+cal advice on equipment or applications are 
+readily available. 
+More than 40 Installation Centers have 
+been established to help customers install 
+unit record equipment, the IBM 1130 system, 
+and System/360 Model 20. These centers 
+are providing broad support for customers 
+new to data processing, giving them con-
+centrated technical aid to supplement the 
+assistance they receive from the local IBM 
+branch office. 
+For customers with large computers and 
+more complex applications, there are now 17 
+Field Systems Centers located across the 
+United States, designed to provide a higher 
+level of installation support. 
+T h e Company has extended this special-
+ized "center" concept into the field of 
+data acquisition and control. Four Data 
+Acquisition and Control Centers have been 
+established during the past year, equipped 
+with IBM 1800 systems. Many IBM 
+marketing people and customers have come 
+to these Centers for education, testing 
+and systems planning purposes. 
+The Company also operates six Scientific 
+Centers. These are staffed by IBM people 
+specializing in the fields of computer sci-
+ences, education, medicine, engineering, 
+biology and the physical sciences. Besides 
+customer support, their activities extend 
+deeply into research and development aimed 
+at finding new and advanced uses for 
+computers. 
+10 
+I I 
+
+
+===== PAGE 13 =====
+Worldwide Computer 
+Manufacturing 
+Assembler at the Company's new plant in 
+Mainz, West Germany, inserts a circuit card into a 
+System/360 magnetic core data storage unit. 
+Advances in Research 
+and Development 
+The production of System/360 and other IBM 
+computers reached a new peak in 1967 as 
+new or enlarged facilities became operational 
+in the United States and abroad. 
+Production began in temporary facilities 
+in Boca Raton, Florida, and shipments of the 
+smallest computer in the System/360 line, 
+the Model 20, began from there in Septem-
+ber. Construction of a permanent manufac-
+turing facility of 300,000 square feet will 
+begin in 1968. 
+In Japan, manufacturing operations were 
+transferred from Tokyo to a new 222,000-
+square-foot plant at nearby Fujisawa. The new 
+plant produces Models 20 and 40 of System/ 
+360, and other data processing equipment for 
+shipment to several World Trade countries. 
+A n additional 152,000 square feet of space 
+was added to the new IBM plant at Mainz, 
+West Germany. T h e Mainz plant produces 
+System/360 Model 30 as well as magnetic 
+disk storage drives, printers and magnetic 
+core memory units. Additional expansion was 
+completed at IBM's Greenock, Scotland, 
+plant, which makes units for System/360 
+in addition to producing much of World 
+Trade's punched card equipment. 
+In addition, expansion programs were re-
+quired in San Jose, California; Raleigh, 
+N o r t h Carolina; Burlington, Vermont and 
+East Fishkill, N e w York, for System/360 
+manufacturing. 
+Production of Solid Logic Technology mod-
+ules for IBM computers continued at a high 
+rate. During 1967, combined production of 
+these tiny circuit devices at the Company's 
+three components plants at East Fishkill, Bur-
+lington, and Corbeil-Essonnes, France, was 
+almost equal to the Company's total output 
+in the previous four years. 
+During the year, IBM's research scientists and 
+development engineers continued to study 
+new scientific phenomena and to incorporate 
+ideas and improvements into existing equip-
+ment or into entirely new products. 
+The Company's research and systems de-
+velopment are both organized on an inte-
+grated worldwide basis with laboratories in 
+the United States and Europe contributing 
+according to their main area of competence. 
+Much of the development effort during 
+the year was in the area of computer program-
+ming, an area in which almost every labora-
+tory was involved. T h e laboratory in Hursley, 
+England, for instance, has Company-wide 
+responsibility for the continuing development 
+of programming language PL/I. The Hur-
+sley laboratory gets important assistance from 
+other laboratories in the United States, Aus-
+tria, Germany and France on this work. 
+IBM laboratories also develop and con-
+struct special devices for particular customer 
+requirements. One of these, the IBM Photo 
+Digital Storage System, was installed at the 
+University of California Lawrence Radia-
+tion Laboratory at Livermore, California. This 
+system can store more than one trillion bits 
+of information, and is the largest digital stor-
+age and retrieval device ever developed and 
+built for use in data processing. 
+This special device records data by means 
+of a beam of electrons directly exposing small 
+film strips, develops them within the system 
+and transports them pneumatically to and from 
+the storage area in protective plastic cells. 
+Each cell, smaller than a cigarette package, 
+holds 32 strips and can store enough infor-
+mation to process a complete payroll for a 30,-
+000-man company. Any item of informa-
+tion in the file is quickly retrieved upon re-
+quest of a computer and read by a scanner 
+for computer processing. 
+In another development project, a joint 
+effort by IBM and the Canadian Government 
+led to the development of the IBM Carto-
+graphic Scanner. This device reads maps of 
+u p to 16 square feet and reduces them to 
+numerical data for analysis by a computer. 
+The Scanner is assisting in an analysis of 
+
+
+===== PAGE 14 =====
+A new plant for a new product. At Austin, Texas, 
+long lines of IBM SELECTRIC Composers 
+move through assembly before covers are installed. 
+
+
+===== PAGE 15 =====
+The Service Bureau Corporation provides sales 
+analysis and inventory control services for 
+the Wonder Products Company, subsidiary of 
+Wilson Sporting Goods Company. 
+physical land resource data for the settled 
+portion of the country. 
+An important step was made by IBM 
+research scientists in the area of integrated 
+circuits. A computer was applied to de-
+signing and producing the extremely com-
+plex ""masks" used in the photographic 
+fabrication process by which these circuits 
+are made. From the designer's instructions, 
+the computer determines the patterns re-
+quired on each of many masks and then con-
+trols a device which ""draws" the desired 
+patterns on a photographic plate from 
+which the actual masks are made. The tech-
+nique makes it possible to fabricate and 
+test new chip circuit designs many times 
+faster than previously possible. 
+Company scientists solved some complex 
+technological problems to produce the first 
+reported experimental monolithic integrated 
+circuits made of the element germanium. 
+Until now, such circuits have been made of 
+silicon, but since electrons move approxi-
+mately three times as fast in germanium as in 
+silicon, germanium offers ultimately higher 
+speed in electronic devices. 
+Advances continue to be made in the area 
+of lasers, devices which emit intense beams 
+of coherent light. These developments may 
+someday be applicable to data storage de-
+vices, printing, and optical radars. 
+A new method of energizing gas lasers 
+makes it possible to achieve a much wider 
+bore in the laser tube. This is important 
+for such applications as a scanning laser in 
+which the light beam is moved in differ-
+ent directions. A way of inducing lasing in a 
+wide range of dyes was developed, which 
+provides an inexpensive laser medium that 
+can emit light in any desired color of the 
+spectrum. 
+In related research, an IBM scientist de-
+veloped a method of accurately measuring 
+the duration of extremely short pulses of 
+laser light or other pulses that last only a 
+fraction of a trillionth of a second. These are 
+the most minute time measurements ever 
+made outside the realm of nuclear physics. 
+Another achievement was the discovery 
+
+
+===== PAGE 16 =====
+An experimental IBM patient monitoring system 
+assists doctors and nurses by correlating vital 
+factors and flashing results on the television screen. 
+and proof of a series of formulas which 
+give the m i n i m u m number of steps required 
+for addition, multiplication, and compari-
+son of numbers. The formulas apply to any 
+computer designed, and when combined 
+with the speed of operation of the circuits 
+used in a given computer, give the maxi-
+m u m speed that can be attained in its arith-
+metic unit. The formulas thus give computer 
+designers a measure of how close their de-
+signs come to the best that can be done. Con-
+tinuing work in this area of mathematics 
+is directed toward finding similar theoretical 
+boundaries giving the m i n i m u m number 
+of computational steps required to solve 
+major classes of mathematical problems. 
+IBM was recently granted a patent stem-
+m i n g from research into the superplasticity 
+of metals. Certain alloys take on a plastic-
+like consistency as they are being worked. 
+W h i l e in this state, the metal can be formed 
+by many of the same techniques that are 
+used with plastic. After further processing, 
+the metal retains its final shape for use. 
+This represents a metal-working method of 
+great flexibility and far-ranging utility. 
+In collaboration with medical consultants, 
+IBM's Advanced Systems Development 
+Division continued to explore computer ap-
+plications in medicine. Progress is being 
+made in the development of a system de-
+signed to give computer assistance to the 
+physician in diagnosing illnesses. The system 
+stores medical information electronically 
+and makes it available to the doctor on re-
+quest through a terminal unit. 
+In another area of medicine, a specially 
+built patient monitoring system, installed 
+last year by IBM at the Pacific Medical 
+Center in San Francisco, is helping physi-
+cians there to care for patients recovering 
+from open heart surgery. Coupled to an 
+IBM 1800 Data Acquisition and Control Sys-
+tem, experimental equipment in the cardio-
+pulmonary Intensive Care Unit of the 
+Medical Center's Presbyterian Hospital 
+alerts the medical staff to impending com-
+plications, sometimes hours before the 
+usual signs appear. Watching and correlat-
+ing up to 25 vital factors affecting the 
+patient's progress, the system displays its 
+findings 
+to physicians on a bedside tele-
+vision screen. 
+
+
+===== PAGE 17 =====
+IBM computers in Australia process weather 
+information from this remote station and many 
+others as part of a world weather watch being 
+established under United Nations' auspices. 
+In the 105 countries served by the IBM World 
+Trade Corporation, a wholly owned sub-
+sidiary of IBM, the impact of System/360 and 
+other IBM products was increasingly evident. 
+In Belgium, a steel manufacturer has 
+two System/360's handling such functions 
+as order entry, production scheduling, in-
+ventory control and billing. In Japan, an 
+iron and steel maker employs three System/ 
+360's and an IBM 1800 Data Acquisition 
+and Control System in a range of applica-
+tions, including automatic control of the 
+steel manufacturing process. 
+Other IBM systems were also playing a key 
+role in industry, science and commerce. In 
+Switzerland, for example, a cement producer 
+uses an 1800 Data Acquisition and Control 
+System for on-line control of raw materials 
+blending. IBM 1800 systems control chemical 
+production and paper mill operations for 
+two of Italy's big industrial concerns. In France, 
+a glass manufacturer uses an 1800 to calcu-
+late dimensions for optimum glass-cutting and 
+then generates the commands to tell the 
+equipment where to cut. 
+As in the United States, IBM Tele-process-
+ing systems were being applied to a wide 
+range of information-handling problems. 
+For example, several airlines were in various 
+stages of planning and installing computer-
+controlled reservations systems. Using termi-
+nals at remote locations in several Swiss 
+cities, Swissair, for example, completed the 
+initial phase of an automatic passenger 
+check-in and weight-and-balance calculating 
+system. The terminals are connected to two 
+System/360's which also handle the airline's 
+automated message-switching system in-
+augurated during the year. 
+One of the dominant characteristics of 
+World Trade marketing efforts during 1967 
+was the continuing shift to industry specializa-
+tion. World Trade data processing salesmen, 
+like their counterparts in the United States, 
+turned to specialization in a majority of the 
+countries. International market support 
+centers in France and the United Kingdom 
+were expanded and operations were begun 
+at centers in Sweden and in Germany. 
+IBM World Trade continued to make sig-
+nificant computer installations for scientific 
+applications. In nuclear research, a System/ 
+360 at the Brussels headquarters of the 
+European Atomic Energy Community pro-
+vides researchers in six member countries 
+with direct access to thousands of scien-
+tific documents stored in its central memory. 
+Another System/360, at Deutsches Elek-
+tronen Synchrotron in Hamburg, has been in-
+stalled at one of the world's largest electron 
+accelerators to evaluate photographs of 
+bubble traces left by invisible elementary 
+particles. In a single minute, the computer 
+completes the equivalent of 16,000 hours of 
+manual computation. 
+And in Switzerland, a System/360 proc-
+esses millions of medical facts gathered 
+from around the world and provides doctors 
+and researchers in many countries with 
+more complete and meaningful data than 
+they could obtain individually. 
+World Trade opened data centers in five 
+more countries during 1967 to perform data 
+processing services for a fee. At year's end, 
+232 data centers were serving World Trade 
+customers in 70 countries. Well over half 
+of these offices had installed System/360 
+computers by the end of the year. 
+Sales of electric typewriters, dictating units 
+and other office products by IBM World 
+Trade reached a record high last year. Most 
+electric typewriters and related products for 
+World Trade countries are produced in 
+Amsterdam, The Netherlands, where a new 
+plant was recently completed. 
+In view of the continuing development of 
+our business abroad, the Boards of Directors 
+of IBM and IBM World Trade Corporation 
+held a joint meeting in Rio de Janeiro, Brazil, 
+last year. Following the meeting, which 
+was part of a series of joint meetings held in 
+recent years outside the United States, the 
+Directors reviewed operations in a number 
+of other countries in South America. 
+
+
+===== PAGE 18 =====
+In Puerto Rico a System/360 has been installed 
+to process and analyze information required 
+to administer an 800,000 student school system. 
+
+
+===== PAGE 19 =====
+The A. W. Wright Nuclear Structure Laboratory 
+at Yale, housing the world's first Emperor 
+accelerator shown here, uses an IBM computer 
+for data acquisition and analysis. 
+During 1967, IBM computers and people were 
+involved in many activities in support of 
+space, defense and other government programs. 
+O n November 9,1967, the National Aero-
+nautics and Space Administration's Saturn V 
+rocket—the most powerful ever built—success-
+fully completed its first qualification flight. 
+The Saturn V eventually will be used to 
+propel American astronauts to the moon in 
+the three-man Apollo spacecraft. 
+The instrumentation unit of the Saturn 
+rocket guided and controlled all three stages 
+of the giant vehicle. T h e instrumentation 
+unit, a three-foot-high ring, 68 feet in circum-
+ference, containing nearly 60 separate in-
+strument packages made by IBM and other 
+manufacturers, is assembled and programmed 
+by IBM at Huntsville, Alabama. 
+At the Cape Kennedy, Florida, launch site, 
+hundreds of other IBM specialists assisted 
+in the electronic checkout of the rocket and in 
+operating the launch support complex. IBM 
+has contracts to handle these critica:l assign-
+ments for every Saturn mission. 
+Also in support of the Apollo/Saturn proj-
+ect, IBM installed six System/360 Model 75's 
+at NASA's Manned Spacecraft Center in Hous-
+ton, Texas—control center for all manned 
+spaceflights. These powerful computers, which 
+replace the IBM 7094's used during the Gem-
+ini program and earlier Apollo flights, perform 
+up to 80 billion calculations a day during an 
+Apollo/Saturn mission. They are programmed, 
+operated and maintained by IBM people. 
+Installation of System/360's also began at 
+NASA's Goddard Space Flight Center in 
+Greenbelt, Maryland. The new computers, 
+which replace older IBM equipment, will 
+be used to test tracking and communications 
+equipment in the Manned Space Flight 
+Network, and to support the flights of un-
+manned scientific satellites. 
+During 1967, IBM computers at Goddard 
+and at the Jet Propulsion Laboratory in 
+Pasadena, California, supported a series of 
+successful unmanned scientific space probes. 
+These included the Surveyor soft landings 
+on the moon; Bio-satellite II, which 
+was recovered after orbiting the earth with 
+living plant and animal samples; and three 
+Orbiter missions, which photographed the 
+moon's surface. IBM computers were used 
+to improve moon pictures transmitted from 
+the Surveyor on the moon back to earth. 
+IBM System/4 Pi, a new series of com-
+puters, has been selected for a number 
+of advanced military aircraft for such critical 
+tasks as navigation, target identification 
+and weapons delivery. In addition to flying 
+in the Air Force version of the variable-
+wing F-i 11, System/4 Pi will also be used 
+in the Navy's A-6, A-j, and EA-6B 
+tactical aircraft. 
+Though small enough to fit in a suitcase, 
+System/4 Pi is powerful and rugged enough 
+to meet the rigorous demands of space and 
+combat applications. For example, it can 
+operate at temperatures ranging from 65 
+degrees below to 160 degrees above zero 
+Fahrenheit. 
+At the Federal Aviation Administration's 
+experimental facility near Atlantic City, 
+N e w Jersey, IBM programmers neared comple-
+tion of the task of writing 160,000 computer 
+instructions required for an air traffic control 
+system. The programs will operate a net-
+work of IBM computing systems to help FAA 
+personnel control en route flights through 
+the nation's air space. T h e first system has 
+been in test at the Jacksonville, Florida, Air 
+Route Traffic Control Center, and is 
+scheduled to become operational in 1968. 
+In 1967, IBM won a U.S. Army contract 
+to develop a mobile data processing and 
+communication system for field use. Called 
+the Combat Service Support System, it 
+will store logistic and personnel records in 
+System/3 6o's to keep track of everything 
+f r o m manpower to munitions. Each system 
+will be installed in four 3 5-foot trailers 
+built for rough terrain. T h e Army plans to 
+test the total Combat Service Support Sys-
+tem in the field in 1968. 
+T h e Company's Center for Exploratory 
+Studies at Rockville, Maryland, continued 
+work on long-range programs to meet the ad-
+vanced technology needs of the government. 
+
+
+===== PAGE 20 =====
+Federal Aviation Administration controllers who 
+manage the nation's air traffic en route between 
+terminal areas such as this will soon be helped by 
+IBM computers now nearing completion of 
+programming and test. 
+New Products in Typing, 
+Composing Product Line 
+The Office Products Division's gross income 
+from sales and services reached a record high 
+during 1967. The division marked the year 
+with the announcement of several new 
+products and features for existing equipment. 
+In April, a new family of electric type-
+writers was announced. Called the Model D 
+line, it features the IBM EXECUTIVE elec-
+tric typewriter. The Model D incorporates 
+many improvements over its predecessor, 
+the Model C typewriter. A m o n g its features 
+are a new case design, reduced noise level 
+and additional automatic repeat keys. The 
+EXECUTIVE model has an additional no-print 
+feature which allows a typist to test-type 
+a line of copy before actually putting it on 
+paper. 
+1967 was the first full year of marketing 
+IBM SELECTRIC Composing equipment. 
+Announced in late 1966, deliveries of the 
+IBM SELECTRIC Composer began in March. 
+The Composer is similar to the popular 
+IBM SELECTRIC Typewriter in that it uses 
+the round, interchangeable typing element. 
+The new composing equipment is being 
+used in print shops, newspapers, coldtype 
+composition houses and by large com-
+panies having their own reproduction and 
+publishing departments. 
+In May, the composing equipment line 
+was expanded by the introduction of the IBM 
+Paper Tape SELECTRIC Composer. This 
+machine is capable of preparing camera-
+ready copy directly from news service wires 
+which produce punched paper tape. The 
+tape is fed into the Paper Tape SELECTRIC 
+Composer which automatically produces 
+copy with straight left and right hand 
+margins. 
+These composing products and the IBM 
+Magnetic Tape SELECTRIC Composer are 
+manufactured by the Office Products Division 
+in its new plant in Austin, Texas. The facil-
+ity is highly automated and produced its first 
+machine just 159 days after construction 
+of the plant began. 
+Dictation system sales were the fastest 
+growing portion of the IBM EXECUTARY 
+dictation equipment line during the year. 
+-..SiiS?^' 
+The Model D electric typewriter line, announced 
+worldwide in 1967, includes many improvements 
+in both the standard and EXECUTIVE versions. 
+System users dictate into either a micro-
+phone or telephone, and the message is re-
+corded automatically on IBM recording 
+equipment in a central area for subsequent 
+transcription. 
+Sales of the IBM Magnetic Tape SELECTRIC 
+Typewriter (MT/ST) were higher than at 
+any time since its announcement in 1964. 
+T h e capabilities of the MT/ST were in-
+creased by the addition of a Remote Record-
+ing feature, enabling one MT/ST to send 
+information over telephone lines to another 
+located at a distant point. Information 
+typed on an MT/ST may be sent in dupli-
+cate form to the remote unit where it is 
+typed at speeds of up to 150 words a minute. 
+
+
+===== PAGE 21 =====
+After more than two years of extensive testing 
+and experimentation by magnetic tape en-
+gineers of the Information Records Division, 
+the Company, last year, began to manufac-
+ture and market its Series/500 Magnetic Tape. 
+This new tape has an extremely durable 
+coating formulated to reduce contamination 
+that can interfere with a computer's per-
+formance. With computers operating at in-
+creasing speeds, the absence of contamina-
+tion can add substantially to their processing 
+ability. IBM Series/500 Magnetic Tape is 
+manufactured in the Company's facility at 
+Boulder, Colorado, where development 
+engineering and manufacturing for both the 
+tape and tape drives are combined to pro-
+vide a single source of technical competence. 
+Another highlight of the year for the 
+Information Records Division was the sale 
+of 40,000 IBM punched card vote recorders 
+to Los Angeles County, the largest voting 
+jurisdiction in the country. The $5.6 million 
+order was the largest ever received for an 
+electronic voting system. T h e low-cost vote 
+recorders enable ballots to be cast on spe-
+cially designed IBM punched cards which are 
+tallied at electronic speeds by a computer. 
+The IBM 9370 Document Reproducer 
+continued to gain acceptance. This offset 
+duplicator uses roll paper instead of single 
+sheets for greater speed and economy. It 
+can reproduce on both sides of the paper at 
+a rate of 50,000 impressions an hour. 
+The year also marked the greater use of 
+micro records in everyday business opera-
+tions. Once used primarily by engineering 
+departments, micro records are now used by 
+companies throughout the country to con-
+t-rol inventories and speed retrieval of histor-
+ical records. Micro records also free valu-
+able floor space by condensing record stor-
+age areas. 
+Micro records can contain both text and 
+illustrations. W i t h IBM's Micro-Copier/ 
+Reproducer, production of duplicate aper-
+ture cards—punched cards containing 
+a frame of microfilm—can be at the rate of 
+up to 2,100 an hour. W h e n needed, these 
+cards can be retrieved by reading their 
+punched holes and the film can be studied in 
+IBM Micro Viewers or can be converted 
+back to hard paper copy. 
+Sales of the familiar data processing 
+punched cards reached an all-time high in 
+1967. They are produced by IBM at ten 
+plants in the United States and by World 
+Trade in 46 plants in 37 other countries. 
+Punched cards are still the main form of re-
+cording information for computer proc-
+essing and are also used in a wide variety of 
+special applications. U.S. Series E Savings 
+Bonds, for instance, are in punched card 
+form. Last October, IBM produced the bil-
+lionth "E" Bond for the government. 
+Right: An IBM System/360 helps a Japanese 
+cosmetics manufacturer forecast sales, plan produc-
+tion and control the distribution of products to 
+all parts of the world. 
+
+
+===== PAGE 22 =====
+Science Research 
+Associates 
+The Service Bureau Corporation, a wholly owned 
+and independently operated IBM subsidiary, 
+provides data processing services and computer 
+programming services for a fee. Large com-
+panies with their own computer installations 
+call on SBC for specialized assistance, or as a 
+supplement during peak-load periods. Most of 
+its customers, however, are small businesses 
+for which SBC provides a wide range of serv-
+ices in fields where data processing is rapidly 
+becoming a competitive necessity. 
+During the year, SBC continued to broaden 
+the base of its data processing services. 
+Installation of IBM System/360's continued 
+as part of the SBC National Computer 
+Network which is scheduled for comple-
+tion in 1969. The network will connect SBC's 
+data processing centers into a nationwide 
+complex of System/360's, ranging from the 
+smaller models to some of the most pow-
+erful. W i t h the network, SBC will be able to 
+offer in all SBC locations computational 
+abilities previously available only in large 
+metropolitan areas. 
+SBC announced the development of sev-
+eral new computer applications during 1967. 
+One of these new packages is a manage-
+ment information system for the retail indus-
+try. It is capable of providing the retail 
+market with an accounts payable system and 
+a comprehensive retail credit management 
+system. Another management information 
+system will enable the printing industry to 
+analyze more effectively cost rate structures, 
+production standards and profitability. 
+A new customer service entitled Remote 
+Access Computing Technique (RACT) was 
+developed during the year by SBC's Comput-
+ing Sciences Division. W i t h RACT, a cus-
+tomer will be able to submit his computa-
+tional work directly to SBC from a terminal 
+at his location as simply as dialing the 
+telephone number of an SBC facility, and then 
+have his output returned to his terminal 
+or to a computer at his location. Because of its 
+fast response time, RACT can accommodate 
+inquiries from a large number of users at vir-
+tually the same time. 
+T h e National Education Association, 
+In Chicago, students work at a terminal of IBM's 
+1500 Instructional System as part of the research 
+and development program being conducted by 
+Science Research Associates. 
+a million-member, non-profit organization 
+representing most of the nation's teachers 
+and school administrators, has contracted 
+with SBC to program and maintain a teacher-
+vacancy matching service. The program, 
+put in operation during 1967, serves both 
+individual teachers who are looking for 
+new employment opportunities, and school 
+superintendents who have job openings 
+within their districts. 
+Science Research Associates, Inc., a Chicago-
+based educational publishing firm and a wholly 
+owned subsidiary of IBM since 1964, contin-
+ued to extend its product lines during 1967. 
+SRA now publishes textbooks and basic learn-
+ing systems for all educational levels from 
+preschool through college. It is also one of the 
+nation's leading producers of test and guid-
+ance material for education and industry. 
+During 1967, an experimental center for 
+the study of Computer Assisted Instruction 
+was established by SRA. The center devel-
+ops and tests curriculum materials, conducts 
+research and fosters research by others. In 
+1967, groups of students at various grade lev-
+els were beginning to use the IBM 1500 
+Instructional System in the center as part of 
+the research and development effort. 
+In 1967, SRA added a teacher training 
+materials department which published the 
+Teaching Problems 
+Laboratory. 
+This product 
+uses the technique of simulation to aid in 
+the training of teachers. W i t h films and typi-
+cal school documents it presents problems 
+which the teachers can solve and discuss. 
+The Comprehensive Reading Series was 
+completed during 1967, giving SRA a 
+complete reading program for grades one 
+through six. The program is developed 
+around new techniques of teaching reading 
+through the science of linguistics. 
+Two programs for preprimary students 
+were also introduced in 1967. One is de-
+signed to aid the development of visual 
+motor perception. It provides materials for 
+use with an overhead projector to train 
+children to quickly distinguish shapes and 
+positions. The other aids children in the 
+understanding of mathematical concepts 
+through the use of simple number exercises. 
+The Rodman Job Corps Center in N e w 
+Bedford, Massachusetts, operated by a sub-
+sidiary of SRA for the Federal Government's 
+Office of Economic Opportunity, began its 
+third year of operation. During 1967 more 
+than 1,700 young men received training 
+at the Center in a wide range of office skills 
+qualifying them to work in many jobs 
+from clerk to computer programmer. 
+
+
+===== PAGE 23 =====
+Organization 
+The highly sophisticated equipment IBM produces 
+for space and avionics applications requires 
+exacting test procedures. This special room at 
+Owego eliminates microwave interference to 
+sensing devices which provide input to a system 
+being developed for advanced military aircraft. 
+Financial Review 
+To conduct its business throughout the world, 
+the Company is organized into 11 divisions 
+and three wholly owned subsidiaries. 
+Divisions: 
+Advanced Systems Development: explores 
+product and business areas new to the 
+Company, establishes their potential value, 
+and then transfers responsibility to 
+another operating group for manufacturing 
+and marketing. 
+Components: develops, manufactures and 
+purchases electronic components used in IBM 
+data processing systems. 
+Data Processing: markets IBM's full line of 
+information-handling systems and equipment 
+through ofl&ces across the United States. 
+Federal Systems: concentrates on advanced 
+technology and systems for the ground-
+based, airborne and spaceborne information-
+handling and control needs of the U. S. 
+Government. 
+Field Engineering: provides maintenance 
+and related services for the Company's 
+domestic information-handling systems and 
+equipment. 
+Information Records: develops, manufac-
+tures and markets data processing cards and 
+paper forms, magnetic tape and other consum-
+able products used in information-handling 
+systems. Its product line also includes systems 
+and services for the storage, retrieval, 
+distribution and display of business records. 
+Office Products: develops, manufactures, 
+markets and services electric typewriters, mag-
+netic tape typewriters, dictation equipment, 
+coldtype composing equipment, and related 
+supplies. 
+Real Estate and Construction: arranges for 
+the design, construction, purchase, or lease 
+of facilities, including the planning and loca-
+tion of sites. 
+Research: develops advanced concepts, 
+technologies, devices and computer applica-
+tions to provide new and better solutions 
+to customers' information-handling require-
+ments. 
+Systems Development: develops, through a 
+worldwide effort, IBM's regular product line 
+of information-handling systems and equip-
+ment, including system-related program-
+ming support. 
+Systems Manufacturing: manufactures 
+equipment and systems in the IBM informa-
+tion-handling product line. 
+IBM World Trade Corporation: conducts 
+IBM's business outside the United States di-
+rectly or through subsidiaries. 
+Science Research Associates, Inc.: de-
+velops and publishes a full range of modern 
+learning and guidance materials and in-
+telligence, aptitude and achievement tests 
+for schools, government, and industry. 
+The Service Bureau Corporation: offers 
+to American business data processing as 
+well as computer programming services on a 
+daily, weekly, monthly, or one-job basis. 
+Gross Income 
+Gross income from worldwide IBM opera-
+tions amounted to $5,345,290,993 last 
+year, an increase of $1,097,584,902 over 
+the $4,247,706,091 total for 1966. 
+During 1967, sales, service and rentals of 
+data processing machines and systems ac-
+counted for approximately 79% of gross in-
+come, other regular products and services 
+accounted for 17%, while special products 
+and services for United States space, de-
+fense and other agencies contributed 4%. 
+Earnings 
+The Company's earnings before taxes 
+totaled $1,297,499,558, which was $243,-
+369,366 more than the $1,054,130,192 
+earned in 1966. 
+U. S. Federal and foreign income taxes 
+3,000,000 in 1967, an increase of 
+$118,000,000 over the $528,000,000 in 1966. 
+IBM's earnings after taxes were $651,-
+499,558, or $125,369,366 more than the 
+$526,130,192 earned in 1966. 
+IBM's earnings in 1967 equaled $11.61 a 
+share on the 56,114,279 shares of capital 
+stock outstanding on December 31,1967. 
+This compares with $9.43 a share earned on 
+the 55,809,405 shares outstanding at the 
+end of 1966, adjusted for the 7.V2% stock 
+dividend paid June 10,1967. 
+Cash Dividends 
+Cash dividends totahng $243,172,836 
+were paid to stockholders in 1967 com-
+pared with $230,671,168 in the previous 
+year. 
+The regular quarterly cash dividend 
+payable March 9, 1968, will be at the 
+rate of $1.30 per share, an increase of 20 cents 
+a share over the previous rate. This divi-
+dend will be IBM's two hundred and twelfth 
+consecutive quarterly cash dividend. 
+
+
+===== PAGE 24 =====
+Borrowings 
+To help finance the growth of the business, 
+total borrowings increased by $278,066,506 
+during 1967. Short-term loans payable 
+increased by $215,478,322, including $200,-
+000,000 of 5 Vi % notes payable to a group 
+of banks in the United States. Long-term 
+indebtedness increased by $62,588,184 as 
+the result of borrowings by subsidiaries 
+operating in other countries. 
+Capital Expenditures 
+During 1967, IBM's growing business, to-
+gether with its need to replace obsolete 
+equipment, required a worldwide invest-
+ment of $1,469,941,152 in plant, rental 
+machines and other property. 
+Retirements amounted to $641,499,221, 
+covering obsolete and dismantled equip-
+ment, as well as rental machines sold which 
+previously were under lease to customers. 
+These write-offs were charged against 
+reserves provided out of prior and current 
+years' earnings, or to cost of sales. 
+Listed here are the new facilities and ex-
+pansions that were completed or under 
+construction during the year. Also in 1967, 
+the Company occupied a number of 
+newly leased or purchased facilities. 
+United States 
+Manufacturing 
+and Development 
+*t San Jose, California 
+Manufacturing 
+523,000 
+400,000 
+308,000 
+300,000 
+227,000 
+153,000 
+150,000 
+145,000 
+144,000 
+46,000 
+34,000 
+12,000 
+Square Feet 
+Annual Meeting of Stockholders 
+Manufacturing 
+Administration 
+t East Fishkill, New York Manufacturing 
+and Development 
+Austin, Texas 
+t Burlington, Vermont 
+White Plains, New York 
+*t East Fishkill, New York 
+t Harrison, New York 
+*t Raleigh, North Carolina 
+*t Dayton, New Jersey 
+*t Huntsville, Alabama 
+t Sherman, Texas 
+*t Lexington, Kentucky 
+Other Countries 
+Development 
+and Administration 
+Development 
+Manufacturing 
+Square Feet 
+*t Amsterdam, 
+The Netherlands 
+* Fujisawa, Japan 
+*t Toronto, Canada 
+Madrid, Spain 
+*t Mainz, West Germany 
+* Diegem, Belgium 
+Hannover, 
+West Germany 
+*t Hursley, England 
+Manila, The Philippines 
+t Boeblingen, 
+West Germany 
+Havant, England 
+*t Greenock, Scotland 
+*t Uithoorn, 
+The Netherlands 
+Amagi, Japan 
+Manufacturing 
+Administration 
+Administration 
+and Marketing 
+Manufacturing 
+and Administration 
+Administration 
+and Marketing 
+Development 
+Administration 
+and Marketing 
+Manufacturing 
+Development 
+304,000 
+222,000 
+206,000 
+156,000 
+152,000 
+101,000 
+100,000 
+91,000 
+88,000 
+84,000 
+62,000 
+56,000 
+45,000 
+37,000 
+This year's stockholders' meeting will be 
+held at the Sheraton-Boston Hotel in Boston, 
+Massachusetts, on Monday, April 29th at 
+2:00 p.m. O n or about March 15, a notice of 
+the meeting, proxy statement, and proxy 
+ballot will be mailed to stockholders. 
+* Completed in 196-/. 
+^Expansion of Existing Facilities. 
+
+
+===== PAGE 25 =====
+Gross Income from Sales, Service and Rentals 
+Net Earnings • 
+and Income Taxes 
+5,850 
+5,200 
+4,550 
+3,900 
+3,250 
+2,600 
+_ 
+1,950 
+1,300 
+650 
+hi millions 
+oj dollars 
+o 
+I-350 
+1,050 
+900 
+750 
+600 
+450 
+300 
+150 
+In millions 
+of dollars 
+o 
+1958 
+'59 
+'60 
+'61 
+'62 
+'63 
+'64 
+'65 
+'66 
+'67 
+1958 
+'59 
+'60 
+'61 
+'62 
+'63 
+'64 
+'65 
+'66 
+'67 
+Capital Expenditures 
+1,710 
+1,520 
+1,330 
+1,140 
+950 
+760 
+570 
+380 
+190 
+In millions 
+of dollars 
+1 
+11 
+1 ^ 
+1 
+1 1 
+1958 
+'59 
+'60 
+'61 
+'62 
+'63 
+'64 
+'65 
+'66 
+'67 
+
+
+===== PAGE 26 =====
+To the Stockholders of 
+International Business Machines Corporation 
+In our opinion, the accompanying consolidated 
+financial statements present fairly the financial 
+position of International Business Machines 
+Corporation and its subsidiaries at December ^i, 
+1967, the results of their operations and the 
+supplementary information on funds for the year, 
+in conformity with generally accepted account-
+ing principles applied on a basis consistent with 
+that of the previous year. Also, in our opinion, 
+the comparative statement of operations for 
+the past ten years presents fairly the financial 
+information included therein. Our examination 
+of these statements was made in accordance 
+with generally accepted auditing standards and 
+accordingly included such tests of the account-
+ing records and such other auditing procedures 
+as we considered necessary. 
+fanuary 2 
+1^68 
+New York, New York 
+Price Waterhouse & Co. 
+Some of the members of the IBM and IBM World 
+Trade Boards of Directors at the joint meeting 
+held in Rio de Janeiro last fall. Identifiable at rear, 
+from left: newly elected director G. Keith Funston, 
+Walker G. Buckner, Grant G. Simmons, Jr., 
+Richard W Courts, George L. Hinman, J. Victor 
+Herd, Arthur K. Watson, Hulbert S. Aldrich, and 
+William H. Moore. Front, facing camera, 
+John N. Irwin II and Charles K. Campbell. 
+
+
+===== PAGE 27 =====
+Consolidated Statement of Earnings and 
+Retained Earnings for the year ended December 31 
+1967 
+1966 
+Gross Income from Sales, Service and Rentals 
+Cost of sales, service and rentals, operating expenses, and 
+development and engineering expense, exclusive of 
+depreciation 
+Depreciation of plant, rental machines and other property . . . . 
+Amortization of goodwill 
+Interest on indebtedness 
+Other income, principally interest 
+Net earnings before income taxes 
+Provision for U. S. Federal and foreign income taxes, estimated 
+Net Earnings for the year 
+Per share (1966 adjusted for the 2V2% stock dividend 
+paid June 10, 1967) 
+Retained Earnings, January i 
+Total 
+Cash dividends 
+Stock dividend... 1,363,723 shares, involving transfer from 
+retained earnings to capital stock account of 
+Retained Earnings, December 31 
+$ 5,345,290,993 
+3,173,976,030 
+863,611,366 
+8,018,655 
+37,417,864 
+4,083,023,915 
+1,262,267,078 
+35,232,480 
+1,297,499,558 
+646,000,000 
+651,499,558 
+S 1 1 . 6 1 
+243,172,836 
+525,033,273 
+2,011,380,055 
+2,662,879,613 
+768,206,109 
+The notes on pages 34 to 3 J are an integral part of this statement. 
+$ 1,894,673,504 
+4,247,706,091 
+2,561,352,334 
+640,619,779 
+3,000,000 
+23,845,143 
+3,228,817,256 
+1,018,888,835 
+35,241,357 
+1,054,130,192 
+528,000,000 
+526,130,192 
+S 9-43 
+230,671,168 
+1,715,921,031 
+2,242,051,223 
+230,671,168 
+2,011,380,055 
+
+
+===== PAGE 28 =====
+Consolidated Balance Sheet at December 3 1 : 
+Assess 
+Current Assets: 
+Cash 
+Marketable securities, valued at lower of cost or market. 
+Notes and accounts receivable... less reserve: 
+1967, $17,227,950; 1966, $13,308,559 
+Inventories, valued at lower of average cost or market. . . 
+Prepaid insurance, taxes, etc 
+Othr Investments and Sundry Assets 
+Plant, Rental Machines and Other Property ...at cost: 
+Land 
+Buildings 
+Factory, laboratory and office equipment 
+Less: Accumulated depreciation 
+Rental machines and parts 
+Less: Accumulated depreciation 
+Patents and Goodwill... less amortization 
+1967 
+1966 
+The notes on pages 34 to 37 are an integral part of this statement. 
+219,595 
+561,043,770 
+1,013,417,622 
+214,124,522 
+35,689,258 
+$ 2,078,554,767 
+23,808,420 
+86,863,554 
+576,077,171 
+983,989,541 
+1,646,930,266 
+745,652,992 
+901,277,274 
+4,988,478,999 
+2,393,449,069 
+2,595,029,930 
+3,496,307,204 
+I 
+$ 5,598,670,392 
+237,582,373 
+276,643,191 
+802,994,883 
+190,200,665 
+32,602,518 
+$ 1,540,023,630 
+14,117,751 
+64,945,186 
+519,537,104 
+862,819,065 
+1,447,301,355 
+612,923,505 
+834,377,850 
+4,359,665,979 
+2,095,425,215 
+2,264,240,764 
+3,098,618,614 
+8,018,656 
+$ 4,660,778,651 
+
+
+===== PAGE 29 =====
+Liabilities 
+and 
+Capital 
+Current 
+Liabilities: 
+U. S. Federal and foreign income taxes... estimated 
+Accounts payable and accruals 
+Loans payable 
+Deferred 
+Inmne 
+Taxes 
+Reserves for Employees' Indemnities 
+and Retirement 
+Plans 
+Long-Term 
+Indebtedness 
+Capital 
+Stock ... Par Value 15.00 Per Share 
+Authorized: 60,000,000 shares 
+Issued and outstanding: 56,114,279 shares at December 31, 
+1967; 54,448,200 shares at December 31, 1966 
+Retained 
+Earnings 
+1967 
+1966 
+321,060,131 
+592,677,531 
+248,434,112 
+1,162,171,774 
+47,819,851 
+35,616,299 
+521,459,702 
+1,936,929,262 
+1,894,673,504 
+3,831,602,766 
+5,598,670,392 
+279,052,708 
+504,918,718 
+32,955,790 
+816,927,216 
+33,903,674 
+28,446,006 
+458,871,518 
+1,311,250,182 
+2,011,380,055 
+3,322,630,237 
+$ 4,660,778,651 
+
+
+===== PAGE 30 =====
+Consolidated Statement of Source and Application 
+of Funds for the year ended December 3 1 : 
+1967 
+1966 
+Net current assets at beginning of year 
+Funds provided during year: 
+Net earnings 
+Depreciation and other charges against net earnings which 
+did not require the current outlay of funds 
+Total from operations 
+Sale of capital stock under employee plans 
+Sale of capital stock under rights offering 
+Increase in long-term indebtedness 
+Miscellaneous 
+Total funds provided during year 
+Total funds 
+Funds applied during year: 
+Investment in plant, rental machines and other property . . . . 
+Less: Depreciation of manufacturing facilities capitalized in 
+rental machines 
+Cash dividends 
+Total funds applied during year 
+Net current assets at end of year 
+$ 
+723,096,414 
+651,499,558 
+1,017,203,301 
+1,668,702,859 
+95,578,608 
+62,588,184 
+(4,623,470) 
+1,822,246,181 
+2,545,342,595 
+1,469,941,152 
+84,154,386 
+1,385,786,766 
+243,172,836 
+1,628,959,602 
+$ 
+916,382,993 
+$ 
+698,652,848 
+526,130,192 
+732,530,987 
+1,258,661,179 
+75,734,472 
+371,556,341 
+60,021,914 
+3,283,365 
+1,769,257,271 
+2,467,910,119 
+1,584,475,383 
+70,332,846 
+1,514,142,537 
+230,671,168 
+1,744,813,705 
+$ 
+723,096,414 
+NoUs to 
+Consolidated Financial Statements 
+Principles of Consolidation: 
+T h e consolidated financial statements include 
+the accounts of International Business 
+Machines Corporation and its domestic and 
+foreign subsidiary companies. 
+
+
+===== PAGE 31 =====
+Foreign Operations: 
+December 31, 1967 
+December 31, 
+1966 
+Net assets employed in foreign operations are summarized 
+below together with a comparison of gross income and net 
+earnings from these operations. 
+Current assets 
+Current liabilities 
+Net current assets 
+Other investments and sundry assets 
+Plant, rental machines and other property, net 
+Goodwill, less amortization 
+Deferred income taxes 
+Reserves for employees' indemnities and retirement plans 
+in certain countries 
+Long-term indebtedness 
+Net assets employed in foreign operations 
+Gross income from sales, service and rentals in foreign countries. 
+Net earnings from foreign operations 
+Foreign assets and liabilities have been 
+translated to U.S. dollars at year-end exchange 
+rates, except that plant, rental machines 
+and other property and long-term indebted-
+ness have been translated at approximate 
+rates prevailing when acquired or incurred. 
+Income and expense items have been trans-
+lated at average rates of exchange prevail-
+680,198,513 
+$ 
+558,313,428 
+452,248,580 
+370,866,965 
+227,949,933 
+187,446,463 
+23,209,599 
+13,807,859 
+1,176,035,183 
+1,000,543,835 
+— 
+8,018,655 
+1,427,194,715 
+1,209,816,812 
+24,961,991 
+13,411,691 
+35,616,299 
+28,446,006 
+273,709,702 
+205,371,518 
+334,287,992 
+247,229,215 
+1,092,906,723 
+$ 
+962,587,597 
+Year 1967 
+Year 1966 
+1,624,990,742 
+$ 1,318,099,225 
+209,360,460 
+$ 
+174,605,772 
+ing during the year, except depreciation 
+which has been calculated at the approxi-
+mate rates prevailing when the proper-
+ties were acquired. 
+Long-Term Indebtedness: 
+International Business Machines Corporation... 
+payable to The Prudential Insurance Company of America: 
+3 % promissory note, due in annual installments, 
+January i, 1969 to 1985 
+3 Vi % promissory note, due in annual installments, 
+May I, 1969 to 1988 
+3Vi% promissory notes, due December 1,1971 
+Subsidiaries operating in foreign countries... average interest 
+rate—6.2% 
+Consolidated long-term indebtedness 
+December 31, 1967 
+December 31, 
+1966 
+$ 
+97,750,000 
+100,000,000 
+50,000,000 
+247,750,000 
+273,709.702 
+$ 
+521,459,702 
+$ 
+103,500,000 
+100,000,000 
+50,000,000 
+253,500,000 
+205,371,518 
+$ 
+458,871,518 
+
+
+===== PAGE 32 =====
+Education continues to play a vital role in IBM. 
+These customer engineers from the United States 
+and World Trade countries are shown in class at 
+Poughkeepsie, New York. 
+Consolidated long-term indebtedness at 
+December 31,1967 was payable: 
+1969 
+$ 
+43,895,220 
+1970 
+45,788,758 
+1 9 7 1 
+131,394,114 
+1972 
+43,835,532 
+1973 
+39,482,492 
+1974-1978 
+107,069,406 
+1979-1988 
+109,994,180 
+$ 521,459,702 
+Renegotiation: 
+The Consolidated Statement of Earnings 
+and Retained Earnings includes estimated 
+provision for renegotiation of U. S. Govern-
+ment contracts. 
+Stock Dividend: 
+O n June 10,1967,1,363,723 shares of 
+capital stock were issued in payment of the 
+2V2% Stock dividend declared April 24,1967. 
+A total of $525,033,273, representing $385 
+for each share issued, was transferred from 
+retained earnings to the capital stock account. 
+Stock Purchase Plan for IBM Employees: 
+At the April 1966 annual meeting, stock-
+holders adopted the IBM Employees 1966 
+Stock Purchase Plan and authorized up to 
+1,383,750 shares of unissued capital stock 
+to be reserved f r o m time to time over a five-
+year period for purposes of the Plan. To 
+date, 768,750 shares have been reserved by 
+the Board of Directors. 
+Under this Plan, employees on the annual 
+offering date, each July i, who are not par-
+ticipants in a Stock Option Plan, may purchase 
+IBM's unissued capital stock one share at a 
+time through payroll deductions not exceed-
+ing 10% of their compensation. T h e price 
+an employee pays for a share of stock is equal 
+to 85 % of the market price on the annual 
+offering date or on the date he has accumu-
+lated enough money to buy the share—which-
+ever price is lower. 
+Employees purchased 268,684 shares in 
+1967, for which $88,213,960 was paid to IBM 
+and credited to the capital stock account. 
+At December 31, 1967, 361,557 shares were 
+reserved for sale under the 1966 Plan. 
+N u m b e r s of shares reflect the 2 V^ % stock 
+dividend paid June 10,1967. 
+Stock Option Plans: 
+In April 1966, stockholders approved the 
+continuation of a Stock Option Plan for offi-
+cers and other key employees and author-
+ized up to 307,500 shares of unissued capital 
+stock to be reserved f r o m time to time over 
+a five-year period for purposes of the 1966 
+Stock Option Plan. To date, 153,750 shares 
+have been reserved by the Board of Direc-
+tors. Both figures reflect the 2V2% stock divi-
+dend paid June 10,1967. Under the 1966 
+Plan, as under the 1956 and 1961 Plans, op-
+tions may be granted for the purchase of 
+IBM's unissued capital stock at 100% of the 
+market price on the day the option is granted. 
+Options granted after January i, 1964 
+run for a five-year term and purchases can 
+only be made in installments commencing 
+one year after the date of grant and extend-
+ing over a period of the next four years. 
+Options granted prior to January i, 1964 
+under earlier Plans have a term of ten years 
+and purchases can only be made in install-
+ments commencing two years after the date 
+of grant and extending over a period of 
+the next eight years. 
+In accordance with the Plans, the num-
+ber of shares that may be purchased and the 
+price per share are adjusted for any stock 
+dividends and splits effected after the option 
+is granted. 
+
+
+===== PAGE 33 =====
+The following summary reflects the trans-
+actions for the Plans during 1967: 
+Number of Shares 
+Under Option 
+Balance, 
+January i, 1967 
+227,770 
+Options granted 
+37,396 
+Options terminated . . . . 
+(3,177) 
+Options exercised 
+(36,432) 
+Balance, 
+December 31, 1967 . . . 225,557 
+Exercisable at 
+December 31, 1967 . . . 
+88,193 
+Available 
+for Option 
+I 19,108 
+(37,396) 
+258 
+81,970 
+IBM received $7,364,648 for the 36,432 
+shares purchased during 1967, which amount 
+was credited to the capital stock account. 
+The 225,557 shares under option at Decem-
+ber 31, 1967 were held by 451 executives 
+at option prices ranging from $78.29 to 
+$616.00 per share. These prices represent 
+100% of the market price on the date of 
+each grant from 1958 to date, adjusted for 
+stock dividends and splits that occurred 
+after the dates on which the options were 
+granted. The 81,970 shares available 
+for future option grants were all under the 
+1966 Plan. 
+Retirement Plans: 
+The Company and its domestic subsidiaries 
+have had for many years a trusteed, non-
+contributory retirement plan covering 
+substantially all their employees. Certain 
+subsidiaries outside the United States 
+have retirement plans under which funds 
+are deposited with trustees, reserves are 
+provided, or annuities are purchased under 
+group contracts. The cost of all plans 
+totaled approximately $72 million for the 
+year 1967. 
+
+
+===== PAGE 34 =====
+1 9 6 7 
+1 9 6 6 
+1 9 6 5 
+Gross income from sales, service and rentals 
+N e t earnings before income taxes 
+U. S. Federal and foreign income taxes 
+N e t earnings 
+Per share (see note) 
+Cash dividends 
+Per share fsee note) 
+Stock dividends and splits": 
+Per cent 
+Shares issued 
+Shares sold 
+At end of year: 
+N u m b e r of shares outstanding 
+N e t investment in plant, rental machines and other property. 
+Long-term indebtedness 
+N e t current assets 
+N u m b e r of stockholders 
+$ 5 , 3 4 5 , 2 9 0 , 9 9 3 
+$ 1 , 2 9 7 , 4 9 9 , 5 5 8 
+$ 
+6 4 6 , 0 0 0 , 0 0 0 
+$ 
+6 5 1 , 4 9 9 , 5 5 8 
+$ 1 1 . 6 1 
+S 
+2 4 3 , 1 7 2 , 8 3 6 
+$4-35 
+•2.V2% 
+1 , 3 6 3 , 7 2 3 
+3 0 2 , 3 5 6 
+5 6 , 1 1 4 , 2 7 9 
+$ 3 , 4 9 6 , 3 0 7 , 2 0 4 
+$ 
+5 2 1 , 4 5 9 , 7 0 2 
+$ 
+9 1 6 , 3 8 2 , 9 9 3 
+3 5 9 , 4 9 5 
+$ 4 , 2 4 7 , 7 0 6 , 0 9 1 
+$ 1 , 0 5 4 , 1 3 0 , 1 9 2 
+$ 
+5 2 8 , 0 0 0 , 0 0 0 
+5 2 6 , 1 3 0 , 1 9 2 
+S 
+9.43 
+2 3 0 , 6 7 1,168 
+$ 
+4-20 
+1 7 , 6 4 5 , 9 8 5 
+1 , 5 7 7 , 3 0 1 
+5 4 , 4 4 8 , 2 0 0 
+$ 3 , 0 9 8 , 6 1 8 , 6 1 4 
+$ 
+4 5 8 , 8 7 1 , 5 1 8 
+$ 
+7 2 3 , 0 9 6 , 4 1 4 
+3 2 8 , 4 2 7 
+$ 3 , 5 7 2 , 8 2 4 , 7 1 9 
+S 
+9 5 9 , 9 0 2 , 4 9 0 
+$ 
+4 8 3 , 0 0 0 , 0 0 0 
+S 
+4 7 6 , 9 0 2 , 4 9 0 
+$8.81 
+S 
+2 1 0 , 7 6 7 , 4 8 2 
+$3-90 
+1 7 6 , 6 5 5 
+3 5 , 2 2 4 , 9 1 4 
+$ 2 , 3 0 3 , 5 0 9 , 0 0 0 
+$ 
+3 9 8 , 8 4 9 , 6 0 4 
+$ 
+6 9 8 , 6 5 2 , 8 4 8 
+2 7 5 , 6 5 0 
+38 
+Note: Adjusted for all stock dividends and splits. 
+
+
+===== PAGE 35 =====
+1964 
+1963 
+1962 
+1961 
+i 9 6 0 
+1959 
+1958 
+,239,359,581 
+897,159,766 
+466,000,000 
+4 3 1 , 1 5 9 , 7 6 6 
+$ 8.00 
+165,964,452 
+^-2 5% 
+6,990,140 
+136,297 
+35,048,259 
+1,747,924,457 
+370,429,536 
+899,938,243 
+266,086 
+2,862,732,727 
+777,828,404 
+413,573,426 
+364,254,978 
+I I8,039,97 I 
+114,212 
+27,921,822 
+1,585,581,367 
+549,590,394 
+885,435,060 
+2 3 3 , 7 6 1 
+2,591,268,572 
+652,437,641 
+347,711,296 
+304,726,345 
+82,956,805 
+^ 1.56 
+116,604 
+27,807,610 
+1,533,966,694 
+590,666,327 
+681,217,864 
+230,235 
+2,202,465,009 
+546,494,784 
+292,375,666 
+254,119,118 
+$ 
+63,299,895 
+9,204,515 
+94,794 
+27,691,006 
+1,418,588,690 
+585,129,747 
+519,474,419 
+197,509 
+1,816,882,259 
+438,394,058 
+233,478,553 
+204,915,505 
+54,898,842 
+I 1.04 
+43,401 
+18,391,697 
+1,203,566,459 
+537,661,364 
+468,751,477 
+127,478 
+1,613,190,005 
+380,274,438 
+204,213,043 
+176,061,395 
+37,096,865 
+$ .71 
+2V2% 8c *50% 
+6,402,610 
+44,769 
+18,348,296 
+1,038,771,643 
+520,034,035 
+447,276,137 
+108,915 
+1,417,509,220 
+323,773,735 
+171,567,138 
+152,206,597 
+I 2.90 
+30,764,992 
+I 
+.^9 
+21/2% 
+288,737 
+7,826 
+11,849,023 
+961,768,177 
+503,938,781 
+406,773,064 
+66,667 
+
+
+===== PAGE 36 =====
+Board of Directors: Bruce Bromley 
+Partner, Craiath, Stvaine & Moore, attorneys at law. 
+Walker G. Buckner 
+Senior Partner, Buckner & Co., investment bankers. 
+Paul L. Davies 
+Senior Partner, Lehman Brothers, investment bankers. 
+Sherman M. Fairchild 
+Chairman of the Board, Fairchild Camera & Instrument Corporation, 
+and Chairman of the Board, Fairchild Hitler Corporation. 
+John Clifford Folger 
+Chairman of the Board, Folger, Nolan, Fleming & Co., Incorporated, 
+investment bankers. 
+G. Keith Funston 
+Chairman of the Board, Olin Mathieson Chemical Corporation. 
+George L. Hinman 
+Senior Partner, Hinman, Howard & Kattell, attorneys at law. 
+Amory Houghton, Jr 
+Chairman of the Board, Corning Glass Works. 
+Grayson Kirk 
+President, Columbia University. 
+Louis H. LaMotte 
+Retired Executive Vice President. 
+T. Vincent Learson 
+President. 
+William H. Moore 
+Chairman of the Board, Bankers Trust Company. 
+Emanuel R. Piore 
+Vice President and Chief Scientist. 
+Lyle M. Spencer 
+President, Science Research Associates, Inc. 
+Arthur K. Watson 
+Vice Chairman of the Board, and 
+Chairman of the Board of IBM World Trade Corporation. 
+Thomas J. Watson, Jr 
+Chairman of the Board. 
+Albert L. Williams 
+Chairman of the Executive Committee. 
+Executive Committee: Albert L.Williams, Chairman 
+Sherman M. Fairchild 
+John Clifford Folger 
+Louis H. LaMotte 
+T. Vincent Learson 
+Arthur K. Watson 
+Thomas J. Watson, Jr. 
+Oficers: 
+Division and Subsidiary Chief Executives: 
+Thomas J. Watson, Jr 
+Chairman of the Board 
+T. Vincent Learson 
+President 
+Arthur K. Watson 
+Vice Chairman of the Board 
+Richard H. Bullen 
+Senior Vice President 
+Frank T. Cary 
+Senior Vice President 
+Warren C. Hume 
+Senior Vice President 
+Gilbert E. Jones 
+Senior Vice President 
+John R. Opel 
+Vice President. Management Committee 
+McLain B. Smith 
+Vice President. Management Committee 
+Eugene G. Fubini 
+Vice President atid Group Executive 
+Frank H. McCracken 
+Vice President and Group Executive 
+James W Birkenstock 
+Vice President 
+Kenneth N. Davis, Jr 
+Vice President and Treasttrer 
+Young R Dawkins 
+Vice President 
+Jerrier A. Haddad 
+Vice Presidetit 
+Lincoln L. Horn 
+Vice President 
+Robert W Hubner 
+Vice President 
+Paul W Knaplund 
+Vice President 
+Jacques G. Maisonrouge 
+Vice President 
+Burke Marshall 
+Vice President and General Counsel 
+W Wallace McDowell 
+Vice President 
+Dean R. McKay 
+Vice President 
+John C. McPherson 
+Vice President 
+H. Wisner Miller, Jr 
+Vice President 
+Gordon M. Moodie 
+Vice President 
+Walter J. Pedicord 
+Vice President 
+Dean P Phypers 
+Vice President 
+Emanuel R. Piore 
+Vice President and Chief Scientist 
+Orland M. Scott 
+Vice President 
+Paul J. Rizzo 
+Controller 
+Henry W Trimble, Jr 
+Secretary 
+Hilary A. Faw, Jr. 
+Assistant Treasurer 
+George H. Ryniker 
+Assistant Treasurer 
+Harry M. Sibley 
+Assistant Treasurer 
+Karl W Kaufmann 
+Assistant Controller 
+John H. Grady 
+Assistant Secretary 
+Arthur G. Anderson 
+Director of Research 
+Charles E. Branscomb 
+President, Systems Development Division 
+Robert B. Dunlop 
+President, Systems Manufacturing Division 
+Bob O. Evans 
+President, Federal Systems Division 
+John W Gibson 
+President, Components Division 
+Herbert R. Keith 
+President, The Service Bureau Corporation 
+Jacques G. Maisonrouge 
+President, IBM World Trade Corporation. 
+H. Wisner Miller, Jr 
+President, Real Estate and Construction Division 
+Gordon M. Moodie 
+President, Office Products Division 
+John M. Norton 
+General Manager. Advanced Systems Development Division 
+Roy E. Piatt 
+General Manager, Information Records Division 
+Francis G. Rodgers 
+President, Data Processing Division 
+Orland M. Scott 
+President, Field Engineering Division 
+Lyle M. Spencer 
+President, Science Research Associates, hie. 
+
+
+===== PAGE 37 =====
+
+
+===== PAGE 38 =====
+% 
+^ 
+. 
+- ..r. . , 
+, 
+' ' 
+p i 
+iMm 
+• " 
+^ 
+Y' • ..M 
+1 « 
+f l J. 
+I 
+S»4 
+l-^T. T 
+« 
+m 
+K 
+• '8' ' 
+f l 'l' 

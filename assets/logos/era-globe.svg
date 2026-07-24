@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80" role="img" aria-label="International Business Machines globe logo">
+  <defs>
+    <path id="ringTop" d="M70,40 A30,30 0 0 1 130,40" fill="none"/>
+    <path id="ringBot" d="M71,42 A29,29 0 0 0 129,42" fill="none"/>
+    <clipPath id="globeClip"><circle cx="100" cy="40" r="20"/></clipPath>
+  </defs>
+  <g fill="none" stroke="#161616" stroke-width="1.4">
+    <circle cx="100" cy="40" r="31"/>
+    <circle cx="100" cy="40" r="22"/>
+  </g>
+  <g clip-path="url(#globeClip)" stroke="#161616" stroke-width="1.3">
+    <line x1="78" y1="31" x2="122" y2="31"/>
+    <line x1="78" y1="36.5" x2="122" y2="36.5"/>
+    <line x1="78" y1="42" x2="122" y2="42"/>
+    <line x1="78" y1="47.5" x2="122" y2="47.5"/>
+    <ellipse cx="100" cy="40" rx="8.5" ry="20" fill="none"/>
+  </g>
+  <g fill="#161616" font-family="'IBM Plex Sans',Arial,sans-serif" font-weight="600" font-size="6.4" letter-spacing="0.5">
+    <text text-anchor="middle"><textPath href="#ringTop" startOffset="50%">INTERNATIONAL</textPath></text>
+    <text text-anchor="middle"><textPath href="#ringBot" startOffset="50%">BUSINESS · MACHINES</textPath></text>
+  </g>
+</svg>

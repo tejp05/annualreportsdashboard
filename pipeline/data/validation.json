@@ -1,0 +1,79 @@
+{
+ "continuity": [
+  {
+   "year": 1942,
+   "metric": "revenue",
+   "prev": 60.487,
+   "cur": 85.716,
+   "pct": 41.7,
+   "expected_down": true
+  },
+  {
+   "year": 1943,
+   "metric": "revenue",
+   "prev": 85.716,
+   "cur": 131.272,
+   "pct": 53.1,
+   "expected_down": true
+  }
+ ],
+ "coverage": {
+  "revenue": {
+   "n": 86,
+   "span": [
+    1940,
+    2025
+   ]
+  },
+  "netIncome": {
+   "n": 115,
+   "span": [
+    1911,
+    2025
+   ]
+  },
+  "totalAssets": {
+   "n": 48,
+   "span": [
+    1978,
+    2025
+   ]
+  },
+  "stockholdersEquity": {
+   "n": 48,
+   "span": [
+    1978,
+    2025
+   ]
+  },
+  "epsDiluted": {
+   "n": 53,
+   "span": [
+    1970,
+    2025
+   ]
+  },
+  "dividendsPerShare": {
+   "n": 38,
+   "span": [
+    1980,
+    2017
+   ]
+  },
+  "employees": {
+   "n": 31,
+   "span": [
+    1957,
+    2013
+   ]
+  },
+  "rdExpense": {
+   "n": 32,
+   "span": [
+    1990,
+    2025
+   ]
+  }
+ },
+ "nulls": []
+}

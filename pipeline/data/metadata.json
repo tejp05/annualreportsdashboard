@@ -1,0 +1,46 @@
+{
+ "_comment": "Qualitative context for the dashboard's historical tabs. Leadership and eras are cross-checked against the chairman's-letter signatures in the filings (e.g., G.W. Fairchild 1914-15, T.J. Watson Jr. 1969, F.T. Cary / J.R. Opel 1979, J.F. Akers 1989). Milestones are well-established IBM history; verify against the matching report's narrative when surfacing on the site.",
+ "company": {
+  "1911-1924": "Computing-Tabulating-Recording Company (CTR)",
+  "1924-present": "International Business Machines Corporation (IBM)"
+ },
+ "leadership": [
+  {"name": "George W. Fairchild", "role": "Chairman", "from": 1911, "to": 1924},
+  {"name": "Thomas J. Watson Sr.", "role": "President/CEO (Chairman from 1949)", "from": 1914, "to": 1956},
+  {"name": "Thomas J. Watson Jr.", "role": "CEO/Chairman", "from": 1956, "to": 1971},
+  {"name": "T. Vincent Learson", "role": "CEO/Chairman", "from": 1971, "to": 1973},
+  {"name": "Frank T. Cary", "role": "CEO/Chairman", "from": 1973, "to": 1981},
+  {"name": "John R. Opel", "role": "CEO/Chairman", "from": 1981, "to": 1985},
+  {"name": "John F. Akers", "role": "CEO/Chairman", "from": 1985, "to": 1993},
+  {"name": "Louis V. Gerstner Jr.", "role": "CEO/Chairman", "from": 1993, "to": 2002},
+  {"name": "Samuel J. Palmisano", "role": "CEO/Chairman", "from": 2002, "to": 2011},
+  {"name": "Virginia M. Rometty", "role": "CEO/Chairman", "from": 2012, "to": 2020},
+  {"name": "Arvind Krishna", "role": "CEO (Chairman from 2021)", "from": 2020, "to": null}
+ ],
+ "eras": [
+  {"label": "CTR / formation", "from": 1911, "to": 1923},
+  {"label": "Tabulating machines & the Watson Sr. era", "from": 1924, "to": 1951},
+  {"label": "Mainframe ascent (701, System/360)", "from": 1952, "to": 1980},
+  {"label": "PC era & the early-'90s crisis", "from": 1981, "to": 1993},
+  {"label": "Gerstner services turnaround", "from": 1993, "to": 2002},
+  {"label": "Software & services, globalization", "from": 2002, "to": 2018},
+  {"label": "Hybrid cloud & AI (Red Hat, watsonx)", "from": 2019, "to": 2025}
+ ],
+ "milestones": [
+  {"year": 1911, "event": "CTR incorporated from the merger of three firms"},
+  {"year": 1914, "event": "Thomas J. Watson Sr. joins as general manager"},
+  {"year": 1924, "event": "CTR renamed International Business Machines"},
+  {"year": 1952, "event": "IBM 701, the company's first commercial scientific computer"},
+  {"year": 1957, "event": "FORTRAN released"},
+  {"year": 1964, "event": "System/360 mainframe family announced"},
+  {"year": 1981, "event": "IBM Personal Computer (PC) launched"},
+  {"year": 1993, "event": "Record loss; Louis Gerstner begins the services-led turnaround"},
+  {"year": 2002, "event": "Acquires PwC Consulting; exits hard-disk business"},
+  {"year": 2005, "event": "Sells PC division to Lenovo"},
+  {"year": 2011, "event": "Watson wins Jeopardy!; 100th anniversary"},
+  {"year": 2015, "event": "Forms Cognitive/Watson and Cloud units; 'strategic imperatives'"},
+  {"year": 2019, "event": "Acquires Red Hat for ~$34B"},
+  {"year": 2021, "event": "Spins off managed-infrastructure unit as Kyndryl"},
+  {"year": 2023, "event": "watsonx AI and data platform launched"}
+ ]
+}
