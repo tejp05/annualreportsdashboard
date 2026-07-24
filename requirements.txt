@@ -1,0 +1,5 @@
+cuga
+langchain-core
+fastapi
+uvicorn[standard]
+python-dotenv
