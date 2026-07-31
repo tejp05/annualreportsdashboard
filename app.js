@@ -5741,9 +5741,11 @@
 
       const benchNote = benchRet == null
         ? `No benchmark comparison available — Yahoo Finance's ${perf.benchmark} monthly data does not extend back to the ${perf.tMinus6 ? perf.tMinus6.slice(0,7) : "T-6"} baseline date for this deal.`
-        : perf.benchmark === "S&P 500"
-          ? "S&P 500 used as benchmark (XLK data unavailable pre-1999)."
-          : "XLK = S&P 500 Technology sector ETF.";
+        : perf.benchmark === "S&P 500 (TR, reconstructed pre-1988)"
+          ? "S&P 500 Total Return (dividends reinvested). This deal's window predates Yahoo's real ^SP500TR index (starts 1988), so it's reconstructed from Robert Shiller's (Yale) monthly price+dividend dataset, chain-linked to the real index from 1988 on — see the Pre-Gerstner era card above for the full method."
+          : perf.benchmark === "S&P 500 (TR)"
+            ? "S&P 500 Total Return (Yahoo ^SP500TR, dividends reinvested) — like-for-like with IBM's own dividend-adjusted return."
+            : "XLK = S&P 500 Technology sector ETF.";
 
       const benchCol = benchRet != null ? `
             <div class="ma-ret-col">
@@ -5914,10 +5916,6 @@
       const missSpend  = missValued.reduce((s,p) => s + p.valueMillions, 0);
       const measured$  = beatSpend + missSpend;
       const wAlpha     = valued.reduce((s,p) => s + p.alpha * p.valueMillions, 0) / measured$;
-      // Best/worst limited to deals with a disclosed value -- an undisclosed
-      // tuck-in with a lucky 2-yr window isn't a meaningful "best M&A deal".
-      const best  = valued.reduce((a,b) => b.alpha > a.alpha ? b : a);
-      const worst = valued.reduce((a,b) => b.alpha < a.alpha ? b : a);
       const fmtB  = m => m >= 1000 ? `$${(m/1000).toFixed(1)}B` : `$${m}M`;
       const sign  = n => n >= 0 ? "+" : "";
       const aCol  = n => n >= 0 ? "#42be65" : "#fa4d56";
@@ -5962,11 +5960,7 @@
           <strong>How to read “X/N beat.”</strong> Each deal is scored by IBM's <em>own</em> total stock return over the two years around it (starting six months before close) versus the benchmark — so it reflects how IBM's share price did against the tech sector in that window, <em>not</em> the acquired company's standalone performance. Deals that closed in the same window therefore share the same score. An era showing “0 beat” means IBM stock trailed the benchmark in <em>every</em> one of those windows — e.g. across 2012–2019 IBM was roughly flat while the tech index more than doubled — which drags every deal negative regardless of the individual acquisition's merit. Read it as a market-timing lens on IBM's stock, not a verdict on each business bought.
         </div>
         <div class="ma-verdict-eras">${eraRows}</div>
-        <div class="ma-verdict-callouts">
-          <span>Best: <strong>${best.name}</strong> (${best.year}) <span style="color:#42be65">${sign(best.alpha)}${best.alpha}pp</span></span>
-          <span>Worst: <strong>${worst.name}</strong> (${worst.year}) <span style="color:#fa4d56">${sign(worst.alpha)}${worst.alpha}pp</span></span>
-        </div>
-        <p class="ma-verdict-caveat">Method: IBM total return minus benchmark (XLK from 1999, S&amp;P 500 before) over the two years starting six months pre-close — a market-relative lens, not deal-level P&amp;L. The fixed 2-year window penalises long-horizon bets: Red Hat's window closes mid-2021, before hybrid-cloud strategy fully showed up in results. See the Alpha Leaderboard below for every deal. Note: these are per-deal 2-year windows — a different lens from the whole-era CAGR alpha shown when you open an era card above, so the two won't match.</p>
+        <p class="ma-verdict-caveat">Method: IBM total return minus benchmark (XLK from 1999, S&amp;P 500 Total Return before — dividends reinvested on both sides; pre-1988 reconstructed from Shiller data, see ROLM's era card above) over the two years starting six months pre-close — a market-relative lens, not deal-level P&amp;L. The fixed 2-year window penalises long-horizon bets: Red Hat's window closes mid-2021, before hybrid-cloud strategy fully showed up in results. See the Alpha Leaderboard below for every deal. Note: these are per-deal 2-year windows — a different lens from the whole-era CAGR alpha shown when you open an era card above, so the two won't match.</p>
         <p class="ma-ins-disclaimer">Confluent (Mar 2026, $11.6B) is not included — measuring a deal's 2-year return versus the market requires two years of post-close trading, so Confluent won't be eligible until around 2028.</p>
       </div>`;
     }
@@ -5978,7 +5972,9 @@
           <h1>How IBM built its modern portfolio</h1>
           <p>Every figure here is drawn from IBM&apos;s own "Acquisitions &amp; Divestitures" financial statement
              note or cash flow statement — not press releases or Wikipedia. IBM has executed 200+ transactions
-             since its founding; this tab focuses on the deals that materially reshaped the business.</p>
+             since its founding; this tab focuses on the deals that materially reshaped the business.
+             Every stock-performance figure on this tab (IBM and its benchmarks) uses dividend- and split-adjusted
+             close prices, so returns reflect what a shareholder actually earned, not just the raw share price.</p>
         </div>
         <div class="ma-pending-card">
           <svg class="ma-pending-border"><rect x="1" y="1" width="calc(100% - 2px)" height="calc(100% - 2px)" rx="7"/></svg>
@@ -6176,7 +6172,14 @@
 
     // Nearest-trading-day stock price lookups against the Yahoo Finance daily
     // series (window.IBM_DAILY_PRICES, ["YYYY-MM-DD", price] pairs, oldest-first).
-    const MA_DAILY_F = (window.IBM_DAILY_PRICES || []).map(([d, p]) => {
+    // maBenchmark.ibmRecentOverride appends a few extra M&A-tab-only days after
+    // ibm_daily_prices.js's last cached point, so the ongoing era's "latest
+    // value" (currently Krishna) stays current without editing that shared
+    // file -- Story Mode/Overview/Regression Lab read it directly and don't
+    // see this override at all.
+    const MA_DAILY_RAW = (window.IBM_DAILY_PRICES || [])
+      .concat((D.maBenchmark || {}).ibmRecentOverride || []);
+    const MA_DAILY_F = MA_DAILY_RAW.map(([d, p]) => {
       const [y, m, day] = d.split("-").map(Number);
       const start = Date.UTC(y, 0, 1), end = Date.UTC(y + 1, 0, 1);
       const frac  = y + (Date.UTC(y, m - 1, day) - start) / (end - start);
@@ -6247,22 +6250,28 @@
 
         const macro      = D.macro || {};
         const useXLK      = e.from >= 1999;
-        // IMPORTANT — the two benchmark eras are NOT measured on the same basis:
-        //   IBM (both eras): adjusted close, dividends reinvested (ibm_daily_prices.js)
-        //   1999+  : XLK adjclose, dividends reinvested  -> like-for-like
-        //   pre-99 : S&P 500 ^GSPC close, price only     -> NOT like-for-like
-        // The pre-1999 alpha is therefore flattering to IBM: its dividends count,
-        // the index's don't. Fixing it properly needs a total-return series back to
-        // 1983, which none of the current sources provide (^SP500TR starts 1988).
-        // Until then the drawer states the basis per era rather than implying parity.
-        // (macro.techYearEnd is a price-only fallback that never executes while
-        // xlkAdjYearEnd is present; it is left in place only as a guard.)
+        // ── Benchmark comparison — now consistent on both sides of 1999 ─────
+        //   IBM (every era): adjusted close, dividends reinvested (ibm_daily_prices.js)
+        //   1999+  : XLK adjclose, dividends reinvested (D.maBenchmark.xlkAdjYearEnd)
+        //   pre-99 : S&P 500 TOTAL RETURN, dividends reinvested (D.maBenchmark.sp500TRYearEnd)
+        // Both benchmark series are M&A-tab-only (kept out of macro.techYearEnd /
+        // macro.sp500YearEnd, which are raw close and also feed the Macro vs IBM
+        // tab's chart — this fix can't alter that other tab's numbers).
+        // sp500TRYearEnd is real Yahoo ^SP500TR data from 1988 on; 1983-1987
+        // (needed only because the Pre-Gerstner era starts in 1984) is
+        // reconstructed from Robert Shiller's (Yale) monthly S&P price+dividend
+        // dataset and chain-linked to the real index — see data.js's
+        // maBenchmark.sp500TRSource for the exact method. This replaces an
+        // earlier version of this chart that compared IBM's dividend-adjusted
+        // return against a price-only S&P 500 series pre-1999, which
+        // overstated IBM's alpha for these two eras by several points.
         const xlkAdj      = (D.maBenchmark || {}).xlkAdjYearEnd;
         const xlkSeries   = xlkAdj || macro.techYearEnd || {};
+        const sp500TR     = (D.maBenchmark || {}).sp500TRYearEnd;
         const benchLabel  = useXLK
           ? (xlkAdj ? "XLK (Tech Sector ETF, total return)" : "XLK (Tech Sector ETF, price only)")
-          : "S&P 500 (price only)";
-        const benchSeries = useXLK ? xlkSeries : (macro.sp500YearEnd || {});
+          : (sp500TR ? "S&P 500 (Total Return)" : "S&P 500 (price only)");
+        const benchSeries = useXLK ? xlkSeries : (sp500TR || macro.sp500YearEnd || {});
         const priorYear   = e.from - 1;
         const benchStartYear = benchSeries[priorYear] != null ? priorYear : e.from;
         const benchStart  = benchSeries[benchStartYear];
@@ -6291,8 +6300,9 @@
           <div class="ma-drawer-stat"><div class="v" style="color:${gainColor(benchCagr)}">${sign(benchCagr)}${benchCagr.toFixed(1)}%</div><div class="l">Avg annual gain (CAGR)</div></div>
         </div>
         <p class="ma-drawer-none" style="margin-top:-4px">IBM alpha vs ${benchLabel}: <span style="color:${gainColor(alphaPp)}">${sign(alphaPp)}${alphaPp.toFixed(1)}pp CAGR</span></p>
-        <p class="ma-drawer-none" style="margin-top:6px;font-size:10px;opacity:.7">This is a whole-era figure: IBM's compound annual growth across the full era minus the benchmark's. The Deal Intelligence "Verdict" below measures a different thing — each deal's own 2-year post-close window — so its per-era alpha won't match this number.</p>${useXLK ? "" : `
-        <p class="ma-drawer-none" style="margin-top:6px;font-size:10px;opacity:.7">Basis caveat: IBM's return above includes reinvested dividends, but this S&amp;P 500 series is price-only. That overstates IBM's alpha for this era — a like-for-like total-return comparison would be lower. Eras from 1999 on are benchmarked against a dividend-adjusted XLK series and are like-for-like. No total-return index reaching back to ${e.from} is available in the current data sources.</p>`}`;
+        <p class="ma-drawer-none" style="margin-top:6px;font-size:10px;opacity:.7">This is a whole-era figure: IBM's compound annual growth across the full era minus the benchmark's. The Deal Intelligence "Verdict" below measures a different thing — each deal's own 2-year post-close window — so its per-era alpha won't match this number.</p>${useXLK ? "" : (e.label === "Pre-Gerstner" ? `
+        <p class="ma-drawer-none" style="margin-top:6px;font-size:10px;opacity:.7">How this benchmark is built: this era predates Yahoo's real ^SP500TR (S&amp;P 500 Total Return) index, which only starts in 1988. So 1983–1987 here is <em>reconstructed</em> from Robert Shiller's (Yale) monthly S&amp;P Composite price + trailing-dividend dataset — monthly return ≈ (price + dividend÷12) ÷ prior price, compounded into an index, then chain-linked to the real ^SP500TR series by rescaling with the average price ratio across all 12 overlapping months of 1988 (both series exist that year, which is what makes the splice checkable). The only acquisition tracked in this era is ROLM (1984), so this era's alpha is effectively ROLM's alpha. Both IBM and this benchmark now include reinvested dividends — an earlier version of this chart compared IBM's dividend-adjusted return against a price-only S&amp;P 500 series, which overstated IBM's alpha here by about 4 points of CAGR (and flipped a single-deal 2-year window from "beat the market" to "lagged the market" — see ROLM in the Alpha Leaderboard below).</p>` : `
+        <p class="ma-drawer-none" style="margin-top:6px;font-size:10px;opacity:.7">Benchmarked against the real S&amp;P 500 Total Return index (Yahoo ^SP500TR, dividends reinvested) — both sides of this comparison now include dividends. An earlier version of this chart used a price-only S&amp;P 500 series here, which overstated IBM's alpha for this era by a couple points of CAGR.</p>`)}`;
         }
 
         stockBlock = `

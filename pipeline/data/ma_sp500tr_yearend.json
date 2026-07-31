@@ -1,0 +1,27 @@
+{
+ "generated": "2026-07-31",
+ "sp500TRYearEnd": {
+  "1983": 142.6203,
+  "1984": 149.3546,
+  "1985": 196.1888,
+  "1986": 243.508,
+  "1987": 243.2522,
+  "1988": 288.12,
+  "1989": 379.41,
+  "1990": 367.63,
+  "1991": 479.63,
+  "1992": 516.18,
+  "1993": 568.2,
+  "1994": 575.71,
+  "1995": 792.04,
+  "1996": 973.9,
+  "1997": 1298.8199,
+  "1998": 1670.01,
+  "1999": 2021.4,
+  "2000": 1837.37,
+  "2001": 1618.98,
+  "2002": 1261.1801
+ },
+ "source": "1988 onward: Yahoo Finance ^SP500TR (official S&P 500 Total Return index), daily close collapsed to last trading day of month. 1983-1987: reconstructed from Robert Shiller's (Yale) monthly S&P Composite price + trailing dividend dataset, monthly return = (P_t + D_t/12)/P_(t-1) compounded into an index, then chain-linked to the real ^SP500TR series via a 0.9247x rescale (average ratio across all 12 overlapping months of 1988).",
+ "note": "M&A-tab-only. Used to correct the pre-1999 benchmark for ROLM (1984), Lotus (1995), and Tivoli (1996), and the Pre-Gerstner / Gerstner era-drawer CAGR benchmark. Does not touch macro.json's sp500YearEnd (price-only), which still feeds the Macro vs IBM tab."
+}

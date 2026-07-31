@@ -4332,7 +4332,7 @@ window.IBM_DATA = {
     "type": "acquisition",
     "valueMillions": 1140.0,
     "tier": "major",
-    "category": null,
+    "category": "Software / Data Integration",
     "segment": null,
     "closeDate": "2005-04-29",
     "description": null,
@@ -4386,7 +4386,7 @@ window.IBM_DATA = {
     "type": "acquisition",
     "valueMillions": 885.0,
     "tier": "major",
-    "category": null,
+    "category": "Software / ALM",
     "segment": null,
     "closeDate": "2008-04-03",
     "description": null,
@@ -4412,7 +4412,7 @@ window.IBM_DATA = {
     "type": "acquisition",
     "valueMillions": null,
     "tier": "minor",
-    "category": null,
+    "category": "Hardware / Networking",
     "segment": null,
     "closeDate": null,
     "description": null,
@@ -4425,7 +4425,7 @@ window.IBM_DATA = {
     "type": "acquisition",
     "valueMillions": null,
     "tier": "minor",
-    "category": null,
+    "category": "Software / BPM",
     "segment": null,
     "closeDate": null,
     "description": null,
@@ -4438,7 +4438,7 @@ window.IBM_DATA = {
     "type": "acquisition",
     "valueMillions": 1847.0,
     "tier": "major",
-    "category": null,
+    "category": "Hardware / Data Warehouse Appliance",
     "segment": null,
     "closeDate": "2010-11-10",
     "description": null,
@@ -4451,7 +4451,7 @@ window.IBM_DATA = {
     "type": "acquisition",
     "valueMillions": null,
     "tier": "minor",
-    "category": null,
+    "category": "Software / GRC",
     "segment": null,
     "closeDate": null,
     "description": null,
@@ -4464,7 +4464,7 @@ window.IBM_DATA = {
     "type": "acquisition",
     "valueMillions": null,
     "tier": "minor",
-    "category": null,
+    "category": "Software / B2B Integration",
     "segment": null,
     "closeDate": "2010-08-27",
     "description": null,
@@ -4477,7 +4477,7 @@ window.IBM_DATA = {
     "type": "acquisition",
     "valueMillions": null,
     "tier": "minor",
-    "category": null,
+    "category": "Software / Marketing",
     "segment": null,
     "closeDate": null,
     "description": null,
@@ -4490,7 +4490,7 @@ window.IBM_DATA = {
     "type": "acquisition",
     "valueMillions": null,
     "tier": "minor",
-    "category": null,
+    "category": "Unclassified",
     "segment": null,
     "closeDate": null,
     "description": null,
@@ -4503,7 +4503,7 @@ window.IBM_DATA = {
     "type": "acquisition",
     "valueMillions": null,
     "tier": "minor",
-    "category": null,
+    "category": "Software / Data Migration",
     "segment": null,
     "closeDate": null,
     "description": null,
@@ -4516,7 +4516,7 @@ window.IBM_DATA = {
     "type": "acquisition",
     "valueMillions": null,
     "tier": "minor",
-    "category": null,
+    "category": "Software / Retail Analytics",
     "segment": null,
     "closeDate": null,
     "description": null,
@@ -4529,7 +4529,7 @@ window.IBM_DATA = {
     "type": "acquisition",
     "valueMillions": null,
     "tier": "minor",
-    "category": null,
+    "category": "Software / Procurement",
     "segment": null,
     "closeDate": null,
     "description": null,
@@ -4542,7 +4542,7 @@ window.IBM_DATA = {
     "type": "acquisition",
     "valueMillions": 1351.0,
     "tier": "major",
-    "category": null,
+    "category": "Software / HR Talent",
     "segment": null,
     "closeDate": "2012-12-03",
     "description": null,
@@ -4555,7 +4555,7 @@ window.IBM_DATA = {
     "type": "acquisition",
     "valueMillions": null,
     "tier": "minor",
-    "category": null,
+    "category": "Software / HPC",
     "segment": null,
     "closeDate": null,
     "description": null,
@@ -4568,7 +4568,7 @@ window.IBM_DATA = {
     "type": "acquisition",
     "valueMillions": null,
     "tier": "minor",
-    "category": null,
+    "category": "Software / CX Analytics",
     "segment": null,
     "closeDate": null,
     "description": null,
@@ -4581,7 +4581,7 @@ window.IBM_DATA = {
     "type": "acquisition",
     "valueMillions": null,
     "tier": "minor",
-    "category": null,
+    "category": "Hardware / Flash Storage",
     "segment": null,
     "closeDate": null,
     "description": null,
@@ -4594,7 +4594,7 @@ window.IBM_DATA = {
     "type": "acquisition",
     "valueMillions": null,
     "tier": "minor",
-    "category": null,
+    "category": "Software / Search AI",
     "segment": null,
     "closeDate": null,
     "description": null,
@@ -4607,7 +4607,7 @@ window.IBM_DATA = {
     "type": "acquisition",
     "valueMillions": null,
     "tier": "minor",
-    "category": null,
+    "category": "Software / Mobile",
     "segment": null,
     "closeDate": null,
     "description": null,
@@ -4620,7 +4620,7 @@ window.IBM_DATA = {
     "type": "acquisition",
     "valueMillions": null,
     "tier": "minor",
-    "category": null,
+    "category": "Unclassified",
     "segment": null,
     "closeDate": null,
     "description": null,
@@ -4633,7 +4633,7 @@ window.IBM_DATA = {
     "type": "acquisition",
     "valueMillions": null,
     "tier": "minor",
-    "category": null,
+    "category": "Software / Document Imaging",
     "segment": null,
     "closeDate": null,
     "description": null,
@@ -4659,7 +4659,7 @@ window.IBM_DATA = {
     "type": "acquisition",
     "valueMillions": null,
     "tier": "minor",
-    "category": null,
+    "category": "Software / EPM Analytics",
     "segment": null,
     "closeDate": null,
     "description": null,
@@ -4672,7 +4672,7 @@ window.IBM_DATA = {
     "type": "acquisition",
     "valueMillions": null,
     "tier": "minor",
-    "category": null,
+    "category": "Software / DevOps",
     "segment": null,
     "closeDate": null,
     "description": null,
@@ -4685,7 +4685,7 @@ window.IBM_DATA = {
     "type": "acquisition",
     "valueMillions": null,
     "tier": "minor",
-    "category": null,
+    "category": "Software / Mobile Marketing",
     "segment": null,
     "closeDate": null,
     "description": null,
@@ -4698,7 +4698,7 @@ window.IBM_DATA = {
     "type": "acquisition",
     "valueMillions": 1309.0,
     "tier": "major",
-    "category": null,
+    "category": "Software / Object Storage",
     "segment": null,
     "closeDate": "2015-11-06",
     "description": null,
@@ -4724,7 +4724,7 @@ window.IBM_DATA = {
     "type": "acquisition",
     "valueMillions": null,
     "tier": "minor",
-    "category": null,
+    "category": "Software / Information Governance",
     "segment": null,
     "closeDate": null,
     "description": null,
@@ -4737,7 +4737,7 @@ window.IBM_DATA = {
     "type": "acquisition",
     "valueMillions": null,
     "tier": "minor",
-    "category": null,
+    "category": "Software / AI NLP",
     "segment": null,
     "closeDate": null,
     "description": null,
@@ -4750,7 +4750,7 @@ window.IBM_DATA = {
     "type": "acquisition",
     "valueMillions": null,
     "tier": "minor",
-    "category": null,
+    "category": "Software / Cloud DBaaS",
     "segment": null,
     "closeDate": null,
     "description": null,
@@ -4763,7 +4763,7 @@ window.IBM_DATA = {
     "type": "acquisition",
     "valueMillions": null,
     "tier": "minor",
-    "category": null,
+    "category": "Healthcare / Data Analytics",
     "segment": null,
     "closeDate": null,
     "description": null,
@@ -4776,7 +4776,7 @@ window.IBM_DATA = {
     "type": "acquisition",
     "valueMillions": null,
     "tier": "minor",
-    "category": null,
+    "category": "Healthcare / Population Health",
     "segment": null,
     "closeDate": null,
     "description": null,
@@ -4789,7 +4789,7 @@ window.IBM_DATA = {
     "type": "acquisition",
     "valueMillions": null,
     "tier": "minor",
-    "category": null,
+    "category": "Software / Data Weather Analytics",
     "segment": null,
     "closeDate": "2016-01-29",
     "description": null,
@@ -4815,7 +4815,7 @@ window.IBM_DATA = {
     "type": "acquisition",
     "valueMillions": null,
     "tier": "minor",
-    "category": null,
+    "category": "Software / Search AI",
     "segment": null,
     "closeDate": null,
     "description": null,
@@ -4828,7 +4828,7 @@ window.IBM_DATA = {
     "type": "acquisition",
     "valueMillions": null,
     "tier": "minor",
-    "category": null,
+    "category": "Software / Fraud Analytics",
     "segment": null,
     "closeDate": null,
     "description": null,
@@ -4841,7 +4841,7 @@ window.IBM_DATA = {
     "type": "acquisition",
     "valueMillions": null,
     "tier": "minor",
-    "category": null,
+    "category": "Software / Security",
     "segment": null,
     "closeDate": null,
     "description": null,
@@ -5273,21 +5273,21 @@ window.IBM_DATA = {
  },
  "maPerformance": {
   "generated": "2026-07-20",
-  "note": "Monthly prices: IBM from local daily adjusted close (Story Mode/ibm_daily_prices.js), benchmark from cached Yahoo Finance monthly (pipeline/data/benchmark_monthly.json). IBM and benchmark indexed to 100 at T-6 months before close. XLK from Dec 1998 onward; S&P 500 (^GSPC) for earlier deals.",
+  "note": "Monthly prices: IBM from local daily adjusted close (Story Mode/ibm_daily_prices.js), benchmark from cached Yahoo Finance monthly (pipeline/data/benchmark_monthly.json). IBM and benchmark indexed to 100 at T-6 months before close. XLK (dividend-adjusted) from Dec 1998 onward; S&P 500 Total Return (real ^SP500TR from 1988, reconstructed from Shiller data pre-1988 -- see pipeline/fetch_sp500tr_benchmark.py) for earlier deals -- both sides of the comparison include reinvested dividends.",
   "deals": [
    {
     "name": "ROLM Corporation",
     "closeDate": "1984-11",
     "tMinus6": "1984-05-01",
     "tPlus18": "1986-05-01",
-    "benchmark": "S&P 500",
+    "benchmark": "S&P 500 (TR, reconstructed pre-1988)",
     "ibmBasePrice": 8.453,
     "ibmBaseMonth": "1984-05",
     "ibmEndPrice": 12.7814,
     "ibmEndMonth": "1986-05",
     "ibmReturn": 51.21,
-    "benchReturn": 50.07,
-    "alpha": 1.14,
+    "benchReturn": 65.47,
+    "alpha": -14.26,
     "ibmSeries": [
      {
       "month": "1984-05",
@@ -5396,72 +5396,100 @@ window.IBM_DATA = {
       "price": 100.0
      },
      {
+      "month": "1984-06",
+      "price": 98.154
+     },
+     {
+      "month": "1984-07",
+      "price": 97.2636
+     },
+     {
+      "month": "1984-08",
+      "price": 106.2195
+     },
+     {
+      "month": "1984-09",
+      "price": 107.7152
+     },
+     {
+      "month": "1984-10",
+      "price": 107.2737
+     },
+     {
+      "month": "1984-11",
+      "price": 108.6558
+     },
+     {
+      "month": "1984-12",
+      "price": 107.8898
+     },
+     {
       "month": "1985-01",
-      "price": 113.3384
+      "price": 112.9603
      },
      {
       "month": "1985-02",
-      "price": 114.3164
+      "price": 119.5001
      },
      {
       "month": "1985-03",
-      "price": 113.9883
+      "price": 118.9309
      },
      {
       "month": "1985-04",
-      "price": 113.4646
+      "price": 120.1511
      },
      {
       "month": "1985-05",
-      "price": 119.5975
+      "price": 123.4394
      },
      {
       "month": "1985-06",
-      "price": 121.0486
+      "price": 126.5405
      },
      {
       "month": "1985-07",
-      "price": 120.4619
+      "price": 129.386
      },
      {
       "month": "1985-08",
-      "price": 119.017
+      "price": 127.0003
      },
      {
       "month": "1985-09",
-      "price": 114.8842
+      "price": 124.6082
      },
      {
       "month": "1985-10",
-      "price": 119.7678
+      "price": 126.4729
      },
      {
       "month": "1985-11",
-      "price": 127.5601
+      "price": 134.5942
      },
      {
       "month": "1985-12",
-      "price": 133.3081
+      "price": 141.7215
      },
      {
       "month": "1986-01",
-      "price": 133.6236
+      "price": 142.7891
      },
      {
       "month": "1986-02",
-      "price": 143.1762
+      "price": 150.9264
      },
      {
       "month": "1986-03",
-      "price": 150.7351
+      "price": 160.2602
      },
      {
       "month": "1986-04",
-      "price": 148.6024
+      "price": 164.6551
      },
      {
       "month": "1986-05",
-      "price": 150.0726
+      "price": 165.4665
      }
     ]
    },
@@ -5470,14 +5498,14 @@ window.IBM_DATA = {
     "closeDate": "1989-09",
     "tMinus6": "1989-03-01",
     "tPlus18": "1991-03-01",
-    "benchmark": "S&P 500",
+    "benchmark": "S&P 500 (TR)",
     "ibmBasePrice": 10.13,
     "ibmBaseMonth": "1989-03",
     "ibmEndPrice": 11.56,
     "ibmEndMonth": "1991-03",
     "ibmReturn": 14.12,
-    "benchReturn": 27.25,
-    "alpha": -13.13,
+    "benchReturn": 36.46,
+    "alpha": -22.34,
     "ibmSeries": [
      {
       "month": "1989-03",
@@ -5587,99 +5615,99 @@ window.IBM_DATA = {
      },
      {
       "month": "1989-04",
-      "price": 105.009
+      "price": 105.1922
      },
      {
       "month": "1989-05",
-      "price": 108.6987
+      "price": 109.4477
      },
      {
       "month": "1989-06",
-      "price": 107.8374
+      "price": 108.8287
      },
      {
       "month": "1989-07",
-      "price": 117.367
+      "price": 118.6556
      },
      {
       "month": "1989-08",
-      "price": 119.1881
+      "price": 120.973
      },
      {
       "month": "1989-09",
-      "price": 118.4081
+      "price": 120.4836
      },
      {
       "month": "1989-10",
-      "price": 115.4271
+      "price": 117.6865
      },
      {
       "month": "1989-11",
-      "price": 117.3365
+      "price": 120.0849
      },
      {
       "month": "1989-12",
-      "price": 119.8494
+      "price": 122.9695
      },
      {
       "month": "1990-01",
-      "price": 111.6017
+      "price": 114.7145
      },
      {
       "month": "1990-02",
-      "price": 112.5547
+      "price": 116.1924
      },
      {
       "month": "1990-03",
-      "price": 115.2847
+      "price": 119.2714
      },
      {
       "month": "1990-04",
-      "price": 112.185
+      "price": 116.2961
      },
      {
       "month": "1990-05",
-      "price": 122.5048
+      "price": 127.6334
      },
      {
       "month": "1990-06",
-      "price": 121.4162
+      "price": 126.7712
      },
      {
       "month": "1990-07",
-      "price": 120.782
+      "price": 126.3661
      },
      {
       "month": "1990-08",
-      "price": 109.3906
+      "price": 114.9446
      },
      {
       "month": "1990-09",
-      "price": 103.7915
+      "price": 109.3505
      },
      {
       "month": "1990-10",
-      "price": 103.0963
+      "price": 108.8838
      },
      {
       "month": "1990-11",
-      "price": 109.2753
+      "price": 115.9234
      },
      {
       "month": "1990-12",
-      "price": 111.9883
+      "price": 119.1515
      },
      {
       "month": "1991-01",
-      "price": 116.6378
+      "price": 124.3404
      },
      {
       "month": "1991-02",
-      "price": 124.4854
+      "price": 133.2339
      },
      {
       "month": "1991-03",
-      "price": 127.2493
+      "price": 136.4588
      }
     ]
    },
@@ -5688,14 +5716,14 @@ window.IBM_DATA = {
     "closeDate": "1991-03",
     "tMinus6": "1990-09-01",
     "tPlus18": "1992-09-01",
-    "benchmark": "S&P 500",
+    "benchmark": "S&P 500 (TR)",
     "ibmBasePrice": 10.58,
     "ibmBaseMonth": "1990-09",
     "ibmEndPrice": 8.84,
     "ibmEndMonth": "1992-09",
     "ibmReturn": -16.45,
-    "benchReturn": 36.51,
-    "alpha": -52.96,
+    "benchReturn": 45.66,
+    "alpha": -62.11,
     "ibmSeries": [
      {
       "month": "1990-09",
@@ -5805,99 +5833,99 @@ window.IBM_DATA = {
      },
      {
       "month": "1990-10",
-      "price": 99.3302
+      "price": 99.5732
      },
      {
       "month": "1990-11",
-      "price": 105.2835
+      "price": 106.0108
      },
      {
       "month": "1990-12",
-      "price": 107.8974
+      "price": 108.9629
      },
      {
       "month": "1991-01",
-      "price": 112.3771
+      "price": 113.7082
      },
      {
       "month": "1991-02",
-      "price": 119.9379
+      "price": 121.8412
      },
      {
       "month": "1991-03",
-      "price": 122.6009
+      "price": 124.7903
      },
      {
       "month": "1991-04",
-      "price": 122.6401
+      "price": 125.0867
      },
      {
       "month": "1991-05",
-      "price": 127.3746
+      "price": 130.484
      },
      {
       "month": "1991-06",
-      "price": 121.2743
+      "price": 124.5058
      },
      {
       "month": "1991-07",
-      "price": 126.7146
+      "price": 130.3091
      },
      {
       "month": "1991-08",
-      "price": 129.2044
+      "price": 133.3946
      },
      {
       "month": "1991-09",
-      "price": 126.7309
+      "price": 131.1627
      },
      {
       "month": "1991-10",
-      "price": 128.2307
+      "price": 132.9263
      },
      {
       "month": "1991-11",
-      "price": 122.6009
+      "price": 127.5705
      },
      {
       "month": "1991-12",
-      "price": 136.2817
+      "price": 142.1589
      },
      {
       "month": "1992-01",
-      "price": 133.5664
+      "price": 139.5121
      },
      {
       "month": "1992-02",
-      "price": 134.8472
+      "price": 141.3172
      },
      {
       "month": "1992-03",
-      "price": 131.9033
+      "price": 138.5696
      },
      {
       "month": "1992-04",
-      "price": 135.5824
+      "price": 142.6391
      },
      {
       "month": "1992-05",
-      "price": 135.7131
+      "price": 143.3356
      },
      {
       "month": "1992-06",
-      "price": 133.3573
+      "price": 141.2045
      },
      {
       "month": "1992-07",
-      "price": 138.6081
+      "price": 146.9723
      },
      {
       "month": "1992-08",
-      "price": 135.2818
+      "price": 143.964
      },
      {
       "month": "1992-09",
-      "price": 136.5136
+      "price": 145.6564
      }
     ]
    },
@@ -5906,14 +5934,14 @@ window.IBM_DATA = {
     "closeDate": "1995-07-05",
     "tMinus6": "1995-01-01",
     "tPlus18": "1997-01-01",
-    "benchmark": "S&P 500",
+    "benchmark": "S&P 500 (TR)",
     "ibmBasePrice": 8.44,
     "ibmBaseMonth": "1995-01",
     "ibmEndPrice": 18.77,
     "ibmEndMonth": "1997-01",
     "ibmReturn": 122.39,
-    "benchReturn": 67.12,
-    "alpha": 55.27,
+    "benchReturn": 75.19,
+    "alpha": 47.2,
     "ibmSeries": [
      {
       "month": "1995-01",
@@ -6023,99 +6051,99 @@ window.IBM_DATA = {
      },
      {
       "month": "1995-02",
-      "price": 103.6074
+      "price": 103.8958
      },
      {
       "month": "1995-03",
-      "price": 106.4389
+      "price": 106.9619
      },
      {
       "month": "1995-04",
-      "price": 109.415
+      "price": 110.1111
      },
      {
       "month": "1995-05",
-      "price": 113.388
+      "price": 114.5131
      },
      {
       "month": "1995-06",
-      "price": 115.8008
+      "price": 117.1729
      },
      {
       "month": "1995-07",
-      "price": 119.4805
+      "price": 121.0585
      },
      {
       "month": "1995-08",
-      "price": 119.4422
+      "price": 121.3633
      },
      {
       "month": "1995-09",
-      "price": 124.2315
+      "price": 126.4848
      },
      {
       "month": "1995-10",
-      "price": 123.6129
+      "price": 126.0328
      },
      {
       "month": "1995-11",
-      "price": 128.6871
+      "price": 131.5641
      },
      {
       "month": "1995-12",
-      "price": 130.9319
+      "price": 134.0986
      },
      {
       "month": "1996-01",
-      "price": 135.2026
+      "price": 138.6631
      },
      {
       "month": "1996-02",
-      "price": 136.14
+      "price": 139.9482
      },
      {
       "month": "1996-03",
-      "price": 137.2178
+      "price": 141.2959
      },
      {
       "month": "1996-04",
-      "price": 139.0608
+      "price": 143.3784
      },
      {
       "month": "1996-05",
-      "price": 142.2389
+      "price": 147.0761
      },
      {
       "month": "1996-06",
-      "price": 142.5598
+      "price": 147.6382
      },
      {
       "month": "1996-07",
-      "price": 136.038
+      "price": 141.1147
      },
      {
       "month": "1996-08",
-      "price": 138.5974
+      "price": 144.0912
      },
      {
       "month": "1996-09",
-      "price": 146.1099
+      "price": 152.2027
      },
      {
       "month": "1996-10",
-      "price": 149.9235
+      "price": 156.3998
      },
      {
       "month": "1996-11",
-      "price": 160.9243
+      "price": 168.2209
      },
      {
       "month": "1996-12",
-      "price": 157.4635
+      "price": 164.8889
      },
      {
       "month": "1997-01",
-      "price": 167.1187
+      "price": 175.1896
      }
     ]
    },
@@ -6124,14 +6152,14 @@ window.IBM_DATA = {
     "closeDate": "1996-03-04",
     "tMinus6": "1995-09-01",
     "tPlus18": "1997-09-01",
-    "benchmark": "S&P 500",
+    "benchmark": "S&P 500 (TR)",
     "ibmBasePrice": 11.15,
     "ibmBaseMonth": "1995-09",
     "ibmEndPrice": 25.54,
     "ibmEndMonth": "1997-09",
     "ibmReturn": 129.06,
-    "benchReturn": 62.09,
-    "alpha": 66.97,
+    "benchReturn": 69.0,
+    "alpha": 60.06,
     "ibmSeries": [
      {
       "month": "1995-09",
@@ -6241,99 +6269,99 @@ window.IBM_DATA = {
      },
      {
       "month": "1995-10",
-      "price": 99.5021
+      "price": 99.6426
      },
      {
       "month": "1995-11",
-      "price": 103.5865
+      "price": 104.0157
      },
      {
       "month": "1995-12",
-      "price": 105.3935
+      "price": 106.0195
      },
      {
       "month": "1996-01",
-      "price": 108.8311
+      "price": 109.6283
      },
      {
       "month": "1996-02",
-      "price": 109.5857
+      "price": 110.6443
      },
      {
       "month": "1996-03",
-      "price": 110.4533
+      "price": 111.7097
      },
      {
       "month": "1996-04",
-      "price": 111.9368
+      "price": 113.3562
      },
      {
       "month": "1996-05",
-      "price": 114.495
+      "price": 116.2796
      },
      {
       "month": "1996-06",
-      "price": 114.7533
+      "price": 116.724
      },
      {
       "month": "1996-07",
-      "price": 109.5036
+      "price": 111.5665
      },
      {
       "month": "1996-08",
-      "price": 111.5638
+      "price": 113.9197
      },
      {
       "month": "1996-09",
-      "price": 117.6109
+      "price": 120.3328
      },
      {
       "month": "1996-10",
-      "price": 120.6807
+      "price": 123.6511
      },
      {
       "month": "1996-11",
-      "price": 129.5358
+      "price": 132.9969
      },
      {
       "month": "1996-12",
-      "price": 126.7501
+      "price": 130.3626
      },
      {
       "month": "1997-01",
-      "price": 134.522
+      "price": 138.5064
      },
      {
       "month": "1997-02",
-      "price": 135.3194
+      "price": 139.592
      },
      {
       "month": "1997-03",
-      "price": 129.5529
+      "price": 133.8563
      },
      {
       "month": "1997-04",
-      "price": 137.1195
+      "price": 141.8475
      },
      {
       "month": "1997-05",
-      "price": 145.1515
+      "price": 150.4839
      },
      {
       "month": "1997-06",
-      "price": 151.4587
+      "price": 157.2262
      },
      {
       "month": "1997-07",
-      "price": 163.2946
+      "price": 169.7364
      },
      {
       "month": "1997-08",
-      "price": 153.9108
+      "price": 160.2273
      },
      {
       "month": "1997-09",
-      "price": 162.0917
+      "price": 169.0016
      }
     ]
    },
@@ -22473,15 +22501,15 @@ window.IBM_DATA = {
     "name": "HashiCorp",
     "closeDate": "2025-02-27",
     "tMinus6": "2024-08-01",
-    "tPlus18": "2026-07-20",
+    "tPlus18": "2026-07-31",
     "benchmark": "XLK",
     "ibmBasePrice": 192.97,
     "ibmBaseMonth": "2024-08",
-    "ibmEndPrice": 289.52,
+    "ibmEndPrice": 218.15,
     "ibmEndMonth": "2026-07",
-    "ibmReturn": 50.03,
-    "benchReturn": 61.32,
-    "alpha": -11.29,
+    "ibmReturn": 13.05,
+    "benchReturn": 59.85,
+    "alpha": -46.8,
     "ibmSeries": [
      {
       "month": "2024-08",
@@ -22489,95 +22517,95 @@ window.IBM_DATA = {
      },
      {
       "month": "2024-09",
-      "price": 109.3745
+      "price": 109.3752
      },
      {
       "month": "2024-10",
-      "price": 102.2698
+      "price": 102.2708
      },
      {
       "month": "2024-11",
-      "price": 113.3959
+      "price": 113.3934
      },
      {
       "month": "2024-12",
-      "price": 109.6129
+      "price": 109.6138
      },
      {
       "month": "2025-01",
-      "price": 127.5017
+      "price": 127.4997
      },
      {
       "month": "2025-02",
-      "price": 126.714
+      "price": 126.7128
      },
      {
       "month": "2025-03",
-      "price": 124.8173
+      "price": 124.8154
      },
      {
       "month": "2025-04",
-      "price": 121.3816
+      "price": 121.3821
      },
      {
       "month": "2025-05",
-      "price": 130.9012
+      "price": 130.901
      },
      {
       "month": "2025-06",
-      "price": 148.9506
+      "price": 148.9501
      },
      {
       "month": "2025-07",
-      "price": 127.9163
+      "price": 127.9147
      },
      {
       "month": "2025-08",
-      "price": 123.8638
+      "price": 123.8655
      },
      {
       "month": "2025-09",
-      "price": 143.5353
+      "price": 143.5372
      },
      {
       "month": "2025-10",
-      "price": 156.3818
+      "price": 156.3821
      },
      {
       "month": "2025-11",
-      "price": 157.8432
+      "price": 157.8428
      },
      {
       "month": "2025-12",
-      "price": 151.5158
+      "price": 151.5154
      },
      {
       "month": "2026-01",
-      "price": 156.8793
+      "price": 156.8812
      },
      {
       "month": "2026-02",
-      "price": 123.5684
+      "price": 123.5712
      },
      {
       "month": "2026-03",
-      "price": 124.693
+      "price": 124.6926
      },
      {
       "month": "2026-04",
-      "price": 118.8216
+      "price": 118.823
      },
      {
       "month": "2026-05",
-      "price": 154.3245
+      "price": 154.3247
      },
      {
       "month": "2026-06",
-      "price": 145.7273
+      "price": 145.7275
      },
      {
       "month": "2026-07",
-      "price": 150.0337
+      "price": 113.0488
      }
     ],
     "benchSeries": [
@@ -22635,7 +22663,7 @@ window.IBM_DATA = {
      },
      {
       "month": "2025-09",
-      "price": 128.9701
+      "price": 128.9702
      },
      {
       "month": "2025-10",
@@ -22675,14 +22703,15 @@ window.IBM_DATA = {
      },
      {
       "month": "2026-07",
-      "price": 161.3247
+      "price": 159.8455
      }
-    ]
+    ],
+    "windowStatus": "open — 2-year window completes 2026-08-27; figures refreshed 2026-07-31 and will change until then"
    }
   ]
  },
  "maBenchmark": {
-  "generated": "2026-07-09",
+  "generated": "2026-07-31",
   "xlkAdjYearEnd": {
    "1999": 20.02,
    "2000": 11.64,
@@ -22711,9 +22740,44 @@ window.IBM_DATA = {
    "2023": 94.76,
    "2024": 115.26,
    "2025": 143.62,
-   "2026": 184.99
+   "2026": 174.1
   },
-  "source": "Yahoo Finance XLK, dividend/split-adjusted close (adjclose), last monthly sample of each calendar year; fund inception Dec 1998.",
-  "note": "Used only by the M&A tab's era stock-performance benchmark, so it can include dividends without altering the Macro vs IBM tab's techYearEnd (raw close) chart."
+  "source": "Yahoo Finance XLK, dividend/split-adjusted close (adjclose), last monthly sample of each calendar year; fund inception Dec 1998. 2026 refreshed 2026-07-31 (was 184.99 as of 2026-07-09).",
+  "note": "Used only by the M&A tab's era stock-performance benchmark, so it can include dividends without altering the Macro vs IBM tab's techYearEnd (raw close) chart.",
+  "ibmRecentOverride": [
+   ["2026-07-22", 205.77],
+   ["2026-07-23", 206.65],
+   ["2026-07-24", 214.19],
+   ["2026-07-27", 216.28],
+   ["2026-07-28", 227.55],
+   ["2026-07-29", 226.44],
+   ["2026-07-30", 221.74],
+   ["2026-07-31", 217.24]
+  ],
+  "ibmRecentOverrideSource": "Yahoo Finance IBM, dividend/split-adjusted close (adjclose). M&A-tab-only gap-fill for the days after Story Mode/ibm_daily_prices.js's last cached point (2026-07-21) through today (2026-07-31), so the Krishna era card's ongoing-era 'latest value' is current. Does NOT touch ibm_daily_prices.js itself -- Story Mode, Overview, and Regression Lab all read that file directly and are unaffected by this override.",
+  "sp500TRYearEnd": {
+   "1983": 142.6203,
+   "1984": 149.3546,
+   "1985": 196.1888,
+   "1986": 243.508,
+   "1987": 243.2522,
+   "1988": 288.12,
+   "1989": 379.41,
+   "1990": 367.63,
+   "1991": 479.63,
+   "1992": 516.18,
+   "1993": 568.2,
+   "1994": 575.71,
+   "1995": 792.04,
+   "1996": 973.9,
+   "1997": 1298.8199,
+   "1998": 1670.01,
+   "1999": 2021.4,
+   "2000": 1837.37,
+   "2001": 1618.98,
+   "2002": 1261.1801
+  },
+  "sp500TRSource": "1988 onward: Yahoo Finance ^SP500TR (the official S&P 500 Total Return index, dividends reinvested), daily close collapsed to last trading day of month/year. 1983-1987: ^SP500TR does not go back this far, so this range is reconstructed from Robert Shiller's (Yale) monthly S&P Composite price + trailing-12-month dividend dataset (econ.yale.edu/~shiller/data.htm), using the standard approximation monthly return = (P + D/12) / P_prev, compounded into an index, then chain-linked to the real ^SP500TR series by rescaling with the average ratio across all 12 overlapping months of 1988 (scale factor 0.9247) so both segments sit on one continuous, consistent index.",
+  "sp500TRNote": "Used only by the M&A tab's Pre-Gerstner and Gerstner era-drawer stock-performance benchmark (dividend-adjusted, matching IBM's own adjusted-close treatment), replacing the price-only sp500YearEnd comparison that was overstating IBM's alpha for those two eras. Does not alter macro.json's sp500YearEnd, which still feeds the Macro vs IBM tab unchanged. 1999+ eras already use the dividend-adjusted xlkAdjYearEnd series above and are unaffected."
  }
 };
