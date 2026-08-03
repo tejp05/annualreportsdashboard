@@ -5734,10 +5734,17 @@
         });
         svg.appendChild(overlay);
 
+        // The final year is only a full calendar year once it is over. Mid-year
+        // its bar covers Jan 1 to the last close, so it must not sit next to
+        // twelve-month bars unlabelled.
+        const partialTail = latestYear >= new Date().getFullYear()
+          ? ` ${latestYear} is year-to-date, not a full year — its bar covers Jan 1 to the latest close only.`
+          : "";
         document.getElementById("spReturnNote").textContent =
-          cumulative
+          (cumulative
             ? `Cumulative growth of $100 invested Jan 1 2000, dividends reinvested. 2000–${latestYear}.`
-            : `Calendar-year total return (%), dividends reinvested. Positive = green, negative = red/blue shade. 2000–${latestYear}.`;
+            : `Calendar-year total return (%), dividends reinvested. Positive = green, negative = red/blue shade. 2000–${latestYear}.`)
+          + partialTail;
       }
 
       // Registered globally so the macro tab can redraw once the panel is
