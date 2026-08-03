@@ -237,6 +237,25 @@
     if (name === "macro" && window._bondYieldDraw) {
       requestAnimationFrame(window._bondYieldDraw);
     }
+    if (name === "macro") {
+      /* Charts built while the panel was hidden measured 0x0 and drew nothing.
+         Redraw them now that the panel has real layout width, then re-run the
+         empty-card sweep so anything that just drew gets un-hidden (it is
+         two-way; see hideEmptyMacroCharts). */
+      requestAnimationFrame(() => {
+        try {
+          /* Order matters. A hidden card measures 0x0, so drawing into one
+             produces nothing and the sweep would hide it again — the chart can
+             never escape. Reveal every card first so the hosts have real
+             width, then draw, then sweep to re-hide only what genuinely has
+             no data. */
+          revealMacroCards();
+          window._spReturnDraw && window._spReturnDraw();
+          hideEmptyMacroCharts();
+          hideOrphanMacroSectionHeaders();
+        } catch (e) { console.error("macro redraw failed:", e); }
+      });
+    }
     if (name === "ma" && window._maSwimScrollToEnd) {
       /* Wrap had zero scrollWidth while panel was hidden; scroll to the recent deals now it is visible */
       setTimeout(window._maSwimScrollToEnd, 0);
@@ -527,6 +546,10 @@
       }
       // Notify the Macro tab's move-detector whenever fresh quote data lands.
       if (window.refreshMoveBanner) window.refreshMoveBanner(price, prevClose);
+      // Broadcast for anything else keyed to the live price — Section A's KPI
+      // bar listens for this so its price tile follows the same 60s refresh
+      // cycle as the ticker instead of freezing on its first paint.
+      window.dispatchEvent(new CustomEvent("ibm-live-quote", { detail: window.__liveQuote }));
     };
     const tryJSON = async url => {
       const r = await fetch(url, { signal: AbortSignal.timeout(6000) });
@@ -1888,7 +1911,9 @@
         if (sib.style.display !== "none" && sib.childElementCount > 0) anyVisible = true;
         sib = sib.nextElementSibling;
       }
-      if (!anyVisible) header.style.display = "none";
+      // Two-way for the same reason hideEmptyMacroCharts is: a header hidden
+      // during the pre-layout pass must come back once its cards draw.
+      header.style.display = anyVisible ? "" : "none";
     });
     // Relabel the surviving section letters sequentially (A, B, C...) so
     // hidden sections don't leave a visible gap like "B, C, D, F".
@@ -1905,6 +1930,21 @@
      the tab never shows a labeled box with nothing drawn in it. Cards
      reappear automatically once the underlying macro.json field is real
      (e.g. after re-running pipeline/macro.py for Fed Funds / Unemployment). */
+  /* Undo a previous hide pass so charts get a measurable host before they are
+     asked to draw. Only clears the inline display this code set; it does not
+     touch cards hidden by their own stylesheet rules. */
+  function revealMacroCards() {
+    const panel = document.getElementById("panel-macro");
+    if (!panel) return;
+    panel.querySelectorAll(".chart-host, .sp-chart-host").forEach(host => {
+      const card = host.closest(".card");
+      if (card && card.style.display === "none") card.style.display = "";
+    });
+    panel.querySelectorAll(".mac-section-header").forEach(h => {
+      if (h.style.display === "none") h.style.display = "";
+    });
+  }
+
   function hideEmptyMacroCharts() {
     const panel = document.getElementById("panel-macro");
     if (!panel) return;
@@ -1913,15 +1953,21 @@
       const hasCanvas = !!host.querySelector("canvas");
       const isEmpty = hasCanvas ? false : (svg ? svg.children.length === 0
         : [...host.children].every(c => c.classList.contains("tooltip") || c.classList.contains("sp-tooltip")));
-      if (isEmpty) {
-        const card = host.closest(".card");
-        if (card) card.style.display = "none";
-      }
+      const card = host.closest(".card");
+      if (!card) return;
+      // Two-way, and it must be. This runs at load while panel-macro is still
+      // hidden, so a chart that needs layout width has not drawn yet and looks
+      // "empty" — hiding it then made the host 0x0, which meant it could never
+      // draw, which meant it stayed hidden. That trap is what kept the
+      // total-return card invisible even after its data existed. Re-running
+      // this once the panel is visible now restores anything that has since
+      // drawn (see the macro branch of selectTab).
+      card.style.display = isEmpty ? "none" : "";
     });
     const kpiBar = document.getElementById("spKpiBar");
     if (kpiBar) {
       const allDash = [...kpiBar.querySelectorAll(".sp-kpi-val")].every(v => v.textContent.trim() === "—");
-      if (allDash) kpiBar.style.display = "none";
+      kpiBar.style.display = allDash ? "none" : "";
     }
   }
   try { buildMATab(); } catch (e) { console.error("Mergers & Acquisitions tab failed to render:", e); }
@@ -5361,27 +5407,67 @@
       el.querySelector(".sp-kpi-val").textContent = val;
       if (label) el.querySelector(".sp-kpi-lbl").textContent = label;
     }
-    setKpi("spKpiPrice",  latestPrice != null ? `$${latestPrice.toFixed(2)}`  : "—", `Dec ${latestYear} close`);
-    setKpi("spKpiYTD",    trLatest != null ? `${trLatest > 0 ? "+" : ""}${trLatest.toFixed(1)}%` : "—", `${latestYear} total return`);
-    setKpi("spKpiDiv",    dyLatest != null ? `${dyLatest.toFixed(2)}%`  : "—", `Dividend yield (${latestYear})`);
-    setKpi("spKpiBeta",   btLatest != null ? `${btLatest.toFixed(2)}`   : "—");
-    setKpi("spKpiVol",    vlLatest != null ? `${vlLatest.toFixed(1)}M`  : "—", `Avg daily volume (${latestYear})`);
+    // The price KPI tracks the live quote (window.__liveQuote, refreshed on the
+    // same 60s cycle as the ticker) and falls back to the last monthly close
+    // when the quote feed is unreachable — offline/local dev, or before the
+    // first fetch resolves. renderKpis() is re-run by the live-quote listener
+    // below, so the tile updates in place rather than only on first paint.
+    //
+    // latestYear is the last year present in the data, which mid-year is a
+    // PARTIAL year: its "total return" covers Jan 1 to the last close, not
+    // twelve months. Those tiles say YTD so a part-year figure is never shown
+    // as if it were an annual one.
+    const nowYear = new Date().getFullYear();
+    const isPartialYear = latestYear >= nowYear;
+    const periodLbl = isPartialYear ? `${latestYear} YTD` : `${latestYear}`;
 
-    // IBM vs S&P 500 outperformance in latest year
-    const sp5Latest = sp5TR[latestYear];
-    if (trLatest != null && sp5Latest != null) {
-      const diff = trLatest - sp5Latest;
-      const sign = diff >= 0 ? "+" : "";
-      setKpi("spKpiOutperf", `${sign}${diff.toFixed(1)}pp`, `IBM vs S&P (${latestYear})`);
-      const outpEl = document.getElementById("spKpiOutperf");
-      if (outpEl) outpEl.style.setProperty("--kpi-accent", diff >= 0 ? "#42be65" : "#fa4d56");
-    }
+    function renderKpis() {
+      const lq = window.__liveQuote;
+      const live = lq && lq.price != null;
 
-    // colour the YTD positive/negative
-    if (trLatest != null) {
-      const ytdEl = document.getElementById("spKpiYTD");
-      if (ytdEl) ytdEl.style.setProperty("--kpi-accent", trLatest >= 0 ? "#42be65" : "#fa4d56");
+      // Fallback label names the month the series actually ends on. Hardcoding
+      // "Dec" mislabels a part-year series — mid-2026 the last key is 2026-07,
+      // and calling that a December close is simply wrong.
+      const MONTHS = ["Jan","Feb","Mar","Apr","May","Jun",
+                      "Jul","Aug","Sep","Oct","Nov","Dec"];
+      const lastMonth = MONTHS[parseInt(latestMonthKey.slice(5, 7), 10) - 1] || "";
+      setKpi("spKpiPrice",
+             live ? `$${lq.price.toFixed(2)}`
+                  : latestPrice != null ? `$${latestPrice.toFixed(2)}` : "—",
+             live ? "IBM live price" : `${lastMonth} ${latestYear} close`);
+      const priceEl = document.getElementById("spKpiPrice");
+      if (priceEl && live && lq.prevClose) {
+        const chg = (lq.price / lq.prevClose - 1) * 100;
+        priceEl.style.setProperty("--kpi-accent", chg >= 0 ? "#42be65" : "#fa4d56");
+      }
+
+      setKpi("spKpiYTD",  trLatest != null ? `${trLatest > 0 ? "+" : ""}${trLatest.toFixed(1)}%` : "—",
+             `${periodLbl} total return`);
+      setKpi("spKpiDiv",  dyLatest != null ? `${dyLatest.toFixed(2)}%` : "—",
+             `Dividend yield (${periodLbl})`);
+      setKpi("spKpiBeta", btLatest != null ? `${btLatest.toFixed(2)}`  : "—");
+      setKpi("spKpiVol",  vlLatest != null ? `${vlLatest.toFixed(1)}M` : "—",
+             `Avg daily volume (${periodLbl})`);
+
+      // IBM vs S&P 500 for the same period. Both sides are total return on the
+      // same basis (see pipeline/fetch_stock_series.py) — do not mix in a
+      // price-only index here.
+      const sp5Latest = sp5TR[latestYear];
+      if (trLatest != null && sp5Latest != null) {
+        const diff = trLatest - sp5Latest;
+        setKpi("spKpiOutperf", `${diff >= 0 ? "+" : ""}${diff.toFixed(1)}pp`,
+               `IBM vs S&P (${periodLbl})`);
+        const outpEl = document.getElementById("spKpiOutperf");
+        if (outpEl) outpEl.style.setProperty("--kpi-accent", diff >= 0 ? "#42be65" : "#fa4d56");
+      }
+
+      if (trLatest != null) {
+        const ytdEl = document.getElementById("spKpiYTD");
+        if (ytdEl) ytdEl.style.setProperty("--kpi-accent", trLatest >= 0 ? "#42be65" : "#fa4d56");
+      }
     }
+    renderKpis();
+    window.addEventListener("ibm-live-quote", renderKpis);
 
     // ── shared SVG helpers ──────────────────────────────────────────────────
     function svgEl(tag, attrs) {
@@ -5431,149 +5517,16 @@
     }
 
     // ══════════════════════════════════════════════════════════════════════
-    //  CHART 1 — Monthly Closing Price
+    //  CHART 1 — Monthly Closing Price — REMOVED
+    //
+    //  This drew into spPriceHost / spPriceSvg / spPriceNote / spPriceLogToggle /
+    //  spShowRecessions, none of which exist in the panel markup — the card was
+    //  never built. It threw on the first missing element and took the whole of
+    //  buildMacroTab() down with it, which is why the total-return chart below
+    //  never rendered. It had gone unnoticed because the guard at the top of
+    //  buildStockPerformanceCharts() used to return before reaching it.
+    //  IBM's price history is already the hero chart's default layer.
     // ══════════════════════════════════════════════════════════════════════
-    (function drawPriceChart() {
-      const HOST_ID = "spPriceHost";
-      const SVG_ID  = "spPriceSvg";
-      const TIP_ID  = "spPriceTip";
-
-      const PAD = { top: 20, right: 20, bottom: 36, left: 56 };
-      let logScale = false;
-      let showRec  = true;
-
-      const keys = monthlyKeys();
-      const months = keys.map(keyToMonths);
-      const prices = keys.map(k => monthly[k]);
-
-      function draw() {
-        const host = document.getElementById(HOST_ID);
-        if (!host) return;
-        const W = host.clientWidth  || 760;
-        const H = host.clientHeight || 320;
-        const svg = document.getElementById(SVG_ID);
-        svg.setAttribute("viewBox", `0 0 ${W} ${H}`);
-        svg.setAttribute("width",  W);
-        svg.setAttribute("height", H);
-        svg.innerHTML = "";
-
-        const xMin = 0, xMax = chartMonths;
-        const iw = W - PAD.left - PAD.right;
-        const ih = H - PAD.top  - PAD.bottom;
-
-        // value domain
-        const pMin = Math.min(...prices), pMax = Math.max(...prices);
-        const vMin = logScale ? Math.log(pMin * 0.9) : pMin * 0.9;
-        const vMax = logScale ? Math.log(pMax * 1.05) : pMax * 1.05;
-        function yv(p) {
-          const v = logScale ? Math.log(p) : p;
-          return PAD.top + ih - (v - vMin) / (vMax - vMin) * ih;
-        }
-        function xm(m) { return PAD.left + (m - xMin) / (xMax - xMin) * iw; }
-
-        // recession bands
-        if (showRec) {
-          recBands2000().forEach(b => {
-            const rx = xm(b.x0), rw = xm(b.x1) - xm(b.x0);
-            const rect = svgEl("rect", { x: rx, y: PAD.top, width: Math.max(rw,1), height: ih,
-              fill:"rgba(120,120,120,0.15)", "data-name": b.name });
-            svg.appendChild(rect);
-          });
-        }
-
-        // y-axis gridlines + labels
-        const yTicks = logScale
-          ? [25, 50, 75, 100, 125, 150, 175, 200, 225].filter(v => v >= pMin * 0.9 && v <= pMax * 1.05)
-          : [50, 75, 100, 125, 150, 175, 200, 225].filter(v => v >= pMin * 0.9 && v <= pMax * 1.05);
-        yTicks.forEach(t => {
-          const y = yv(t);
-          svg.appendChild(svgEl("line", { x1: PAD.left, y1: y, x2: W - PAD.right, y2: y,
-            stroke:"rgba(255,255,255,0.08)", "stroke-width":"1" }));
-          const lbl = svgEl("text", { x: PAD.left - 6, y: y + 4, "text-anchor":"end",
-            fill:"var(--ink-soft)", "font-size":"10" });
-          lbl.textContent = `$${t}`;
-          svg.appendChild(lbl);
-        });
-
-        // x-axis year labels every 2 years
-        for (let yr = 2000; yr <= chartEndYear; yr += 2) {
-          const xp = xm((yr - 2000) * 12);
-          svg.appendChild(svgEl("line", { x1: xp, y1: PAD.top, x2: xp, y2: PAD.top + ih,
-            stroke:"rgba(255,255,255,0.06)", "stroke-width":"1" }));
-          const lbl = svgEl("text", { x: xp, y: H - 6, "text-anchor":"middle",
-            fill:"var(--ink-soft)", "font-size":"10" });
-          lbl.textContent = yr;
-          svg.appendChild(lbl);
-        }
-
-        // area fill
-        const areaPath = [`M ${xm(months[0])} ${PAD.top + ih}`];
-        months.forEach((m, i) => areaPath.push(`L ${xm(m)} ${yv(prices[i])}`));
-        areaPath.push(`L ${xm(months[months.length - 1])} ${PAD.top + ih} Z`);
-        svg.appendChild(svgEl("path", { d: areaPath.join(" "),
-          fill:"rgba(15,98,254,0.12)", stroke:"none" }));
-
-        // price line
-        const pts = months.map((m, i) => `${xm(m)},${yv(prices[i])}`).join(" ");
-        svg.appendChild(svgEl("polyline", { points: pts, fill:"none",
-          stroke:"#4589ff", "stroke-width":"1.8", "stroke-linejoin":"round" }));
-
-        // marker for latest year end
-        const lastX = xm(months[months.length - 1]);
-        const lastY = yv(prices[prices.length - 1]);
-        svg.appendChild(svgEl("circle", { cx: lastX, cy: lastY, r:"4",
-          fill:"#4589ff", stroke:"var(--surface)", "stroke-width":"2" }));
-
-        // invisible hover overlay
-        const overlay = svgEl("rect", { x: PAD.left, y: PAD.top, width: iw, height: ih,
-          fill:"transparent", style:"cursor:crosshair" });
-        const tipEl = document.getElementById(TIP_ID);
-        overlay.addEventListener("mousemove", e => {
-          const rect = host.getBoundingClientRect();
-          const mx = e.clientX - rect.left - PAD.left;
-          const frac = Math.max(0, Math.min(1, mx / iw));
-          const rawM = frac * (xMax - xMin) + xMin;
-          // find nearest data point
-          let best = 0;
-          months.forEach((m, i) => { if (Math.abs(m - rawM) < Math.abs(months[best] - rawM)) best = i; });
-          const yr = 2000 + Math.floor(months[best] / 12);
-          const mo = months[best] % 12 + 1;
-          const moName = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"][mo - 1];
-          const cx = xm(months[best]), cy = yv(prices[best]);
-
-          // crosshair
-          let xline = svg.querySelector(".sp-crosshair-x");
-          if (!xline) { xline = svgEl("line", { class:"sp-crosshair-x", "pointer-events":"none" }); svg.appendChild(xline); }
-          xline.setAttribute("x1", cx); xline.setAttribute("x2", cx);
-          xline.setAttribute("y1", PAD.top); xline.setAttribute("y2", PAD.top + ih);
-          xline.setAttribute("stroke", "rgba(255,255,255,0.35)"); xline.setAttribute("stroke-width","1");
-          xline.setAttribute("stroke-dasharray","4 3");
-
-          const content = `<div style="font-weight:700;margin-bottom:3px">${moName} ${yr}</div>
-            <div style="color:#4589ff;font-size:13px">$${prices[best].toFixed(2)}</div>`;
-          makeTip(tipEl, content, cx, cy, rect);
-        });
-        overlay.addEventListener("mouseleave", () => {
-          if (tipEl) tipEl.style.display = "none";
-          const xl = svg.querySelector(".sp-crosshair-x");
-          if (xl) xl.remove();
-        });
-        svg.appendChild(overlay);
-
-        document.getElementById("spPriceNote").textContent =
-          (logScale ? "Log scale. " : "Linear scale. ") +
-          `Monthly closing price, Jan 2000 – Dec ${chartEndYear}.` +
-          (showRec ? " Grey bands = NBER recessions." : "");
-      }
-
-      document.getElementById("spPriceLogToggle").addEventListener("change", e => { logScale = e.target.checked; draw(); });
-      document.getElementById("spShowRecessions").addEventListener("change", e => { showRec = e.target.checked; draw(); });
-      window.addEventListener("resize", draw);
-      draw();
-      // re-draw when macro tab becomes visible (SVG needs non-zero clientWidth)
-      const macroTabBtn = document.querySelector('[data-tab="macro"]');
-      if (macroTabBtn) macroTabBtn.addEventListener("click", () => setTimeout(draw, 80));
-    })();
 
     // ══════════════════════════════════════════════════════════════════════
     //  CHART 2 — Total Return vs S&P 500 (annual bars + optional cumulative line)
@@ -5787,6 +5740,10 @@
             : `Calendar-year total return (%), dividends reinvested. Positive = green, negative = red/blue shade. 2000–${latestYear}.`;
       }
 
+      // Registered globally so the macro tab can redraw once the panel is
+      // actually visible. At build time the panel is still hidden, so the host
+      // measures 0x0 and this first draw produces nothing.
+      window._spReturnDraw = draw;
       window.addEventListener("resize", draw);
       draw();
     })();

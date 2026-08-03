@@ -100,13 +100,21 @@ class ChatBody(BaseModel):
     toolResults: list | None = None
 
 
-def _use_openai() -> bool:
-    """Prefer the OpenAI agent whenever a key is configured.
+def _cuga_available() -> bool:
+    """Is cuga even installed? It is not, and cannot be, on Vercel — it pulls
+    ~5.8GB of torch/transformers/playwright against a 500MB function limit."""
+    import importlib.util  # noqa: PLC0415
+    return importlib.util.find_spec("cuga") is not None
 
-    On Vercel that is the only agent that can run at all (cuga exceeds the
-    function size limit), and locally it is the faster path — cuga's cold
-    start is ~60-70s. Falls back to cuga when no key is set."""
-    return bool(os.environ.get("OPENAI_API_KEY"))
+
+def _use_openai() -> bool:
+    """Route /chat to the OpenAI backend.
+
+    True whenever a key is configured, and ALWAYS when cuga is not installed —
+    on the Vercel deployment cuga can never run, so falling back to it there
+    would only produce a misleading 'backend: cuga' on a box that has no cuga.
+    That deployment is OpenAI-only; it just needs OPENAI_API_KEY set."""
+    return bool(os.environ.get("OPENAI_API_KEY")) or not _cuga_available()
 
 
 @app.get("/health")
@@ -115,8 +123,13 @@ def health():
     online/offline indicator hits this instead of /tools so it can tell 'up
     but still warming' apart from 'ready for a fast reply'."""
     if _use_openai():
-        # The OpenAI path has no warm-up phase — ready as soon as the key is set.
-        return {"server": "up", "agentWarm": True, "backend": "openai"}
+        # The OpenAI path has no warm-up phase — ready as soon as the key is
+        # set. keyConfigured is reported separately so "backend up, chat
+        # disabled pending a key" stays distinguishable from "wrong backend",
+        # which a bare agentWarm:false could not express.
+        has_key = bool(os.environ.get("OPENAI_API_KEY"))
+        return {"server": "up", "backend": "openai",
+                "keyConfigured": has_key, "agentWarm": has_key}
     import agent as agent_module
     return {"server": "up", "agentWarm": agent_module._agent is not None,
             "backend": "cuga"}
@@ -130,6 +143,10 @@ def chat(body: ChatBody):
     reply with pendingBrowserCalls for the page to execute and post back (see
     agent/openai_agent.py). Without a key it falls through to CUGA."""
     if _use_openai():
+        if not os.environ.get("OPENAI_API_KEY"):
+            raise HTTPException(503, "Chat is disabled: OPENAI_API_KEY is not set. "
+                                     "Add it in Vercel under Project → Settings → "
+                                     "Environment Variables and redeploy.")
         import openai_agent  # noqa: PLC0415 — lazy so cuga-only setups don't need it
         # list_browser_tools/browser_action drive the page through
         # browser_bridge's in-memory queue, which cannot work across stateless
