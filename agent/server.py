@@ -75,7 +75,13 @@ def _prewarm_agent():
     takes ~60-70s; without this, whoever sends the FIRST /chat request eats
     that tax. Warm it in a background thread so uvicorn still binds the port
     immediately - the server is reachable right away, /chat just blocks a bit
-    longer than usual until the warm-up thread finishes."""
+    longer than usual until the warm-up thread finishes.
+
+    Skipped entirely when OPENAI_API_KEY is set: that path never touches cuga,
+    so paying the import cost would be pure waste. On Vercel both guards
+    matter — cuga is not installed there at all."""
+    if _use_openai():
+        return
     def _safe_warm_up():
         try:
             warm_up()
@@ -85,26 +91,70 @@ def _prewarm_agent():
 
 
 class ChatBody(BaseModel):
-    question: str
+    question: str = ""
     thread_id: str = "web"
+    # Continuation of a turn that asked the page to run browser tools. See
+    # agent/openai_agent.py — Vercel functions are stateless, so the message
+    # history round-trips through the client instead of living in memory.
+    state: str | None = None
+    toolResults: list | None = None
+
+
+def _use_openai() -> bool:
+    """Prefer the OpenAI agent whenever a key is configured.
+
+    On Vercel that is the only agent that can run at all (cuga exceeds the
+    function size limit), and locally it is the faster path — cuga's cold
+    start is ~60-70s. Falls back to cuga when no key is set."""
+    return bool(os.environ.get("OPENAI_API_KEY"))
 
 
 @app.get("/health")
 def health():
-    """Cheap status check: is the CUGA agent warmed up yet? The chat panel's
+    """Cheap status check: is the agent warmed up yet? The chat panel's
     online/offline indicator hits this instead of /tools so it can tell 'up
     but still warming' apart from 'ready for a fast reply'."""
+    if _use_openai():
+        # The OpenAI path has no warm-up phase — ready as soon as the key is set.
+        return {"server": "up", "agentWarm": True, "backend": "openai"}
     import agent as agent_module
-    return {"server": "up", "agentWarm": agent_module._agent is not None}
+    return {"server": "up", "agentWarm": agent_module._agent is not None,
+            "backend": "cuga"}
 
 
 @app.post("/chat")
 def chat(body: ChatBody):
-    """Ask the CUGA agent a question in natural language."""
+    """Ask the agent a question in natural language.
+
+    With OPENAI_API_KEY set, this runs the OpenAI tool-calling loop, which may
+    reply with pendingBrowserCalls for the page to execute and post back (see
+    agent/openai_agent.py). Without a key it falls through to CUGA."""
+    if _use_openai():
+        import openai_agent  # noqa: PLC0415 — lazy so cuga-only setups don't need it
+        # list_browser_tools/browser_action drive the page through
+        # browser_bridge's in-memory queue, which cannot work across stateless
+        # Vercel functions — they would just block for their 25s timeout. The
+        # OpenAI path exposes browser tools directly instead (openai_agent's
+        # BROWSER_TOOLS, executed by the page), so these two are withheld.
+        server_tools = {name: t for name, t in TOOLS_BY_NAME.items()
+                        if name not in ("list_browser_tools", "browser_action")}
+        try:
+            return openai_agent.run(
+                question=body.question,
+                state_token=body.state,
+                tool_results=body.toolResults,
+                server_tools_by_name=server_tools,
+            )
+        except ValueError as e:              # tampered/expired continuation state
+            raise HTTPException(400, str(e))
+        except Exception as e:
+            raise HTTPException(502, f"Agent error: {type(e).__name__}: {e}")
     try:
         return {"answer": ask_agent(body.question, body.thread_id)}
     except ModuleNotFoundError:
-        raise HTTPException(503, "Chat is unavailable in this deployment (cuga not installed).")
+        # No key AND no cuga — the state this deployment was in before the
+        # OpenAI backend existed. Set OPENAI_API_KEY in Vercel to enable chat.
+        raise HTTPException(503, "Chat is unavailable: set OPENAI_API_KEY, or install cuga.")
 
 
 @app.get("/tools")

@@ -2133,3 +2133,42 @@ input[type="range"] { width:100%; accent-color:var(--blue); height:30px; margin:
   .mac-hero-chart-host { height: 260px; }
   .mac-hero-layer-btn { padding: 4px 9px; font-size: 11px; }
 }
+
+/* ── Competitors tab — sourcing footer ─────────────────────────────────── */
+.comp-sources {
+  margin: 28px 0 8px;
+  padding: 18px 20px;
+  background: var(--surface-2);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+}
+.comp-sources-label {
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+  color: var(--ink-dim);
+  margin-bottom: 10px;
+}
+.comp-sources-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 10px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.comp-sources-list li {
+  font-size: 12px;
+  color: var(--ink-soft);
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 5px;
+  padding: 4px 10px;
+}
+.comp-sources-note {
+  margin: 12px 0 0;
+  font-size: 11px;
+  line-height: 1.65;
+  color: var(--ink-dim);
+}

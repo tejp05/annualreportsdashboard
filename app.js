@@ -234,6 +234,9 @@
       /* SVG had zero clientWidth while panel was hidden; draw now it is visible */
       requestAnimationFrame(window._macroEconDraw);
     }
+    if (name === "macro" && window._bondYieldDraw) {
+      requestAnimationFrame(window._bondYieldDraw);
+    }
     if (name === "ma" && window._maSwimScrollToEnd) {
       /* Wrap had zero scrollWidth while panel was hidden; scroll to the recent deals now it is visible */
       setTimeout(window._maSwimScrollToEnd, 0);
@@ -2064,7 +2067,7 @@
         <span class="mac-section-letter">A</span>
         <div>
           <p class="mac-section-title">IBM Stock Performance</p>
-          <p class="mac-section-sub">Price history, total return vs benchmarks, dividend yield, trading volume, and beta · Sources: Bloomberg IBM US Equity, Yahoo Finance, IBM 10-K</p>
+          <p class="mac-section-sub">Price history and total return vs benchmarks · Sources: Bloomberg IBM US Equity, Yahoo Finance, IBM 10-K</p>
         </div>
       </div>
 
@@ -2106,27 +2109,11 @@
         <p class="chart-note" id="spReturnNote"></p>
       </div>
 
-      <!-- A5 — Dividend Yield / Volume / Beta tabs -->
-      <div class="card sp-chart-card" style="margin-top:16px">
-        <div class="sp-chart-header">
-          <div>
-            <p class="section-title" id="spDetailTitle" style="margin:0 0 2px">Dividend Yield over Time</p>
-            <p class="chart-sub" id="spDetailSub">Annual dividend yield (%) · Source: IBM 10-K / Yahoo Finance / Bloomberg</p>
-          </div>
-          <div class="sp-chart-opts">
-            <div class="sp-tab-row" id="spDetailTabs">
-              <button class="sp-tab-btn active" data-tab="div">Dividend Yield</button>
-              <button class="sp-tab-btn" data-tab="vol">Trading Volume</button>
-              <button class="sp-tab-btn" data-tab="beta">Beta</button>
-            </div>
-          </div>
-        </div>
-        <div class="sp-chart-host" id="spDetailHost">
-          <svg id="spDetailSvg" class="sp-svg"></svg>
-          <div class="sp-tooltip" id="spDetailTip"></div>
-        </div>
-        <p class="chart-note" id="spDetailNote"></p>
-      </div>
+      <!-- A5 — was Dividend Yield / Volume / Beta. Removed: macro.ibmDividendYield,
+           macro.ibmAvgDailyVolume and macro.ibmBeta5yr were never present in the
+           dataset, so buildStockPerformanceCharts() bailed at its guard and this
+           card rendered as an empty box. Replaced by the cost-of-debt card in
+           Section D, which is built from data that actually exists. -->
 
       <!-- ────────────────────────────────────────────────────────────────────
            SECTION B — IBM STOCK HISTORY & INVESTMENT CALCULATOR
@@ -2159,11 +2146,14 @@
         <span class="mac-section-letter">D</span>
         <div>
           <p class="mac-section-title">Economic Climate &amp; IBM Leverage</p>
-          <p class="mac-section-sub">Macro conditions 1970–2026 YTD (Fed Funds, GDP, CPI, Unemployment) · Sources: BLS, BEA, Federal Reserve, IBM 10-K</p>
+          <p class="mac-section-sub">Macro conditions 1970–2026 YTD (Fed Funds, GDP, CPI, Unemployment) and IBM's cost of debt against the Treasury curve · Sources: BLS, BEA, Federal Reserve, SEC EDGAR, Yahoo Finance, IBM 10-K</p>
         </div>
       </div>
       <div style="margin-top:16px">
         <div id="macroEconRoot"></div>
+      </div>
+      <div style="margin-top:16px">
+        <div id="bondYieldRoot"></div>
       </div>
 
       <!-- ────────────────────────────────────────────────────────────────────
@@ -2525,6 +2515,9 @@
 
     /* ---- D: Economic Climate + D/E Gauge ----------------------------------- */
     buildMacroEconChart();
+
+    /* ---- D: IBM cost of debt vs the Treasury curve -------------------------- */
+    buildBondYieldChart();
 
     /* ---- F: Latest SEC Filings card ---------------------------------------- */
     buildFilingsCard();
@@ -4489,6 +4482,310 @@
   }
 
   /* ====================================================================== */
+  /*  IBM COST OF DEBT vs THE TREASURY CURVE                                */
+  /*                                                                        */
+  /*  Replaced the Dividend Yield / Volume / Beta card, which rendered as   */
+  /*  an empty box because macro.ibmDividendYield, macro.ibmAvgDailyVolume  */
+  /*  and macro.ibmBeta5yr are not in the dataset.                          */
+  /*                                                                        */
+  /*  Deliberately NOT built inside buildStockPerformanceCharts(): that     */
+  /*  function early-returns when any of those missing series is absent,    */
+  /*  which is what killed the old card. This one stands alone so it        */
+  /*  renders on data that actually exists.                                 */
+  /* ====================================================================== */
+  function buildBondYieldChart() {
+    const root = document.getElementById("bondYieldRoot");
+    if (!root) return;
+
+    const macro = D.macro || {};
+    const cod = macro.ibmCostOfDebt;
+    const curve = macro.treasuryCurve;
+    if (!cod || !curve) return;          // degrade quietly, never blank the tab
+
+    const TENORS = [
+      { key: "3m",  label: "13-week bill" },
+      { key: "5y",  label: "5-yr note" },
+      { key: "10y", label: "10-yr note" },
+      { key: "30y", label: "30-yr bond" },
+    ].filter(t => curve[t.key]);
+    if (!TENORS.length) return;
+
+    const SVGNS = "http://www.w3.org/2000/svg";
+    const IBM_C = "#f59e0b";            // IBM cost of debt
+    const TSY_C = "#4589ff";            // Treasury
+    const OVER_C = "#fa4d56";           // IBM paying above the Treasury
+    const UNDER_C = "#42be65";          // IBM paying below the Treasury
+
+    let activeTenor = TENORS.some(t => t.key === "10y") ? "10y" : TENORS[0].key;
+
+    const years = Object.keys(cod).map(Number).sort((a, b) => a - b);
+    const recessions = macro.recessions || [];
+
+    const el = (tag, attrs) => {
+      const n = document.createElementNS(SVGNS, tag);
+      for (const k in attrs) n.setAttribute(k, attrs[k]);
+      return n;
+    };
+    const tsyAt = y => {
+      const v = curve[activeTenor][String(y)];
+      return v == null ? null : v;
+    };
+
+    /* ── card shell ── */
+    root.innerHTML = "";
+    const card = document.createElement("div");
+    card.className = "card sp-chart-card";
+    card.style.cssText = "padding:20px 20px 16px;";
+    root.appendChild(card);
+
+    const header = document.createElement("div");
+    header.style.cssText = "display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:12px;margin-bottom:14px";
+    header.innerHTML = `
+      <div>
+        <div style="font-size:11px;letter-spacing:1.2px;text-transform:uppercase;color:var(--ink-dim);margin-bottom:4px;font-family:var(--mono)">
+          What IBM pays to borrow, ${years[0]}–${years[years.length - 1]}
+        </div>
+        <p style="margin:0;font-size:13px;color:var(--ink-soft)">
+          IBM's effective cost of debt against the U.S. Treasury curve — the gap is what the market charges IBM over the government
+        </p>
+      </div>`;
+    const tenorRow = document.createElement("div");
+    tenorRow.className = "sp-tab-row";
+    tenorRow.style.cssText = "flex-shrink:0";
+    header.appendChild(tenorRow);
+    card.appendChild(header);
+
+    function renderTenorBtns() {
+      tenorRow.innerHTML = "";
+      TENORS.forEach(t => {
+        const b = document.createElement("button");
+        b.className = "sp-tab-btn" + (t.key === activeTenor ? " active" : "");
+        b.textContent = t.label;
+        b.addEventListener("click", () => { activeTenor = t.key; renderTenorBtns(); draw(); });
+        tenorRow.appendChild(b);
+      });
+    }
+    renderTenorBtns();
+
+    /* ── callout strip ── */
+    const callouts = document.createElement("div");
+    callouts.style.cssText = "display:flex;gap:10px;flex-wrap:wrap;margin-bottom:14px";
+    card.appendChild(callouts);
+
+    function renderCallouts() {
+      const spreads = years
+        .map(y => ({ y, t: tsyAt(y), s: tsyAt(y) == null ? null : cod[y] - tsyAt(y) }))
+        .filter(d => d.s != null);
+      if (!spreads.length) { callouts.innerHTML = ""; return; }
+
+      const latest = spreads[spreads.length - 1];
+      const widest = spreads.reduce((a, b) => (b.s > a.s ? b : a));
+      // first year the spread flips negative and stays negative to the end
+      let flip = null;
+      for (let i = spreads.length - 1; i >= 0; i--) {
+        if (spreads[i].s < 0) flip = spreads[i]; else break;
+      }
+
+      const tile = (val, lbl, color) => `
+        <div style="flex:1 1 180px;background:var(--surface-2);border:1px solid var(--line);border-left:3px solid ${color};border-radius:6px;padding:10px 12px">
+          <div style="font-size:18px;font-weight:700;color:${color};font-family:var(--mono)">${val}</div>
+          <div style="font-size:10.5px;color:var(--ink-dim);margin-top:2px;line-height:1.5">${lbl}</div>
+        </div>`;
+
+      callouts.innerHTML =
+        tile(`${latest.s >= 0 ? "+" : ""}${latest.s.toFixed(2)}pp`,
+             `${latest.y} spread over the ${TENORS.find(t => t.key === activeTenor).label} — IBM ${latest.s >= 0 ? "pays more than" : "pays less than"} the government`,
+             latest.s >= 0 ? OVER_C : UNDER_C) +
+        tile(`+${widest.s.toFixed(2)}pp`,
+             `widest premium, ${widest.y} — IBM ${cod[widest.y].toFixed(2)}% vs Treasury ${widest.t.toFixed(2)}%`,
+             OVER_C) +
+        (flip
+          ? tile(`${flip.y}`,
+                 `first year IBM's book cost of debt fell below the Treasury and stayed there — the stack is still full of bonds issued at ZIRP-era coupons`,
+                 UNDER_C)
+          : "");
+    }
+
+    /* ── chart ── */
+    const wrap = document.createElement("div");
+    wrap.style.cssText = "position:relative;width:100%;height:320px";
+    const svg = el("svg", { width: "100%", height: "100%" });
+    wrap.appendChild(svg);
+    const tip = document.createElement("div");
+    tip.style.cssText = "position:absolute;pointer-events:none;display:none;background:var(--surface-2);border:1px solid var(--line);border-radius:6px;padding:10px 14px;font-size:12px;font-family:var(--mono);color:var(--ink);white-space:nowrap;z-index:20";
+    wrap.appendChild(tip);
+    card.appendChild(wrap);
+
+    const legend = document.createElement("div");
+    legend.style.cssText = "display:flex;flex-wrap:wrap;gap:14px;margin-top:12px;font-size:11px;color:var(--ink-soft)";
+    card.appendChild(legend);
+
+    const note = document.createElement("p");
+    note.className = "chart-note";
+    note.style.cssText = "margin-top:12px";
+    card.appendChild(note);
+
+    const PAD = { top: 18, right: 18, bottom: 34, left: 46 };
+
+    function draw() {
+      renderCallouts();
+
+      const W = wrap.clientWidth || 760;
+      const H = wrap.clientHeight || 320;
+      svg.setAttribute("viewBox", `0 0 ${W} ${H}`);
+      svg.innerHTML = "";
+
+      const iw = W - PAD.left - PAD.right;
+      const ih = H - PAD.top - PAD.bottom;
+
+      const pts = years.map(y => ({ y, ibm: cod[y], tsy: tsyAt(y) })).filter(p => p.tsy != null);
+      if (!pts.length) return;
+
+      const vals = pts.flatMap(p => [p.ibm, p.tsy]);
+      const vMax = Math.ceil(Math.max(...vals) + 0.6);
+      const vMin = 0;
+      const x = i => PAD.left + (pts.length === 1 ? iw / 2 : (iw * i) / (pts.length - 1));
+      const yv = v => PAD.top + ih - ((v - vMin) / (vMax - vMin)) * ih;
+
+      // recession bands
+      recessions.filter(r => r.end >= pts[0].y && r.start <= pts[pts.length - 1].y).forEach(r => {
+        const i0 = pts.findIndex(p => p.y >= r.start);
+        let i1 = -1;
+        pts.forEach((p, i) => { if (p.y <= r.end) i1 = i; });
+        if (i0 < 0 || i1 < i0) return;
+        svg.appendChild(el("rect", {
+          x: x(i0), y: PAD.top, width: Math.max(x(i1) - x(i0), 3), height: ih,
+          fill: "rgba(120,120,120,0.13)"
+        }));
+      });
+
+      // gridlines
+      for (let t = 0; t <= vMax; t += 1) {
+        const gy = yv(t);
+        svg.appendChild(el("line", { x1: PAD.left, y1: gy, x2: W - PAD.right, y2: gy,
+          stroke: "rgba(255,255,255,0.07)", "stroke-width": "1" }));
+        const lbl = el("text", { x: PAD.left - 6, y: gy + 4, "text-anchor": "end",
+          fill: "var(--ink-soft)", "font-size": "10" });
+        lbl.textContent = `${t}%`;
+        svg.appendChild(lbl);
+      }
+
+      // x labels
+      pts.forEach((p, i) => {
+        if (p.y % 3 !== 0 && i !== pts.length - 1) return;
+        const lbl = el("text", { x: x(i), y: H - 8, "text-anchor": "middle",
+          fill: "var(--ink-soft)", "font-size": "10" });
+        lbl.textContent = p.y;
+        svg.appendChild(lbl);
+      });
+
+      // spread band, split so the fill colour tracks who is paying more.
+      // Segments are cut at the crossing point, not at the year boundary, so
+      // the colour flips exactly where the two lines actually intersect.
+      let seg = [];
+      const flush = () => {
+        if (seg.length < 2) { seg = []; return; }
+        const above = seg[0].ibm >= seg[0].tsy;
+        const d = seg.map(p => `${p.x},${yv(p.ibm)}`).join(" L ") + " L " +
+                  seg.slice().reverse().map(p => `${p.x},${yv(p.tsy)}`).join(" L ");
+        svg.appendChild(el("path", { d: `M ${d} Z`,
+          fill: above ? OVER_C : UNDER_C, opacity: "0.16", stroke: "none" }));
+        seg = [];
+      };
+      pts.forEach((p, i) => {
+        const cur = { x: x(i), ibm: p.ibm, tsy: p.tsy };
+        if (seg.length) {
+          const prev = seg[seg.length - 1];
+          const wasAbove = prev.ibm >= prev.tsy;
+          const isAbove = cur.ibm >= cur.tsy;
+          if (wasAbove !== isAbove) {
+            // linear crossing point between the two sample years
+            const d0 = prev.ibm - prev.tsy, d1 = cur.ibm - cur.tsy;
+            const f = d0 / (d0 - d1);
+            const cx = prev.x + (cur.x - prev.x) * f;
+            const cv = prev.ibm + (cur.ibm - prev.ibm) * f;
+            const cross = { x: cx, ibm: cv, tsy: cv };
+            seg.push(cross); flush(); seg = [cross];
+          }
+        }
+        seg.push(cur);
+      });
+      flush();
+
+      // series lines
+      const line = (key, color) => {
+        svg.appendChild(el("polyline", {
+          points: pts.map((p, i) => `${x(i)},${yv(p[key])}`).join(" "),
+          fill: "none", stroke: color, "stroke-width": "2.2", "stroke-linejoin": "round"
+        }));
+        pts.forEach((p, i) => svg.appendChild(el("circle", {
+          cx: x(i), cy: yv(p[key]), r: "3", fill: color,
+          stroke: "var(--surface)", "stroke-width": "1.5"
+        })));
+      };
+      line("tsy", TSY_C);
+      line("ibm", IBM_C);
+
+      const tenorLabel = TENORS.find(t => t.key === activeTenor).label;
+      legend.innerHTML = `
+        <span style="display:flex;align-items:center;gap:6px"><span style="width:14px;height:3px;background:${IBM_C};border-radius:2px"></span>IBM effective cost of debt</span>
+        <span style="display:flex;align-items:center;gap:6px"><span style="width:14px;height:3px;background:${TSY_C};border-radius:2px"></span>U.S. Treasury ${tenorLabel}</span>
+        <span style="display:flex;align-items:center;gap:6px"><span style="width:12px;height:10px;background:${OVER_C};opacity:0.3;border-radius:2px"></span>IBM pays above Treasury</span>
+        <span style="display:flex;align-items:center;gap:6px"><span style="width:12px;height:10px;background:${UNDER_C};opacity:0.3;border-radius:2px"></span>IBM pays below Treasury</span>
+        <span style="display:flex;align-items:center;gap:6px"><span style="width:12px;height:10px;background:rgba(120,120,120,0.3);border-radius:2px"></span>NBER recession</span>`;
+
+      // hover
+      const overlay = el("rect", { x: PAD.left, y: PAD.top, width: iw, height: ih,
+        fill: "transparent", style: "cursor:crosshair" });
+      overlay.addEventListener("mousemove", e => {
+        const rect = wrap.getBoundingClientRect();
+        const mx = e.clientX - rect.left;
+        let i = 0, best = Infinity;
+        pts.forEach((p, k) => { const d = Math.abs(x(k) - mx); if (d < best) { best = d; i = k; } });
+        const p = pts[i];
+        const spread = p.ibm - p.tsy;
+
+        let xl = svg.querySelector(".by-xline");
+        if (!xl) { xl = el("line", { class: "by-xline", "pointer-events": "none",
+          stroke: "rgba(255,255,255,0.3)", "stroke-width": "1", "stroke-dasharray": "4 3" }); svg.appendChild(xl); }
+        xl.setAttribute("x1", x(i)); xl.setAttribute("x2", x(i));
+        xl.setAttribute("y1", PAD.top); xl.setAttribute("y2", PAD.top + ih);
+
+        tip.innerHTML =
+          `<div style="font-weight:700;margin-bottom:4px">${p.y}</div>` +
+          `<div style="color:${IBM_C}">IBM cost of debt: ${p.ibm.toFixed(2)}%</div>` +
+          `<div style="color:${TSY_C}">Treasury ${tenorLabel}: ${p.tsy.toFixed(2)}%</div>` +
+          `<div style="color:${spread >= 0 ? OVER_C : UNDER_C};margin-top:3px">Spread: ${spread >= 0 ? "+" : ""}${spread.toFixed(2)}pp</div>`;
+        tip.style.display = "block";
+        const tw = tip.offsetWidth || 180;
+        tip.style.left = Math.min(Math.max(x(i) - tw / 2, 4), rect.width - tw - 4) + "px";
+        tip.style.top = PAD.top + 8 + "px";
+      });
+      overlay.addEventListener("mouseleave", () => {
+        tip.style.display = "none";
+        const xl = svg.querySelector(".by-xline"); if (xl) xl.remove();
+      });
+      svg.appendChild(overlay);
+
+      note.textContent =
+        "IBM's series is a REALISED BOOK RATE, not a market yield: total interest costs incurred " +
+        "(SEC EDGAR XBRL us-gaap:InterestCostsIncurred — includes the financing-segment interest IBM " +
+        "charges to cost of financing) divided by average total debt from the 10-K balance sheets. " +
+        "It reprices only as old bonds mature and refinance, so it lags market rates by design — that " +
+        "lag is why it now sits below the Treasury. It is not the yield you would get quoted on an IBM " +
+        "bond today, and IBM has no single quoted bond yield to plot instead. Treasury figures are " +
+        "annual means of monthly closes (Yahoo Finance ^IRX/^FVX/^TNX/^TYX), matching the full-year " +
+        "basis of IBM's series — they are not the Jan-1 readings used by macro.treasury10yr elsewhere.";
+    }
+
+    window._bondYieldDraw = draw;
+    window.addEventListener("resize", draw);
+    if (document.getElementById("panel-macro")?.classList.contains("active")) {
+      requestAnimationFrame(draw);
+    }
+  }
+
+  /* ====================================================================== */
   /*  (Debt-to-Equity Gauge removed)                                        */
   /* ====================================================================== */
   function buildLeverageGauge() {
@@ -5494,197 +5791,6 @@
       draw();
     })();
 
-    // ══════════════════════════════════════════════════════════════════════
-    //  CHART 3 — Dividend Yield / Volume / Beta (tabbed single chart)
-    // ══════════════════════════════════════════════════════════════════════
-    (function drawDetailChart() {
-      const HOST_ID = "spDetailHost";
-      const SVG_ID  = "spDetailSvg";
-      const TIP_ID  = "spDetailTip";
-      const PAD = { top: 24, right: 20, bottom: 40, left: 56 };
-
-      let activeTab = "div";
-
-      const TAB_CONFIG = {
-        div:  { title:"Dividend Yield over Time", sub:"Annual dividend yield (%) — dividends declared ÷ Dec 31 price  ·  Source: IBM 10-K / Yahoo Finance / Bloomberg", color:"#f1c21b", unit:"%", label:"Div. yield",   fmt: v => `${v.toFixed(2)}%` },
-        vol:  { title:"Average Daily Trading Volume", sub:"Annual average daily shares traded (millions)  ·  Source: Bloomberg / Yahoo Finance",          color:"#08bdba", unit:"M shares", label:"Avg vol (M)", fmt: v => `${v.toFixed(2)}M` },
-        beta: { title:"5-Year Rolling Beta vs S&P 500", sub:"60-month monthly beta measured Dec 31 each year; β<1 = lower volatility than market  ·  Source: Bloomberg IBM US Equity", color:"#a56eff", unit:"β", label:"Beta 5yr",   fmt: v => v.toFixed(2) },
-      };
-
-      function getSeriesData() {
-        if (activeTab === "div")  return { data: divYld, years: Object.keys(divYld).filter(k=>!k.startsWith("_")).map(Number).sort((a,b)=>a-b) };
-        if (activeTab === "vol")  return { data: vol,    years: Object.keys(vol).filter(k=>!k.startsWith("_")).map(Number).sort((a,b)=>a-b) };
-        if (activeTab === "beta") return { data: beta,   years: Object.keys(beta).filter(k=>!k.startsWith("_")).map(Number).sort((a,b)=>a-b) };
-      }
-
-      document.getElementById("spDetailTabs").querySelectorAll(".sp-tab-btn").forEach(btn => {
-        btn.addEventListener("click", () => {
-          document.getElementById("spDetailTabs").querySelectorAll(".sp-tab-btn").forEach(b => b.classList.remove("active"));
-          btn.classList.add("active");
-          activeTab = btn.dataset.tab;
-          const cfg = TAB_CONFIG[activeTab];
-          document.getElementById("spDetailTitle").textContent = cfg.title;
-          document.getElementById("spDetailSub").textContent   = cfg.sub;
-          draw();
-        });
-      });
-
-      function draw() {
-        const host = document.getElementById(HOST_ID);
-        if (!host) return;
-        const W = host.clientWidth || 760;
-        const H = host.clientHeight || 300;
-        const svg = document.getElementById(SVG_ID);
-        svg.setAttribute("viewBox", `0 0 ${W} ${H}`);
-        svg.setAttribute("width", W); svg.setAttribute("height", H);
-        svg.innerHTML = "";
-
-        const cfg = TAB_CONFIG[activeTab];
-        const { data, years } = getSeriesData();
-        const vals = years.map(y => data[y]);
-        const N = years.length;
-
-        const iw = W - PAD.left - PAD.right;
-        const ih = H - PAD.top  - PAD.bottom;
-
-        const vMin = (activeTab === "beta") ? 0 : 0;
-        const vMax = Math.max(...vals) * 1.15;
-        function yv(v) { return PAD.top + ih - (v - vMin) / (vMax - vMin) * ih; }
-
-        // recession bands — find index of nearest year in series
-        function nearestIdx(yr) {
-          let best = 0;
-          years.forEach((y, i) => { if (Math.abs(y - yr) < Math.abs(years[best] - yr)) best = i; });
-          return best;
-        }
-        recessions.filter(r => r.end >= years[0] && r.start <= years[N-1]).forEach(r => {
-          const x0i = nearestIdx(Math.max(years[0], r.start));
-          const x1i = nearestIdx(Math.min(years[N-1], r.end));
-          const bw = iw / N;
-          svg.appendChild(svgEl("rect", {
-            x: PAD.left + bw * x0i, y: PAD.top,
-            width: Math.max(bw, bw * (x1i - x0i + 1)), height: ih,
-            fill:"rgba(120,120,120,0.13)"
-          }));
-        });
-
-        // y gridlines
-        const yStep = activeTab === "beta" ? 0.2 : activeTab === "vol" ? 1 : 1;
-        for (let t = 0; t <= vMax; t = +(t + yStep).toFixed(2)) {
-          if (t > vMax) break;
-          const y = yv(t);
-          if (y < PAD.top - 1) break;
-          svg.appendChild(svgEl("line", { x1: PAD.left, y1: y, x2: W - PAD.right, y2: y,
-            stroke:"rgba(255,255,255,0.07)", "stroke-width":"1" }));
-          const lbl = svgEl("text", { x: PAD.left - 5, y: y + 4, "text-anchor":"end",
-            fill:"var(--ink-soft)", "font-size":"10" });
-          lbl.textContent = activeTab === "div" ? `${t}%` : activeTab === "vol" ? `${t}M` : t.toFixed(1);
-          svg.appendChild(lbl);
-        }
-
-        // x labels every 2 years
-        years.forEach((yr, i) => {
-          if (yr % 4 !== 0) return;
-          const bw = iw / N;
-          const cx = PAD.left + bw * i + bw / 2;
-          const lbl = svgEl("text", { x: cx, y: H - 6, "text-anchor":"middle",
-            fill:"var(--ink-soft)", "font-size":"10" });
-          lbl.textContent = yr;
-          svg.appendChild(lbl);
-        });
-
-        if (activeTab === "div" || activeTab === "vol") {
-          // Bar chart
-          const bw = iw / N - 2;
-          years.forEach((yr, i) => {
-            const v = vals[i]; if (v == null) return;
-            const barH = Math.abs(yv(v) - yv(0));
-            svg.appendChild(svgEl("rect", {
-              x: PAD.left + (iw / N) * i + 1,
-              y: yv(v), width: bw, height: Math.max(barH, 1),
-              fill: cfg.color, rx:"2", opacity:"0.85"
-            }));
-          });
-          // value labels on bars if space
-          if (N <= 25) {
-            years.forEach((yr, i) => {
-              const v = vals[i]; if (v == null) return;
-              const barTop = yv(v);
-              if (barTop < PAD.top + 14) return;
-              const lbl = svgEl("text", { x: PAD.left + (iw / N) * i + iw / N / 2, y: barTop - 3,
-                "text-anchor":"middle", fill:"var(--ink-dim)", "font-size":"9" });
-              lbl.textContent = cfg.fmt(v);
-              svg.appendChild(lbl);
-            });
-          }
-        } else {
-          // Beta — area + line chart
-          const bw = iw / N;
-          const areaPath = [`M ${PAD.left + bw * 0 + bw/2} ${yv(0)}`];
-          years.forEach((yr, i) => { areaPath.push(`L ${PAD.left + bw*i + bw/2} ${yv(vals[i])}`); });
-          areaPath.push(`L ${PAD.left + bw*(N-1) + bw/2} ${yv(0)} Z`);
-          svg.appendChild(svgEl("path", { d: areaPath.join(" "),
-            fill:`rgba(165,110,255,0.15)`, stroke:"none" }));
-
-          const pts = years.map((yr, i) => `${PAD.left + (iw/N)*i + iw/N/2},${yv(vals[i])}`).join(" ");
-          svg.appendChild(svgEl("polyline", { points: pts, fill:"none",
-            stroke: cfg.color, "stroke-width":"2", "stroke-linejoin":"round" }));
-
-          // beta = 1.0 reference line
-          if (vMin <= 1 && vMax >= 1) {
-            const y1 = yv(1.0);
-            svg.appendChild(svgEl("line", { x1: PAD.left, y1: y1, x2: W - PAD.right, y2: y1,
-              stroke:"rgba(255,200,100,0.5)", "stroke-width":"1.2", "stroke-dasharray":"5 4" }));
-            const betaLbl = svgEl("text", { x: W - PAD.right + 4, y: y1 + 4,
-              fill:"rgba(255,200,100,0.7)", "font-size":"9" });
-            betaLbl.textContent = "β=1";
-            svg.appendChild(betaLbl);
-          }
-
-          // dots
-          years.forEach((yr, i) => {
-            svg.appendChild(svgEl("circle", { cx: PAD.left + (iw/N)*i + iw/N/2, cy: yv(vals[i]),
-              r:"3.5", fill: cfg.color, stroke:"var(--surface)", "stroke-width":"1.5" }));
-          });
-        }
-
-        // hover overlay
-        const tipEl = document.getElementById(TIP_ID);
-        const overlay = svgEl("rect", { x: PAD.left, y: PAD.top, width: iw, height: ih,
-          fill:"transparent", style:"cursor:crosshair" });
-        overlay.addEventListener("mousemove", e => {
-          const rect = host.getBoundingClientRect();
-          const mx = e.clientX - rect.left - PAD.left;
-          const i  = Math.max(0, Math.min(N-1, Math.floor(mx / (iw / N))));
-          const yr = years[i];
-          const cx = PAD.left + (iw / N) * i + iw / N / 2;
-          const cy = PAD.top + ih / 2;
-
-          let xline = svg.querySelector(".sp-det-xline");
-          if (!xline) { xline = svgEl("line", { class:"sp-det-xline", "pointer-events":"none" }); svg.appendChild(xline); }
-          xline.setAttribute("x1", cx); xline.setAttribute("x2", cx);
-          xline.setAttribute("y1", PAD.top); xline.setAttribute("y2", PAD.top + ih);
-          xline.setAttribute("stroke","rgba(255,255,255,0.3)"); xline.setAttribute("stroke-width","1");
-          xline.setAttribute("stroke-dasharray","4 3");
-
-          const v = vals[i];
-          let html = `<div style="font-weight:700;margin-bottom:4px">${yr}</div>`;
-          html += `<div style="color:${cfg.color}">${cfg.label}: ${v != null ? cfg.fmt(v) : "—"}</div>`;
-          makeTip(tipEl, html, cx, cy, rect);
-        });
-        overlay.addEventListener("mouseleave", () => {
-          if (tipEl) tipEl.style.display = "none";
-          const xl = svg.querySelector(".sp-det-xline"); if (xl) xl.remove();
-        });
-        svg.appendChild(overlay);
-
-        document.getElementById("spDetailNote").textContent =
-          `${cfg.title} — ${years[0]}–${years[N-1]}. ${cfg.unit === "β" ? "β < 1.0 indicates lower volatility than S&P 500. Dashed line = market beta (β=1)." : "Hover a bar for the exact value."}`;
-      }
-
-      window.addEventListener("resize", draw);
-      draw();
-    })();
   }
 
   /* ====================================================================== */

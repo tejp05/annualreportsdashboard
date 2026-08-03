@@ -676,15 +676,37 @@ function buildChatPanel() {
     add("user", q);
     const pending = add("agent", "thinking…");
     try {
-      const r = await fetch(`${AGENT_URL}/chat`, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ question: q, thread_id: thread }),
-        signal: AbortSignal.timeout(120000),
-      });
-      if (!r.ok) throw new Error(`HTTP ${r.status}`);
-      const j = await r.json();
-      pending.textContent = j.answer || "(no answer)";
+      /* The OpenAI backend (agent/openai_agent.py) runs on Vercel, where
+         functions are stateless — so instead of driving this page through the
+         /commands long-poll, it hands browser tool calls back to us with an
+         opaque `state`. We run them here and post the results to continue the
+         same turn. Loop-capped so a model that keeps asking for browser tools
+         can't spin the page forever. The CUGA backend never sets
+         pendingBrowserCalls, so it just falls through on the first reply. */
+      let payload = { question: q, thread_id: thread };
+      let j = null;
+      for (let round = 0; round < 4; round++) {
+        const r = await fetch(`${AGENT_URL}/chat`, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(payload),
+          signal: AbortSignal.timeout(120000),
+        });
+        if (!r.ok) throw new Error(`HTTP ${r.status}`);
+        j = await r.json();
+        if (!j.pendingBrowserCalls || !j.pendingBrowserCalls.length) break;
+
+        pending.textContent = "Working on the page…";
+        const toolResults = [];
+        for (const call of j.pendingBrowserCalls) {
+          const out = await window.CUGA.invoke(call.tool, call.args || {});
+          toolResults.push(out.ok
+            ? { id: call.id, ok: true, result: out.result }
+            : { id: call.id, ok: false, error: out.error });
+        }
+        payload = { state: j.state, toolResults };
+      }
+      pending.textContent = (j && j.answer) || "(no answer)";
     } catch (err) {
       pending.textContent =
         "Agent unreachable. Start it with:  python agent/server.py  " +
