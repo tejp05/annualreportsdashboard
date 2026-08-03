@@ -2336,12 +2336,35 @@
         </svg>`;
       }
 
-      /* ── calculator ── */
+      /* ── calculator ──
+         "Value today" means today. The end price is the live quote when the
+         feed is up, falling back to the last year-end close only when it is
+         not — otherwise the calculator would keep valuing a position at a
+         stale December close while the price tile beside it shows live. */
+      function endPrice() {
+        const lq = window.__liveQuote;
+        return (lq && lq.price != null) ? lq.price : EV_PRICE[EV_END_YEAR];
+      }
+      function isLivePrice() {
+        const lq = window.__liveQuote;
+        return !!(lq && lq.price != null);
+      }
       function calcResult(amount, startYear) {
         const shares=amount/EV_PRICE[startYear];
-        const endValue=shares*EV_PRICE[EV_END_YEAR];
+        const endValue=shares*endPrice();
         const gain=endValue-amount;
         return {endValue, gain, gainPct:(gain/amount)*100, shares};
+      }
+      /* Growth series: historical year-end closes, with the live price as the
+         final point so the curve ends where the headline figure does. */
+      function calcSeries(amount, startYear) {
+        const shares=amount/EV_PRICE[startYear];
+        const pts=EV_YEARS.filter(y=>y>=startYear)
+          .map(y=>({year:y, value:Math.round(shares*EV_PRICE[y]*100)/100}));
+        if (isLivePrice()) {
+          pts.push({year:"now", value:Math.round(shares*endPrice()*100)/100});
+        }
+        return pts;
       }
 
       /* ── root container ── */
@@ -2351,25 +2374,21 @@
       let calcAmount=1000, calcStartYear=1985;
 
       function render() {
-        const priceDataEV=EV_YEARS.map(y=>({year:y,price:EV_PRICE[y]}));
         const cRes=calcResult(calcAmount,calcStartYear);
-        const calcData=EV_YEARS.filter(y=>y>=calcStartYear).map(y=>({
-          year:y, value:Math.round(cRes.shares*EV_PRICE[y]*100)/100
-        }));
+        const calcData=calcSeries(calcAmount,calcStartYear);
 
-        /* side-by-side */
         let body="";
         {
-          const mileSvg=svgChart({
-            data:priceDataEV, xKey:"year",
-            series:[{key:"price",color:eC.accent}],
-            width:560, height:340,
-            yFmt:v=>`$${v.toFixed(0)}`
-          });
+          /* The milestone-annotated price chart that used to sit here has been
+             removed: it plotted IBM's price history with M&A dots, which is
+             exactly the hero chart's default Stock Price layer plus its
+             Acquisitions layer — the same series drawn twice on one tab. The
+             calculator is the part of this section that is not duplicated
+             anywhere, so it now gets the full width. */
           const calcSvg=svgChart({
             data:calcData, xKey:"year",
             series:[{key:"value",color:eC.accent}],
-            width:560, height:300,
+            width:1120, height:300,
             yFmt:v=>`$${v>=1000?(v/1000).toFixed(0)+"k":v.toFixed(0)}`
           });
 
@@ -2378,27 +2397,7 @@
           body=`
             <div style="display:flex;gap:16px;flex-wrap:wrap;align-items:stretch">
 
-              <!-- LEFT — Milestone chart -->
-              <div style="flex:1;min-width:300px;background:${SURF2};border:1px solid ${BORDER};border-radius:10px;padding:18px 16px;display:flex;flex-direction:column;gap:12px">
-                <p class="ev-sub-title" style="margin:0">Milestone-Annotated Price</p>
-                <div style="overflow-x:auto;flex-shrink:0">
-                  <div style="min-width:340px;position:relative">
-                    ${mileSvg}
-                    <div class="ev-tip" id="evTipMile"></div>
-                  </div>
-                </div>
-                <div style="display:flex;flex-wrap:wrap;gap:5px">
-                  ${EV_MILESTONES.map(m=>`
-                    <div style="font-size:10.5px;background:${SURF};border:1px solid #1E2330;border-radius:6px;padding:4px 8px;color:#B8BCC8;font-family:${mono}">
-                      <span style="color:${eC.orange};font-weight:600">${m.year}</span> · ${m.label}
-                      <span style="color:${TICK}">(${m.detail})</span>
-                    </div>`).join("")}
-                </div>
-                <p class="ev-note" style="margin-top:auto;padding-top:8px;border-top:1px solid #1E2330">Price series anchored to verified year-end closes (macrotrends.net, 2012–2025), chained backward
-                using verified annual % changes. Orange dots = key M&amp;A events. Price return only.</p>
-              </div>
-
-              <!-- RIGHT — Investment Calculator -->
+              <!-- Investment Calculator (full width) -->
               <div style="flex:1;min-width:300px;background:${SURF2};border:1px solid ${BORDER};border-radius:10px;padding:18px 16px;display:flex;flex-direction:column;gap:12px">
                 <p class="ev-sub-title" style="margin:0">Investment Calculator</p>
                 <div style="display:flex;gap:10px;flex-wrap:wrap;align-items:flex-end">
@@ -2415,7 +2414,7 @@
                     </select>
                   </div>
                   <div style="flex:1;min-width:150px;background:${SURF};border:1px solid ${BORDER};border-radius:8px;padding:9px 14px">
-                    <div style="font-size:10px;color:${TICK};font-family:${mono}">Value today (${EV_END_YEAR})</div>
+                    <div style="font-size:10px;color:${TICK};font-family:${mono}" id="evCalcAsOf">${isLivePrice() ? `Value now · live $${endPrice().toFixed(2)}` : `Value at ${EV_END_YEAR} close`}</div>
                     <div id="evCalcValue" style="font-size:18px;font-weight:600;font-family:${mono}">$${cRes.endValue.toLocaleString(undefined,{maximumFractionDigits:0})}</div>
                     <div id="evCalcGain" style="font-size:11px;font-family:${mono};color:${cRes.gain>=0?eC.green:eC.red}">
                       ${cRes.gain>=0?"+":""}${cRes.gainPct.toFixed(1)}%
@@ -2430,7 +2429,8 @@
                   </div>
                 </div>
                 <p class="ev-note" style="margin-top:auto;padding-top:8px;border-top:1px solid #1E2330">Price return only — dividends not reinvested; real returns would be higher.
-                Uses the same reconstructed price series as the chart on the left.</p>
+                Entry prices are verified year-end closes (macrotrends.net, 2012–2025), chained backward using verified annual % changes.
+                The closing value uses the live quote when the feed is up, so it moves with the market during the session.</p>
               </div>
             </div>
           `;
@@ -2459,10 +2459,14 @@
             const y=Number(yrSelect.value);
             calcAmount=a; calcStartYear=y;
             const r=calcResult(a,y);
-            const calcDataNew=EV_YEARS.filter(yr=>yr>=y).map(yr=>({year:yr,value:Math.round((a/EV_PRICE[y])*EV_PRICE[yr]*100)/100}));
+            const calcDataNew=calcSeries(a,y);
             document.getElementById("evCalcValue").textContent=`$${r.endValue.toLocaleString(undefined,{maximumFractionDigits:0})}`;
             document.getElementById("evCalcGain").textContent=`${r.gain>=0?"+":""}${r.gainPct.toFixed(1)}% (${r.gain>=0?"+":"-"}$${Math.abs(r.gain).toLocaleString(undefined,{maximumFractionDigits:0})})`;
             document.getElementById("evCalcGain").style.color=r.gain>=0?eC.green:eC.red;
+            const asOf=document.getElementById("evCalcAsOf");
+            if(asOf) asOf.textContent = isLivePrice()
+              ? `Value now · live $${endPrice().toFixed(2)}`
+              : `Value at ${EV_END_YEAR} close`;
             /* redraw calc svg inline */
             const calcWrap=document.getElementById("evCalcValue").closest("[style*='flex:1']");
             if(calcWrap){
@@ -2471,7 +2475,7 @@
                 const newSvg=svgChart({
                   data:calcDataNew, xKey:"year",
                   series:[{key:"value",color:eC.accent}],
-                  width:420, height:230,
+                  width:1120, height:230,
                   yFmt:v=>`$${v>=1000?(v/1000).toFixed(0)+"k":v.toFixed(0)}`
                 });
                 svgWrap.innerHTML=newSvg+`<div class="ev-tip" id="evTipCalc"></div>`;
@@ -2481,11 +2485,12 @@
           }
           amtInput.addEventListener("input",updateCalc);
           yrSelect.addEventListener("change",updateCalc);
+          /* Refresh the valuation whenever a new quote lands, so "Value now"
+             tracks the same 60s cycle as the ticker rather than freezing at
+             whatever the price was when this section first rendered. */
+          window.addEventListener("ibm-live-quote", updateCalc);
 
-          /* milestone dot tooltips */
-          addSvgTooltip(root.querySelector("[style*='min-width:340px']"),"evTipMile");
           addSvgTooltip(root.querySelector("[style*='min-width:280px']"),"evTipCalc");
-          addSvgDotTooltips(root.querySelector("#evTipMile"));
         }
       }
 
@@ -3486,83 +3491,6 @@
     };
     const avgTarget = SNAP.analystTargets.reduce((a,t) => a+t.target, 0) / SNAP.analystTargets.length;
 
-    // ── Multi-decade market cap sparkline ────────────────────────────────
-    // Built from the same fin[] series used everywhere else, so it updates
-    // automatically whenever the pipeline reruns. Current estimate appended
-    // as the final live dot.
-    function buildSparkline() {
-      const mcRows = fin.filter(r => r.marketCap != null && r.year >= 1984)
-                        .map(r => ({ year: r.year, mc: r.marketCap / 1000 })); // → $B
-      // append live estimate if available
-      const lq = window.__liveQuote;
-      if (lq && lq.capEstM != null) {
-        mcRows.push({ year: "now", mc: lq.capEstM / 1000, live: true });
-      }
-      if (mcRows.length < 2) return "";
-
-      const W = 600, H = 80, ml = 0, mr = 40, mt = 8, mb = 20;
-      const pw = W - ml - mr, ph = H - mt - mb;
-      const vals = mcRows.map(r => r.mc);
-      const yMin = 0, yMax = Math.max(...vals) * 1.08;
-      const n = mcRows.length;
-      const px = i => ml + (i / (n - 1)) * pw;
-      const py = v => mt + ph - (v / yMax) * ph;
-
-      // grid line at current value
-      const curMc = SNAP.marketCap;
-      const curY  = py(curMc).toFixed(1);
-
-      let pts = mcRows.map((r, i) => `${i===0?"M":"L"}${px(i).toFixed(1)},${py(r.mc).toFixed(1)}`).join(" ");
-      // area fill
-      const areaD = `${pts} L${px(n-1).toFixed(1)},${(mt+ph).toFixed(1)} L${ml},${(mt+ph).toFixed(1)} Z`;
-
-      // year tick labels — only a handful
-      const tickYears = [1984, 1990, 2000, 2010, 2020];
-      const ticks = mcRows.map((r, i) => {
-        if (!tickYears.includes(r.year)) return "";
-        return `<text x="${px(i).toFixed(1)}" y="${H}" text-anchor="middle"
-          fill="#4b5563" font-size="9" font-family="IBM Plex Mono,monospace">${r.year}</text>`;
-      }).join("");
-
-      // live dot
-      const lastIdx = n - 1;
-      const lastRow = mcRows[lastIdx];
-      const dotColor = lastRow.live ? "#4589ff" : "#6b7280";
-      const dotLabel = lastRow.live
-        ? `$${lastRow.mc.toFixed(0)}B live`
-        : `$${lastRow.mc.toFixed(0)}B`;
-
-      return `
-        <div>
-          <div style="font-size:10px;color:var(--ink-dim);text-transform:uppercase;letter-spacing:.1em;
-            font-family:var(--mono);margin-bottom:4px">Market cap 1984 – now · USD billions · annual year-end</div>
-          <svg width="100%" viewBox="0 0 ${W} ${H}" preserveAspectRatio="xMidYMid meet"
-               style="display:block;overflow:visible">
-            <defs>
-              <linearGradient id="mcSparkGrad" x1="0" y1="0" x2="0" y2="1">
-                <stop offset="0%" stop-color="#4589ff" stop-opacity="0.25"/>
-                <stop offset="100%" stop-color="#4589ff" stop-opacity="0.02"/>
-              </linearGradient>
-            </defs>
-            <!-- current level reference line -->
-            <line x1="${ml}" x2="${W-mr}" y1="${curY}" y2="${curY}"
-              stroke="#4589ff" stroke-width="1" stroke-dasharray="3 3" opacity="0.4"/>
-            <text x="${(W-mr+3).toFixed(0)}" y="${(parseFloat(curY)+3.5).toFixed(1)}"
-              fill="#4589ff" font-size="9" font-family="IBM Plex Mono,monospace">$${curMc.toFixed(0)}B</text>
-            <!-- area + line -->
-            <path d="${areaD}" fill="url(#mcSparkGrad)"/>
-            <path d="${pts}" fill="none" stroke="#4589ff" stroke-width="1.5"
-              stroke-linejoin="round" stroke-linecap="round"/>
-            <!-- live dot -->
-            <circle cx="${px(lastIdx).toFixed(1)}" cy="${py(lastRow.mc).toFixed(1)}"
-              r="4" fill="${dotColor}" stroke="#0d1117" stroke-width="1.5"/>
-            <text x="${(px(lastIdx)+6).toFixed(1)}" y="${(py(lastRow.mc)+3.5).toFixed(1)}"
-              fill="${dotColor}" font-size="9" font-family="IBM Plex Mono,monospace">${dotLabel}</text>
-            ${ticks}
-          </svg>
-        </div>`;
-    }
-
     // ── helpers ──────────────────────────────────────────────────────────
     const lbl = (text, tip) => `
       <div style="font-size:10px;color:var(--ink-dim);text-transform:uppercase;letter-spacing:.15em;margin-bottom:12px;font-family:var(--mono);display:flex;align-items:center;gap:5px">
@@ -3718,10 +3646,11 @@
                </div>
                <div style="font-size:12px;color:var(--ink-soft);line-height:1.5">${rp.toFixed(0)}th percentile of 52-week range</div>`,
               "52-week low–high range · dot = current price position")}
-            <!-- multi-decade sparkline fills the remaining blank space -->
-            <div style="background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:14px 18px">
-              ${buildSparkline()}
-            </div>
+            <!-- The multi-decade market-cap sparkline that filled this space
+                 has been removed: it plotted the same series as the hero
+                 chart's Market Cap layer, on the same tab. What is left in
+                 this card (52-week range, all-time high, analyst targets, the
+                 big-moves log) exists nowhere else. -->
           </div>
           ${card("Analyst Price Targets — Revision History",
             `<div style="display:flex;gap:20px;flex-wrap:wrap;margin-top:4px;align-items:flex-start">${targetRows}</div>`,
@@ -5975,65 +5904,9 @@
       // deal (type undefined) used to slip through as a false "acquisition".
       .filter(p => p.type === "acquisition");
 
-    function buildVerdictHTML() {
-      if (!verdictDeals.length) return "";
-      const valued     = verdictDeals.filter(p => p.valueMillions);
-      const beatValued = valued.filter(p => p.alpha >= 0);
-      const missValued = valued.filter(p => p.alpha <  0);
-      const beatCount  = beatValued.length;
-      const missCount  = missValued.length;
-      const beatSpend  = beatValued.reduce((s,p) => s + p.valueMillions, 0);
-      const missSpend  = missValued.reduce((s,p) => s + p.valueMillions, 0);
-      const measured$  = beatSpend + missSpend;
-      const wAlpha     = valued.reduce((s,p) => s + p.alpha * p.valueMillions, 0) / measured$;
-      const fmtB  = m => m >= 1000 ? `$${(m/1000).toFixed(1)}B` : `$${m}M`;
-      const sign  = n => n >= 0 ? "+" : "";
-      const aCol  = n => n >= 0 ? "#42be65" : "#fa4d56";
-
-      const eraRows = ERAS.map(e => {
-        const inEra  = verdictDeals.filter(p => p.year >= e.from && p.year <= e.to);
-        if (!inEra.length) return "";
-        const eraVal = inEra.filter(p => p.valueMillions);
-        const era$   = eraVal.reduce((s,p) => s + p.valueMillions, 0);
-        const eraA   = era$ > 0
-          ? eraVal.reduce((s,p) => s + p.alpha * p.valueMillions, 0) / era$
-          : inEra.reduce((s,p) => s + p.alpha, 0) / inEra.length;
-        const eraBeat = inEra.filter(p => p.alpha >= 0).length;
-        const verdict = eraA >= 10 ? "Created value" : eraA >= 0 ? "Tracked market" : "Lagged market";
-        return `<div class="ma-verdict-era-row">
-          <span class="ma-verdict-era-name" style="color:${e.color}">${e.label}</span>
-          <span class="ma-verdict-era-deals">${eraBeat}/${inEra.length} beat</span>
-          <span class="ma-verdict-era-spend">${era$ > 0 ? fmtB(era$) : "—"} measured</span>
-          <span class="ma-verdict-era-alpha" style="color:${aCol(eraA)}">${sign(eraA)}${eraA.toFixed(0)}pp</span>
-          <span class="ma-verdict-chip ${eraA >= 0 ? "beat" : "miss"}">${verdict}</span>
-        </div>`;
-      }).join("");
-
-      return `
-      <div class="ma-verdict-card">
-        <p class="ma-ins-desc" style="margin-bottom:18px">${verdictDeals.length} deals have measurable 2-year stock performance vs benchmark (indexed 6 months before close). The dollar figures below cover the ${valued.length} of those with a disclosed deal value, size-weighted.</p>
-        <div class="ma-verdict-grid">
-          <div class="ma-verdict-stat">
-            <div class="ma-verdict-val" style="color:#42be65">${fmtB(beatSpend)}</div>
-            <div class="ma-verdict-lbl">deployed into deals that <strong>beat</strong> the market · ${beatCount} of ${valued.length} valued deals</div>
-          </div>
-          <div class="ma-verdict-stat">
-            <div class="ma-verdict-val" style="color:#fa4d56">${fmtB(missSpend)}</div>
-            <div class="ma-verdict-lbl">deployed into deals that <strong>lagged</strong> the market · ${missCount} of ${valued.length} valued deals</div>
-          </div>
-          <div class="ma-verdict-stat">
-            <div class="ma-verdict-val" style="color:${aCol(wAlpha)}">${sign(wAlpha)}${wAlpha.toFixed(0)}pp</div>
-            <div class="ma-verdict-lbl">size-weighted 2-yr alpha across ${fmtB(measured$)} of measured deals</div>
-          </div>
-        </div>
-        <div class="ma-verdict-explain">
-          <strong>How to read “X/N beat.”</strong> Each deal is scored by IBM's <em>own</em> total stock return over the two years around it (starting six months before close) versus the benchmark — so it reflects how IBM's share price did against the tech sector in that window, <em>not</em> the acquired company's standalone performance. Deals that closed in the same window therefore share the same score. An era showing “0 beat” means IBM stock trailed the benchmark in <em>every</em> one of those windows — e.g. across 2012–2019 IBM was roughly flat while the tech index more than doubled — which drags every deal negative regardless of the individual acquisition's merit. Read it as a market-timing lens on IBM's stock, not a verdict on each business bought.
-        </div>
-        <div class="ma-verdict-eras">${eraRows}</div>
-        <p class="ma-verdict-caveat">Method: IBM total return minus benchmark (XLK from 1999, S&amp;P 500 Total Return before — dividends reinvested on both sides; pre-1988 reconstructed from Shiller data, see ROLM's era card above) over the two years starting six months pre-close — a market-relative lens, not deal-level P&amp;L. The fixed 2-year window penalises long-horizon bets: Red Hat's window closes mid-2021, before hybrid-cloud strategy fully showed up in results. See the Alpha Leaderboard below for every deal. Note: these are per-deal 2-year windows — a different lens from the whole-era CAGR alpha shown when you open an era card above, so the two won't match.</p>
-        <p class="ma-ins-disclaimer">Confluent (Mar 2026, $11.6B) is not included — measuring a deal's 2-year return versus the market requires two years of post-close trading, so Confluent won't be eligible until around 2028.</p>
-      </div>`;
-    }
+    // buildVerdictHTML() removed with the Verdict tab. verdictDeals above is
+    // kept: the Alpha Leaderboard still uses its count to explain why it lists
+    // more windows than the acquisition-only set.
 
     document.getElementById("panel-ma").innerHTML = `
       <div class="hero">
@@ -6168,17 +6041,17 @@
         <div class="ma-insights-header">
           <div class="ma-insights-title">Deal Intelligence</div>
           <div class="ma-insights-tabs">
-            <button class="ma-ins-tab active" data-ins="verdict">The Verdict</button>
-            <button class="ma-ins-tab" data-ins="bar">Annual Spend</button>
+            <button class="ma-ins-tab active" data-ins="bar">Annual Spend</button>
             <button class="ma-ins-tab" data-ins="scatter">Boldness Map</button>
             <button class="ma-ins-tab" data-ins="alpha">Alpha Leaderboard</button>
             <button class="ma-ins-tab" data-ins="catmix">Category Mix</button>
           </div>
         </div>
 
-        <div class="ma-ins-panel" id="maInsVerdict">${buildVerdictHTML()}</div>
+        <!-- "The Verdict" panel removed on request. Annual Spend is now the
+             default view, so it starts visible rather than display:none. -->
 
-        <div class="ma-ins-panel" id="maInsBar" style="display:none">
+        <div class="ma-ins-panel" id="maInsBar">
           <p class="ma-ins-desc">Total acquisition spend per year, coloured by CEO era. Hover for deal breakdown.</p>
           <div class="ma-annbar-wrap">
             <svg id="maAnnBar" class="ma-annbar-svg"></svg>
@@ -6196,7 +6069,7 @@
         </div>
 
         <div class="ma-ins-panel" id="maInsAlpha" style="display:none">
-          <p class="ma-ins-desc">All deals with 2-year stock return data, ranked by alpha — IBM's total return minus the benchmark's over the two years around each deal. This is a market-relative lens on IBM's <em>own</em> stock in that window, not the acquired company's standalone performance, so deals that closed in the same window share the same figure. Positive = IBM stock beat the benchmark over that stretch; negative = it lagged. This lists all ${measurablePerf.length} windows, including the ${measurablePerf.length - verdictDeals.length} the Verdict scorecard excludes because they aren't acquisitions — the Kyndryl spin-off, the Lenovo PC divestiture, and two older divestitures (ROLM&nbsp;→&nbsp;Siemens, Information&nbsp;Products&nbsp;→&nbsp;Lexmark) that aren't in the curated deals list. That's why this shows ${measurablePerf.length} where the Verdict counts ${verdictDeals.length}.</p>
+          <p class="ma-ins-desc">All deals with 2-year stock return data, ranked by alpha — IBM's total return minus the benchmark's over the two years around each deal. This is a market-relative lens on IBM's <em>own</em> stock in that window, not the acquired company's standalone performance, so deals that closed in the same window share the same figure. Positive = IBM stock beat the benchmark over that stretch; negative = it lagged. This lists all ${measurablePerf.length} windows, including the ${measurablePerf.length - verdictDeals.length} that are not acquisitions — the Kyndryl spin-off, the Lenovo PC divestiture, and two older divestitures (ROLM&nbsp;→&nbsp;Siemens, Information&nbsp;Products&nbsp;→&nbsp;Lexmark) that aren't in the curated deals list. Only ${verdictDeals.length} of these are acquisitions.</p>
           <div class="ma-alpha-controls">
             <button class="ma-alpha-sort active" data-sort="alpha">Sort: Alpha ↓</button>
             <button class="ma-alpha-sort" data-sort="ibm">Sort: IBM Return ↓</button>
@@ -7478,7 +7351,7 @@
     }
 
     // ── Insights panel tab switching ───────────────────────────────────────
-    const INS_MAP = { verdict: "maInsVerdict", bar: "maInsBar", scatter: "maInsScatter", alpha: "maInsAlpha", catmix: "maInsCatMix" };
+    const INS_MAP = { bar: "maInsBar", scatter: "maInsScatter", alpha: "maInsAlpha", catmix: "maInsCatMix" };
     document.querySelectorAll(".ma-ins-tab").forEach(btn => {
       btn.addEventListener("click", () => {
         document.querySelectorAll(".ma-ins-tab").forEach(b => b.classList.remove("active"));

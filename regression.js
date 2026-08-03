@@ -484,12 +484,36 @@ const PRESET_GROUPS = [
   { id: "curved",   label: "Curved & compounding", icon: "⤴", hint: "where a log / power / quadratic model beats the straight line" },
   { id: "lagged",   label: "Lagged & cautionary", icon: "⏳", hint: "delayed effects — and traps to respect" },
 ];
+/* Every preset below was checked against the actual dataset before being
+   listed: each one has enough overlapping observations to fit, and the sign of
+   its correlation matches the group it sits in. Three earlier presets did not
+   survive that check and were replaced —
+     - "Buyback era: equity ↓ EPS ↑" was filed as inverse but measures r = +0.39
+       over 1993–2002 (and −0.14 across all years): book equity and EPS did not
+       move opposite each other, so the story it told was not in the data.
+     - "Interest rates → IBM's P/E" measured only r = −0.23. The discount-rate
+       effect is real but lands far more clearly on market cap (r = −0.58), so
+       that is what it now regresses.
+     - "SW ARR → Software rev" had n = 3, below the 4-observation minimum, so it
+       could only ever render the "need more observations" error.
+   If you add a preset, re-run the same check — a button that renders an error
+   or contradicts its own label is worse than no button. */
 const PRESETS = [
   // ---- strong positive ------------------------------------------------------
   {
-    label: "R&D → Software revenue", rel: "positive",
-    spec: { xKey: "rdExpense", yKey: "swRev", lag: 0, era: "hybrid" },
-    story: "IBM's software-first bet: does growing R&D investment — up from $6.5B (2021) to $8.3B (2025) — translate directly into Software segment revenue?"
+    label: "Revenue → net income", rel: "positive",
+    spec: { xKey: "revenue", yKey: "netIncome", lag: 0, era: "all" },
+    story: "The most basic question a company can be asked, over 86 years: how much of each additional revenue dollar reaches the bottom line? The spread around the fit is the story — the same revenue supported wildly different profits in the mainframe monopoly, the 1993 crisis and the software era."
+  },
+  {
+    label: "ROE → price/book", rel: "positive",
+    spec: { xKey: "roe", yKey: "pb", lag: 0, era: "all" },
+    story: "The textbook valuation relationship: a company earning more on its equity should trade at a higher multiple of book value. Four decades of IBM against that rule — one of the tightest fits in this dataset."
+  },
+  {
+    label: "Net income → market cap", rel: "positive",
+    spec: { xKey: "netIncome", yKey: "marketCap", lag: 0, era: "all" },
+    story: "Does the market pay for earnings? Since 1984, IBM's profit against what investors valued the whole company at. Watch where the points sit above the line (paying for growth) versus below it (paying for decline)."
   },
   {
     label: "S&P 500 → IBM market cap", rel: "positive",
@@ -502,25 +526,25 @@ const PRESETS = [
     story: "Cash is king? Three decades of free cash flow against what the market was willing to pay for the company at each year-end."
   },
   {
-    label: "Software mix → net margin", rel: "positive",
-    spec: { xKey: "swPct", yKey: "netMargin", lag: 0, era: "hybrid" },
-    story: "As the revenue mix shifts toward ~83%-gross-margin Software, does the whole company's net margin expand in proportion? The core 'pivot to software' thesis."
+    label: "R&D → Software revenue", rel: "positive",
+    spec: { xKey: "rdExpense", yKey: "swRev", lag: 0, era: "hybrid" },
+    story: "IBM's software-first bet: does growing R&D investment translate into Software segment revenue? Segment reporting only starts in 2021, so this fits just 5 points — a tight-looking line on almost no data. Treat it as illustrative, not evidence."
   },
   // ---- inverse ----------------------------------------------------------------
   {
-    label: "Buyback era: equity ↓ EPS ↑", rel: "negative",
-    spec: { xKey: "stockholdersEquity", yKey: "epsDiluted", lag: 0, era: "gerstner" },
-    story: "1993–2002: IBM bought back stock so aggressively that book equity shrank while EPS climbed — a negative slope that tells a capital-allocation story, not an operating one."
+    label: "Interest rates → market cap", rel: "negative",
+    spec: { xKey: "treasury10yr", yKey: "marketCap", lag: 0, era: "all" },
+    story: "The discount-rate story: when the 10-year Treasury yield rises, future earnings are worth less today and valuations should compress. Four decades of rates against IBM's market cap — the clearest inverse relationship in this dataset that isn't just an accounting identity."
   },
   {
-    label: "Interest rates → IBM's P/E", rel: "negative",
-    spec: { xKey: "treasury10yr", yKey: "pe", lag: 0, era: "all" },
-    story: "The discount-rate story: when the 10-year Treasury yield rises, future earnings are worth less today and multiples should compress. Six decades of rates against IBM's P/E."
+    label: "Debt → asset turnover", rel: "negative",
+    spec: { xKey: "totalDebt", yKey: "assetTurnover", lag: 0, era: "all" },
+    story: "IBM's balance sheet carries a financing arm, so debt funds customer receivables as well as operations. As that debt grew, each dollar of assets generated less revenue. Note the denominator link — assets sit under turnover — so read this as balance-sheet composition, not an operating verdict."
   },
   {
     label: "Headcount → rev / employee", rel: "negative",
-    spec: { xKey: "employees", yKey: "revPerEmployee", lag: 0, era: "gerstner" },
-    story: "The services-era efficiency drive: as headcount was restructured, did revenue per employee move the other way? An inverse pairing where the ratio's denominator does part of the work — read the slope with that in mind."
+    spec: { xKey: "employees", yKey: "revPerEmployee", lag: 0, era: "all" },
+    story: "Across 1957–2013: as headcount grew, revenue per head fell. An inverse pairing where the ratio's denominator does part of the work — read the slope with that in mind. Headcount disclosure stops in 2013, which is why the series ends there."
   },
   // ---- curved & compounding -----------------------------------------------------
   {
@@ -547,12 +571,12 @@ const PRESETS = [
   {
     label: "R&D → EPS, 2-year lag", rel: "lagged",
     spec: { xKey: "rdExpense", yKey: "epsDiluted", lag: 2, era: "all" },
-    story: "Research is supposed to pay off later. Does R&D spending predict diluted EPS two years down the road? (R&D coverage starts 1990.)"
+    story: "Research is supposed to pay off later — but across 1990–2023 this pairing measures essentially zero correlation. A genuine null result, and a useful one: it shows that a plausible mechanism plus a plausible lag does not guarantee a relationship you can measure at annual resolution."
   },
   {
-    label: "SW ARR → Software rev (lag 1)", rel: "lagged",
-    spec: { xKey: "softwareARR", yKey: "swRev", lag: 1, era: "hybrid" },
-    story: "ARR is committed, forward-looking revenue. Does this year's Software ARR predict next year's recognized Software revenue? (ARR disclosed 2022–2025, so n is tiny.)"
+    label: "M&A spend → revenue, 2-yr lag", rel: "lagged",
+    spec: { xKey: "maSpend", yKey: "revenue", lag: 2, era: "all" },
+    story: "If acquisitions bought growth, spending should lead revenue. Over 1984–2023 the slope comes out negative — IBM's heaviest deal years were followed by lower revenue, because the biggest spends came during the decline the deals were meant to arrest. Direction of causation is the whole question here; the regression cannot settle it."
   },
   {
     label: "Nasdaq → M&A spend (trap)", rel: "lagged",
