@@ -5452,7 +5452,16 @@
       const TIP_ID  = "spReturnTip";
       const PAD = { top: 24, right: 20, bottom: 40, left: 52 };
 
-      let ALL_YEARS = Object.keys(ibmTR).filter(k => !k.startsWith("_")).map(Number).sort((a,b) => a-b);
+      /* Both series must have a value for a year to appear here. This chart is
+         a comparison — an IBM bar with no market bar beside it says nothing
+         about outperformance — and, more concretely, keying only off ibmTR
+         (1971+) against an sp5TR that starts 1989 put 18 undefineds into the
+         value array. Math.min/Math.max over that returns NaN, which propagated
+         through vMin/vMax into every bar's y and height: 94 of 98 bars rendered
+         as y="NaN" height="NaN", i.e. an empty chart. */
+      const bothPresent = y => Number.isFinite(ibmTR[y]) && Number.isFinite(sp5TR[y]);
+      let ALL_YEARS = Object.keys(ibmTR).filter(k => !k.startsWith("_")).map(Number)
+        .filter(bothPresent).sort((a,b) => a-b);
       let YEARS = ALL_YEARS.slice();
       const ibmVisible  = { ibm: true, sp500: true };
       let   cumulative  = false;
@@ -5511,23 +5520,36 @@
         const sp5Cum   = cumulativeSeries(sp5Vals);
 
         let vMin, vMax;
+        /* Drop non-finite values before scaling. ALL_YEARS already guarantees
+           both series are present, so this should never bite — but one missing
+           year silently turned Math.min/Math.max into NaN and blanked the whole
+           chart once already, and that failure is invisible: the bars are still
+           in the DOM, just positioned at NaN. Cheap insurance against a repeat. */
+        const finite = arr => arr.filter(Number.isFinite);
         if (cumulative) {
-          const allV = [...(ibmVisible.ibm ? ibmCum : []), ...(ibmVisible.sp500 ? sp5Cum : [])];
+          const allV = finite([...(ibmVisible.ibm ? ibmCum : []), ...(ibmVisible.sp500 ? sp5Cum : [])]);
+          if (!allV.length) return;
           vMin = Math.min(...allV) * 0.9;
           vMax = Math.max(...allV) * 1.08;
         } else {
-          const allV = [...(ibmVisible.ibm ? ibmVals : []), ...(ibmVisible.sp500 ? sp5Vals : [])];
+          const allV = finite([...(ibmVisible.ibm ? ibmVals : []), ...(ibmVisible.sp500 ? sp5Vals : [])]);
           vMin = Math.min(...allV, 0) * 1.1;
           vMax = Math.max(...allV, 0) * 1.12;
         }
+        if (!Number.isFinite(vMin) || !Number.isFinite(vMax) || vMin === vMax) return;
 
         function yv(v) { return PAD.top + ih - (v - vMin) / (vMax - vMin) * ih; }
         const y0 = Math.max(PAD.top, Math.min(PAD.top + ih, yv(0)));
 
         // recession bands (annual)
-        recessions.filter(r => r.end >= 2000 && r.start <= latestYear).forEach(r => {
-          const x0i = Math.max(0, r.start - 2000);
-          const x1i = Math.min(N - 1, r.end - 2000);
+        /* Index off the array's own first year, not a hardcoded 2000. With
+           YEARS starting in 1989 the old arithmetic placed every band 11 slots
+           to the right of the recession it marks, and the window buttons
+           (20yr/10yr/5yr) shifted it further each time. */
+        const firstYear = YEARS[0];
+        recessions.filter(r => r.end >= firstYear && r.start <= YEARS[N - 1]).forEach(r => {
+          const x0i = Math.max(0, r.start - firstYear);
+          const x1i = Math.min(N - 1, r.end - firstYear);
           const bw  = (iw / N) * (x1i - x0i + 1);
           const bx  = PAD.left + (iw / N) * x0i;
           svg.appendChild(svgEl("rect", { x: bx, y: PAD.top, width: bw, height: ih,
@@ -5655,11 +5677,17 @@
         const partialTail = latestYear >= new Date().getFullYear()
           ? ` ${latestYear} is year-to-date, not a full year — its bar covers Jan 1 to the latest close only.`
           : "";
+        /* Ranges come from the data, not a hardcoded 2000 — the window buttons
+           change the span, and the series itself starts in 1989. */
+        const from = YEARS[0], to = YEARS[N - 1];
+        const coverage = ALL_YEARS[0] > Math.min(...Object.keys(ibmTR).filter(k => !k.startsWith("_")).map(Number))
+          ? ` Starts ${ALL_YEARS[0]} because that is where the S&P 500 total-return series begins; IBM's own history runs earlier but has no market series to be compared against.`
+          : "";
         document.getElementById("spReturnNote").textContent =
           (cumulative
-            ? `Cumulative growth of $100 invested Jan 1 2000, dividends reinvested. 2000–${latestYear}.`
-            : `Calendar-year total return (%), dividends reinvested. Positive = green, negative = red/blue shade. 2000–${latestYear}.`)
-          + partialTail;
+            ? `Cumulative growth of $100 invested Jan 1 ${from}, dividends reinvested. ${from}–${to}.`
+            : `Calendar-year total return (%), dividends reinvested. Positive = green, negative = red/blue shade. ${from}–${to}.`)
+          + partialTail + coverage;
       }
 
       // Registered globally so the macro tab can redraw once the panel is
