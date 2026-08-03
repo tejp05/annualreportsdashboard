@@ -3483,6 +3483,13 @@
       const price     = (lqSnap && lqSnap.price    != null) ? lqSnap.price    : SNAP.price;
       const marketCap = (lqSnap && lqSnap.capEstM  != null) ? lqSnap.capEstM / 1000 : SNAP.marketCap;
       const rp     = Math.max(0, Math.min(100, ((price - SNAP.low52) / (SNAP.high52 - SNAP.low52)) * 100));
+      // Correct ordinal suffix — a bare "th" rendered "1th percentile".
+      // 11/12/13 take "th" despite ending in 1/2/3, hence the teens check.
+      const ordinal = n => {
+        const i = Math.round(n), t = i % 100;
+        if (t >= 11 && t <= 13) return i + "th";
+        return i + ({ 1: "st", 2: "nd", 3: "rd" }[i % 10] || "th");
+      };
       const vsAth  = ((price - SNAP.ath) / SNAP.ath * 100).toFixed(1);
       const vsAvg  = ((avgTarget - price) / price * 100).toFixed(1);
       const vsAthColor = price < SNAP.ath ? "var(--down)" : "var(--up)";
@@ -3609,7 +3616,7 @@
             ${card("52-Week Range",
               `<div style="margin:4px 0 10px">
                  <div style="height:4px;background:var(--line);border-radius:2px;position:relative;margin-bottom:8px">
-                   <div title="$${price.toFixed(2)} — ${rp.toFixed(1)}th percentile"
+                   <div title="$${price.toFixed(2)} — ${ordinal(rp)} percentile"
                      style="position:absolute;left:${rp}%;top:50%;transform:translate(-50%,-50%);
                      width:14px;height:14px;border-radius:50%;background:#4589ff;border:2px solid var(--surface);cursor:help"></div>
                  </div>
@@ -3617,7 +3624,7 @@
                    <span>$${SNAP.low52}</span><span>$${SNAP.high52}</span>
                  </div>
                </div>
-               <div style="font-size:12px;color:var(--ink-soft);line-height:1.5">${rp.toFixed(0)}th percentile of 52-week range</div>`,
+               <div style="font-size:12px;color:var(--ink-soft);line-height:1.5">${ordinal(rp)} percentile of 52-week range</div>`,
               "52-week low–high range · dot = current price position")}
             <!-- The multi-decade market-cap sparkline that filled this space
                  has been removed: it plotted the same series as the hero
@@ -3691,6 +3698,12 @@
     }
 
     render();
+    /* render() already prefers window.__liveQuote, but it runs once at build
+       time — before the async quote resolves — and nothing re-ran it. That is
+       why this card sat on the Jul 22 close showing $193.4B while the hero KPI
+       beside it showed the live $215.5B: a ~$22B disagreement between two
+       tiles on the same screen. Re-render whenever a quote lands. */
+    window.addEventListener("ibm-live-quote", render);
   }
 
   /* ====================================================================== */
@@ -8642,6 +8655,12 @@
     }
 
     /* ---- Boot ----------------------------------------------------------- */
-    /* No auto-render — intelDynamicContent is hidden until a segment is clicked */
+    /* Select the first segment up front. Leaving nothing selected meant the tab
+       opened as three buttons over an empty page — intelDynamicContent starts
+       display:none, and nothing on screen told you a click was required. The
+       analysis (SWOT, comparative table, Five Forces, Ansoff, BCG, position
+       map) only existed after a click most visitors had no reason to make.
+       Software is the default because it is IBM's largest segment. */
+    if (segBtns.length) segBtns[0].click();
    } catch (e) { console.error("Competitors tab failed to initialize:", e); }
   })();
