@@ -2228,15 +2228,8 @@
         2021:109.19,2022:118.68,2023:143.94,2024:203.03,2025:278.96
       };
 
-      const EV_MILESTONES = [
-        {year:1995,label:"Lotus Development",detail:"$3.52B acquisition"},
-        {year:1996,label:"Tivoli Systems",detail:"Acquisition"},
-        {year:2002,label:"PwC Consulting",detail:"$3.474B acquisition"},
-        {year:2003,label:"Rational Software",detail:"Acquisition"},
-        {year:2019,label:"Red Hat",detail:"$34B acquisition"},
-        {year:2021,label:"Kyndryl Spinoff",detail:"Managed infra. spun off"},
-        {year:2024,label:"HashiCorp",detail:"$6.4B acquisition"}
-      ];
+      // EV_MILESTONES removed with the milestone chart; the hero chart's
+      // Acquisitions layer is where deal markers live now.
 
       const EV_YEARS = Object.keys(EV_PRICE).map(Number).sort((a,b)=>a-b);
       const EV_END_YEAR = EV_YEARS[EV_YEARS.length-1];
@@ -2307,13 +2300,9 @@
           refLine=`<line x1="${ml}" x2="${ml+W}" y1="${y0}" y2="${y0}" stroke="${AXIS}" stroke-width="1"/>`;
         }
 
-        let dotMarks="";
-        EV_MILESTONES.forEach(m=>{
-          if(series.some(s=>s.key==="price")&&EV_PRICE[m.year]!=null){
-            const cx=px(m.year).toFixed(1), cy=py(EV_PRICE[m.year]).toFixed(1);
-            dotMarks+=`<circle cx="${cx}" cy="${cy}" r="5" fill="${eC.orange}" stroke="${BG}" stroke-width="1.5" class="ev-dot" data-year="${m.year}" data-label="${m.label}" data-detail="${m.detail}"/>`;
-          }
-        });
+        // Milestone dots were only drawn for a series keyed "price" — the
+        // removed milestone chart. Nothing here plots that key now.
+        const dotMarks="";
 
         /* invisible hover rects — one per data point, for tooltip hit-testing */
         const slotW=Math.max(4, W/Math.max(xs.length-1,1));
@@ -2535,22 +2524,6 @@
         });
       }
 
-      function addSvgDotTooltips(tipEl) {
-        if(!tipEl) return;
-        const wrap=tipEl.parentElement;
-        if(!wrap) return;
-        wrap.querySelectorAll(".ev-dot").forEach(dot=>{
-          dot.style.cursor="pointer";
-          dot.addEventListener("mouseenter",(e)=>{
-            tipEl.style.display="block";
-            tipEl.textContent=`${dot.dataset.year} · ${dot.dataset.label} (${dot.dataset.detail})`;
-            const r=wrap.getBoundingClientRect();
-            tipEl.style.left=(e.clientX-r.left+10)+"px";
-            tipEl.style.top=(e.clientY-r.top-30)+"px";
-          });
-          dot.addEventListener("mouseleave",()=>{ tipEl.style.display="none"; });
-        });
-      }
 
       render();
     })();
