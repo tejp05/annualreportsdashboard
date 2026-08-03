@@ -13,17 +13,25 @@ importing it.
 This deployment's requirements.txt deliberately omits `cuga` (it drags in
 torch/transformers/docling/easyocr/opencv/playwright — ~5.8GB installed,
 versus Vercel's 500MB function limit). agent/agent.py only imports cuga
-lazily inside get_agent(), so every route works without it except /chat,
-which returns a 503 instead of crashing (see agent/server.py). That covers
-/health, /tools (+ all 17 direct data-query tools), /quote, /quotes,
-/quote/history, /quote/intraday, /filings/latest, /filings/xbrl.
+lazily inside get_agent(), so every route works without it.
 
-Known gap: the /commands/next + /commands/{id}/result browser-bridge queue
+/chat therefore runs the OpenAI backend here (agent/openai_agent.py), which
+needs OPENAI_API_KEY set under Vercel Project → Settings → Environment
+Variables. The key is read from the environment and must never be committed:
+this repo is public and the site it deploys is public, so a literal key in the
+source would be world-readable. Without the variable set, /chat returns 503
+and every other route still works: /health, /tools (+ all 17 direct
+data-query tools), /quote, /quotes, /quote/history, /quote/intraday,
+/filings/latest, /filings/xbrl.
+
+The /commands/next + /commands/{id}/result browser-bridge queue
 (agent/browser_bridge.py) is in-memory and single-process by design ("one-user
-local dev tool, not a multi-tenant service" per its docstring) — it will not
-work correctly across Vercel's stateless, possibly multi-instance functions.
-It's harmless to leave reachable (always returns empty/204 since nothing
-enqueues into it without a live /chat agent).
+local dev tool, not a multi-tenant service" per its docstring), so it cannot
+work across Vercel's stateless, possibly multi-instance functions. The OpenAI
+backend does not use it: browser tool calls are returned to the page as
+`pendingBrowserCalls` with signed state and executed there, which is stateless
+by construction. The queue routes stay reachable but idle (204), since nothing
+enqueues into them on this path.
 """
 import sys
 from pathlib import Path
