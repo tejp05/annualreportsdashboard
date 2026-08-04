@@ -127,11 +127,18 @@ BROWSER_TOOLS = [
                              "marketCap, freeCashFlow, epsDiluted, stockPrice", True)}),
     ("set_chart_scale", "Toggle the Overview trend chart between linear and log y-axis.",
      {"scale": (STR, "'linear' or 'log'", True)}),
+    ("list_chartable_macro_series",
+     "List the year-keyed macro series create_custom_chart can plot (gdp, cpi, treasury10yr, "
+     "ibmCostOfDebt, ibmTotalReturn, ...). Use alongside list_metrics for company figures; call "
+     "one of them before charting rather than guessing a key.", {}),
     ("create_custom_chart",
      "Build a NEW chart from 1-4 metrics, append it to the Overview tab and go there. Use for "
-     "any 'plot X against Y' / 'make me a chart of' request. Mixed-unit metrics are indexed to "
-     "100 automatically so they stay comparable.",
-     {"metrics": (STR_ARRAY, "1-4 metric keys, e.g. ['revenue','rdExpense']", True),
+     "any 'plot X against Y' / 'make me a chart of' request. Accepts BOTH financial keys "
+     "(list_metrics) and macro series (list_chartable_macro_series), so company figures can be "
+     "charted against the economy. Mixed-unit metrics are indexed to 100 automatically so they "
+     "stay comparable.",
+     {"metrics": (STR_ARRAY, "1-4 keys, financial or macro, e.g. ['revenue','rdExpense'] or "
+                             "['ibmCostOfDebt','treasury10yr']", True),
       "title": (STR, "Optional chart title", False),
       "from_year": (INT, "Default: earliest year all metrics overlap", False),
       "to_year": (INT, "Default: latest year all metrics overlap", False),

@@ -120,13 +120,46 @@
      auto-generated label/color/unit guess; mixed unit families are
      automatically indexed to 100 so they stay comparable on one axis. */
   const AUTO_COLORS = ["#0f62fe","#198038","#9f1853","#ff832b","#08bdba","#a56eff","#fa4d56","#6929c4"];
+
+  /* Macro series live in D.macro as {"1998": 4.5, ...} rather than as columns
+     on the financials rows, so they need their own accessor. Without this the
+     chart builder could only plot the 18 financial fields and rejected every
+     macro key — "plot GDP against IBM revenue" or "chart IBM's cost of debt
+     against the 10-year Treasury" both failed outright. */
+  const macroSeriesKeys = () => {
+    const m = D.macro || {};
+    return Object.keys(m).filter(k => {
+      const v = m[k];
+      if (!v || typeof v !== "object" || Array.isArray(v)) return false;
+      // year-keyed numeric map, e.g. {"1998": 4.5}
+      const ks = Object.keys(v).filter(x => /^\d{4}$/.test(x));
+      return ks.length >= 3 && ks.every(x => typeof v[x] === "number" || v[x] == null);
+    });
+  };
+  const MACRO_UNIT_HINTS = [
+    [/rate|yield|pct|percent|margin|growth|beta|costOfDebt|Return$/i, "pct"],
+    [/index|cpi/i, "index"],
+  ];
   function metricMeta(key) {
-    if (METRICS[key]) return METRICS[key];
+    if (METRICS[key]) return { ...METRICS[key], get: y => (byYear.get(y) || {})[key] };
     const sample = fin.find(r => r[key] !== undefined && r[key] !== null);
-    if (!sample) return null;
-    const label = key.replace(/([A-Z])/g, " $1").replace(/^./, c => c.toUpperCase()).trim();
-    const unit = /eps|dividend|price/i.test(key) ? "usd" : /employees|shares/i.test(key) ? "count" : "money";
-    return { label, unit, color: null };
+    if (sample) {
+      const label = key.replace(/([A-Z])/g, " $1").replace(/^./, c => c.toUpperCase()).trim();
+      const unit = /eps|dividend|price/i.test(key) ? "usd" : /employees|shares/i.test(key) ? "count" : "money";
+      return { label, unit, color: null, get: y => (byYear.get(y) || {})[key] };
+    }
+    // fall back to a year-keyed macro series
+    const series = (D.macro || {})[key];
+    if (series && typeof series === "object" && !Array.isArray(series)) {
+      const yrs = Object.keys(series).filter(x => /^\d{4}$/.test(x));
+      if (yrs.length >= 3) {
+        const label = key.replace(/([A-Z])/g, " $1").replace(/^./, c => c.toUpperCase()).trim();
+        const hit = MACRO_UNIT_HINTS.find(([re]) => re.test(key));
+        return { label, unit: hit ? hit[1] : "macro:" + key, color: null,
+                 get: y => series[String(y)] };
+      }
+    }
+    return null;
   }
   let customChartSeq = 0;
   const customCharts = new Map();   // id -> { card }
@@ -137,14 +170,28 @@
     if (metrics.length > 4) throw new Error("metrics: max 4 per chart");
     const metas = metrics.map(k => {
       const m = metricMeta(k);
-      if (!m) throw new Error(`unknown metric '${k}' — not a field in the financials series`);
+      if (!m) {
+        const macroOpts = macroSeriesKeys().slice(0, 12).join(", ");
+        throw new Error(`unknown metric '${k}' — not a financials field and not a year-keyed ` +
+                        `macro series. Financial keys: see list_metrics. Macro keys include: ${macroOpts}`);
+      }
       return { key: k, ...m };
     });
     const from = fromYear || Y0, to = toYear || Y1;
     const indexed = new Set(metas.map(m => m.unit)).size > 1;   // mixed units -> normalize to 100
 
-    const years = fin.map(r => r.year)
-      .filter(y => y >= from && y <= to && metas.every(m => byYear.get(y)[m.key] != null));
+    /* Year universe spans the financials rows AND any macro series in play —
+       a macro-only chart (e.g. GDP vs CPI) must not be clipped to the years
+       the filings happen to cover. */
+    const yearUniverse = new Set(fin.map(r => r.year));
+    metrics.forEach(k => {
+      const s = (D.macro || {})[k];
+      if (s && typeof s === "object" && !Array.isArray(s)) {
+        Object.keys(s).forEach(x => { if (/^\d{4}$/.test(x)) yearUniverse.add(Number(x)); });
+      }
+    });
+    const years = [...yearUniverse].sort((a, b) => a - b)
+      .filter(y => y >= from && y <= to && metas.every(m => m.get(y) != null));
     if (!years.length) throw new Error("no overlapping years with data for all requested metrics in that range");
     const y0 = years[0], y1 = years[years.length - 1];
 
@@ -169,11 +216,12 @@
 
     const rows = years.map(y => {
       const row = { year: y };
+      // Read through each meta's own accessor — financials come off the byYear
+      // rows, macro series off their year-keyed maps.
       if (indexed) {
-        const base = byYear.get(y0);
-        metas.forEach(m => { const v = byYear.get(y)[m.key], b = base[m.key]; row[m.key] = (v != null && b) ? v / b * 100 : null; });
+        metas.forEach(m => { const v = m.get(y), b = m.get(y0); row[m.key] = (v != null && b) ? v / b * 100 : null; });
       } else {
-        metas.forEach(m => { row[m.key] = byYear.get(y)[m.key]; });
+        metas.forEach(m => { row[m.key] = m.get(y); });
       }
       return row;
     });

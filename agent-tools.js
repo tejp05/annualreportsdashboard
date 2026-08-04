@@ -712,10 +712,29 @@ const TOOLS = {
     },
   },
 
+  list_chartable_macro_series: {
+    desc: "List the year-keyed macro series create_custom_chart can plot alongside financial metrics — GDP, CPI, Treasury yields, IBM's cost of debt, total-return series, and so on. Call this (or list_metrics for company figures) before charting rather than guessing a key.",
+    params: {},
+    fn: () => {
+      const macro = (window.IBM_DATA || {}).macro || {};
+      const out = [];
+      for (const key of Object.keys(macro)) {
+        const v = macro[key];
+        if (!v || typeof v !== "object" || Array.isArray(v)) continue;
+        const yrs = Object.keys(v).filter(x => /^\d{4}$/.test(x)).sort();
+        if (yrs.length < 3) continue;
+        if (!yrs.every(y => typeof v[y] === "number" || v[y] == null)) continue;
+        out.push({ key, from: +yrs[0], to: +yrs[yrs.length - 1], n: yrs.length });
+      }
+      return { series: out.sort((a, b) => a.key.localeCompare(b.key)),
+               note: "Pass any of these to create_custom_chart's metrics array, mixed freely with list_metrics keys." };
+    },
+  },
+
   create_custom_chart: {
-    desc: "Build a brand-new chart from any 1-4 financial-series metrics (call list_metrics first for valid keys), append it to the bottom of the Overview tab, and take the user there. Metrics with different units (e.g. a dollar total and a per-share figure) are automatically indexed to 100 so they stay comparable on one chart. Use this for any 'plot X against Y' or 'make me a chart of...' request that isn't just the existing Overview trend chart (see set_chart_metrics for that).",
+    desc: "Build a brand-new chart from any 1-4 metrics, append it to the bottom of the Overview tab, and take the user there. Accepts BOTH financial-series keys (list_metrics — revenue, rdExpense, netIncome, marketCap...) AND year-keyed macro series (list_chartable_macro_series — gdp, cpi, treasury10yr, ibmCostOfDebt, ibmTotalReturn, sp500TotalReturn...), so you can plot company figures against the economy. Metrics with different units are automatically indexed to 100 so they stay comparable on one axis. Use this for any 'plot X against Y' or 'make me a chart of...' request that isn't just the existing Overview trend chart (see set_chart_metrics for that).",
     params: {
-      metrics: { type: "array", desc: "1-4 metric keys, e.g. ['revenue','rdExpense']", required: true },
+      metrics: { type: "array", desc: "1-4 metric keys, financial or macro, e.g. ['revenue','rdExpense'] or ['ibmCostOfDebt','treasury10yr']", required: true },
       title: { type: "string", desc: "optional chart title" },
       from_year: { type: "integer", desc: "default: earliest year all metrics overlap" },
       to_year: { type: "integer", desc: "default: latest year all metrics overlap" },
