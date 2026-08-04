@@ -44,8 +44,9 @@
   };
 
   /* ── Verified market-cap snapshot (Jul 22, 2026 close) ───────────────────
-     Module-level so both updateHeroKpis (inside buildMacroTab) AND
-     buildMktCapChart (sibling function) reference the same figures.
+     Read by updateHeroKpis (inside buildMacroTab) for the hero KPI row's
+     non-live fallback. Its other consumer, buildMktCapChart, was removed with
+     the Market Cap Snapshot section.
      Update ALL fields together whenever the snapshot date advances. */
   const VERIFIED_SNAP = {
     marketCapB:         193.40,   // $B  — price × shares, Jul 22 close
@@ -89,7 +90,6 @@
         detail: "Infrastructure revenue \u221247% (IBM Z \u221242%). CEO Krishna: \u201cwe faltered.\u201d Steepest single-day decline in IBM history. Jul 22 earnings call confirmed $17.2B Q2 revenue, $2.93 operating EPS, FY2026 CC growth guide cut to 4\u20135%." },
     ],
   };
-  const VERIFIED_SNAP_PRE = { date: "Jul 13, 2026", price: 290.23, marketCapB: 272.8 };
 
   /* ---- metric registry -------------------------------------------------- */
   const METRICS = {
@@ -2173,17 +2173,11 @@
       </div>
       <div id="execVisualsRoot"></div>
 
-      <!-- ────────────────────────────────────────────────────────────────────
-           SECTION C — MARKET CAP SNAPSHOT
-           ──────────────────────────────────────────────────────────────────── -->
-      <div class="mac-section-header" style="margin-top:40px">
-        <span class="mac-section-letter">C</span>
-        <div>
-          <p class="mac-section-title">Market Cap — At a Glance</p>
-          <p class="mac-section-sub">As of Jul 22, 2026 close · Reflects Jul 14 Q2 preannouncement ($67B single-day drop) and the Jul 22 full Q2 earnings call · Sources: StockAnalysis.com, Macrotrends, Benzinga, IBM newsroom</p>
-        </div>
-      </div>
-      <div id="mktCapSnapshotRoot"></div>
+      <!-- SECTION C — MARKET CAP SNAPSHOT — removed on request, along with its
+           KPI tiles, 52-week range card and analyst price-target panel. The
+           hero KPI row above still carries live market cap and share price.
+           Section letters are re-lettered at runtime by
+           hideOrphanMacroSectionHeaders(), so no gap is left behind. -->
 
       <!-- ────────────────────────────────────────────────────────────────────
            SECTION D — ECONOMIC CLIMATE & LEVERAGE
@@ -2533,9 +2527,6 @@
 
     /* ---- A: IBM Stock Performance Charts (2000-2025) ----------------------- */
     buildStockPerformanceCharts();
-
-    /* ---- C: Market Capitalization chart ------------------------------------ */
-    buildMktCapChart();
 
     /* ---- D: Economic Climate + D/E Gauge ----------------------------------- */
     buildMacroEconChart();
@@ -3444,267 +3435,12 @@
   }
 
   /* ====================================================================== */
-  /*  SECTION C — MARKET CAP SNAPSHOT (interactive)                        */
+  /*  SECTION C — MARKET CAP SNAPSHOT — REMOVED                             */
+  /*                                                                        */
+  /*  buildMktCapChart() and its markup are gone: the KPI tiles, the         */
+  /*  52-week range card and the analyst price-target panel. Live market     */
+  /*  cap and share price remain on the hero KPI row above.                  */
   /* ====================================================================== */
-  function buildMktCapChart() {
-    const root = document.getElementById("mktCapSnapshotRoot");
-    if (!root) return;
-
-    const SNAP = {
-      marketCap:          VERIFIED_SNAP.marketCapB,
-      price:              VERIFIED_SNAP.price,
-      sharesOutstandingM: VERIFIED_SNAP.sharesOutstandingM,
-      yearChangePct:      VERIFIED_SNAP.yearChangePct,
-      low52:              VERIFIED_SNAP.low52,
-      high52:             VERIFIED_SNAP.high52,
-      ath:                VERIFIED_SNAP.ath,
-      athDate:            VERIFIED_SNAP.athDate,
-      analystTargets:     VERIFIED_SNAP.analystTargets,
-      bigMoves:           VERIFIED_SNAP.bigMoves || [],
-    };
-    const avgTarget = SNAP.analystTargets.reduce((a,t) => a+t.target, 0) / SNAP.analystTargets.length;
-
-    // ── helpers ──────────────────────────────────────────────────────────
-    const lbl = (text, tip) => `
-      <div style="font-size:10px;color:var(--ink-dim);text-transform:uppercase;letter-spacing:.15em;margin-bottom:12px;font-family:var(--mono);display:flex;align-items:center;gap:5px">
-        ${text}${tip ? `<span class="mcs-tip" data-tip="${tip.replace(/"/g,"&quot;")}" style="font-size:9px;color:var(--ink-dim);border:1px solid var(--line);border-radius:50%;width:12px;height:12px;display:inline-flex;align-items:center;justify-content:center;cursor:help;flex-shrink:0">?</span>` : ""}
-      </div>`;
-
-    function card(label, inner, tip, clickable) {
-      return `<div class="mcs-card${clickable?" mcs-clickable":""}" data-card="${clickable||""}" style="background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:14px 18px;transition:border-color .15s,transform .15s">
-        ${lbl(label, tip)}${inner}
-      </div>`;
-    }
-
-    function render() {
-      // Prefer live estimate if available so the Snapshot card's "Market Cap"
-      // tile agrees with the hero KPI when the live feed is up.
-      const lqSnap = window.__liveQuote;
-      const price     = (lqSnap && lqSnap.price    != null) ? lqSnap.price    : SNAP.price;
-      const marketCap = (lqSnap && lqSnap.capEstM  != null) ? lqSnap.capEstM / 1000 : SNAP.marketCap;
-      const rp     = Math.max(0, Math.min(100, ((price - SNAP.low52) / (SNAP.high52 - SNAP.low52)) * 100));
-      // Correct ordinal suffix — a bare "th" rendered "1th percentile".
-      // 11/12/13 take "th" despite ending in 1/2/3, hence the teens check.
-      const ordinal = n => {
-        const i = Math.round(n), t = i % 100;
-        if (t >= 11 && t <= 13) return i + "th";
-        return i + ({ 1: "st", 2: "nd", 3: "rd" }[i % 10] || "th");
-      };
-      const vsAth  = ((price - SNAP.ath) / SNAP.ath * 100).toFixed(1);
-      const vsAvg  = ((avgTarget - price) / price * 100).toFixed(1);
-      const vsAthColor = price < SNAP.ath ? "var(--down)" : "var(--up)";
-      const vsAvgColor = parseFloat(vsAvg) >= 0 ? "var(--up)" : "var(--down)";
-
-      // ── P/S ratio ──────────────────────────────────────────────────────
-      // market cap (from verified snapshot) ÷ most recent annual revenue
-      // from the pipeline. Context: decade average so a VP can see whether
-      // today is cheap or expensive by IBM's own history.
-      const latestRev = [...fin].reverse().find(r => r.revenue != null);
-      const psNow = latestRev ? (marketCap * 1000 / latestRev.revenue) : null; // both in $M
-      // 10-yr average P/S (2016–2025) using pipeline data
-      let psSum = 0, psCount = 0;
-      fin.forEach(r => {
-        if (r.year >= 2016 && r.year <= 2025 && r.marketCap != null && r.revenue != null && r.revenue > 0) {
-          psSum += r.marketCap / r.revenue; psCount++;
-        }
-      });
-      const psAvg10 = psCount ? psSum / psCount : null;
-
-      // ── Analyst revision history ────────────────────────────────────────
-      const ACTION_COLOR = { "Cut":"var(--down)", "Raised":"var(--up)",
-                              "Initiated":"#a78bfa", "Maintained":"var(--ink-soft)" };
-      const targetRows = SNAP.analystTargets.map(t => {
-        const revRows = (t.revisions || []).map((r, i) => {
-          const isLatest = i === 0;
-          const price = r.from != null
-            ? `<span style="font-size:9.5px;color:var(--ink-dim)">$${r.from}→</span>$${r.to}`
-            : `$${r.to}`;
-          const delta = r.from != null ? (() => {
-            const d = r.to - r.from;
-            return `<span style="color:${d>0?"var(--up)":d<0?"var(--down)":"var(--ink-soft)"};font-size:9.5px">(${d>0?"+":""}${d})</span>`;
-          })() : "";
-          return `
-            <div style="display:flex;align-items:center;gap:5px;padding:4px 0;overflow:hidden;
-              ${i < (t.revisions.length-1) ? "border-bottom:1px solid var(--line)" : ""}">
-              <span style="font-size:9.5px;color:var(--ink-dim);font-family:var(--mono);white-space:nowrap;flex-shrink:0">${r.date}</span>
-              <span style="font-size:10px;font-weight:600;font-family:var(--mono);color:${ACTION_COLOR[r.action]||"var(--ink-soft)"};white-space:nowrap;flex-shrink:0">${r.action}</span>
-              <span style="font-size:${isLatest?"12":"11"}px;font-weight:${isLatest?"700":"400"};font-family:var(--mono);color:${isLatest?"var(--ink)":"var(--ink-soft)"};white-space:nowrap;flex-shrink:0">${price}</span>
-              ${delta}
-            </div>`;
-        }).join("");
-        return `
-          <div style="flex:1;min-width:0;overflow:hidden">
-            <div style="font-size:11px;font-weight:700;color:var(--ink-soft);font-family:var(--mono);
-              text-transform:uppercase;letter-spacing:.07em;margin-bottom:6px;padding-bottom:5px;
-              border-bottom:2px solid var(--line)">${t.firm}
-              <span style="font-size:13px;font-weight:700;color:var(--ink);margin-left:8px;font-variant-numeric:tabular-nums">$${t.target}</span>
-            </div>
-            ${revRows}
-          </div>`;
-      }).join("");
-
-      // ── Big moves event log ─────────────────────────────────────────────
-      // Seeded from VERIFIED_SNAP.bigMoves — append entries there, never here.
-      const moveLog = SNAP.bigMoves.length ? SNAP.bigMoves.map((m, i) => {
-        const up = m.pct >= 0;
-        const pctStr = `${up ? "▲" : "▼"} ${Math.abs(m.pct).toFixed(1)}%`;
-        const capStr = m.capDeltaB != null
-          ? `${m.capDeltaB > 0 ? "+" : ""}$${m.capDeltaB}B market cap`
-          : "";
-        return `
-          <div style="display:flex;gap:10px;padding:8px 0;align-items:flex-start;
-            ${i < SNAP.bigMoves.length-1 ? "border-bottom:1px solid var(--line)" : ""}">
-            <span style="font-size:11px;font-weight:700;font-family:var(--mono);color:${up?"var(--up)":"var(--down)"};
-              white-space:nowrap;padding-top:1px;min-width:60px">${pctStr}</span>
-            <div style="flex:1;min-width:0">
-              <div style="font-size:11px;font-weight:600;color:var(--ink);font-family:var(--mono)">${m.date}${capStr ? ` · ${capStr}` : ""}</div>
-              <div style="font-size:11px;color:var(--ink-soft);line-height:1.5;margin-top:2px">${m.headline}</div>
-              ${m.detail ? `<div style="font-size:10.5px;color:var(--ink-dim);line-height:1.55;margin-top:4px">${m.detail}</div>` : ""}
-            </div>
-          </div>`;
-      }).join("") : "";
-
-      root.innerHTML = `
-        <style>
-          .mcs-card { position:relative; }
-          .mcs-clickable { cursor:pointer; }
-          .mcs-clickable:hover { border-color:var(--blue) !important; transform:translateY(-2px); }
-          .mcs-tip-pop { position:absolute;bottom:calc(100% + 6px);left:50%;transform:translateX(-50%);
-            background:var(--surface-2);border:1px solid var(--line);border-radius:6px;padding:8px 11px;
-            font-size:10.5px;color:var(--ink-soft);width:200px;line-height:1.5;z-index:30;
-            box-shadow:0 6px 20px rgba(0,0,0,.45);pointer-events:none;white-space:normal;font-family:var(--font); }
-        </style>
-
-        <!-- date stamp -->
-        <div style="font-size:12px;color:var(--ink-soft);margin-bottom:14px">${
-          lqSnap && lqSnap.price != null
-            ? `Live estimate · $${lqSnap.price.toFixed(2)} × ${SNAP.sharesOutstandingM.toFixed(0)}M FY${lqSnap.sharesYear || VERIFIED_SNAP.dateLabel.slice(-4)} shares`
-            : `As of ${VERIFIED_SNAP.dateLabel} close`
-        }</div>
-
-        <!-- 4 KPI cards -->
-        <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-bottom:10px">
-          ${card("Market Cap",
-            (() => {
-              const ret1Y = LIVE.stockReturn1Y;
-              const retColor = ret1Y >= 0 ? "var(--up)" : "var(--down)";
-              const retArrow = ret1Y >= 0 ? "▲" : "▼";
-              return `<div style="font-size:26px;font-weight:700;font-family:var(--mono);color:var(--ink);line-height:1">$${marketCap.toFixed(2)}B</div>
-             <div style="font-size:12px;color:${retColor};margin-top:7px;font-family:var(--mono)">${retArrow} ${Math.abs(ret1Y).toFixed(2)}% (1Y)</div>`;
-            })(),
-            "Live estimate: price × latest disclosed shares", "marketCapChart")}
-          ${card("Share Price",
-            `<div style="font-size:26px;font-weight:700;font-family:var(--mono);color:var(--ink);line-height:1">$${price.toFixed(2)}</div>
-             <div style="font-size:12px;color:var(--ink-soft);margin-top:7px;font-family:var(--mono)">${SNAP.sharesOutstandingM.toFixed(1)}M shares out.</div>`,
-            "Click to open the full Stock Performance chart", "stockPriceChart")}
-          ${card("VS. All-Time High",
-            `<div style="font-size:26px;font-weight:700;font-family:var(--mono);color:${vsAthColor};line-height:1">${vsAth}%</div>
-             <div style="font-size:12px;color:var(--ink-soft);margin-top:7px;font-family:var(--mono)">ATH $${SNAP.ath} · ${SNAP.athDate}</div>`,
-            `All-time high set ${SNAP.athDate}`)}
-          ${card("Price / Sales (P/S)",
-            psNow != null
-              ? `<div style="font-size:26px;font-weight:700;font-family:var(--mono);color:var(--ink);line-height:1">${psNow.toFixed(2)}×</div>
-                 <div style="font-size:12px;color:var(--ink-soft);margin-top:7px;font-family:var(--mono)">${psAvg10 != null ? `10yr avg ${psAvg10.toFixed(2)}× (2016–2025)` : ""}</div>`
-              : `<div style="font-size:26px;font-weight:700;font-family:var(--mono);color:var(--ink-dim);line-height:1">—</div>`,
-            "Market cap ÷ annual revenue · pipeline-sourced from IBM 10-Ks")}
-        </div>
-
-        <!-- 52-week range + sparkline (left) | analyst targets (right) -->
-        <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;align-items:start;margin-bottom:10px">
-          <!-- left column: 52-week range stacked above sparkline -->
-          <div style="display:flex;flex-direction:column;gap:10px">
-            ${card("52-Week Range",
-              `<div style="margin:4px 0 10px">
-                 <div style="height:4px;background:var(--line);border-radius:2px;position:relative;margin-bottom:8px">
-                   <div title="$${price.toFixed(2)} — ${ordinal(rp)} percentile"
-                     style="position:absolute;left:${rp}%;top:50%;transform:translate(-50%,-50%);
-                     width:14px;height:14px;border-radius:50%;background:#4589ff;border:2px solid var(--surface);cursor:help"></div>
-                 </div>
-                 <div style="display:flex;justify-content:space-between;font-size:12px;font-family:var(--mono);color:var(--ink-soft)">
-                   <span>$${SNAP.low52}</span><span>$${SNAP.high52}</span>
-                 </div>
-               </div>
-               <div style="font-size:12px;color:var(--ink-soft);line-height:1.5">${ordinal(rp)} percentile of 52-week range</div>`,
-              "52-week low–high range · dot = current price position")}
-            <!-- The multi-decade market-cap sparkline that filled this space
-                 has been removed: it plotted the same series as the hero
-                 chart's Market Cap layer, on the same tab. What is left in
-                 this card (52-week range, all-time high, analyst targets, the
-                 big-moves log) exists nowhere else. -->
-          </div>
-          ${card("Analyst Price Targets — Revision History",
-            `<div style="display:flex;gap:20px;flex-wrap:wrap;margin-top:4px;align-items:flex-start">${targetRows}</div>`,
-            "Revision history per firm, newest first. Source: Benzinga / Investing.com.")}
-        </div>
-
-        <!-- significant single-day moves log -->
-        ${moveLog ? `
-        <div style="background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:14px 18px;margin-bottom:10px">
-          ${lbl("Significant single-day moves", "Append to VERIFIED_SNAP.bigMoves in app.js to add entries — no HTML editing needed.")}
-          ${moveLog}
-        </div>` : ""}
-
-        <!-- FY2026 guidance, from the Jul 22 earnings call -->
-        <div style="background:rgba(69,137,255,.07);border:1px solid rgba(69,137,255,.28);border-left:3px solid var(--blue);border-radius:8px;padding:12px 16px;margin-top:10px">
-          <div style="font-size:10px;color:var(--ink-dim);text-transform:uppercase;letter-spacing:.15em;margin-bottom:8px;font-family:var(--mono)">FY2026 guidance — updated Jul 22, 2026 earnings call</div>
-          <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:14px">
-            <div>
-              <div style="font-size:20px;font-weight:700;font-family:var(--mono);color:var(--ink)">4–5%</div>
-              <div style="font-size:11.5px;color:var(--ink-soft);margin-top:3px">constant-currency revenue growth · cut from prior "more than 5%" guide</div>
-            </div>
-            <div>
-              <div style="font-size:20px;font-weight:700;font-family:var(--mono);color:var(--ink)">+~$1B</div>
-              <div style="font-size:11.5px;color:var(--ink-soft);margin-top:3px">free cash flow growth YoY · guidance unchanged</div>
-            </div>
-            <div>
-              <div style="font-size:20px;font-weight:700;font-family:var(--mono);color:var(--ink)">Improved</div>
-              <div style="font-size:11.5px;color:var(--ink-soft);margin-top:3px">full-year pre-tax margin expansion expected; currency neutral to growth</div>
-            </div>
-          </div>
-          <div style="font-size:11px;color:var(--ink-dim);margin-top:8px">Source: IBM Q2 2026 earnings release (newsroom.ibm.com, Jul 22, 2026) — company guidance, not a pipeline-verified figure.</div>
-        </div>
-
-        <!-- source note -->
-        <p class="chart-note" style="margin-top:10px">
-          Sources: StockAnalysis.com (${VERIFIED_SNAP.dateLabel} close, 52-week range, shares outstanding); Macrotrends (ATH);
-          Benzinga / Investing.com (analyst price targets); IBM Q2 2026 earnings release, newsroom.ibm.com;
-          IBM 10-K filings 1984–2025 (market cap sparkline &amp; P/S ratio via pipeline).
-        </p>
-      `;
-
-      /* clickable cards → scroll to relevant section */
-      root.querySelectorAll(".mcs-clickable").forEach(el => {
-        el.addEventListener("click", () => {
-          const key = el.dataset.card;
-          const target = key === "stockPriceChart" ? document.getElementById("macHeroChartCard") :
-                         key === "marketCapChart"   ? document.getElementById("panel-macro") : null;
-          if (target) target.scrollIntoView({ behavior: "smooth", block: "start" });
-        });
-      });
-
-      /* info tip hover */
-      root.querySelectorAll(".mcs-tip").forEach(tip => {
-        tip.addEventListener("mouseenter", () => {
-          const pop = document.createElement("div");
-          pop.className = "mcs-tip-pop";
-          pop.textContent = tip.dataset.tip;
-          tip.style.position = "relative";
-          tip.appendChild(pop);
-        });
-        tip.addEventListener("mouseleave", () => {
-          tip.querySelectorAll(".mcs-tip-pop").forEach(p => p.remove());
-        });
-      });
-    }
-
-    render();
-    /* render() already prefers window.__liveQuote, but it runs once at build
-       time — before the async quote resolves — and nothing re-ran it. That is
-       why this card sat on the Jul 22 close showing $193.4B while the hero KPI
-       beside it showed the live $215.5B: a ~$22B disagreement between two
-       tiles on the same screen. Re-render whenever a quote lands. */
-    window.addEventListener("ibm-live-quote", render);
-  }
 
   /* ====================================================================== */
   /*  SECTION D — DEBT STRUCTURE CHARTS                                      */
