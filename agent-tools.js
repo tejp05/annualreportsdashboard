@@ -340,8 +340,25 @@ const TOOLS = {
     },
   },
 
+  list_regression_metrics: {
+    desc: "List the metric keys the Regression Lab accepts for x_metric / y_metric, plus its curated preset scenarios. Call this before configure_regression rather than guessing a key — the Lab's keys are its own and do not all match list_metrics.",
+    params: {},
+    fn: () => {
+      const prev = document.getElementById("panel-regression")?.classList.contains("active");
+      if (!prev) window.selectTab("regression");
+      const sel = document.getElementById("regX");
+      if (!sel) throw new Error("Regression Lab did not initialize");
+      const metrics = [...sel.options].map(o => ({ key: o.value, label: o.textContent.trim() }))
+        .filter(m => m.key);
+      const presets = [...document.querySelectorAll("#panel-regression .reg-preset-btn")]
+        .map(b => b.textContent.trim()).filter(Boolean);
+      return { metrics, presets,
+               note: "Run a preset by passing its exact label to click_control; run an arbitrary pair with configure_regression." };
+    },
+  },
+
   configure_regression: {
-    desc: "Open the Regression Lab and run a fit (best model auto-picked, always uses every available data point for the chosen metrics — there is no year-range control).",
+    desc: "Open the Regression Lab and run a fit (best model auto-picked, always uses every available data point for the chosen metrics — there is no year-range control). Returns the fitted stats panel, so the answer can quote R², the chosen model and the slope. Use list_regression_metrics first for valid keys.",
     params: {
       x_metric: { type: "string", desc: "Regression Lab X key (e.g. rdExpense, gdp, swPct)", required: true },
       y_metric: { type: "string", desc: "Regression Lab Y key", required: true },

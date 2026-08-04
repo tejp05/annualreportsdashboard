@@ -53,26 +53,120 @@ a key. Always state the fiscal year(s) a figure covers. If the user's request \
 implies changing what is on screen ("show me", "go to", "navigate", \
 "highlight", "open", "configure the regression lab", "change the chart") — \
 call the matching browser tool to actually do it, do not just describe what \
-you would do. Keep answers to 1-3 sentences unless asked for a table or detail.\
+you would do. You can drive the whole dashboard: switch tabs, jump to a Story \
+Mode chapter, open an M&A era drawer, build charts, and run the Regression Lab. \
+For any control without a dedicated tool, click_control matches on-screen text. \
+\
+For regression requests ("regress X on Y", "is there a relationship between…", \
+"run the R&D preset"): call list_regression_metrics first to get the Lab's own \
+metric keys and its preset labels — do not guess a key. Then either \
+configure_regression for an arbitrary pair, or click_control with a preset's \
+exact label. Both leave the fitted chart on screen for the user; report the R², \
+the auto-picked model and the direction of the slope from the stats panel the \
+tool returns, and say plainly when a fit is weak or the sample is small rather \
+than implying a relationship the numbers do not support. Keep answers to 1-3 \
+sentences unless asked for a table or detail.\
 """
 
 # Browser-side tools, executed by window.CUGA in the page (see agent-tools.js).
 # Schemas are declared here rather than fetched from the client so the model
 # cannot be handed tool definitions by an untrusted caller.
+STR = "string"
+INT = "integer"
+BOOL = "boolean"
+STR_ARRAY = {"type": "array", "items": {"type": "string"}}
+
+# Browser-side tools, executed by window.CUGA in the page (see agent-tools.js).
+#
+# These MUST mirror agent-tools.js's TOOLS registry exactly — same names, same
+# argument names. They previously did not: configure_regression was declared
+# here as x/y/from_year/to_year while the page's tool takes
+# x_metric/y_metric/lag, and get_live_quote was declared with a `symbol` it does
+# not accept. The model dutifully sent the declared names and the calls failed,
+# which is why driving the Regression Lab from chat never worked.
+#
+# The page exposes ~34 tools; the data-query ones are omitted here because the
+# server already runs equivalents in-process (agent/agent.py ALL_TOOLS) without
+# a client round-trip. What is left is everything that has to touch the DOM.
+#
+# Declared here rather than read from the client's manifest on purpose: /chat is
+# a public endpoint, so a caller could otherwise hand the model arbitrary tool
+# definitions.
 BROWSER_TOOLS = [
+    # ── navigation ────────────────────────────────────────────────────────────
     ("navigate_to_tab", "Switch the dashboard to a tab. Use for 'show me' / 'go to' / 'open'.",
-     {"tab": ("string", "One of: home, story, regression, macro, ma, competitors, about", True)}),
-    ("set_overview_range", "Set the year range on the overview/home charts.",
-     {"from_year": ("integer", "First year, >= 1911", True),
-      "to_year": ("integer", "Last year, <= 2025", True)}),
-    ("configure_regression", "Configure the Regression Lab: choose x/y metrics and year range.",
-     {"x": ("string", "Independent variable metric key", True),
-      "y": ("string", "Dependent variable metric key", True),
-      "from_year": ("integer", "First year", False),
-      "to_year": ("integer", "Last year", False)}),
-    ("get_live_quote", "Read the live quote currently shown on the page.",
-     {"symbol": ("string", "Ticker, default IBM", False)}),
-    ("refresh_live_quote", "Force the page's live quote widget to refetch.", {}),
+     {"tab": (STR, "One of: home, story, regression, macro, ma, competitors, about", True)}),
+    ("jump_to_story_chapter",
+     "Open Story Mode and scroll to a chapter/era, optionally switching its chart series.",
+     {"chapter": (STR, "Chapter title substring, era id, or 0-based index (e.g. 'Gerstner', 'hybrid', 3)", True),
+      "series": (STR, "Optional: netIncome | revenue | marketCap | stockPrice", False)}),
+    ("open_ma_era", "Open the M&A tab and pop the deal-list drawer for a CEO era.",
+     {"era": (STR, "Pre-Gerstner | Gerstner | Palmisano | Rometty | Krishna", True)}),
+
+    # ── regression lab ────────────────────────────────────────────────────────
+    ("list_regression_metrics",
+     "List the metric keys the Regression Lab accepts, plus its curated preset scenarios. "
+     "Call this BEFORE configure_regression instead of guessing a key — the Lab's keys are "
+     "its own and do not all match list_metrics.", {}),
+    ("configure_regression",
+     "Open the Regression Lab and run a fit on the chosen pair. The best model (linear, log, "
+     "exponential, power, quadratic) is picked automatically and every overlapping data point "
+     "is used — there is no year-range control. Returns the fitted stats panel, so quote the "
+     "R², model and slope from it rather than describing the fit in the abstract.",
+     {"x_metric": (STR, "Independent variable key, from list_regression_metrics", True),
+      "y_metric": (STR, "Dependent variable key, from list_regression_metrics", True),
+      "lag": (INT, "Lag y behind x by N years, 0-5. Default 0", False)}),
+
+    # ── charts ────────────────────────────────────────────────────────────────
+    ("set_overview_range", "Set the Overview trend chart's year range.",
+     {"from_year": (INT, "Start year", True), "to_year": (INT, "End year", True),
+      "label": (STR, "Optional chip label", False)}),
+    ("set_chart_metrics",
+     "Set which metrics the Overview trend chart plots (same-unit metrics only).",
+     {"metrics": (STR_ARRAY, "1+ of: revenue, netIncome, totalAssets, stockholdersEquity, "
+                             "marketCap, freeCashFlow, epsDiluted, stockPrice", True)}),
+    ("set_chart_scale", "Toggle the Overview trend chart between linear and log y-axis.",
+     {"scale": (STR, "'linear' or 'log'", True)}),
+    ("create_custom_chart",
+     "Build a NEW chart from 1-4 metrics, append it to the Overview tab and go there. Use for "
+     "any 'plot X against Y' / 'make me a chart of' request. Mixed-unit metrics are indexed to "
+     "100 automatically so they stay comparable.",
+     {"metrics": (STR_ARRAY, "1-4 metric keys, e.g. ['revenue','rdExpense']", True),
+      "title": (STR, "Optional chart title", False),
+      "from_year": (INT, "Default: earliest year all metrics overlap", False),
+      "to_year": (INT, "Default: latest year all metrics overlap", False),
+      "scale": (STR, "'linear' (default) or 'log'", False)}),
+    ("clear_custom_charts", "Remove every agent-built custom chart from the Overview tab.", {}),
+    ("configure_macro_chart",
+     "Configure the Macro tab's IBM-vs-market indexed-growth chart.",
+     {"ibm_key": (STR, "'revenue' or 'marketCap'", False),
+      "benchmarks": (STR_ARRAY, "Subset of: sp500, tech, nasdaq, djia", False),
+      "real": (BOOL, "true = CPI-adjust every series to real dollars", False)}),
+
+    # ── page interaction ──────────────────────────────────────────────────────
+    ("click_control",
+     "Click any visible button, toggle, chip or checkbox label on the CURRENT tab by matching a "
+     "substring of its text. The general fallback for controls without a dedicated tool — "
+     "including running a Regression Lab preset by its label.",
+     {"text": (STR, "Substring of the control's visible text", True)}),
+    ("highlight_element",
+     "Scroll to and pulse-highlight the first element on the current tab containing this text. "
+     "Use after navigating, to point at the specific figure being discussed.",
+     {"text": (STR, "Substring to search for", True)}),
+    ("set_agent_note",
+     "Post a floating note banner visible on every tab — use to leave a written summary or "
+     "call-out on the page itself. Plain text, no HTML.",
+     {"text": (STR, "Note text", True)}),
+    ("clear_agent_note", "Remove the on-page note banner.", {}),
+    ("download_metric_csv", "Download a metric's full series as a CSV file.",
+     {"metric": (STR, "Key from list_metrics", True)}),
+    ("set_theme", "Switch the dashboard between dark (default) and light themes.",
+     {"theme": (STR, "'dark' or 'light'", True)}),
+
+    # ── live quote ────────────────────────────────────────────────────────────
+    ("get_live_quote", "Read the live IBM quote currently shown on the page.", {}),
+    ("refresh_live_quote", "Force the live-quote widget to re-fetch now instead of waiting 60s.", {}),
+    ("celebrate", "Fire a brief confetti burst. Purely decorative.", {}),
 ]
 BROWSER_TOOL_NAMES = {name for name, _, _ in BROWSER_TOOLS}
 
@@ -128,6 +222,12 @@ def _schema_from_langchain(tool) -> dict:
 def build_tool_schemas(server_tools) -> list:
     schemas = [_schema_from_langchain(t) for t in server_tools]
     for name, desc, params in BROWSER_TOOLS:
+        props = {}
+        for p, (t, d, _req) in params.items():
+            # A type is either a bare JSON-schema type name, or a full fragment
+            # (arrays need their own "items", which OpenAI rejects without).
+            props[p] = {**t, "description": d} if isinstance(t, dict) \
+                else {"type": t, "description": d}
         schemas.append({
             "type": "function",
             "function": {
@@ -135,8 +235,7 @@ def build_tool_schemas(server_tools) -> list:
                 "description": desc,
                 "parameters": {
                     "type": "object",
-                    "properties": {p: {"type": t, "description": d}
-                                   for p, (t, d, _) in params.items()},
+                    "properties": props,
                     "required": [p for p, (_, _, req) in params.items() if req],
                 },
             },
