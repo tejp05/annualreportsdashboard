@@ -23266,9 +23266,9 @@ window.IBM_DATA = {
    "2023": 94.76,
    "2024": 115.26,
    "2025": 143.62,
-   "2026": 174.1
+   "2026": 185.93
   },
-  "source": "Yahoo Finance XLK, dividend/split-adjusted close (adjclose), last monthly sample of each calendar year; fund inception Dec 1998. 2026 refreshed 2026-07-31 (was 184.99 as of 2026-07-09).",
+  "source": "Yahoo Finance XLK, dividend/split-adjusted close (adjclose), last monthly sample of each calendar year; fund inception Dec 1998. 2026 refreshed 2026-08-04 to match the end date of ibmRecentOverride, so the era card measures both sides over the same span (was 174.10).",
   "note": "Used only by the M&A tab's era stock-performance benchmark, so it can include dividends without altering the Macro vs IBM tab's techYearEnd (raw close) chart.",
   "ibmRecentOverride": [
    ["2026-07-22", 205.77],
@@ -23278,9 +23278,11 @@ window.IBM_DATA = {
    ["2026-07-28", 227.55],
    ["2026-07-29", 226.44],
    ["2026-07-30", 221.74],
-   ["2026-07-31", 217.24]
+   ["2026-07-31", 223.65],
+   ["2026-08-03", 226.31],
+   ["2026-08-04", 231.18]
   ],
-  "ibmRecentOverrideSource": "Yahoo Finance IBM, dividend/split-adjusted close (adjclose). M&A-tab-only gap-fill for the days after Story Mode/ibm_daily_prices.js's last cached point (2026-07-21) through today (2026-07-31), so the Krishna era card's ongoing-era 'latest value' is current. Does NOT touch ibm_daily_prices.js itself -- Story Mode, Overview, and Regression Lab all read that file directly and are unaffected by this override.",
+  "ibmRecentOverrideSource": "Yahoo Finance IBM, dividend/split-adjusted close (adjclose). M&A-tab-only gap-fill for the days after Story Mode/ibm_daily_prices.js's last cached point (2026-07-21) through 2026-08-04, so the Krishna era card's ongoing-era 'latest value' is current. The final point is a live intraday reading if the US market is still open on that date, not a settled close. Paired with xlkAdjYearEnd[\"2026\"], which is sampled from the same date so both sides of the era card's alpha span the identical window. Does NOT touch ibm_daily_prices.js itself -- Story Mode, Overview, and Regression Lab all read that file directly and are unaffected by this override.",
   "sp500TRYearEnd": {
    "1983": 142.6203,
    "1984": 149.3546,
