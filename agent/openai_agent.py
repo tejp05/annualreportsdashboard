@@ -143,6 +143,37 @@ BROWSER_TOOLS = [
       "benchmarks": (STR_ARRAY, "Subset of: sp500, tech, nasdaq, djia", False),
       "real": (BOOL, "true = CPI-adjust every series to real dollars", False)}),
 
+    # ── macro tab chart controls ──────────────────────────────────────────────
+    ("configure_return_chart",
+     "Configure the Macro tab's 'IBM vs Market — Total Return & Outperformance' chart: time "
+     "window, which series are shown, and annual-bars vs cumulative-growth mode.",
+     {"window": (STR, "'all' | '20' | '10' | '5' (years)", False),
+      "series": (STR_ARRAY, "Which to show, any of: ibm, sp500. Omit to leave unchanged", False),
+      "cumulative": (BOOL, "true = cumulative growth of $100; false = annual bars", False)}),
+    ("set_bond_yield_tenor",
+     "Set which Treasury tenor the Macro tab's cost-of-debt chart compares IBM against. Returns "
+     "the spread callouts, so quote the actual gap rather than describing it vaguely.",
+     {"tenor": (STR, "'3m' | '5y' | '10y' | '30y'", True)}),
+    ("set_hero_chart_layer",
+     "Switch the Macro tab's big IBM Stock Performance hero chart to a different layer.",
+     {"layer": (STR, "price | marketCap | dividends | earnings | acquisitions", True)}),
+
+    # ── other tab views ───────────────────────────────────────────────────────
+    ("set_ma_insight_view",
+     "Switch the M&A tab's Deal Intelligence panel between its views.",
+     {"view": (STR, "bar (Annual Spend) | scatter (Boldness Map) | alpha (Alpha Leaderboard) | "
+                    "catmix (Category Mix)", True)}),
+    ("set_competitor_segment",
+     "Choose which IBM segment the Competitors tab analyses — the peer directory, SWOT, Five "
+     "Forces, BCG matrix and position map all follow this selection.",
+     {"segment": (STR, "software | consulting | infrastructure", True)}),
+
+    # ── reading the page back ─────────────────────────────────────────────────
+    ("describe_current_view",
+     "Read back what is currently on screen: the active tab and its headline figures. Use to "
+     "confirm an action landed, or to answer 'what am I looking at'. Reads the rendered page, so "
+     "it reflects live values rather than the static dataset.", {}),
+
     # ── page interaction ──────────────────────────────────────────────────────
     ("click_control",
      "Click any visible button, toggle, chip or checkbox label on the CURRENT tab by matching a "

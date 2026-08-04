@@ -379,6 +379,154 @@ const TOOLS = {
     },
   },
 
+  /* ── situational awareness ──────────────────────────────────────────────
+     Without this the agent is blind: it can drive the page but cannot read
+     back what is on it, so it cannot confirm an action landed or answer
+     "what am I looking at". Reports the active tab plus that tab's headline
+     figures, read from the live DOM rather than from the dataset. */
+  describe_current_view: {
+    desc: "Read back what is currently on screen: the active tab and its headline figures. Use to confirm an action landed, or to answer questions about what the user is looking at right now. Reads the rendered page, so it reflects live values.",
+    params: {},
+    fn: () => {
+      const activeBtn = document.querySelector(".tab.active, [role='tab'][aria-selected='true']");
+      const panel = document.querySelector(".panel.active");
+      const tab = panel ? panel.id.replace(/^panel-/, "") : null;
+      const txt = el => (el?.innerText || "").replace(/\s+/g, " ").trim();
+
+      const view = { tab, tabLabel: txt(activeBtn) || null };
+
+      if (tab === "macro") {
+        const kpi = id => txt(document.getElementById(id));
+        view.heroKpis = {
+          marketCap: kpi("hkpiMarketCap"), totalDebt: kpi("hkpiDebt"),
+          revenue: kpi("hkpiRevenue"), stockReturn: kpi("hkpiReturn"),
+          creditRating: kpi("hkpiRating"),
+        };
+        view.sectionAKpis = ["spKpiPrice","spKpiYTD","spKpiDiv","spKpiBeta","spKpiVol","spKpiOutperf"]
+          .map(id => txt(document.getElementById(id))).filter(Boolean);
+        view.returnChart = {
+          window: document.querySelector("#spReturnWindow .sp-tab-btn.active")?.dataset.win || null,
+          cumulative: !!document.getElementById("spReturnCumToggle")?.checked,
+        };
+        view.bondChartTenor = txt(document.querySelector("#bondYieldRoot .sp-tab-btn.active")) || null;
+      } else if (tab === "regression") {
+        view.regression = {
+          x: document.getElementById("regX")?.value || null,
+          y: document.getElementById("regY")?.value || null,
+          lag: document.getElementById("regLag")?.value || null,
+          stats: txt(document.getElementById("regStatsCard")).slice(0, 400),
+        };
+      } else if (tab === "ma") {
+        view.insightView = document.querySelector(".ma-ins-tab.active")?.dataset.ins || null;
+      } else if (tab === "competitors") {
+        view.segment = document.querySelector("#segmentSelector .reg-preset-btn.active")?.dataset.seg || null;
+      }
+      // Always include the live ticker if it is up — it is on every tab.
+      const lq = window.__liveQuote;
+      if (lq && lq.price != null) view.livePrice = lq.price;
+      return view;
+    },
+  },
+
+  /* ── Macro tab: IBM vs Market total-return chart ───────────────────────── */
+  configure_return_chart: {
+    desc: "Configure the Macro tab's 'IBM vs Market — Total Return & Outperformance' chart: the time window, which series are shown, and annual-bars vs cumulative-growth mode.",
+    params: {
+      window: { type: "string", desc: "'all' | '20' | '10' | '5' (years)" },
+      series: { type: "array", desc: "Which to show, any of: ibm, sp500. Omit to leave unchanged" },
+      cumulative: { type: "boolean", desc: "true = cumulative growth of $100; false = annual bars" },
+    },
+    fn: ({ window: win, series, cumulative }) => {
+      window.selectTab("macro");
+      const applied = {};
+      if (win != null) {
+        const b = [...document.querySelectorAll("#spReturnWindow .sp-tab-btn")]
+          .find(x => x.dataset.win === String(win));
+        if (!b) throw new Error(`window must be one of all, 20, 10, 5 — got '${win}'`);
+        b.click(); applied.window = String(win);
+      }
+      if (Array.isArray(series)) {
+        const valid = ["ibm", "sp500"];
+        const bad = series.filter(s => !valid.includes(s));
+        if (bad.length) throw new Error(`unknown series ${bad.join(", ")}; valid: ${valid.join(", ")}`);
+        if (!series.length) throw new Error("series cannot be empty — the chart would be blank");
+        valid.forEach(k => {
+          const btn = [...document.querySelectorAll("#spReturnLegend .sp-leg-btn")]
+            .find(x => x.dataset.key === k);
+          if (!btn) return;
+          const on = btn.getAttribute("aria-pressed") === "true";
+          if (on !== series.includes(k)) btn.click();
+        });
+        applied.series = series;
+      }
+      if (cumulative != null) {
+        const t = document.getElementById("spReturnCumToggle");
+        if (t && t.checked !== !!cumulative) { t.checked = !!cumulative; t.dispatchEvent(new Event("change")); }
+        applied.cumulative = !!cumulative;
+      }
+      return { applied, note: (document.getElementById("spReturnNote")?.innerText || "").slice(0, 300) };
+    },
+  },
+
+  set_bond_yield_tenor: {
+    desc: "Set which US Treasury tenor the Macro tab's 'IBM's Cost of Debt vs the Risk-Free Curve' chart compares IBM against.",
+    params: { tenor: { type: "string", desc: "'3m' | '5y' | '10y' | '30y' (or a label like '10-yr note')", required: true } },
+    fn: ({ tenor }) => {
+      window.selectTab("macro");
+      const alias = { "3m": "13-week", "5y": "5-yr", "10y": "10-yr", "30y": "30-yr" };
+      const needle = (alias[String(tenor).toLowerCase()] || String(tenor)).toLowerCase();
+      const btns = [...document.querySelectorAll("#bondYieldRoot .sp-tab-btn")];
+      if (!btns.length) throw new Error("cost-of-debt chart is not on the page");
+      const b = btns.find(x => x.textContent.toLowerCase().includes(needle));
+      if (!b) throw new Error(`no tenor matching '${tenor}'; available: ${btns.map(x=>x.textContent.trim()).join(", ")}`);
+      b.click();
+      const root = document.getElementById("bondYieldRoot");
+      return { tenor: b.textContent.trim(),
+               callouts: [...root.querySelectorAll("div[style*='border-left']")]
+                 .map(d => d.innerText.replace(/\s+/g, " ").trim()).slice(0, 3) };
+    },
+  },
+
+  set_hero_chart_layer: {
+    desc: "Switch the Macro tab's big IBM Stock Performance hero chart to a different layer.",
+    params: { layer: { type: "string", desc: "price | marketCap | dividends | earnings | acquisitions", required: true } },
+    fn: ({ layer }) => {
+      window.selectTab("macro");
+      const b = [...document.querySelectorAll(".mac-hero-layer-btn")].find(x => x.dataset.layer === layer);
+      if (!b) throw new Error(`layer must be one of price, marketCap, dividends, earnings, acquisitions — got '${layer}'`);
+      b.click();
+      return { layer };
+    },
+  },
+
+  set_ma_insight_view: {
+    desc: "Switch the M&A tab's Deal Intelligence panel between its views.",
+    params: { view: { type: "string", desc: "bar (Annual Spend) | scatter (Boldness Map) | alpha (Alpha Leaderboard) | catmix (Category Mix)", required: true } },
+    fn: ({ view }) => {
+      window.selectTab("ma");
+      const b = [...document.querySelectorAll(".ma-ins-tab")].find(x => x.dataset.ins === view);
+      if (!b) {
+        const avail = [...document.querySelectorAll(".ma-ins-tab")].map(x => x.dataset.ins).join(", ");
+        throw new Error(`no M&A view '${view}'; available: ${avail}`);
+      }
+      b.click();
+      return { view, label: b.textContent.trim() };
+    },
+  },
+
+  set_competitor_segment: {
+    desc: "Choose which IBM segment the Competitors tab analyses (peer directory, SWOT, Five Forces, BCG, position map all follow this selection).",
+    params: { segment: { type: "string", desc: "software | consulting | infrastructure", required: true } },
+    fn: ({ segment }) => {
+      window.selectTab("competitors");
+      const b = [...document.querySelectorAll("#segmentSelector .reg-preset-btn")]
+        .find(x => x.dataset.seg === segment);
+      if (!b) throw new Error(`segment must be one of software, consulting, infrastructure — got '${segment}'`);
+      b.click();
+      return { segment, label: b.textContent.trim() };
+    },
+  },
+
   open_ma_era: {
     desc: "Open the M&A tab and pop the deal-list drawer for a CEO era.",
     params: { era: { type: "string", desc: "Pre-Gerstner | Gerstner | Palmisano | Rometty | Krishna", required: true } },
