@@ -6604,20 +6604,35 @@
         // Pass 2 — draw all labels on top of every rect
         segMeta.forEach(({ x, segW, count, col, y }) => {
           const labelStr = String(count);
-          const labelPx  = labelStr.length * 6.2 + 10;
+          // Advance width for 11px IBM Plex Mono at weight 600 (~0.6em/char),
+          // plus padding so a label never touches the segment edge. Must track
+          // the font-size below — it was still calibrated for 9.5px, which
+          // would let labels overflow their segment at the larger size.
+          const labelPx  = labelStr.length * 7.0 + 12;
           const lbl = mk("text");
           if (segW >= labelPx) {
+            // Inside the bar: near-black reads best on every segment colour
+            // here (5.7:1 on the blue/purple, 11.2:1 on the teal).
             lbl.setAttribute("x", x + segW / 2);
             lbl.setAttribute("text-anchor", "middle");
             lbl.setAttribute("fill", "#0f0f14");
           } else {
-            lbl.setAttribute("x", x + segW + 3);
+            // Segment too narrow to hold its own label, so it sits just
+            // outside. This used to be drawn in the SEGMENT's colour at 0.85
+            // opacity — a saturated mid-tone at 85% on the dark page
+            // background, which came out washed out and barely readable next
+            // to the solid inside-labels. Use the page's normal text colour at
+            // full opacity instead; the segment it belongs to is already
+            // identified by position and by the legend.
+            lbl.setAttribute("x", x + segW + 4);
             lbl.setAttribute("text-anchor", "start");
-            lbl.setAttribute("fill", col);
-            lbl.setAttribute("opacity", "0.85");
+            lbl.setAttribute("fill", "var(--ink)");
           }
           lbl.setAttribute("y", y + BAR_H / 2 + 4);
-          lbl.setAttribute("font-size", "9.5");
+          // 9.5px at default weight rendered thin enough to look faint even
+          // where contrast was fine.
+          lbl.setAttribute("font-size", "11");
+          lbl.setAttribute("font-weight", "600");
           lbl.setAttribute("font-family", "IBM Plex Mono, monospace");
           lbl.setAttribute("pointer-events", "none");
           lbl.textContent = labelStr;
