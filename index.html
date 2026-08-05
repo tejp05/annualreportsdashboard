@@ -590,7 +590,22 @@
   <script src="app.js?v=58"></script>
   <script src="regression.js?v=21"></script>
   <script src="agent-tools.js?v=8"></script>
+  <!-- ── watsonx Orchestrate embedded assistant — CURRENTLY DISABLED ──────────
+       Hidden on request, NOT deleted. Everything needed to bring it back is
+       still here and still correct: the orchestration/agent IDs below, the
+       #wxo-root mount point above, orchestrate/openapi.json, and
+       orchestrate/README.md.
+
+       To re-enable permanently: set ORCHESTRATE_ENABLED to true.
+       To try it once without editing code: load the page with ?orchestrate=1
+       (or run localStorage.setItem("ORCHESTRATE_ENABLED","1") and reload).
+
+       While disabled the loader script is never injected, so the page makes no
+       request to cio.watson-orchestrate.ibm.com at all — this removes the
+       widget rather than just hiding it with CSS. -->
   <script>
+    var ORCHESTRATE_ENABLED = false;
+
     window.wxOConfiguration = {
       orchestrationID: "20250306-0917-2112-60db-f92bd41c3fcb_20260611-1501-3141-7055-c87c021da43e",
       hostURL: "https://cio.watson-orchestrate.ibm.com",
@@ -600,10 +615,22 @@
         agentEnvironmentId: "4ca55a7e-7dc9-4355-a3af-45ca2cf74906"
       }
     };
-    var script = document.createElement("script");
-    script.src = window.wxOConfiguration.hostURL + "/wxochat/wxoLoader.js?embed=true";
-    script.addEventListener("load", function () { wxoLoader.init(); });
-    document.head.appendChild(script);
+
+    (function initOrchestrate() {
+      var on = ORCHESTRATE_ENABLED;
+      try {
+        var qs = new URLSearchParams(location.search).get("orchestrate");
+        if (qs === "1") on = true;
+        else if (qs === "0") on = false;
+        else if (localStorage.getItem("ORCHESTRATE_ENABLED") === "1") on = true;
+      } catch (_) { /* private mode / no localStorage — fall back to the constant */ }
+      if (!on) return;
+
+      var script = document.createElement("script");
+      script.src = window.wxOConfiguration.hostURL + "/wxochat/wxoLoader.js?embed=true";
+      script.addEventListener("load", function () { wxoLoader.init(); });
+      document.head.appendChild(script);
+    })();
   </script>
 </body>
 </html>
