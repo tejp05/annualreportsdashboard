@@ -26,7 +26,7 @@ def js_val(v):
 
 lines = [' "ma": {']
 lines.append('  "_comment": "IBM M&A history — auto-extracted from annual report filings and cleaned. '
-             '78 unique deals 1984-2025. All values in US$ millions.",')
+             f'{len(clean["deals"])} unique deals. All values in US$ millions.",')
 lines.append('  "summary": ' + json.dumps(clean["summary"], ensure_ascii=False) + ',')
 lines.append('  "deals": [')
 
@@ -40,9 +40,8 @@ for i, d in enumerate(clean["deals"]):
     lines.append("   }" + comma)
 
 lines.append("  ]")
-lines.append(" }")
-
-new_block = "\n".join(lines)
+# NOTE: the closing brace is appended later, once we know whether the block we
+# are replacing was followed by a comma (i.e. more keys follow it in data.js).
 
 # Read data.js and locate the ma block
 src = DATA_JS.read_text(encoding="utf-8")
@@ -62,23 +61,28 @@ if ma_start_line is None:
     print("ERROR: could not find ma block start")
     exit(1)
 
-# From ma_start, find annualSummary section and its closing brace
-for i in range(ma_start_line, len(src_lines)):
-    if '"annualSummary"' in src_lines[i]:
-        # Walk forward to find the closing }, of the entire ma block
-        depth = 0
-        for j in range(ma_start_line, len(src_lines)):
-            for ch in src_lines[j]:
-                if ch == '{': depth += 1
-                if ch == '}': depth -= 1
-            if depth == 0 and j > ma_start_line:
-                ma_end_line = j
-                break
+# Walk forward from the block start and brace-match to find its close.
+# This used to be gated on first finding an "annualSummary" key inside the
+# block, but the block written below has no such key -- so once this script
+# had run once, every later run failed with "could not find ma block end".
+depth = 0
+for j in range(ma_start_line, len(src_lines)):
+    for ch in src_lines[j]:
+        if ch == '{': depth += 1
+        if ch == '}': depth -= 1
+    if depth == 0 and j > ma_start_line:
+        ma_end_line = j
         break
 
 if ma_end_line is None:
     print("ERROR: could not find ma block end")
     exit(1)
+
+# Close the block with the same punctuation the original had: "}," when more
+# keys follow it in data.js (maPerformance does), plain "}" when it is last.
+# Emitting a bare "}" unconditionally produced invalid JS on the next key.
+lines.append(" }," if src_lines[ma_end_line].rstrip().endswith(",") else " }")
+new_block = "\n".join(lines)
 
 print(f"Replacing lines {ma_start_line+1}–{ma_end_line+1} in data.js")
 print(f"Old block: {ma_end_line - ma_start_line + 1} lines")

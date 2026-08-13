@@ -242,14 +242,21 @@ def main():
     for cd in curated_deals:
         norm = normalise_name(cd["name"]).lower()
         fw   = first_word(cd["name"])
-        # If a clean deal already has the same first word, just patch the value
+        # If a clean deal already has the same first word, just patch the value.
+        # Only fold in when both records are the same kind of transaction: the
+        # first-word key collides on generic leading words, so without this the
+        # divestiture "The Service Bureau Corporation → Control Data" would be
+        # silently folded into the acquisition "The Weather Company", and both
+        # "ROLM …→ Loral" and "ROLM …→ Siemens" into "ROLM Corporation".
+        # A cross-type collision falls through and is appended as its own deal.
         if norm not in existing_names and fw in first_word_map:
             idx = first_word_map[fw]
-            if not clean_deals[idx]["valueMillions"] and cd.get("valueMillions"):
-                clean_deals[idx]["valueMillions"] = cd["valueMillions"]
-                clean_deals[idx]["description"]   = clean_deals[idx]["description"] or cd.get("description")
-                clean_deals[idx]["closeDate"]      = clean_deals[idx]["closeDate"] or cd.get("closeDate")
-            continue
+            if clean_deals[idx].get("type") == cd["type"]:
+                if not clean_deals[idx]["valueMillions"] and cd.get("valueMillions"):
+                    clean_deals[idx]["valueMillions"] = cd["valueMillions"]
+                    clean_deals[idx]["description"]   = clean_deals[idx]["description"] or cd.get("description")
+                    clean_deals[idx]["closeDate"]      = clean_deals[idx]["closeDate"] or cd.get("closeDate")
+                continue
         if norm not in existing_names:
             clean_deals.append({
                 "year":          cd["year"],

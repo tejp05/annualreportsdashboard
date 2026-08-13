@@ -6089,11 +6089,38 @@
     let activeCategory = "all";
     let activeVal      = "valued";   // "all" | "valued" | "unvalued"
 
+    // Single source of truth for the All/Acquisitions/Divestitures filter, shared
+    // by the swimlane and by the "Show:" counts below it.
+    const inTypeFilter = d => {
+      if (activeFilter === "acquisition") return d.type === "acquisition";
+      if (activeFilter === "divestiture") return d.type !== "acquisition";
+      return true;
+    };
+
+    // The "Show:" counts describe what the swimlane can currently draw, so they
+    // have to follow the filter above them. They used to be baked into the markup
+    // once, over the whole deal list, and drifted as soon as that filter moved:
+    // "All 120 deals" while the chart drew 43. Harmless back when there were two
+    // exits to filter down to; badly wrong at 43.
+    function syncValButtonLabels() {
+      const scope  = deals.filter(inTypeFilter);
+      const valued = scope.filter(d => d.valueMillions).length;
+      const text   = {
+        all:      `All ${scope.length} deals`,
+        valued:   `With $ value (${valued})`,
+        unvalued: `No $ value (${scope.length - valued})`,
+      };
+      document.querySelectorAll(".ma-val-btn").forEach(b => {
+        if (text[b.dataset.val]) b.textContent = text[b.dataset.val];
+      });
+    }
+
     document.querySelectorAll(".ma-filter-btn").forEach(btn => {
       btn.addEventListener("click", () => {
         document.querySelectorAll(".ma-filter-btn").forEach(b => b.classList.remove("active"));
         btn.classList.add("active");
         activeFilter = btn.dataset.filter;
+        syncValButtonLabels();
         drawSwimlane();
       });
     });
@@ -6138,8 +6165,7 @@
       const COL_TOP = ERA_H + 14;   // y of the top chip's top edge
 
       const filtered = deals.filter(d => {
-        if (activeFilter === "acquisition" && d.type !== "acquisition") return false;
-        if (activeFilter === "divestiture" && d.type === "acquisition") return false;
+        if (!inTypeFilter(d)) return false;
         if (activeVal === "valued"   && !d.valueMillions) return false;
         if (activeVal === "unvalued" &&  d.valueMillions) return false;
         return true;
@@ -6663,6 +6689,7 @@
       });
     }
 
+    syncValButtonLabels();
     drawSwimlane();
     drawCumulLine();
     drawAnnualBar();

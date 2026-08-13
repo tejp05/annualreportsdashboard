@@ -92,7 +92,14 @@ def main():
     src = DATA_JS.read_text(encoding="utf-8")
     m = re.search(r"window\.IBM_DATA\s*=\s*", src)
     data = json.loads(src[m.end():].rstrip().rstrip(";"))
-    deals = [d for d in data["ma"]["deals"] if d.get("closeDate")]
+    # Acquisitions only. The alpha window (t-6mo -> t+18mo vs benchmark) answers
+    # "did buying this create value", which does not transfer to an exit: for a
+    # sale the causal story runs the other way, and the window mostly captures
+    # IBM's own drift. Building series for divestitures would put dozens of
+    # mislabelled rows on the leaderboard -- and several exits close before the
+    # price data starts in 1984-05, so they would score as empty rows anyway.
+    deals = [d for d in data["ma"]["deals"]
+             if d.get("closeDate") and d.get("type") == "acquisition"]
 
     today = date.today()
     out_deals = []

@@ -325,6 +325,14 @@ function getRows() {
   const maSpend = {}, maCount = {};
   ((D.ma && D.ma.deals) || []).forEach(d => {
     if (d.year == null) return;
+    // Skip the maTabOnly exits: the divestiture backfill is flagged that way,
+    // and a sale's proceeds are not M&A spend -- folding them in would inflate
+    // the very series the spend-vs-revenue slope is built on. The type carve-out
+    // matters: maTabOnly also tags real acquisitions (Confluent) that belong in
+    // the spend series. Note this deliberately leaves the older un-flagged exits
+    // (PC Division, Kyndryl) counted, so these regressions stay identical to
+    // what they showed before the backfill; correcting those is a separate call.
+    if (d.maTabOnly && d.type !== "acquisition") return;
     maCount[d.year] = (maCount[d.year] || 0) + 1;
     if (d.valueMillions != null) maSpend[d.year] = (maSpend[d.year] || 0) + d.valueMillions;
   });
