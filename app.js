@@ -7675,7 +7675,7 @@
         if (ev == null || gr == null) return;
         datasets.push({
           label: label,
-          data: [{ x: ev, y: +(gr * 100).toFixed(1) }],
+          data: [{ x: +(gr * 100).toFixed(1), y: ev }],
           backgroundColor: competitorColors[key] || "#9a9aa7",
           borderColor: key === "IBM" ? "#fff" : (competitorColors[key] || "#9a9aa7"),
           borderWidth: key === "IBM" ? 2 : 1,
@@ -7711,8 +7711,8 @@
                 title: function(items) { return items[0].dataset.label; },
                 label: function(item) {
                   return [
-                    "EV/EBITDA: " + item.parsed.x.toFixed(1) + "x",
-                    "Rev Growth (YoY): " + item.parsed.y.toFixed(1) + "%"
+                    "EV/EBITDA: " + item.parsed.y.toFixed(1) + "x",
+                    "Rev Growth (YoY): " + item.parsed.x.toFixed(1) + "%"
                   ];
                 }
               }
@@ -7724,18 +7724,18 @@
               border: { color: "#2a2a36" },
               ticks: {
                 color: "#6c6c78", font: { size: 11 },
-                callback: function(v) { return v + "x"; }
+                callback: function(v) { return v + "%"; }
               },
-              title: { display: true, text: "EV / EBITDA Multiple (x)", color: "#6c6c78", font: { size: 11 } }
+              title: { display: true, text: "Revenue Growth Y/Y (%)", color: "#6c6c78", font: { size: 11 } }
             },
             y: {
               grid: { color: "#2a2a36" },
               border: { color: "#2a2a36" },
               ticks: {
                 color: "#6c6c78", font: { size: 11 },
-                callback: function(v) { return v + "%"; }
+                callback: function(v) { return v + "x"; }
               },
-              title: { display: true, text: "Revenue Growth Y/Y (%)", color: "#6c6c78", font: { size: 11 } }
+              title: { display: true, text: "EV / EBITDA Multiple (x)", color: "#6c6c78", font: { size: 11 } }
             }
           }
         },
